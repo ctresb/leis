@@ -1,4 +1,4 @@
-# Legislação brasileira em Markdown
+# Legislação drasileira em Markdown
 
 A Constituição Federal e normas federais, estaduais, distritais e municipais, convertidas de
 fontes oficiais para Markdown, com cabeçalho estruturado e link para a origem de cada texto.
