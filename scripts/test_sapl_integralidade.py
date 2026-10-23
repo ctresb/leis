@@ -5,7 +5,7 @@ import hashlib
 import json
 import tempfile
 
-from baixar_organicas_sapl import categoria_norma, corpo_integral_reconhecivel, motivo_retencao
+from baixar_organicas_sapl import categoria_norma, corpo_integral_reconhecivel, data_diverge_do_ano, motivo_retencao
 from comum import documento_para_md
 
 
@@ -25,6 +25,16 @@ class IntegralidadeSAPLTest(unittest.TestCase):
             self.assertEqual(motivo_retencao(cache, 1, bruto), 'rever separação')
             self.assertIsNone(motivo_retencao(cache, 1, b'novos bytes oficiais'))
             self.assertIsNone(motivo_retencao(cache, 2, bruto))
+
+    def test_data_do_cadastro_de_outro_ano_e_retida(self):
+        # Campinas, Lei 11.551: data "2000-03-05" no cadastro, ano 2003, publicada em 2003-05-13
+        self.assertTrue(data_diverge_do_ano({'data': '2000-03-05', 'ano': 2003, 'data_publicacao': '2003-05-13'}))
+        self.assertFalse(data_diverge_do_ano({'data': '2003-05-12', 'ano': 2003, 'data_publicacao': '2003-05-13'}))
+        # lei de fim de ano publicada no ano seguinte não é erro
+        self.assertFalse(data_diverge_do_ano({'data': '2002-12-30', 'ano': 2002, 'data_publicacao': '2003-01-02'}))
+        # sem publicação para confirmar, não há como saber qual campo está errado
+        self.assertFalse(data_diverge_do_ano({'data': '2002-03-14', 'ano': 2003, 'data_publicacao': None}))
+        self.assertFalse(data_diverge_do_ano({'data': '', 'ano': 1990}))
 
     def test_promulgacao_em_terceira_pessoa_sem_adivinhar_artigo_um(self):
         base = 'EMENDA À LEI ORGÂNICA\nA Mesa PROMULGA a seguinte emenda.\nArt. 29. ' + 'Disposição material. ' * 40 + '\nArt. 2º Esta Emenda entra em vigor na data de publicação.'
