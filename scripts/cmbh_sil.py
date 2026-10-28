@@ -850,7 +850,8 @@ def achar_teto_numeracao(rede, ancora, ano_ancora, ano_max):
 
 
 def materializar_leis_ordinarias(ano_min=2024, ano_max=2026, teto=500, teto_duro=1000,
-                                 ancora=12000, ano_ancora=2026, so_mapear=False, rede=None):
+                                 ancora=12000, ano_ancora=2026, so_mapear=False, rede=None,
+                                 inicio=None):
     """Janela recente de leis ordinárias promulgadas, nº a nº (listagem anual do SIL é vazia)."""
     if teto > teto_duro:
         teto = teto_duro
@@ -861,13 +862,24 @@ def materializar_leis_ordinarias(ano_min=2024, ano_max=2026, teto=500, teto_duro
     ritmo_path = pasta_fonte / "_ritmo.json"
     rede = rede or Rede(rps=3, headers={"Referer": CATALOGO_PAGINA})
 
-    a0, f0 = pesquisar_lei(rede, ancora, [ano_ancora, ano_ancora - 1, ano_ancora + 1])
-    if not f0:
-        raise RuntimeError(f"âncora Lei {ancora}/{ano_ancora} não encontrada no SIL")
-    print("ancora", ancora, a0, f0.get("promulgacao"), f0["titulo"], flush=True)
-
-    ultimo_n, ultimo_ano, _ = achar_teto_numeracao(rede, ancora, a0, ano_max)
-    print("ultimo", ultimo_n, ultimo_ano, flush=True)
+    if inicio is not None:
+        ultimo_n = int(inicio)
+        candidatos = anos_candidatos(ano_min, ano_min, ano_max)
+        a0, f0 = pesquisar_lei(rede, ultimo_n, candidatos)
+        if f0:
+            ultimo_ano = ano_sil(f0, ultimo_n, a0)
+            print("retoma", ultimo_n, ultimo_ano, f0.get("promulgacao"), f0["titulo"], flush=True)
+        else:
+            ultimo_ano = ano_min
+            a0, f0 = ultimo_ano, {"promulgacao": None, "titulo": None}
+            print("retoma sem ficha em", ultimo_n, "ano_corrente", ultimo_ano, flush=True)
+    else:
+        a0, f0 = pesquisar_lei(rede, ancora, [ano_ancora, ano_ancora - 1, ano_ancora + 1])
+        if not f0:
+            raise RuntimeError(f"âncora Lei {ancora}/{ano_ancora} não encontrada no SIL")
+        print("ancora", ancora, a0, f0.get("promulgacao"), f0["titulo"], flush=True)
+        ultimo_n, ultimo_ano, _ = achar_teto_numeracao(rede, ancora, a0, ano_max)
+        print("ultimo", ultimo_n, ultimo_ano, flush=True)
 
     por_ano = {str(y): {"primeiro": None, "ultimo": None, "hits": 0, "promulgadas": 0,
                         "ausentes": 0, "sem_promulgacao": 0, "falhas": 0} for y in range(ano_min, ano_max + 1)}
@@ -1156,6 +1168,7 @@ def main(argv=None):
     ap.add_argument("--teto", type=int, default=500)
     ap.add_argument("--teto-duro", type=int, default=1000)
     ap.add_argument("--ancora", default="12000/2026")
+    ap.add_argument("--inicio", type=int, help="retoma a descida neste número (inclusive)")
     ap.add_argument("--so-mapear", action="store_true")
     a = ap.parse_args(argv)
     if a.modo == "emendas":
@@ -1167,7 +1180,8 @@ def main(argv=None):
         ap.error("--teto deve ficar entre 1 e --teto-duro")
     ritmo = materializar_leis_ordinarias(
         ano_min=ano_min, ano_max=ano_max, teto=a.teto, teto_duro=a.teto_duro,
-        ancora=int(num), ano_ancora=int(ano), so_mapear=a.so_mapear)
+        ancora=int(num), ano_ancora=int(ano), so_mapear=a.so_mapear,
+        inicio=a.inicio)
     print(json.dumps(ritmo, ensure_ascii=False), flush=True)
 
 
