@@ -2,7 +2,7 @@
 import unittest
 
 from baixar_organicas_sapl import (
-    html_sem_imagens, https_mesmo_host, texto_integral_alternativo, tipo_selecionado,
+    esfera_municipal, html_sem_imagens, https_mesmo_host, texto_integral_alternativo, tipo_selecionado,
 )
 
 
@@ -41,6 +41,21 @@ class FiltrosSAPLTest(unittest.TestCase):
         self.assertFalse(tipo_selecionado("Lei Orgânica", "organicas", ["emendas-lei-organica"]))
         self.assertTrue(tipo_selecionado("Lei Orgânica", "organicas", None))
         self.assertFalse(tipo_selecionado("Decreto municipal", "organicas", None))
+
+    def test_anti_sirel_so_lei_complementar_municipal(self):
+        cats = ["leis-complementares"]
+        self.assertTrue(esfera_municipal("Lei Complementar municipal"))
+        self.assertFalse(esfera_municipal("Lei complementar estadual"))
+        self.assertFalse(esfera_municipal("Lei Complementar federal Sirel"))
+        self.assertTrue(tipo_selecionado("Lei Complementar municipal", "legislacao", cats))
+        self.assertTrue(tipo_selecionado("Lei complementar", "legislacao", cats))
+        self.assertFalse(tipo_selecionado("Lei complementar estadual", "legislacao", cats))
+        self.assertFalse(tipo_selecionado("Lei Complementar federal Sirel", "legislacao", cats))
+        self.assertFalse(tipo_selecionado("Lei estadual Sirel", "legislacao", cats))
+        self.assertFalse(tipo_selecionado("Lei federal Sirel", "legislacao", cats))
+        self.assertFalse(tipo_selecionado("Lei complementar estadual", "legislacao", None))
+        self.assertFalse(tipo_selecionado("Decreto federal", "legislacao", ["decretos"]))
+        self.assertTrue(tipo_selecionado("Decreto municipal", "legislacao", ["decretos"]))
 
 
 if __name__ == "__main__":

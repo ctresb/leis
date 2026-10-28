@@ -142,7 +142,15 @@ def motivo_retencao(cache, identificador, bruto):
     return None
 
 
+def esfera_municipal(descricao):
+    """Recusa tipos Sirel/federal/estadual misturados em catálogos municipais."""
+    tokens = set(normalizar_chave(descricao).split())
+    return not tokens.intersection({"sirel", "federal", "estadual"})
+
+
 def tipo_selecionado(descricao, modo, categorias):
+    if not esfera_municipal(descricao):
+        return False
     cat = categoria_norma(descricao)
     if not cat:
         return False
@@ -199,6 +207,11 @@ def executar(fontes, rps, modo="organicas", max_documentos=0, categorias=None, a
                 if not d["pagination"].get("next_page"):
                     break
                 page += 1
+            excluidos_esfera = [{"id": t["id"], "sigla": t.get("sigla"), "descricao": t["descricao"]}
+                                for t in tipos_reais if not esfera_municipal(t["descricao"])]
+            print(host, "tipos municipais", [(t["id"], t.get("sigla"), t["descricao"]) for t in tipos], flush=True)
+            print(host, "excluídos sirel/federal/estadual",
+                  [(t["id"], t.get("sigla"), t["descricao"]) for t in excluidos_esfera], flush=True)
             ok = pulado = 0
             indice = []
             eq_path = cache / "equivalencias.json"
@@ -322,13 +335,14 @@ def executar(fontes, rps, modo="organicas", max_documentos=0, categorias=None, a
                     page += 1
             escrever(cache / ("indice.json" if modo == "organicas" else "indice-legislacao.json"), json.dumps({"fonte": f"https://{host}/api/norma/normajuridica/",
                      "municipio": nome, "uf": uf, "codigo_ibge": codigo, "modo": modo, "tipos_reais": tipos_reais, "tipos": tipos,
+                     "tipos_excluidos_esfera": excluidos_esfera, "filtro_esfera": "municipal",
                      "normas": indice, "consultado_em": dt.date.today().isoformat()}, ensure_ascii=False).encode())
             presentes = {n["id"] for n in indice if "https://" + host + "/norma/" + str(n["id"]) in fontes_md}
             registro = json.loads(registro_path.read_text())
             estado_indice = ("índice filtrado capturado" if categorias or ano_minimo
                              else "índice de tipos normativos completo capturado")
             registro[str(codigo)]["fontes"][host].setdefault(modo, {}).update({"estado": estado_indice, "limite_textos": max_documentos,
-                "filtro_categorias": list(categorias or []), "ano_minimo": ano_minimo,
+                "filtro_categorias": list(categorias or []), "filtro_esfera": "municipal", "ano_minimo": ano_minimo,
                 "registros": len(indice), "textos_md": len(presentes), "ids_equivalentes": list(equivalencias), "ids_sem_md": [n["id"] for n in indice if n["id"] not in presentes and str(n["id"]) not in equivalencias], "normas_distintas": len({(n["tipo"], n["numero"], n["ano"]) for n in indice}),
                 "leis_organicas_distintas": len({(n["numero"], n["ano"]) for n in indice if not
                     any(t["id"] == n["tipo"] and "emenda" in t["descricao"].lower() for t in tipos)}),
