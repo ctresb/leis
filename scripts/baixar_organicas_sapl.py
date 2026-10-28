@@ -87,7 +87,7 @@ def escrever(p, b):
 
 
 def corpo_integral_reconhecivel(corpo, emenda=False):
-    if re.search(r"art(?:igo)?\.?\s*1(?:[º°o]|\b)", corpo, re.I):
+    if re.search(r"art(?:igo)?\.?\s*1(?:[º°o]|\b)|art(?:igo|\.)\s*[úu]nico", corpo, re.I):
         return True
     # Algumas emendas transcrevem primeiro o artigo que alteram; o próprio ato
     # usa PROMULGA/PROMULGAM e traz sua cláusula de vigência, sem um Art. 1º.
@@ -107,7 +107,40 @@ def motivo_retencao(cache, identificador, bruto):
     return None
 
 
-def executar(fontes, rps, modo="organicas", max_documentos=0):
+CARIMBO_CAMPINAS = [
+    re.compile(r"(?:CÂMARA MUNICIPAL DE CAMPINAS Estado de São Paulo )?Diretoria de Gestão Documental Coordenadoria de Biblioteca "
+               r"\S+@campinas\.sp\.leg\.br(?: –| -)? ?(?:Ramal:? ?\d+)?"),
+    re.compile(r"Avenida da Saudade, nº 1\.004 – Ponte Preta – CEP: 13041-670 – Campinas – SP – PABX: \(19\) 3736-1300\.?(?: www\.campinas\.sp\.leg\.br)?"),
+]
+# a fonte tem erros de grafia nesta linha ("Municipio", "Municípo", "Campina"); a data também varia ("1º de outubro", "novembrode")
+AVISO_NAO_SUBSTITUI_CAMPINAS = re.compile(
+    r"Texto somente para consulta\. Não substitui o publicado no Diário Oficial do Munic\w+(?: de Campinas?)? em \d{1,2}º? de \w+ ?de \d{4}")
+AVISO_REPRODUZIDO_CAMPINAS = re.compile(
+    r"Texto para consulta, reproduzido conforme a publicação no Diário Oficial do Município em \d{1,2}º? de \w+ ?de \d{4}")
+SUPLEMENTO_CAMPINAS = re.compile(r"TABELAS? [^.\n]{0,80}PUBLICADAS? EM SUPLEMENTO", re.I)
+
+
+def limpar_carimbo_campinas(corpo):
+    """Remove só a capa e o rodapé da biblioteca da Câmara (parágrafo inteiro, correspondência exata).
+
+    Retorna (corpo, notas): o aviso da cópia de consulta e os anexos em suplemento vão para `versao_texto`.
+    """
+    mantidos, notas = [], []
+    for par in corpo.split("\n\n"):
+        plano = re.sub(r"\s+", " ", par).strip()
+        if AVISO_NAO_SUBSTITUI_CAMPINAS.fullmatch(plano):
+            notas.append("cópia de consulta da Câmara, não substitui o Diário Oficial do Município")
+        elif AVISO_REPRODUZIDO_CAMPINAS.fullmatch(plano):
+            notas.append("cópia de consulta da Câmara, reproduzida conforme a publicação no Diário Oficial do Município")
+        elif not any(r.fullmatch(plano) for r in CARIMBO_CAMPINAS):
+            mantidos.append(par)
+    corpo = "\n\n".join(mantidos)
+    if SUPLEMENTO_CAMPINAS.search(corpo):
+        notas.append("tabelas e anexos publicados em suplemento, ausentes do texto integral")
+    return corpo, notas
+
+
+def executar(fontes, rps, modo="organicas", max_documentos=0, ano_filtro=None, siglas=()):
     ibge = json.loads((RAIZ / "_indice/ibge-municipios.json").read_text())
     registro_path = RAIZ / "_indice/organicas-sapl/municipios.json"
     registro = json.loads(registro_path.read_text()) if registro_path.exists() else {
@@ -153,7 +186,8 @@ def executar(fontes, rps, modo="organicas", max_documentos=0):
                 tipos_reais.extend(d["results"])
                 tipos += [t for t in d["results"] if categoria_norma(t["descricao"]) and
                           (modo == "legislacao" or categoria_norma(t["descricao"])[0] in
-                           ("lei-organica", "emendas-lei-organica"))]
+                           ("lei-organica", "emendas-lei-organica"))
+                          and (not siglas or t["sigla"] in siglas)]
                 if not d["pagination"].get("next_page"):
                     break
                 page += 1
@@ -177,7 +211,7 @@ def executar(fontes, rps, modo="organicas", max_documentos=0):
                 page = 1
                 vistos = set()
                 while True:
-                    d = api(f"norma/normajuridica/?tipo={tipo['id']}&page_size=100&page={page}")
+                    d = api(f"norma/normajuridica/?tipo={tipo['id']}&page_size=100&page={page}" + (f"&ano={ano_filtro}" if ano_filtro else ""))
                     if any(n["tipo"] != tipo["id"] for n in d["results"]):
                         raise RuntimeError("API ignorou o filtro de tipo; índice não confiável")
                     vistos.update(n["id"] for n in d["results"])
@@ -205,6 +239,9 @@ def executar(fontes, rps, modo="organicas", max_documentos=0):
                             corpo, motivo = documento_para_md(b, url)
                             if motivo:
                                 raise RuntimeError(motivo)
+                            notas_texto = []
+                            if host == "sapl.campinas.sp.leg.br":
+                                corpo, notas_texto = limpar_carimbo_campinas(corpo)
                             granularidade = alertas_multiplos_atos(corpo, tipo["descricao"], n["numero"])
                             outras_publicacoes = alertas_outras_publicacoes(corpo)
                             if outras_publicacoes:
@@ -243,7 +280,7 @@ def executar(fontes, rps, modo="organicas", max_documentos=0):
                             titulo = n["__str__"]
                             meta = {"titulo": titulo, "tipo": tipo_canonico, "tipo_na_fonte": tipo["descricao"],
                                     "numero": numero, "data": data, "municipio": nome, "uf": uf,
-                                    "codigo_ibge": str(codigo), "versao_texto": "texto integral anexado no SAPL municipal; " + n.get("observacao", ""),
+                                    "codigo_ibge": str(codigo), "versao_texto": "; ".join(filter(None, ["texto integral anexado no SAPL municipal", n.get("observacao", "").strip(), *notas_texto])) if notas_texto else "texto integral anexado no SAPL municipal; " + n.get("observacao", ""),
                                     "fonte": identity, "fonte_texto": url,
                                     "sha256_fonte": hashlib.sha256(b).hexdigest(), "sha256_texto": digest,
                                     "baixado_em": dt.date.today().isoformat()}
@@ -270,10 +307,18 @@ def executar(fontes, rps, modo="organicas", max_documentos=0):
                             raise RuntimeError("contagem do índice diverge do total oficial")
                         break
                     page += 1
-            escrever(cache / ("indice.json" if modo == "organicas" else "indice-legislacao.json"), json.dumps({"fonte": f"https://{host}/api/norma/normajuridica/",
+            parcial = bool(ano_filtro or siglas)
+            nome_indice = "indice.json" if modo == "organicas" else "indice-legislacao.json"
+            if parcial:
+                nome_indice = f"indice-legislacao-parcial-{'-'.join(sorted(siglas)) or 'todos'}-{ano_filtro or 'todos'}.json"
+            escrever(cache / nome_indice, json.dumps({"fonte": f"https://{host}/api/norma/normajuridica/",
                      "municipio": nome, "uf": uf, "codigo_ibge": codigo, "modo": modo, "tipos_reais": tipos_reais, "tipos": tipos,
                      "normas": indice, "consultado_em": dt.date.today().isoformat()}, ensure_ascii=False).encode())
             presentes = {n["id"] for n in indice if "https://" + host + "/norma/" + str(n["id"]) in fontes_md}
+            if parcial:
+                print(host, "IBGE", codigo, "PARCIAL", f"ano={ano_filtro or 'todos'} siglas={','.join(sorted(siglas)) or 'todas'}",
+                      "novos", ok, "já existentes", pulado, "índice", len(indice), "com md", len(presentes), flush=True)
+                continue
             registro = json.loads(registro_path.read_text())
             registro[str(codigo)]["fontes"][host].setdefault(modo, {}).update({"estado": "índice de tipos normativos completo capturado", "limite_textos": max_documentos,
                 "registros": len(indice), "textos_md": len(presentes), "ids_equivalentes": list(equivalencias), "ids_sem_md": [n["id"] for n in indice if n["id"] not in presentes and str(n["id"]) not in equivalencias], "normas_distintas": len({(n["tipo"], n["numero"], n["ano"]) for n in indice}),
@@ -339,6 +384,8 @@ if __name__ == "__main__":
     ap.add_argument("--modo", choices=["organicas", "legislacao"], default="organicas")
     ap.add_argument("--max-documentos", type=int, default=0, help="limita novas conversões; índice permanece completo")
     ap.add_argument("--host", help="reexecuta uma fonte já identificada")
+    ap.add_argument("--ano", type=int, help="processa só as normas deste ano (coleta em frações; não atualiza o registro de índice completo)")
+    ap.add_argument("--siglas", default="", help="siglas de tipo do SAPL separadas por vírgula, p.ex. LEI,LC")
     ap.add_argument("--descobrir", metavar="HOST", help="valida um SAPL oficial e registra sua identidade IBGE")
     a = ap.parse_args()
     if a.max_documentos < 0:
@@ -369,4 +416,4 @@ if __name__ == "__main__":
     fontes = list(dict.fromkeys(fontes))
     if a.host and not any(f[2] == a.host for f in fontes):
         ap.error("host não identificado; use --descobrir")
-    raise SystemExit(executar([f for f in fontes if not a.host or f[2] == a.host], a.rps, a.modo, a.max_documentos))
+    raise SystemExit(executar([f for f in fontes if not a.host or f[2] == a.host], a.rps, a.modo, a.max_documentos, a.ano, tuple(x for x in a.siglas.split(',') if x)))
