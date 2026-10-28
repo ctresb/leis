@@ -9,7 +9,7 @@ from pathlib import Path
 from urllib.parse import urlsplit
 import sys
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from comum import Rede, documento_para_md, normalizar_chave, yaml_str
+from comum import Rede, decodificar, documento_para_md, normalizar_chave, yaml_str
 from granularidade_sapl import alertas_multiplos_atos, alertas_outras_publicacoes
 
 RAIZ = Path(__file__).resolve().parent.parent / "municipais"
@@ -51,6 +51,41 @@ def salvar_registro(caminho, registro, codigo, host, modo=None):
         if modo is not None:
             destino.setdefault(modo, {}).update(recebido.get(modo, {}))
         escrever(caminho, json.dumps(atual, ensure_ascii=False).encode())
+
+
+def https_mesmo_host(url, host):
+    partes = urlsplit(url)
+    if partes.hostname != host:
+        return url
+    return "https://" + host + partes.path + (("?" + partes.query) if partes.query else "")
+
+
+def texto_integral_alternativo(observacao, host):
+    """Um único arquivo oficial no mesmo host, apontado no campo observação do SAPL."""
+    hrefs = re.findall(r"""href=["'](https?://[^"']+)["']""", observacao or "", re.I)
+    oficiais = []
+    for href in hrefs:
+        partes = urlsplit(href)
+        if partes.hostname != host:
+            continue
+        if not partes.path.lower().endswith((".html", ".htm", ".pdf", ".doc", ".docx", ".rtf", ".odt")):
+            continue
+        oficiais.append(https_mesmo_host(href, host))
+    unicos = list(dict.fromkeys(oficiais))
+    return unicos[0] if len(unicos) == 1 else None
+
+
+def html_sem_imagens(html):
+    return re.sub(r"<img\b[^>]*>", "", html, flags=re.I)
+
+
+def corpo_de_fonte(bruto, url, content_type=""):
+    """Converte o anexo oficial; logotipos em HTML do SIREL não são texto da norma."""
+    cabeca = bruto.lstrip()[:15].lower()
+    if url.lower().endswith((".html", ".htm")) or cabeca.startswith(b"<html") or cabeca.startswith(b"<!doctype"):
+        html = html_sem_imagens(decodificar(bruto, content_type))
+        return documento_para_md(html.encode("utf-8"), url, "text/html; charset=utf-8")
+    return documento_para_md(bruto, url, content_type)
 
 
 def categoria_norma(tipo, norma=None):
@@ -107,7 +142,16 @@ def motivo_retencao(cache, identificador, bruto):
     return None
 
 
-def executar(fontes, rps, modo="organicas", max_documentos=0):
+def tipo_selecionado(descricao, modo, categorias):
+    cat = categoria_norma(descricao)
+    if not cat:
+        return False
+    if categorias:
+        return cat[0] in categorias
+    return modo == "legislacao" or cat[0] in ("lei-organica", "emendas-lei-organica")
+
+
+def executar(fontes, rps, modo="organicas", max_documentos=0, categorias=None, ano_minimo=0):
     ibge = json.loads((RAIZ / "_indice/ibge-municipios.json").read_text())
     registro_path = RAIZ / "_indice/organicas-sapl/municipios.json"
     registro = json.loads(registro_path.read_text()) if registro_path.exists() else {
@@ -151,9 +195,7 @@ def executar(fontes, rps, modo="organicas", max_documentos=0):
             while True:
                 d = api(f"norma/tiponormajuridica/?page_size=100&page={page}")
                 tipos_reais.extend(d["results"])
-                tipos += [t for t in d["results"] if categoria_norma(t["descricao"]) and
-                          (modo == "legislacao" or categoria_norma(t["descricao"])[0] in
-                           ("lei-organica", "emendas-lei-organica"))]
+                tipos += [t for t in d["results"] if tipo_selecionado(t["descricao"], modo, categorias)]
                 if not d["pagination"].get("next_page"):
                     break
                 page += 1
@@ -190,19 +232,27 @@ def executar(fontes, rps, modo="organicas", max_documentos=0):
                             if identity in fontes_md:
                                 pulado += 1
                                 continue
+                            ano_norma = n.get("ano") or 0
+                            try:
+                                ano_norma = int(ano_norma)
+                            except (TypeError, ValueError):
+                                ano_norma = 0
+                            if ano_minimo and ano_norma < ano_minimo:
+                                pulado += 1
+                                continue
                             if max_documentos and ok >= max_documentos:
                                 continue
-                            url = n.get("texto_integral")
+                            url = n.get("texto_integral") or texto_integral_alternativo(n.get("observacao") or "", host)
                             if not url:
                                 raise RuntimeError("norma sem texto integral")
                             if urlsplit(url).hostname == host:
-                                url = "https://" + url.split("://", 1)[1]
+                                url = https_mesmo_host(url, host)
                             fonte = RAIZ / "_fonte/organicas-sapl" / host / f"{n['id']}.bin"
                             b = obter(url, fonte)
                             retencao = motivo_retencao(cache, n["id"], b)
                             if retencao:
                                 raise RuntimeError("fonte retida para revisão de integralidade: " + retencao)
-                            corpo, motivo = documento_para_md(b, url)
+                            corpo, motivo = corpo_de_fonte(b, url)
                             if motivo:
                                 raise RuntimeError(motivo)
                             granularidade = alertas_multiplos_atos(corpo, tipo["descricao"], n["numero"])
@@ -275,7 +325,10 @@ def executar(fontes, rps, modo="organicas", max_documentos=0):
                      "normas": indice, "consultado_em": dt.date.today().isoformat()}, ensure_ascii=False).encode())
             presentes = {n["id"] for n in indice if "https://" + host + "/norma/" + str(n["id"]) in fontes_md}
             registro = json.loads(registro_path.read_text())
-            registro[str(codigo)]["fontes"][host].setdefault(modo, {}).update({"estado": "índice de tipos normativos completo capturado", "limite_textos": max_documentos,
+            estado_indice = ("índice filtrado capturado" if categorias or ano_minimo
+                             else "índice de tipos normativos completo capturado")
+            registro[str(codigo)]["fontes"][host].setdefault(modo, {}).update({"estado": estado_indice, "limite_textos": max_documentos,
+                "filtro_categorias": list(categorias or []), "ano_minimo": ano_minimo,
                 "registros": len(indice), "textos_md": len(presentes), "ids_equivalentes": list(equivalencias), "ids_sem_md": [n["id"] for n in indice if n["id"] not in presentes and str(n["id"]) not in equivalencias], "normas_distintas": len({(n["tipo"], n["numero"], n["ano"]) for n in indice}),
                 "leis_organicas_distintas": len({(n["numero"], n["ano"]) for n in indice if not
                     any(t["id"] == n["tipo"] and "emenda" in t["descricao"].lower() for t in tipos)}),
@@ -340,6 +393,8 @@ if __name__ == "__main__":
     ap.add_argument("--max-documentos", type=int, default=0, help="limita novas conversões; índice permanece completo")
     ap.add_argument("--host", help="reexecuta uma fonte já identificada")
     ap.add_argument("--descobrir", metavar="HOST", help="valida um SAPL oficial e registra sua identidade IBGE")
+    ap.add_argument("--categorias", help="filtra categorias canônicas, separadas por vírgula")
+    ap.add_argument("--ano-minimo", type=int, default=0, help="não converte normas com ano de cadastro inferior")
     a = ap.parse_args()
     if a.max_documentos < 0:
         ap.error("max-documentos deve ser não negativo")
@@ -369,4 +424,5 @@ if __name__ == "__main__":
     fontes = list(dict.fromkeys(fontes))
     if a.host and not any(f[2] == a.host for f in fontes):
         ap.error("host não identificado; use --descobrir")
-    raise SystemExit(executar([f for f in fontes if not a.host or f[2] == a.host], a.rps, a.modo, a.max_documentos))
+    categorias = [c.strip() for c in (a.categorias or "").split(",") if c.strip()]
+    raise SystemExit(executar([f for f in fontes if not a.host or f[2] == a.host], a.rps, a.modo, a.max_documentos, categorias, a.ano_minimo))
