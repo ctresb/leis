@@ -264,7 +264,14 @@ def yaml_str(v):
     return json.dumps(v if v is not None else "", ensure_ascii=False)
 
 
-def processar(d, *, revisao_identidade=False):
+def _e_so_republicacao(md):
+    """Arquivo gravado antes da correção que preferia o Original: só a retificação/veto, sem o texto."""
+    with open(md, encoding="utf-8") as f:
+        cab = f.read(4000)
+    return 'versao_texto: "republicação/retificação"' in cab
+
+
+def processar(d, *, revisao_identidade=False, refazer_republicacao=False):
     """Exige epígrafe própria; modo de revisão só prepara material privado.
 
     O modo explícito não invalida datas/números completos divergentes e marca
@@ -274,7 +281,7 @@ def processar(d, *, revisao_identidade=False):
     if revisao_identidade and '_fonte/auditorias/' not in os.path.abspath(RAIZ).replace(os.sep, '/'):
         raise ValueError('Revisão de identidade só pode gravar em área de auditoria, nunca na raiz publicável')
     info = montar(d)
-    if os.path.exists(info["md"]):
+    if os.path.exists(info["md"]) and not (refazer_republicacao and _e_so_republicacao(info["md"])):
         return "pulado", info["slug"], None
     urn, meta = obter_metadados(info["urn"], d["id"])
     if urn != info["urn"]:
@@ -430,6 +437,8 @@ def main():
     ap.add_argument("--tipos", default=None)
     ap.add_argument("--workers", type=int, default=4)
     ap.add_argument("--rps", type=float, default=4)
+    ap.add_argument("--refazer-republicacao", action="store_true",
+                    help="regrava arquivos com versao_texto republicação/retificação usando Original/Current")
     ap.add_argument("--amostra", default="", help="lista de normas do Senado (ex.: LEI-10406-2002-01-10,...)")
     a = ap.parse_args()
     if not 0 < a.rps <= 4 or a.workers <= 0:
@@ -459,7 +468,7 @@ def main():
     cont = {"ok": 0, "pulado": 0, "sem_texto": 0, "erro": 0}
     inicio = time.time()
     with ThreadPoolExecutor(a.workers) as ex, open(falhas_path, "a", encoding="utf-8") as falhas:
-        futs = {ex.submit(processar, d): d for d in itens}
+        futs = {ex.submit(processar, d, refazer_republicacao=a.refazer_republicacao): d for d in itens}
         for n, fut in enumerate(as_completed(futs), 1):
             d = futs[fut]
             try:

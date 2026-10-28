@@ -24,6 +24,14 @@ class TextoIntegral(unittest.TestCase):
         errata = {'contentUrl': 'https://normas.leg.br/errata', 'version': 'Intermediate', 'datePublished': '2000-02-01'}
         self.assertEqual(f.escolher_texto({'encoding': [original, errata]}), original)
 
+    def test_refazer_so_regrava_republicacao(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            a = Path(tmp) / 'a.md'; b = Path(tmp) / 'b.md'
+            a.write_text('---\nversao_texto: "republicação/retificação"\n---\n', encoding='utf-8')
+            b.write_text('---\nversao_texto: "original"\n---\n', encoding='utf-8')
+            self.assertTrue(f._e_so_republicacao(str(a)))
+            self.assertFalse(f._e_so_republicacao(str(b)))
+
     def test_compilada_antes_do_original(self):
         original = {'contentUrl': 'https://normas.leg.br/original', 'version': 'Original'}
         atual = {'contentUrl': 'https://normas.leg.br/atual', 'version': 'Current'}
