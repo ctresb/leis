@@ -1,0 +1,31 @@
+{
+  "municipio": "Rio de Janeiro",
+  "uf": "RJ",
+  "codigo_ibge": "3304557",
+  "tipo": "Código municipal",
+  "tipo_na_fonte": "Lei Complementar",
+  "categoria": "codigos",
+  "numero": "198",
+  "data": "2019-01-14",
+  "titulo": "Lei Complementar nº 198, de 14 de janeiro de 2019",
+  "slug": "codigo-obras-edificacoes-198-2019",
+  "cache": "lc-198-2019.html",
+  "formato": "html",
+  "fonte": "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/B004AA9E75ADFF0483258386005166C9?OpenDocument",
+  "fonte_texto": "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/B004AA9E75ADFF0483258386005166C9?OpenDocument",
+  "versao_texto": "texto integral HTML da Câmara Municipal do Rio de Janeiro (Domino/contlei.nsf); Código de Obras e Edificações Simplificado (COES); a fonte declara que o texto não substitui o Diário Oficial",
+  "marcas_obrigatorias": [
+    "LEI COMPLEMENTAR Nº 198",
+    "Código de Obras e Edificações Simplificado",
+    "COES"
+  ],
+  "arquivo": "municipais/RJ/rio-de-janeiro/codigos/2019/codigo-obras-edificacoes-198-2019.md",
+  "sha256": "7e998ad7dd70772667b3363a211a03f9b2a869eea5a9c825b0bc3ca847104c94",
+  "arquivo_fonte": "municipais/_fonte/capitais/rio-de-janeiro/lc-198-2019.html",
+  "sha256_fonte": "71b720ca16e9f94797765cdde49f7b14b490b79a966fa0a60edb1e9c98cb0c1e",
+  "sha256_corpo": "813baa4e5e2a9a48cd9aec0abc3b97df6954259836512f954423fb38d03e4568",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "verificado_em": "2026-10-28T20:51:29.551726",
+  "anexos_baixados": [],
+  "observacao": "Compilação individual oficial; emendas anexas preservadas no mesmo documento, sem aumento artificial da contagem."
+}
