@@ -34,6 +34,17 @@ CATALOGO = [{
     'versao_texto': 'compilação oficial, edição 2026 atualizada até a Emenda 44/25; índice remissivo preservado',
     'marcas_obrigatorias': ['LEI ORGÂNICA DO MUNICÍPIO DE SÃO PAULO', 'Atualizada até a Emenda 44/25',
                            'São Paulo, 4 de abril de 1990'],
+}, {
+    'municipio': 'Rio de Janeiro', 'uf': 'RJ', 'codigo_ibge': '3304557',
+    'tipo': 'Lei Orgânica', 'categoria': 'lei-organica', 'numero': '', 'data': '1990-04-05',
+    'titulo': 'Lei Orgânica do Município do Rio de Janeiro, de 5 de abril de 1990',
+    'slug': 'lei-organica-rio-de-janeiro-1990', 'cache': 'rio-de-janeiro-organica.pdf',
+    'fonte': 'https://www.camara.rio/atividade-parlamentar/legislacao/lei-organica-do-municipio',
+    'fonte_texto': 'https://www.rio.rj.gov.br/dlstatic/10112/4946719/4136646/Lei_Organica_MRJ_comaltdo205_2303.pdf',
+    'versao_texto': 'compilação oficial da PGM/Prefeitura do Rio de Janeiro, 2ª edição revista e ampliada (2010), com alterações e revogações assinaladas no texto, atualizada até a Emenda nº 20/2009; o PDF imprime o fecho "Cidade do Rio de Janeiro, 5 de abril de 1990"; Last-Modified 23 Mar 2015; não certifica atualização posterior',
+    'marcas_obrigatorias': ['LEI ORGÂNICA DO MUNICÍPIO DO RIO DE JANEIRO',
+                           'Texto atualizado até a Emenda n.º 20/2009',
+                           'O Município do Rio de Janeiro é a expressão e o instrumento da soberania do povo carioca'],
 }]
 
 
