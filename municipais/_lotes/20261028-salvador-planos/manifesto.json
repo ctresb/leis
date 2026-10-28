@@ -1,0 +1,26 @@
+{
+  "municipio": "Salvador",
+  "uf": "BA",
+  "codigo_ibge": "2927408",
+  "fonte_api": "https://portal-api.dioly.com.br/api/diarios/",
+  "rps_max": 2,
+  "extrator": "dioly-raw-v2",
+  "arquivos": [
+    "municipais/BA/salvador/plano-diretor/2016/plano-diretor-9069-2016.md",
+    "municipais/BA/salvador/codigos/2016/louos-9148-2016.md"
+  ],
+  "pular": [
+    {
+      "municipio": "Salvador",
+      "uf": "BA",
+      "codigo_ibge": "2927408",
+      "tipo": "Código tributário",
+      "numero": "7186",
+      "ano": "2006",
+      "status": "sem_fonte_https",
+      "motivo": "Lei 7.186/2006: índice Dioly DOM sem edições de 2006–2007 (acervo começa ~2010/11); busca q=\"Codigo Tributario\" devolve só DOM 6937/2017 e 8910/2024; ocorrências de 7.186 são citações posteriores, não a promulgação; leismunicipais (Cloudflare) e flipbook http cmsba.dyndns.org fora do escopo"
+    }
+  ],
+  "baixado_em": "2026-10-28",
+  "observacao": "PDDU Lei 9.069/2016 = DOM extra 6620 (30/06/2016). LOUOS Lei 9.148/2016 = DOM 6672 (08/09/2016). CMS /uploads/pddu/pdducorpodalei.pdf é PL 396/2015, não a lei sancionada. Mapas SSA_PDDU_15 e flipbook http cmsba.dyndns.org não usados. Anexos tipográficos entram no mesmo .md; mapas raster ficam no PDF-fonte. Código tributário 7.186/2006 sem PDF oficial HTTPS."
+}
