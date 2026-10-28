@@ -277,6 +277,11 @@ def extrair_texto(bruto, url="", content_type=""):
     return decodificar(bruto, content_type), None
 
 
+# Preposições e artigos nunca fecham um dispositivo; "e"/"ou" ficam de fora porque terminam incisos.
+# Letra isolada só em minúscula: "ANEXO A" seguido de "ANEXO B" não é uma frase partida.
+FIM_CONECTIVO = re.compile(r"\s(?:a|à|o)$|\s(?i:ao|as|os|da|de|do|das|dos|na|no|nas|nos|em|com|pela|pelo)$")
+
+
 def texto_pdf_para_md(texto):
     """Reconstrói parágrafos de texto extraído de PDF e marca artigos/títulos."""
     # cabeçalhos/rodapés: linhas que se repetem em mais da metade das páginas
@@ -299,7 +304,8 @@ def texto_pdf_para_md(texto):
                 paras.append(" ".join(atual))
                 atual = []
             continue
-        if atual and inicio_bloco.match(ln):
+        # citação quebrada na linha ("nos termos da / Lei nº 16.301…") continua a frase
+        if atual and inicio_bloco.match(ln) and not FIM_CONECTIVO.search(atual[-1]):
             paras.append(" ".join(atual))
             atual = []
         atual.append(re.sub(r"\s{2,}", " ", ln))
