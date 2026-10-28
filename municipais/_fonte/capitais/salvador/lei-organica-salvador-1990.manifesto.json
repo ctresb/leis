@@ -1,0 +1,28 @@
+{
+  "municipio": "Salvador",
+  "uf": "BA",
+  "codigo_ibge": "2927408",
+  "tipo": "Lei Orgânica",
+  "categoria": "lei-organica",
+  "numero": "",
+  "data": "1990-04-05",
+  "titulo": "Lei Orgânica do Município de Salvador, de 5 de abril de 1990",
+  "slug": "lei-organica-salvador-1990",
+  "cache": "salvador-organica.pdf",
+  "fonte": "https://www.cms.ba.gov.br/lei-organica",
+  "fonte_texto": "https://www.cms.ba.gov.br/uploads/3bdae368d1a3e255c81b7f262ba1bbf6_1709038424.pdf",
+  "versao_texto": "compilação oficial da Câmara Municipal de Salvador, edição consolidada até a Emenda nº 41/2024; a edição não imprime a data de promulgação original; não certifica atualização posterior",
+  "marcas_obrigatorias": [
+    "Lei Orgânica do Município de Salvador",
+    "Edição consolidada até a Emenda nº 41",
+    "O Município de Salvador, Capital do Estado da Bahia"
+  ],
+  "arquivo": "municipais/BA/salvador/lei-organica/1990/lei-organica-salvador-1990.md",
+  "sha256": "03542b72454e27f80edcddf8c1b5c1d77fa0a38db1ef7abe7e3865122aa61942",
+  "arquivo_fonte": "municipais/_fonte/capitais/salvador/salvador-organica.pdf",
+  "sha256_fonte": "b98d10caff6d3f9ef053b101622f6d107b4ceda01c3a0cae9f187d3ca85f9598",
+  "sha256_corpo": "b696f7a839fafe53f507c5dc8d0e4215c5acc7e5eb985dd0998b198546a990f4",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "verificado_em": "2026-10-28T18:38:42.447808",
+  "observacao": "Compilação individual oficial; emendas anexas preservadas no mesmo documento, sem aumento artificial da contagem."
+}

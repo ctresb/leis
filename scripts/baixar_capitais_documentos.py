@@ -34,6 +34,16 @@ CATALOGO = [{
     'versao_texto': 'compilação oficial, edição 2026 atualizada até a Emenda 44/25; índice remissivo preservado',
     'marcas_obrigatorias': ['LEI ORGÂNICA DO MUNICÍPIO DE SÃO PAULO', 'Atualizada até a Emenda 44/25',
                            'São Paulo, 4 de abril de 1990'],
+}, {
+    'municipio': 'Salvador', 'uf': 'BA', 'codigo_ibge': '2927408',
+    'tipo': 'Lei Orgânica', 'categoria': 'lei-organica', 'numero': '', 'data': '1990-04-05',
+    'titulo': 'Lei Orgânica do Município de Salvador, de 5 de abril de 1990',
+    'slug': 'lei-organica-salvador-1990', 'cache': 'salvador-organica.pdf',
+    'fonte': 'https://www.cms.ba.gov.br/lei-organica',
+    'fonte_texto': 'https://www.cms.ba.gov.br/uploads/3bdae368d1a3e255c81b7f262ba1bbf6_1709038424.pdf',
+    'versao_texto': 'compilação oficial da Câmara Municipal de Salvador, edição consolidada até a Emenda nº 41/2024; a edição não imprime a data de promulgação original; não certifica atualização posterior',
+    'marcas_obrigatorias': ['Lei Orgânica do Município de Salvador', 'Edição consolidada até a Emenda nº 41',
+                           'O Município de Salvador, Capital do Estado da Bahia'],
 }]
 
 
