@@ -1,0 +1,11 @@
+{
+  "url": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f767c5f60f7017c79ac98120097",
+  "filename": "lei1310-atual.doc",
+  "sha256": "469e75eea5bcfc0966ab0b80c1516c3fd8179aa8bc353fbc498cfd8fda181a9e",
+  "http_status": 200,
+  "content_length": 503808,
+  "formato": "application/msword (OLE Compound File)",
+  "pagina_catalogo": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei/1310/1966",
+  "sil_id_doc_da_norma": "2c907f767c5f60f7017c79ac98120097",
+  "captura": "download oficial HTTP 200 em cmbhsildownload.cmbh.mg.gov.br via catálogo SIL/proxy.php; sem Wayback"
+}
