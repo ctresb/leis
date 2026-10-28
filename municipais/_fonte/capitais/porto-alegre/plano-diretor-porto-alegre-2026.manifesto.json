@@ -1,0 +1,28 @@
+{
+  "municipio": "Porto Alegre",
+  "uf": "RS",
+  "codigo_ibge": "4314902",
+  "tipo": "Plano diretor",
+  "categoria": "plano-diretor",
+  "numero": "1075",
+  "data": "2026-07-14",
+  "titulo": "Lei Complementar municipal nº 1.075, de 14 de julho de 2026",
+  "slug": "plano-diretor-porto-alegre-2026",
+  "cache": "porto-alegre-plano-diretor-1075-2026.pdf",
+  "fonte": "https://legislacao.portoalegre.rs.gov.br/norma/51485",
+  "fonte_texto": "https://legislacao.portoalegre.rs.gov.br/media/sapl/public/normajuridica/2026/51485/lc1075_atualizada_ate_24.09.2026.pdf",
+  "versao_texto": "texto integral anexado no SAPL da PGM/Porto Alegre (norma/51485), PDF atualizado até a derrubada de veto de 24/09/2026; não certifica atualização posterior",
+  "observacao": "Plano Diretor Urbano Sustentável; PDF da API em http, capturado por HTTPS 200.",
+  "marcas_obrigatorias": [
+    "LEI COMPLEMENTAR Nº 1.075",
+    "Institui o Plano Diretor Urbano Sustentável",
+    "Município de Porto Alegre"
+  ],
+  "arquivo": "municipais/RS/porto-alegre/plano-diretor/2026/plano-diretor-porto-alegre-2026.md",
+  "sha256": "689ee3a872ef180208ee9ecead04f3f9217fb7531a1541b501c9f407b35d2530",
+  "arquivo_fonte": "municipais/_fonte/capitais/porto-alegre/porto-alegre-plano-diretor-1075-2026.pdf",
+  "sha256_fonte": "2d3e0a832522fe92fad3e5cbfab7bf472ef69f37b4263e0452ad9aeaa1c65864",
+  "sha256_corpo": "62ee912eec98af469c24d5cdec8de58b37145c39f1456fa1ce63535022ae0931",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "verificado_em": "2026-10-28T20:53:49.290475"
+}
