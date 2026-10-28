@@ -1,0 +1,36 @@
+{
+  "municipio": "Belo Horizonte",
+  "uf": "MG",
+  "codigo_ibge": "3106200",
+  "tipo": "Lei Ordinária",
+  "categoria": "leis-ordinarias",
+  "numero": "12134",
+  "data": "2026-09-11",
+  "data_publicacao": "2026-09-12",
+  "titulo": "Lei nº 12.134, de 11 de setembro de 2026",
+  "slug": "leis-ordinarias-12134-2026",
+  "arquivo_sil": "lei12134.doc",
+  "ementa_sil": "Dispõe sobre as diretrizes para a elaboração da Lei do Orçamento Anual de 2027 e dá outras providências.",
+  "fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei/12134/2026",
+  "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76a066b7e601a09facc5c40126",
+  "sil_id_doc_da_norma": "2c907f76a066b7e601a09facc5c40126",
+  "sil_tipo_id": "2c907f78064b443701064b444c020008",
+  "arquivo": "municipais/MG/belo-horizonte/leis-ordinarias/2026/leis-ordinarias-12134-2026.md",
+  "sha256": "f89a7baf5bcce14881c26b34efa36cb6df9886316874718fa25b5b35debdd3c7",
+  "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/leis-ordinarias/leis-ordinarias-12134-2026.doc",
+  "sha256_fonte": "f0549e7410f7713356505aadef6ef773a67584fd7535a44c7db44226fec7c78d",
+  "sha256_corpo": "60fe02ad0ff31aad8ca6ecae4b12f8a1748f767d5c93dcefc050a38e9587aa61",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "verificado_em": "2026-10-28T21:10:12.140242",
+  "anexos": [
+    {
+      "nome": "lei12134-anexos.docx",
+      "sil_id_doc_da_norma": "2c907f76a066b7e601a09face2df0129",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76a066b7e601a09face2df0129",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/leis-ordinarias/lei12134-anexos.docx",
+      "sha256_fonte": "70e9f9c9a84cc6d3a9eae0188563ebd18404ce0e875f9494a45b235a1bb1e7be",
+      "bytes": 1588787
+    }
+  ],
+  "observacao": "Varredura nº a nº no SIL (listagem só por ano vazia); somente leis promulgadas; anexos são binários da mesma norma."
+}

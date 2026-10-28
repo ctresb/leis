@@ -1,0 +1,44 @@
+{
+  "municipio": "Belo Horizonte",
+  "uf": "MG",
+  "codigo_ibge": "3106200",
+  "tipo": "Lei Ordinária",
+  "categoria": "leis-ordinarias",
+  "numero": "11971",
+  "data": "2026-03-06",
+  "data_publicacao": "2026-03-07",
+  "titulo": "Lei nº 11.971, de 6 de março de 2026",
+  "slug": "leis-ordinarias-11971-2026",
+  "arquivo_sil": "lei11971.doc",
+  "ementa_sil": "Autoriza o ingresso do Município no Comgranbel, ratifica os termos do Protocolo de Intenções convertido em Contrato de Consórcio e do Estatuto do Comgranbel e autoriza a celebração de Termo de Adesão a esse protocolo.",
+  "fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei/11971/2026",
+  "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f769c51412a019cd22bc9e0015a",
+  "sil_id_doc_da_norma": "2c907f769c51412a019cd22bc9e0015a",
+  "sil_tipo_id": "2c907f78064b443701064b444c020008",
+  "arquivo": "municipais/MG/belo-horizonte/leis-ordinarias/2026/leis-ordinarias-11971-2026.md",
+  "sha256": "9126bd42883dfc84527e6c0eff1cc6a8f12a39a037462337ea39017e2690721b",
+  "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/leis-ordinarias/leis-ordinarias-11971-2026.doc",
+  "sha256_fonte": "1e8bd637006e8eb62d2ff2f11c45bcf42a71d529a358053071865d39fe056a9c",
+  "sha256_corpo": "3f0011f169164a2a3cfa63c42a07c52c829269f4607d76c8f56ef393601b460d",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "verificado_em": "2026-10-28T21:15:34.412978",
+  "anexos": [
+    {
+      "nome": "lei11971-anexoI.pdf",
+      "sil_id_doc_da_norma": "2c907f769c51412a019cd22be6ba015d",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f769c51412a019cd22be6ba015d",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/leis-ordinarias/lei11971-anexoi.pdf",
+      "sha256_fonte": "c5d8f75f5cbb5df90785fead57bcb0aa6c20f819d738909c741518a7de221dcd",
+      "bytes": 7941460
+    },
+    {
+      "nome": "lei11971-anexoII.pdf",
+      "sil_id_doc_da_norma": "2c907f769c51412a019cd22bfe590160",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f769c51412a019cd22bfe590160",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/leis-ordinarias/lei11971-anexoii.pdf",
+      "sha256_fonte": "9a03e819718d9949affdb1a53180483df3d71af65d79378dee6fe97343fa9fb7",
+      "bytes": 9615029
+    }
+  ],
+  "observacao": "Varredura nº a nº no SIL (listagem só por ano vazia); somente leis promulgadas; anexos são binários da mesma norma."
+}

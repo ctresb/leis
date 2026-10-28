@@ -9,7 +9,9 @@ Catálogo explícito: números, datas e `idDocDaNorma` vieram da ficha SIL, não
 de URL inventada. Anexos do Plano Diretor são binários da mesma norma — não
 contam como leis novas. Belo Horizonte não publica tipo Lei Complementar.
 """
+import argparse
 import datetime as dt
+import gzip
 import hashlib
 import html as htmlmod
 import json
@@ -17,7 +19,9 @@ import os
 from pathlib import Path
 import re
 import sys
+import time
 import urllib.parse
+from urllib.request import Request, urlopen
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from comum import Rede, normalizar_chave, slugify, yaml_str
@@ -596,6 +600,23 @@ def cache_anexo(nome):
     return slugify(normalizar_chave(raiz).replace(" ", "-")) + ext.lower()
 
 
+def data_iso_br(s):
+    m = re.fullmatch(r"(\d{2})/(\d{2})/(\d{4})", (s or "").strip())
+    if not m:
+        return None
+    dia, mes, ano = m.groups()
+    return f"{ano}-{mes}-{dia}"
+
+
+def numero_br(n):
+    s = str(int(n))
+    partes = []
+    while s:
+        partes.append(s[-3:])
+        s = s[:-3]
+    return ".".join(reversed(partes))
+
+
 def parse_pesquisa(html):
     """Extrai ficha SIL devolvida por pesquisar.php (via proxy Drupal)."""
     if re.search(r"Nenhum resultado encontrado|não retornou uma legislação válida", html, re.I):
@@ -612,10 +633,13 @@ def parse_pesquisa(html):
     datas = [(k, htmlmod.unescape(v).strip())
              for k, v in re.findall(r"<strong>Data da (promulgação|publicação): </strong>(.*?)</li>", html)]
     nova = re.search(r"<span id='novaUrl'[^>]*>(.*?)</span>", html)
+    mapa = dict(datas)
     return {
         "titulo": htmlmod.unescape(h2.group(1)),
         "ementa": htmlmod.unescape(re.sub("<[^>]+>", "", ementa.group(1))).strip() if ementa else None,
         "datas": datas,
+        "promulgacao": data_iso_br(mapa.get("promulgação", "")),
+        "publicacao": data_iso_br(mapa.get("publicação", "")),
         "docs": docs,
         "fonte": htmlmod.unescape(nova.group(1)).strip() if nova else None,
     }
@@ -630,20 +654,103 @@ def campos_pesquisa(tipo, numero, ano):
     }
 
 
+def decodificar_resposta(bruto, content_encoding=""):
+    """Rede envia Accept-Encoding: gzip; o Drupal devolve o corpo comprimido."""
+    enc = (content_encoding or "").lower()
+    if enc == "gzip" or bruto.startswith(b"\x1f\x8b"):
+        bruto = gzip.decompress(bruto)
+    return bruto.decode("utf-8", "replace")
+
+
 def pesquisar(rede, tipo, numero, ano):
     body = urllib.parse.urlencode(campos_pesquisa(tipo, numero, ano)).encode()
     req_headers = {**rede.headers, "Content-Type": "application/x-www-form-urlencoded",
                    "Referer": CATALOGO_PAGINA}
-    from urllib.request import Request, urlopen
-    rede.limite.esperar()
-    req = Request(PESQUISAR, data=body, headers=req_headers)
-    with urlopen(req, timeout=60) as r:
-        html = r.read().decode("utf-8", "replace")
-    return parse_pesquisa(html)
+    ultimo = None
+    for n in range(3):
+        rede.limite.esperar()
+        req = Request(PESQUISAR, data=body, headers=req_headers)
+        try:
+            with urlopen(req, timeout=60) as r:
+                html = decodificar_resposta(r.read(), r.headers.get("Content-Encoding") or "")
+            return parse_pesquisa(html)
+        except Exception as e:
+            ultimo = e
+            time.sleep(2 * (n + 1) ** 2)
+    raise RuntimeError(f"pesquisar falhou {numero}/{ano}: {ultimo}")
+
+
+def doc_principal(docs, numero):
+    """Texto da lei, não anexos. Preferência: *-atual.doc, depois .doc, depois PDF."""
+    if not docs:
+        return None
+    n = str(int(numero))
+    visiveis = [d for d in docs if "anexo" not in d["nome"].lower()] or list(docs)
+
+    def nota(d):
+        nome = d["nome"].lower()
+        pontos = 0
+        if nome.endswith(".doc"):
+            pontos += 30
+        elif nome.endswith(".docx"):
+            pontos += 25
+        elif nome.endswith(".pdf"):
+            pontos += 15
+        if "atual" in nome:
+            pontos += 8
+        compacto = re.sub(r"[\s._-]+", "", nome)
+        if n in compacto:
+            pontos += 4
+        return pontos
+
+    return max(visiveis, key=nota)
+
+
+def identidade_lei(ficha, numero, ano):
+    titulo = (ficha or {}).get("titulo") or ""
+    m = re.search(r"Lei\s*[-–]\s*(\d+)\s*/\s*(\d{4})", titulo, re.I)
+    if not m:
+        return False
+    return int(m.group(1)) == int(numero) and int(m.group(2)) == int(ano)
 
 
 def binario_oficial(bruto):
-    return bruto.startswith(OLE) or bruto.startswith(b"%PDF")
+    return bruto.startswith(OLE) or bruto.startswith(b"%PDF") or bruto.startswith(b"PK")
+
+
+def docx_para_md(bruto):
+    """Texto do document.xml oficial; sem textutil (macOS). Não inventa redação."""
+    import io
+    import zipfile
+    from xml.etree import ElementTree as ET
+    from comum import texto_pdf_para_md
+    w = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
+    try:
+        with zipfile.ZipFile(io.BytesIO(bruto)) as z:
+            xml = z.read("word/document.xml")
+    except Exception:
+        return None, "DOCX oficial ilegível"
+    root = ET.fromstring(xml)
+    paras = []
+    for p in root.iter(w + "p"):
+        bits = []
+        for node in p.iter():
+            tag = node.tag.rsplit("}", 1)[-1]
+            if tag == "t":
+                bits.append(node.text or "")
+                if node.tail:
+                    bits.append(node.tail)
+            elif tag == "tab":
+                bits.append("\t")
+            elif tag in ("br", "cr"):
+                bits.append("\n")
+        linha = "".join(bits).strip()
+        if linha:
+            paras.append(linha)
+    texto = "\n".join(paras)
+    if len(re.sub(r"\W", "", texto)) < 80:
+        return None, "DOCX sem texto legível"
+    return texto_pdf_para_md(texto), None
 
 
 def baixar(rede, url, destino, timeout=180):
@@ -659,6 +766,8 @@ def baixar(rede, url, destino, timeout=180):
 
 
 def converter_oficial(bruto, url):
+    if bruto.startswith(b"PK"):
+        return docx_para_md(bruto)
     from baixar_capitais_documentos import documento_oficial_para_md
     return documento_oficial_para_md(bruto, url)
 
@@ -669,6 +778,292 @@ def corpo_emenda_reconhecivel(corpo):
     return bool(len(corpo) > 400
                 and re.search(r"\bpromulg(?:o|a|am|amos)\b", corpo, re.I)
                 and re.search(r"vigorar|vigor|Lei Orgânica", corpo, re.I))
+
+
+def corpo_lei_reconhecivel(corpo):
+    if re.search(r"art(?:igo)?\.?\s*1(?:[º°o]|\b)", corpo, re.I):
+        return True
+    if re.search(r"LEI\s+N", corpo, re.I) and len(re.sub(r"\W", "", corpo)) > 120:
+        return True
+    return len(re.sub(r"\W", "", corpo)) > 400
+
+
+def ibge_bh():
+    ibge_path = RAIZ / "municipais/_indice/ibge-municipios.json"
+    ibge = {str(x["id"]): x for x in json.loads(ibge_path.read_text())}
+    municipio = ibge[IBGE_BH]
+    uf = municipio["regiao-imediata"]["regiao-intermediaria"]["UF"]["sigla"]
+    if municipio["nome"] != "Belo Horizonte" or uf != "MG":
+        raise ValueError("identidade IBGE diverge do município de Belo Horizonte")
+    slug = normalizar_chave(municipio["nome"]).replace(" ", "-")
+    return ibge_path, municipio, uf, slug
+
+
+def registrar_falha(path, registro):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("a", encoding="utf-8") as f:
+        f.write(json.dumps(registro, ensure_ascii=False) + "\n")
+
+
+def anos_candidatos(ano_corrente, ano_min, ano_max):
+    ordem = []
+    for d in (0, -1, 1, -2, 2):
+        y = int(ano_corrente) + d
+        if ano_min - 1 <= y <= ano_max + 1 and y not in ordem:
+            ordem.append(y)
+    return ordem
+
+
+def pesquisar_lei(rede, numero, anos):
+    for ano in anos:
+        ficha = pesquisar(rede, TIPO_LEI, numero, ano)
+        if ficha and identidade_lei(ficha, numero, ano):
+            return int(ano), ficha
+    return None, None
+
+
+def ano_sil(ficha, numero, ano_consulta):
+    titulo = (ficha or {}).get("titulo") or ""
+    m = re.search(r"Lei\s*[-–]\s*(\d+)\s*/\s*(\d{4})", titulo, re.I)
+    if m and int(m.group(1)) == int(numero):
+        return int(m.group(2))
+    return int(ano_consulta)
+
+
+def achar_teto_numeracao(rede, ancora, ano_ancora, ano_max):
+    """Sobe nº a nº a partir de uma âncora promulgada até N vazios consecutivos."""
+    ultimo_n, ultimo_ano, ultima = ancora, ano_ancora, None
+    ano = ano_ancora
+    vazios = 0
+    n = ancora
+    while vazios < 20:
+        n += 1
+        a, ficha = pesquisar_lei(rede, n, [ano, min(ano + 1, ano_max + 1)])
+        if ficha:
+            ultimo_n, ultimo_ano, ultima = n, a, ficha
+            ano = a
+            vazios = 0
+            print("limite+", n, a, ficha.get("promulgacao"), flush=True)
+        else:
+            vazios += 1
+    return ultimo_n, ultimo_ano, ultima
+
+
+def materializar_leis_ordinarias(ano_min=2024, ano_max=2026, teto=500, teto_duro=1000,
+                                 ancora=12000, ano_ancora=2026, so_mapear=False, rede=None):
+    """Janela recente de leis ordinárias promulgadas, nº a nº (listagem anual do SIL é vazia)."""
+    if teto > teto_duro:
+        teto = teto_duro
+    ibge_path, municipio, uf, slug = ibge_bh()
+    pasta_fonte = RAIZ / "municipais/_fonte/capitais" / slug / "leis-ordinarias"
+    pasta_fonte.mkdir(parents=True, exist_ok=True)
+    falhas_path = pasta_fonte / "_falhas.jsonl"
+    ritmo_path = pasta_fonte / "_ritmo.json"
+    rede = rede or Rede(rps=3, headers={"Referer": CATALOGO_PAGINA})
+
+    a0, f0 = pesquisar_lei(rede, ancora, [ano_ancora, ano_ancora - 1, ano_ancora + 1])
+    if not f0:
+        raise RuntimeError(f"âncora Lei {ancora}/{ano_ancora} não encontrada no SIL")
+    print("ancora", ancora, a0, f0.get("promulgacao"), f0["titulo"], flush=True)
+
+    ultimo_n, ultimo_ano, _ = achar_teto_numeracao(rede, ancora, a0, ano_max)
+    print("ultimo", ultimo_n, ultimo_ano, flush=True)
+
+    por_ano = {str(y): {"primeiro": None, "ultimo": None, "hits": 0, "promulgadas": 0,
+                        "ausentes": 0, "sem_promulgacao": 0, "falhas": 0} for y in range(ano_min, ano_max + 1)}
+    gravados = pulados = anexos = 0
+    ano_corrente = ultimo_ano
+    n = ultimo_n
+    primeiro_janela = None
+    consecutivos_vazios = 0
+    consultados = 0
+
+    while n >= 1 and gravados < teto:
+        if gravados + pulados >= teto_duro:
+            break
+        anos = anos_candidatos(ano_corrente, ano_min, ano_max)
+        try:
+            a, ficha = pesquisar_lei(rede, n, anos)
+        except Exception as e:
+            registrar_falha(falhas_path, {"numero": n, "anos_tentados": anos, "status": "rede",
+                                          "motivo": str(e), "quando": dt.datetime.now().isoformat()})
+            consecutivos_vazios += 1
+            n -= 1
+            continue
+        consultados += 1
+        if not ficha:
+            registrar_falha(falhas_path, {"numero": n, "anos_tentados": anos, "status": "ausente",
+                                          "motivo": "SIL não retornou ficha para tipo Lei",
+                                          "quando": dt.datetime.now().isoformat()})
+            if str(ano_corrente) in por_ano:
+                por_ano[str(ano_corrente)]["ausentes"] += 1
+            consecutivos_vazios += 1
+            if consecutivos_vazios >= 40 and n < ultimo_n - 400:
+                print("parada: 40 vazios consecutivos abaixo da janela em", n, flush=True)
+                break
+            n -= 1
+            continue
+        consecutivos_vazios = 0
+        ano = ano_sil(ficha, n, a)
+        ano_corrente = ano
+        if ano < ano_min:
+            print("saida da janela", n, ano, ficha.get("promulgacao"), flush=True)
+            break
+        if ano > ano_max:
+            registrar_falha(falhas_path, {"numero": n, "ano": ano, "status": "fora_da_janela",
+                                          "motivo": f"Lei {n}/{ano} posterior a {ano_max}",
+                                          "quando": dt.datetime.now().isoformat()})
+            n -= 1
+            continue
+        stats = por_ano[str(ano)]
+        stats["hits"] += 1
+        stats["ultimo"] = n if stats["ultimo"] is None else max(stats["ultimo"], n)
+        stats["primeiro"] = n if stats["primeiro"] is None else min(stats["primeiro"], n)
+        primeiro_janela = n
+        if not ficha.get("promulgacao"):
+            stats["sem_promulgacao"] += 1
+            registrar_falha(falhas_path, {"numero": n, "ano": ano, "status": "sem_promulgacao",
+                                          "titulo": ficha.get("titulo"),
+                                          "motivo": "ficha SIL sem data de promulgação",
+                                          "quando": dt.datetime.now().isoformat()})
+            n -= 1
+            continue
+        stats["promulgadas"] += 1
+        slug_md = f"leis-ordinarias-{n}-{ano}"
+        destino = (RAIZ / "municipais" / uf / slug / "leis-ordinarias" / str(ano)
+                   / (slug_md + ".md"))
+        if destino.exists():
+            print("já existente", destino, flush=True)
+            pulados += 1
+            n -= 1
+            continue
+        if so_mapear:
+            print("mapa", n, ano, ficha.get("promulgacao"), flush=True)
+            n -= 1
+            continue
+        principal = doc_principal(ficha.get("docs") or [], n)
+        if not principal:
+            stats["falhas"] += 1
+            registrar_falha(falhas_path, {"numero": n, "ano": ano, "status": "sem_documento",
+                                          "titulo": ficha.get("titulo"),
+                                          "motivo": "ficha sem binário oficial",
+                                          "quando": dt.datetime.now().isoformat()})
+            n -= 1
+            continue
+        try:
+            ext = os.path.splitext(principal["nome"])[1].lower() or ".doc"
+            if ext not in {".doc", ".docx", ".pdf"}:
+                ext = ".docx" if principal["nome"].lower().endswith(".docx") else (
+                    ".pdf" if principal["nome"].lower().endswith(".pdf") else ".doc")
+            cache = pasta_fonte / (slug_md + ext)
+            bruto = baixar(rede, principal["url"], cache)
+            corpo, motivo = converter_oficial(bruto, principal["url"])
+            if motivo:
+                raise ValueError(motivo)
+            if not corpo_lei_reconhecivel(corpo):
+                raise ValueError("corpo sem artigo inicial nem texto legislativo reconhecível")
+            data = ficha["promulgacao"]
+            publicacao = ficha.get("publicacao")
+            titulo = f"Lei nº {numero_br(n)}, de {data_por_extenso(data)}"
+            fonte = ficha.get("fonte") or url_ficha("lei", n, ano)
+            fonte_texto = url_download(principal["id"])
+            meta = {
+                "titulo": titulo,
+                "tipo": "Lei Ordinária",
+                "tipo_na_fonte": "Lei",
+                "numero": str(n),
+                "data": data,
+            }
+            if publicacao:
+                meta["data_publicacao"] = publicacao
+            meta.update({
+                "municipio": "Belo Horizonte",
+                "uf": "MG",
+                "codigo_ibge": IBGE_BH,
+                "versao_texto": (f"texto integral oficial do SIL da CMBH ({principal['nome']}); "
+                                 f"promulgação {data}"
+                                 + (f" e publicação {publicacao}" if publicacao else "")
+                                 + "; não certifica atualização posterior"),
+                "fonte": fonte,
+                "fonte_texto": fonte_texto,
+                "sha256_fonte": hashlib.sha256(bruto).hexdigest(),
+                "sha256_texto": hashlib.sha256(corpo.encode()).hexdigest(),
+                "baixado_em": dt.date.today().isoformat(),
+            })
+            texto = gravar_md(destino, meta, corpo)
+            anexos_gravados = []
+            for doc in ficha.get("docs") or []:
+                if doc["id"] == principal["id"]:
+                    continue
+                arq = pasta_fonte / cache_anexo(doc["nome"])
+                try:
+                    binario = baixar(rede, doc["url"], arq, timeout=300)
+                except Exception as e:
+                    registrar_falha(falhas_path, {"numero": n, "ano": ano, "status": "anexo",
+                                                  "arquivo_sil": doc["nome"], "motivo": str(e),
+                                                  "quando": dt.datetime.now().isoformat()})
+                    continue
+                anexos_gravados.append({
+                    "nome": doc["nome"], "sil_id_doc_da_norma": doc["id"],
+                    "fonte_texto": doc["url"], "arquivo_fonte": str(arq.relative_to(RAIZ)),
+                    "sha256_fonte": hashlib.sha256(binario).hexdigest(), "bytes": len(binario),
+                })
+                anexos += 1
+            comprovacao = {
+                "municipio": "Belo Horizonte", "uf": "MG", "codigo_ibge": IBGE_BH,
+                "tipo": "Lei Ordinária", "categoria": "leis-ordinarias",
+                "numero": str(n), "data": data, "data_publicacao": publicacao,
+                "titulo": titulo, "slug": slug_md, "arquivo_sil": principal["nome"],
+                "ementa_sil": ficha.get("ementa"), "fonte": fonte, "fonte_texto": fonte_texto,
+                "sil_id_doc_da_norma": principal["id"], "sil_tipo_id": TIPO_LEI,
+                "arquivo": str(destino.relative_to(RAIZ)),
+                "sha256": hashlib.sha256(texto.encode()).hexdigest(),
+                "arquivo_fonte": str(cache.relative_to(RAIZ)),
+                "sha256_fonte": meta["sha256_fonte"], "sha256_corpo": meta["sha256_texto"],
+                "ibge_sha256": hashlib.sha256(ibge_path.read_bytes()).hexdigest(),
+                "verificado_em": dt.datetime.now().isoformat(),
+                "anexos": anexos_gravados,
+                "observacao": ("Varredura nº a nº no SIL (listagem só por ano vazia); "
+                               "somente leis promulgadas; anexos são binários da mesma norma."),
+            }
+            with (pasta_fonte / (slug_md + ".manifesto.json")).open("x") as f:
+                json.dump(comprovacao, f, ensure_ascii=False, indent=2)
+            gravados += 1
+            print("gravado", destino, f"({gravados}/{teto})", flush=True)
+        except Exception as e:
+            stats["falhas"] += 1
+            registrar_falha(falhas_path, {"numero": n, "ano": ano, "status": "materializacao",
+                                          "titulo": ficha.get("titulo"), "motivo": str(e),
+                                          "quando": dt.datetime.now().isoformat()})
+            print("falha", n, ano, e, flush=True)
+        n -= 1
+
+    ritmo = {
+        "metodo": ("nº a nº via pesquisar.php (buscaViaUrl=1, gzip descomprimido); "
+                   "consulta só por ano/assunto do SIL devolve lista vazia"),
+        "rps": 3,
+        "janela": [ano_min, ano_max],
+        "ancora": {"numero": ancora, "ano": a0, "promulgacao": f0.get("promulgacao")},
+        "ultimo_numero": ultimo_n,
+        "ultimo_ano": ultimo_ano,
+        "primeiro_numero_janela": primeiro_janela,
+        "consultados": consultados,
+        "por_ano": por_ano,
+        "gravados": gravados,
+        "pulados": pulados,
+        "anexos_binarios": anexos,
+        "teto": teto,
+        "teto_duro": teto_duro,
+        "so_mapear": so_mapear,
+        "falhas": str(falhas_path.relative_to(RAIZ)),
+        "quando": dt.datetime.now().isoformat(),
+    }
+    with ritmo_path.open("w", encoding="utf-8") as f:
+        json.dump(ritmo, f, ensure_ascii=False, indent=2)
+    print(json.dumps({k: ritmo[k] for k in ("gravados", "pulados", "consultados", "ultimo_numero",
+                                            "primeiro_numero_janela", "por_ano")},
+                     ensure_ascii=False), flush=True)
+    return ritmo
 
 
 def gravar_md(destino, meta, corpo):
@@ -752,8 +1147,28 @@ def materializar_emendas(rede=None):
     return {"gravados": gravados, "pulados": pulados, "catalogo": len(EMENDAS)}
 
 
-def main():
-    print(json.dumps(materializar_emendas(), ensure_ascii=False), flush=True)
+def main(argv=None):
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument("modo", nargs="?", default="emendas",
+                    choices=["emendas", "leis-ordinarias"])
+    ap.add_argument("--anos", default="2024-2026",
+                    help="janela inclusiva AAAA-AAAA (leis ordinárias)")
+    ap.add_argument("--teto", type=int, default=500)
+    ap.add_argument("--teto-duro", type=int, default=1000)
+    ap.add_argument("--ancora", default="12000/2026")
+    ap.add_argument("--so-mapear", action="store_true")
+    a = ap.parse_args(argv)
+    if a.modo == "emendas":
+        print(json.dumps(materializar_emendas(), ensure_ascii=False), flush=True)
+        return
+    ano_min, ano_max = (int(x) for x in a.anos.split("-", 1))
+    num, ano = a.ancora.split("/", 1)
+    if not 1 <= a.teto <= a.teto_duro:
+        ap.error("--teto deve ficar entre 1 e --teto-duro")
+    ritmo = materializar_leis_ordinarias(
+        ano_min=ano_min, ano_max=ano_max, teto=a.teto, teto_duro=a.teto_duro,
+        ancora=int(num), ano_ancora=int(ano), so_mapear=a.so_mapear)
+    print(json.dumps(ritmo, ensure_ascii=False), flush=True)
 
 
 if __name__ == "__main__":

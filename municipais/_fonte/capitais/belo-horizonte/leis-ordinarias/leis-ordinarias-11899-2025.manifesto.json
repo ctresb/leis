@@ -1,0 +1,36 @@
+{
+  "municipio": "Belo Horizonte",
+  "uf": "MG",
+  "codigo_ibge": "3106200",
+  "tipo": "Lei Ordinária",
+  "categoria": "leis-ordinarias",
+  "numero": "11899",
+  "data": "2025-09-17",
+  "data_publicacao": "2025-09-18",
+  "titulo": "Lei nº 11.899, de 17 de setembro de 2025",
+  "slug": "leis-ordinarias-11899-2025",
+  "arquivo_sil": "lei11899-original.doc",
+  "ementa_sil": "Dispõe sobre as diretrizes para a elaboração da Lei do Orçamento Anual de 2026 e dá outras providências.",
+  "fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei/11899/2025",
+  "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7699571a9501995cd2ddca0042",
+  "sil_id_doc_da_norma": "2c907f7699571a9501995cd2ddca0042",
+  "sil_tipo_id": "2c907f78064b443701064b444c020008",
+  "arquivo": "municipais/MG/belo-horizonte/leis-ordinarias/2025/leis-ordinarias-11899-2025.md",
+  "sha256": "e483f034208a114bcb1ad63d79b484691c96cf8852b4ab17fa1f0656e3987883",
+  "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/leis-ordinarias/leis-ordinarias-11899-2025.doc",
+  "sha256_fonte": "10e1b4c024060bcf9eddd85cdfb7b44a25a4978f898c6a925c5d438b3957f60e",
+  "sha256_corpo": "c6c078257f6687b35c94552fa7ff2849a8c27841d737a285648ac9e84a602449",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "verificado_em": "2026-10-28T21:18:02.677908",
+  "anexos": [
+    {
+      "nome": "lei11899-anexos.docx",
+      "sil_id_doc_da_norma": "2c907f7699571a9501995cf24d580068",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7699571a9501995cf24d580068",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/leis-ordinarias/lei11899-anexos.docx",
+      "sha256_fonte": "5016562c2f061ed711d3b5c41d8d7239fb2787f38a2598bbb47aa72d4b492f35",
+      "bytes": 835241
+    }
+  ],
+  "observacao": "Varredura nº a nº no SIL (listagem só por ano vazia); somente leis promulgadas; anexos são binários da mesma norma."
+}

@@ -4,8 +4,11 @@ import unittest
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from cmbh_sil import (ANEXOS_PLANO_DIRETOR, EMENDAS, cache_anexo, data_por_extenso,
-                      parse_pesquisa, url_download, url_ficha)
+import gzip
+from cmbh_sil import (ANEXOS_PLANO_DIRETOR, EMENDAS, anos_candidatos, binario_oficial,
+                      cache_anexo, data_iso_br, data_por_extenso, decodificar_resposta,
+                      doc_principal, docx_para_md, identidade_lei, numero_br, parse_pesquisa,
+                      url_download, url_ficha)
 
 
 FICHA = """<div id="resultadoPesquisa_normasInterno"><h2>Lei - 11181/2019</h2><span id='novaUrl' style='display:none'>https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei/11181/2019</span><div class="col-xs-12"><p><strong>Documentos da norma: </strong><ol id='documentos-norma'><li><span>lei11181-atual.doc</span><a href="https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7693d91e4901941d35b6360152" class="btn btn-success btn-fila btn-anexo"></a></li><li><span>lei11181 - Anexo I - Mapa.pdf</span><a href="https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=abc123" class="btn"></a></li></ol></p><li style='list-style:none'><strong>Responsável pela Promulgação/Publicação: </strong>Prefeito</li><ul><li><strong>Data da promulgação: </strong>08/08/2019</li><li><strong>Data da publicação: </strong>09/08/2019</li></ul><p><strong>Ementa:</strong> Aprova o Plano Diretor do Município de Belo Horizonte e dá outras providências.</p></div>"""
@@ -17,9 +20,16 @@ class CmbhSil(unittest.TestCase):
         self.assertEqual(d["titulo"], "Lei - 11181/2019")
         self.assertEqual(d["ementa"][:20], "Aprova o Plano Diret")
         self.assertEqual(d["datas"], [("promulgação", "08/08/2019"), ("publicação", "09/08/2019")])
+        self.assertEqual(d["promulgacao"], "2019-08-08")
+        self.assertEqual(d["publicacao"], "2019-08-09")
         self.assertEqual(len(d["docs"]), 2)
         self.assertEqual(d["docs"][0]["id"], "2c907f7693d91e4901941d35b6360152")
         self.assertTrue(d["fonte"].endswith("/lei/11181/2019"))
+        self.assertTrue(identidade_lei(d, 11181, 2019))
+        self.assertFalse(identidade_lei(d, 11181, 2020))
+        principal = doc_principal(d["docs"], 11181)
+        self.assertEqual(principal["id"], "2c907f7693d91e4901941d35b6360152")
+        self.assertNotIn("anexo", principal["nome"].lower())
 
     def test_parse_vazio(self):
         self.assertIsNone(parse_pesquisa("<h1>Resultados da pesquisa:</h1>Nenhum resultado encontrado."))
@@ -47,6 +57,34 @@ class CmbhSil(unittest.TestCase):
         self.assertEqual(data_por_extenso("2019-08-08"), "8 de agosto de 2019")
         self.assertTrue(cache_anexo("lei11181 - Anexo I - Mapa.pdf").endswith(".pdf"))
         self.assertNotIn(" ", cache_anexo("lei11181 - Anexo I - Mapa.pdf"))
+        self.assertEqual(data_iso_br("28/04/2026"), "2026-04-28")
+        self.assertIsNone(data_iso_br("promulgada"))
+        self.assertEqual(numero_br(12000), "12.000")
+        self.assertEqual(numero_br(8), "8")
+        self.assertEqual(anos_candidatos(2026, 2024, 2026), [2026, 2025, 2027, 2024])
+        html = "<h2>Lei - 12000/2026</h2>"
+        self.assertEqual(decodificar_resposta(html.encode(), ""), html)
+        self.assertEqual(decodificar_resposta(gzip.compress(html.encode()), "gzip"), html)
+        self.assertTrue(binario_oficial(b"PK\x03\x04" + b"x" * 20))
+        self.assertFalse(binario_oficial(b"<html>"))
+
+    def test_docx_oficial(self):
+        import io
+        import zipfile
+        w = "http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+        xml = (f'<?xml version="1.0"?><w:document xmlns:w="{w}"><w:body>'
+               f'<w:p><w:r><w:t>LEI Nº 11.886, DE 12 DE AGOSTO DE 2025</w:t></w:r></w:p>'
+               f'<w:p><w:r><w:t>O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sanciono a seguinte lei:</w:t></w:r></w:p>'
+               f'<w:p><w:r><w:t>Art. 1º Dispõe sobre o teste da conversão do texto integral oficial.</w:t></w:r></w:p>'
+               f'</w:body></w:document>')
+        buf = io.BytesIO()
+        with zipfile.ZipFile(buf, "w") as z:
+            z.writestr("word/document.xml", xml)
+            z.writestr("[Content_Types].xml", "<Types></Types>")
+        corpo, motivo = docx_para_md(buf.getvalue())
+        self.assertIsNone(motivo)
+        self.assertIn("Art. 1º", corpo)
+        self.assertIn("11.886", corpo)
 
 
 if __name__ == "__main__":
