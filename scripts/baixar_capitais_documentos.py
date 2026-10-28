@@ -6,12 +6,18 @@ binários, o corte da compilação e anexos, sem contar cada anexo como nova nor
 import datetime as dt
 import hashlib
 import json
+import os
 from pathlib import Path
 import re
+import shutil
+import subprocess
 import sys
+import tempfile
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from comum import Rede, documento_para_md, normalizar_chave, yaml_str
+from comum import Rede, documento_para_md, html_para_md, normalizar_chave, texto_pdf_para_md, yaml_str
+
+OLE = b'\xd0\xcf\x11\xe0\xa1\xb1\x1a\xe1'
 
 RAIZ = Path(__file__).resolve().parent.parent
 CATALOGO = [{
@@ -34,7 +40,51 @@ CATALOGO = [{
     'versao_texto': 'compilação oficial, edição 2026 atualizada até a Emenda 44/25; índice remissivo preservado',
     'marcas_obrigatorias': ['LEI ORGÂNICA DO MUNICÍPIO DE SÃO PAULO', 'Atualizada até a Emenda 44/25',
                            'São Paulo, 4 de abril de 1990'],
+}, {
+    'municipio': 'Belo Horizonte', 'uf': 'MG', 'codigo_ibge': '3106200',
+    'tipo': 'Lei Orgânica', 'categoria': 'lei-organica', 'numero': '', 'data': '1990-03-21',
+    'titulo': 'Lei Orgânica do Município de Belo Horizonte, de 21 de março de 1990',
+    'slug': 'lei-organica-belo-horizonte-1990', 'cache': 'belo-horizonte-organica.doc',
+    'fonte': 'https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei-organica',
+    'fonte_texto': 'https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76a0ee650c01a0fc97127701cf',
+    'versao_texto': 'compilação oficial da Câmara Municipal de Belo Horizonte (LOMBH-atual.doc no SIL), atualizada até setembro/2026, inclusive a Emenda nº 45, de 23/9/2026; promulgação 21/03/1990 e publicação 22/03/1990; não certifica atualização posterior',
+    'marcas_obrigatorias': ['LEI ORGÂNICA DO MUNICÍPIO DE BELO HORIZONTE',
+                           'Belo Horizonte, 21 de março de 1990',
+                           'O Município de Belo Horizonte integra, com autonomia político-administrativa',
+                           'Atualizada até setembro/2026'],
 }]
+
+
+def ole_doc_para_md(bruto):
+    """Converte o .doc OLE oficial (LOMBH-atual.doc) sem inventar PDF derivado."""
+    with tempfile.TemporaryDirectory() as tmp:
+        src = os.path.join(tmp, 'a.doc')
+        open(src, 'wb').write(bruto)
+        if shutil.which('textutil'):
+            r = subprocess.run(['textutil', '-convert', 'html', '-stdout', src],
+                               capture_output=True, timeout=300)
+            corpo = html_para_md(r.stdout.decode('utf-8', 'replace'))
+        elif shutil.which('antiword'):
+            r = subprocess.run(['antiword', '-w', '0', src], capture_output=True, timeout=300)
+            if r.returncode != 0 or not r.stdout.strip():
+                return None, 'antiword não extraiu o DOC oficial'
+            corpo = texto_pdf_para_md(r.stdout.decode('utf-8', 'replace'))
+        elif shutil.which('catdoc'):
+            r = subprocess.run(['catdoc', '-w', src], capture_output=True, timeout=300)
+            if r.returncode != 0 or not r.stdout.strip():
+                return None, 'catdoc não extraiu o DOC oficial'
+            corpo = texto_pdf_para_md(r.stdout.decode('utf-8', 'replace'))
+        else:
+            return None, 'sem conversor de DOC (textutil, antiword ou catdoc)'
+        if len(re.sub(r'\W', '', corpo)) < 80:
+            return None, 'DOC sem texto legível'
+        return corpo, None
+
+
+def documento_oficial_para_md(bruto, url):
+    if bruto.startswith(OLE):
+        return ole_doc_para_md(bruto)
+    return documento_para_md(bruto, url)
 
 
 def main():
@@ -59,12 +109,12 @@ def main():
         fonte = pasta / item['cache']
         if not fonte.exists():
             st, bruto, _ = rede.get(item['fonte_texto'], tentativas=1, timeout=90)
-            if st != 200 or not bruto.startswith(b'%PDF'):
-                raise ValueError('fonte indisponível ou não é PDF: HTTP ' + str(st))
+            if st != 200 or not (bruto.startswith(b'%PDF') or bruto.startswith(OLE)):
+                raise ValueError('fonte indisponível ou não é PDF/DOC oficial: HTTP ' + str(st))
             with fonte.open('xb') as f:
                 f.write(bruto)
         bruto = fonte.read_bytes()
-        corpo, motivo = documento_para_md(bruto, item['fonte_texto'])
+        corpo, motivo = documento_oficial_para_md(bruto, item['fonte_texto'])
         if motivo:
             raise ValueError(motivo)
         normal = normalizar_chave(corpo)
