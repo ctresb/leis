@@ -23,6 +23,17 @@ XML = """<?xml version="1.0" encoding="UTF-8"?>
 </viewentries>
 """
 
+HTML_LEI = """<!DOCTYPE HTML><html><body>
+<div id="xSec2"><a href="#"><img src="/icons/collapse.gif"></a>
+<b>Texto da Lei</b><br>
+<b>LEI Nº 9.682, DE 27 DE OUTUBRO DE 2026.</b>
+<br>Art. 1º O Poder Executivo dará o nome de Rua Kactos.
+<br>Art. 2º Esta Lei entra em vigor na data de sua publicação.
+</div>
+<script>_dSectionExpand('2');</script>
+</body></html>
+"""
+
 HTML = """<!DOCTYPE HTML><html><body>
 <table><tr><td>Emenda  nº</td><td>43</td><td>/</td><td>2025</td>
 <td>Data da promulgação</td><td>09/10/2025</td></tr></table>
@@ -60,6 +71,10 @@ class CmrjTest(unittest.TestCase):
         self.assertNotIn("Texto da Emenda", corpo)
         self.assertNotIn("<img", corpo)
         self.assertEqual(cmrj.data_do_documento(html, corpo), "2025-09-10")
+        corpo_lei, _ = cmrj.corpo_documento(HTML_LEI.encode(), "text/html; charset=UTF-8")
+        self.assertIn("LEI Nº 9.682", corpo_lei)
+        self.assertNotIn("Texto da Lei", corpo_lei)
+        self.assertEqual(cmrj.data_do_documento("", corpo_lei, "9682"), "2026-10-27")
         self.assertEqual(cmrj.data_do_documento(
             "Data da Lei 01/16/2024", "sem epígrafe"), "2024-01-16")
         self.assertEqual(cmrj.data_do_documento(
@@ -106,6 +121,25 @@ class CmrjTest(unittest.TestCase):
             cmrj.titulo_ato("Lei Complementar", "302", "2026-09-02"),
             "Lei Complementar nº 302, de 2 de setembro de 2026")
         self.assertEqual(cmrj.SERIES["leicomp"]["skip_numeros"], frozenset({"197", "198", "270"}))
+        self.assertEqual(cmrj.SERIES["leiord"]["pasta"], "leis-ordinarias")
+        self.assertTrue(cmrj.SERIES["leiord"]["so_promulgadas"])
+        self.assertEqual(
+            cmrj.data_do_documento(
+                "Data da Lei 10/27/2026",
+                "LEI Nº 9.682, DE 27 DE OUTUBRO DE 2026. Dá o nome de Rua Kactos.",
+                "9682"),
+            "2026-10-27")
+        self.assertEqual(
+            cmrj.data_do_documento(
+                "Data da Lei 01/07/2010",
+                "LEI Nº 9.440 DE 26 DE MAIO DE 2026. Inclui a Festa. Lei n° 5.146, de 7 de janeiro de 2010.",
+                "9440"),
+            "2026-05-26")
+        self.assertTrue(cmrj.e_promulgada("", "O Presidente da Câmara promulga a Lei nº 9.605, de 10 de setembro de 2026."))
+        self.assertEqual(cmrj.filtrar_anos(
+            [{"ano": "2026"}, {"ano": "2025"}, {"ano": "2024"}],
+            ano_min=2026, ano_max=2026),
+            [{"ano": "2026"}])
 
     def test_selecionar_itens_pula_reservados_e_fonte(self):
         itens = [

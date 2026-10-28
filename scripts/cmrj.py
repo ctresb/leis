@@ -25,9 +25,11 @@ UF = "RJ"
 MESES = {m: i for i, m in enumerate(
     "janeiro fevereiro marco abril maio junho julho agosto setembro outubro novembro dezembro".split(), 1)}
 MESES["março"] = 3
+ATO_EPIGRAFE = r"(?:lei\s+complementar|emenda\s+[àa]\s+lei\s+org[âa]nica|lei)"
+NUM_EPIGRAFE = r"\d+(?:\.\d{3})*"
 EPIGRAFE_DATA = re.compile(
-    r"(?:lei\s+complementar|emenda\s+[àa]\s+lei\s+org[âa]nica)\s+"
-    r"n[º°o]\.?\s*\d+(?:\\?\*)?,\s*de\s+(\d{1,2})(?:[º°o.])?\s+de\s+(\w+)\s+de\s+(\d{4})", re.I)
+    rf"{ATO_EPIGRAFE}\s+n[º°o]\.?\s*{NUM_EPIGRAFE}(?:\\?\*)?,\s*de\s+"
+    r"(\d{1,2})(?:[º°o.])?\s+de\s+(\w+)\s+de\s+(\d{4})", re.I)
 HEADER_DATA = re.compile(
     r"Data da (?:Lei|promulga[cç][aã]o)\s+(\d{1,2})/(\d{1,2})/(\d{4})", re.I)
 FORMA_VIGENCIA = re.compile(
@@ -47,6 +49,14 @@ SERIES = {
         "tipo": "Lei Complementar",
         "tipo_na_fonte": "Lei Complementar",
         "skip_numeros": frozenset({"197", "198", "270"}),
+        "so_promulgadas": True,
+    },
+    "leiord": {
+        "pasta": "leis-ordinarias",
+        "cache": "leis-ordinarias",
+        "tipo": "Lei Ordinária",
+        "tipo_na_fonte": "Lei",
+        "skip_numeros": frozenset(),
         "so_promulgadas": True,
     },
 }
@@ -149,16 +159,24 @@ def corpo_documento(bruto, content_type=""):
     md = html_para_md(trecho).strip()
     md = re.sub(r"^(?:\*\*)?Texto da Emenda(?:\*\*)?\s*", "", md)
     md = re.sub(r"^(?:\*\*)?Texto Lei Complementar(?:\*\*)?\s*", "", md)
+    md = re.sub(r"^(?:\*\*)?Texto da Lei(?:\*\*)?\s*", "", md)
     if len(re.sub(r"\W", "", md)) < 80:
         raise ValueError("texto integral vazio após conversão")
     return md.strip() + "\n", html
 
 
+def grafia_numero(numero):
+    """Dígitos do XML com pontos milhares opcionais (9.682 ↔ 9682)."""
+    digitos = re.sub(r"\D", "", str(numero or ""))
+    if not digitos:
+        return NUM_EPIGRAFE
+    return r"[.\s]*".join(digitos)
+
+
 def epigrafe_data(numero=None):
-    n = re.escape(str(numero)) if numero else r"\d+"
+    n = grafia_numero(numero) if numero else NUM_EPIGRAFE
     return re.compile(
-        r"(?:lei\s+complementar|emenda\s+[àa]\s+lei\s+org[âa]nica)\s+"
-        rf"n[º°o]\.?\s*{n}(?:\\?\*)?,\s*de\s+"
+        rf"{ATO_EPIGRAFE}\s+n[º°o]\.?\s*{n}(?:\\?\*)?,?\s*de\s+"
         r"(\d{1,2})(?:[º°o.])?\s+de\s+(\w+)\s+de\s+(\d{4})", re.I)
 
 
@@ -195,9 +213,12 @@ def forma_vigencia(html):
     return m.group(1).strip() if m else ""
 
 
-def e_promulgada(forma):
+def e_promulgada(forma, html=""):
     """Ato já convertido em lei (sancionado e/ou promulgado); exclui projeto/minuta."""
-    return bool(re.search(r"promulgad|sancionad", normalizar_chave(forma)))
+    if re.search(r"promulgad|sancionad", normalizar_chave(forma)):
+        return True
+    plano = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html or ""))
+    return bool(re.search(r"promulg[ao]\s+a\s+lei|sanciono\s+a\s+seguinte", plano, re.I))
 
 
 def anexos_pdf(html, unid):
@@ -313,6 +334,32 @@ def gravar_emenda(item, bruto, ctype):
     return gravar_ato(SERIES["emenda"], item, bruto, ctype, "emenda")
 
 
+def ano_item(item):
+    try:
+        return int(item.get("ano") or 0)
+    except (TypeError, ValueError):
+        return 0
+
+
+def filtrar_anos(itens, ano_min=0, ano_max=0):
+    if not ano_min and not ano_max:
+        return list(itens)
+    out = []
+    for it in itens:
+        a = ano_item(it)
+        if ano_min and a < ano_min:
+            continue
+        if ano_max and a > ano_max:
+            continue
+        out.append(it)
+    return out
+
+
+def histograma_anos(itens):
+    from collections import Counter
+    return dict(sorted(Counter(str(i.get("ano") or "") for i in itens).items()))
+
+
 def selecionar_itens(itens, serie, view, fontes, limite):
     escolhidos, pulados = [], []
     for it in itens:
@@ -343,6 +390,8 @@ def main():
     ap.add_argument("--view", default="emenda", choices=sorted(SERIES))
     ap.add_argument("--limite", type=int, default=0, help="máximo de novos .md neste lote (0 = teto da série)")
     ap.add_argument("--max-md", type=int, default=500, help="teto mole de novos .md")
+    ap.add_argument("--ano-min", type=int, default=0)
+    ap.add_argument("--ano-max", type=int, default=0)
     args = ap.parse_args()
     serie = SERIES[args.view]
     limite = args.limite or args.max_md
@@ -350,16 +399,22 @@ def main():
     rede = Rede(rps=args.rps)
     itens = ler_view(rede, args.view)
     pasta = RAIZ / "municipais/_fonte/cmrj"
+    anos_indice = histograma_anos(itens)
     escrever(pasta / f"{args.view}-indice.json", json.dumps({
         "fonte": f"{BASE}/{args.view}?ReadViewEntries",
         "view": args.view,
         "consultado_em": dt.datetime.now().isoformat(),
         "ibge_sha256": hashlib.sha256(ibge_path.read_bytes()).hexdigest(),
         "total": len(itens),
+        "anos": anos_indice,
         "itens": itens,
     }, ensure_ascii=False, indent=2))
+    janela = filtrar_anos(itens, args.ano_min, args.ano_max)
+    if args.ano_min or args.ano_max:
+        print(f"[cmrj] janela {args.ano_min or '…'}-{args.ano_max or '…'}: "
+              f"{len(janela)}/{len(itens)} atos", flush=True)
     fontes = fontes_municipio()
-    escolhidos, pulados, resto = selecionar_itens(itens, serie, args.view, fontes, limite)
+    escolhidos, pulados, resto = selecionar_itens(janela, serie, args.view, fontes, limite)
     print(f"[cmrj] view {args.view}: {len(itens)} atos", flush=True)
     cont = {"ok": 0, "pulado": 0, "erro": 0, "nao-promulgada": 0}
     falhas = pasta / "falhas.jsonl"
@@ -377,7 +432,7 @@ def main():
             html = decodificar(bruto, ctype)
             if serie["so_promulgadas"]:
                 forma = forma_vigencia(html)
-                if not e_promulgada(forma):
+                if not e_promulgada(forma, html):
                     cont["nao-promulgada"] += 1
                     print("nao-promulgada", it["numero"], forma or "(vazio)", flush=True)
                     continue
@@ -395,6 +450,8 @@ def main():
         "view": args.view,
         "consultado_em": dt.datetime.now().isoformat(),
         "indice": len(itens),
+        "anos_indice": anos_indice,
+        "janela": {"ano_min": args.ano_min, "ano_max": args.ano_max, "atos": len(janela)},
         "pulados": [{"motivo": m, "numero": n, "unid": u} for m, n, u in pulados],
         "resto_fora_do_limite": resto,
         "contagens": cont,
