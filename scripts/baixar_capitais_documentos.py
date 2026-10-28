@@ -34,6 +34,17 @@ CATALOGO = [{
     'versao_texto': 'compilação oficial, edição 2026 atualizada até a Emenda 44/25; índice remissivo preservado',
     'marcas_obrigatorias': ['LEI ORGÂNICA DO MUNICÍPIO DE SÃO PAULO', 'Atualizada até a Emenda 44/25',
                            'São Paulo, 4 de abril de 1990'],
+}, {
+    'municipio': 'Porto Alegre', 'uf': 'RS', 'codigo_ibge': '4314902',
+    'tipo': 'Lei Orgânica', 'categoria': 'lei-organica', 'numero': '', 'data': '1990-04-03',
+    'titulo': 'Lei Orgânica do Município de Porto Alegre, de 3 de abril de 1990',
+    'slug': 'lei-organica-porto-alegre-1990', 'cache': 'porto-alegre-organica.pdf',
+    'fonte': 'https://legislacao.camarapoa.rs.gov.br/lei-organica/',
+    'fonte_texto': 'https://legislacao.camarapoa.rs.gov.br/wp-content/uploads/documents/lei_organica/Lei%20Org%C3%A2nica%20do%20Munic%C3%ADpio%20de%20Porto%20Alegre%20atualizada%20at%C3%A9%20emenda%20n%C2%BA%2049.pdf',
+    'versao_texto': 'compilação oficial da Câmara Municipal de Porto Alegre (Diretoria Legislativa), atualizada até a Emenda nº 49, de 12/12/2022; captura Wayback 20240422221213id_ do PDF oficial, porque legislacao.camarapoa.rs.gov.br esgotou conexão no IP do agente (página e PDF da Emenda 51); o Google indexa o nome “atualizada até emenda nº 51”, mas esse PDF não está no Wayback (Save Page Now HTTP 520); a PGM/SAPL só publica compilação até a Emenda 48/2022; o PDF da Prefeitura/SMPS é imagem sem texto nativo; emendas 50 e 51 (28/08/2024) existem no SAPL como atos isolados e não integram esta compilação; não certifica atualização posterior',
+    'marcas_obrigatorias': ['LEI ORGÂNICA DO MUNICÍPIO DE PORTO ALEGRE',
+                           'Atualizada até Emenda n.º 49, de 12.12.2022',
+                           'O Município de Porto Alegre, pessoa jurídica de direito público interno'],
 }]
 
 
