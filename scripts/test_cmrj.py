@@ -69,6 +69,12 @@ class CmrjTest(unittest.TestCase):
             "Data da Lei 01/16/2024",
             "Lei Complementar nº 201 de 29 de maio de 2019. LEI COMPLEMENTAR Nº 270\\*, DE 16 DE JANEIRO DE 2024."),
             "2024-01-16")
+        citado = ("LEI COMPLEMENTAR Nº 291, DE 1º DE DEZEMBRO DE 2025. "
+                  "altera a Lei Complementar n° 101, de 23 de novembro de 2009")
+        self.assertEqual(cmrj.data_do_documento(
+            "Data da Lei 11/23/2009", citado, "291"), "2025-12-01")
+        self.assertEqual(cmrj.data_do_documento(
+            "Data da Lei 11/23/2009", citado), "2025-12-01")
 
     def test_anexos_so_do_mesmo_unid(self):
         html = (
@@ -79,6 +85,41 @@ class CmrjTest(unittest.TestCase):
         anexos = cmrj.anexos_pdf(html, "ABC123")
         self.assertEqual(len(anexos), 1)
         self.assertTrue(anexos[0][1].startswith("Anexo"))
+
+    def test_forma_vigencia_e_promulgada(self):
+        html = (
+            '<td>Forma de Vigência</td><td>Sancionada</td>'
+            '<td>Revogação</td><td></td>'
+        )
+        self.assertEqual(cmrj.forma_vigencia(html), "Sancionada")
+        vazio = (
+            '<td>Forma de Vigência</td><td></td>'
+            '<td>Revogação</td><td></td>'
+        )
+        self.assertEqual(cmrj.forma_vigencia(vazio), "")
+        self.assertTrue(cmrj.e_promulgada("Sancionada"))
+        self.assertTrue(cmrj.e_promulgada("Promulgada"))
+        self.assertTrue(cmrj.e_promulgada("Sancionada/Promulgada"))
+        self.assertFalse(cmrj.e_promulgada(""))
+        self.assertFalse(cmrj.e_promulgada("Projeto"))
+        self.assertEqual(
+            cmrj.titulo_ato("Lei Complementar", "302", "2026-09-02"),
+            "Lei Complementar nº 302, de 2 de setembro de 2026")
+        self.assertEqual(cmrj.SERIES["leicomp"]["skip_numeros"], frozenset({"197", "198", "270"}))
+
+    def test_selecionar_itens_pula_reservados_e_fonte(self):
+        itens = [
+            {"unid": "AAA111", "numero": "302", "ano": "2026"},
+            {"unid": "BBB222", "numero": "270", "ano": "2024"},
+            {"unid": "CCC333", "numero": "1", "ano": "1990"},
+        ]
+        fontes = {cmrj.url_documento("CCC333"), "CCC333"}
+        escolhidos, pulados, resto = cmrj.selecionar_itens(
+            itens, cmrj.SERIES["leicomp"], "leicomp", fontes, limite=500)
+        self.assertEqual([i["numero"] for i in escolhidos], ["302"])
+        motivos = {p[0] for p in pulados}
+        self.assertEqual(motivos, {"reservado", "fonte-existente"})
+        self.assertEqual(resto, 0)
 
 
 if __name__ == "__main__":

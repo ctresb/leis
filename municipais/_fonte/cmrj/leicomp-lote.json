@@ -1,0 +1,45 @@
+{
+  "view": "leicomp",
+  "consultado_em": "2026-10-28T21:30:19.778409",
+  "indice": 302,
+  "pulados": [
+    {
+      "motivo": "reservado",
+      "numero": "270",
+      "unid": "0274835DDBC09B5303258AA700487674"
+    },
+    {
+      "motivo": "reservado",
+      "numero": "198",
+      "unid": "B004AA9E75ADFF0483258386005166C9"
+    },
+    {
+      "motivo": "reservado",
+      "numero": "197",
+      "unid": "CFDE3DDFD5DA93BC8325837600642FBE"
+    }
+  ],
+  "resto_fora_do_limite": 0,
+  "contagens": {
+    "ok": 298,
+    "pulado": 0,
+    "erro": 0,
+    "nao-promulgada": 1
+  },
+  "nao_promulgadas": [
+    {
+      "numero": "2",
+      "unid": "95939D92D3B89D67032577220075C7E8",
+      "motivo": "Forma de Vigência vazia; ementa da fonte: anulada por não ser matéria de lei complementar, substituída pela Lei nº 1681/91"
+    }
+  ],
+  "fatia": {
+    "serie": "leis-complementares",
+    "view": "leicomp",
+    "indice": 302,
+    "md_novos": 298,
+    "numeros": "1–302 exceto 2 (anulada), 197, 198 e 270 (já em códigos/plano-diretor)",
+    "anos": "1990–2026",
+    "resto_view": 0
+  }
+}
