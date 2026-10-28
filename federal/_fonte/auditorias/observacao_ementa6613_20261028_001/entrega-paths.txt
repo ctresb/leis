@@ -1,0 +1,9 @@
+federal/_fonte/auditorias/observacao_ementa6613_20261028_001/candidato6613.md
+federal/_fonte/auditorias/observacao_ementa6613_20261028_001/fonte_original.html
+federal/_fonte/auditorias/observacao_ementa6613_20261028_001/hashes.json
+federal/_fonte/auditorias/observacao_ementa6613_20261028_001/indice_arquivado.json
+federal/_fonte/auditorias/observacao_ementa6613_20261028_001/manifesto.json
+federal/_fonte/auditorias/observacao_ementa6613_20261028_001/metadados_API.json
+federal/_fonte/auditorias/observacao_ementa6613_20261028_001/preimagem_HEAD.md
+federal/_fonte/auditorias/observacao_ementa6613_20261028_001/preparar.py
+federal/_fonte/auditorias/observacao_ementa6613_20261028_001/registro_integral_antecedente.json.gz

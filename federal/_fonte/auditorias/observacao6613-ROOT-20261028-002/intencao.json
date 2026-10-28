@@ -1,0 +1,8 @@
+{
+  "HEAD": "2dac3a272eed1121f8dc38aab80fe563d713656d",
+  "path": "federal/decretos/1907/dec-6613-1907-08-22.md",
+  "sha256_preimagem": "81043025870520193b67ca76aeff385c0a8b2f63188a0ebb713b3307c2ef1663",
+  "sha256_final": "436535089ac73e143e170d8a89beafee146b4676a32d5c0744541bcc2aa7331d",
+  "SHA_corpo_intocado": "6aa3393726ed8f7bdb51712bdf26d358d8c14c35fce537c6c2b4bd745929ee08",
+  "alteracao": "Only one attributed editorial YAML field; remove field restores complete oldbytes. Body, ementa, date, identifiers, legalforce source untouched. Zero newnorms."
+}

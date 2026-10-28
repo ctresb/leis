@@ -1,0 +1,16 @@
+{
+  "path": "federal/_fonte/auditorias/observacao6613-ROOT-20261028-002/revisao-ROOT.txt",
+  "sha256": "c6779260401544b554b415af30734a5b12384269dd05e4de8f779a4c92bf5a64",
+  "raw_ROOT_log_copy_identical": true,
+  "findings": [
+    {
+      "line": 10,
+      "type": "trailing whitespace."
+    },
+    {
+      "line": 50,
+      "type": "new blank line at EOF."
+    }
+  ],
+  "scope": "Only literal rawreview log contains sourceparagraphseparator space and finalemptyline. No normativebody or code cleanup/waiver. Allotherstagedfiles strictpass."
+}

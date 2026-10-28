@@ -1,0 +1,72 @@
+{
+  "aplicado": false,
+  "HEAD_preimagem": "cfd2e81fcf5ece43d7dbd9d64e54ba7993fc9399",
+  "path": "federal/decretos/1907/dec-6613-1907-08-22.md",
+  "OID_preimagem": "eeb342582bd195b328d5ce7e3a7c23eb7b228e83",
+  "sha256_preimagem": "81043025870520193b67ca76aeff385c0a8b2f63188a0ebb713b3307c2ef1663",
+  "sha256_candidato": "436535089ac73e143e170d8a89beafee146b4676a32d5c0744541bcc2aa7331d",
+  "sha256_corpo_intocado": "6aa3393726ed8f7bdb51712bdf26d358d8c14c35fce537c6c2b4bd745929ee08",
+  "alteracao": "Apenas campo YAML editorial atribuído às fontes; ementa 1990 e corpo 1900 preservados. Nenhuma promoção executada.",
+  "fontes": {
+    "path": "federal/decretos/1907/dec-6613-1907-08-22.md",
+    "urn": "urn:lex:br:federal:decreto:1907-08-22;6613",
+    "indice": {
+      "id": "577339",
+      "tipo": "DEC-n",
+      "descricao": "Decreto Numerado",
+      "numero": "6613",
+      "norma": "DEC-6613-1907-08-22",
+      "normaNome": "Decreto nº 6.613 de 22/08/1907",
+      "ementa": "ABRE, AO MINISTÉRIO DA INDÚSTRIA, VIAÇÃO E OBRAS PÚBLICAS, O CRÉDITO EXTRAORDINÁRIO DE 8:083$690 PARA PAGAMENTO DE OBRAS EXECUTADAS EM 1990 PELA COMPANHIA \"RIO DE JANEIRO CITY IMPROVEMENTS\".",
+      "dataassinatura": "22/08/1907",
+      "anoassinatura": "1907",
+      "apelido": "DEC-6613-1907-08-22"
+    },
+    "estado": "fonte_capturada_para_QA",
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1907-08-22;6613&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-28T16:59:43.406866+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/requests/7ce1dd66c63d7d07504dfd57fb13195e8b9e974e89a1bb3d1cf79b096b522570.raw.gz",
+      "sha256_raw": "de1e168e47845ac33b509275300f5b4a16fee52442575809349fbaa2ff16d2c4",
+      "bytes": 2672
+    },
+    "texto": {
+      "url": "https://normas.leg.br/api/public/binario/8313c4d6-3526-4bc8-9631-632f7cec5eca/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-28T16:59:45.129125+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/requests/922b97ceaf577f78efc73f721d936e6e79ea546517a76c4c0731b74c2a693590.raw.gz",
+      "sha256_raw": "0ba2613326e124b7458b016aded7b1310dd472fd12ccf52f9d0e9199f079e5ee",
+      "bytes": 8385
+    },
+    "encoding_escolhido": {
+      "datePublished": "1907-12-31",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "contentUrl": "https://normas.leg.br/api/binario/8313c4d6-3526-4bc8-9631-632f7cec5eca/texto",
+      "@type": "LegislationObject",
+      "name": "Publicação Original [Decreto nº 6.613 de 22/08/1907]  [Coleção de Leis do Brasil  de 31/12/1907 - vol.  002] (p. 1564, col. 1)",
+      "legislationLegalValue": "UnofficialLegalValue",
+      "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+      "publisher": {
+        "@type": "GovernmentOrganization",
+        "@id": "https://www.congressonacional.leg.br/"
+      },
+      "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1907-08-22;6613@1907-08-22~texto;pt$text-html",
+      "version": "Original"
+    },
+    "tipo_real": "HTML",
+    "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+  },
+  "mapa_antecedente": {
+    "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/pacote_final001/mapa_fontes.json",
+    "sha256": "3ac6200e828b4fac564637d5729cbe25ec5aafb0711353a61506e2bfd4badd3b"
+  },
+  "validacao_formato": {
+    "erros": [],
+    "avisos": []
+  }
+}
