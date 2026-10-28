@@ -1,0 +1,29 @@
+{
+  "municipio": "Belo Horizonte",
+  "uf": "MG",
+  "codigo_ibge": "3106200",
+  "tipo": "Lei Orgânica",
+  "categoria": "lei-organica",
+  "numero": "",
+  "data": "1990-03-21",
+  "titulo": "Lei Orgânica do Município de Belo Horizonte, de 21 de março de 1990",
+  "slug": "lei-organica-belo-horizonte-1990",
+  "cache": "belo-horizonte-organica.doc",
+  "fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei-organica",
+  "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76a0ee650c01a0fc97127701cf",
+  "versao_texto": "compilação oficial da Câmara Municipal de Belo Horizonte (LOMBH-atual.doc no SIL), atualizada até setembro/2026, inclusive a Emenda nº 45, de 23/9/2026; promulgação 21/03/1990 e publicação 22/03/1990; não certifica atualização posterior",
+  "marcas_obrigatorias": [
+    "LEI ORGÂNICA DO MUNICÍPIO DE BELO HORIZONTE",
+    "Belo Horizonte, 21 de março de 1990",
+    "O Município de Belo Horizonte integra, com autonomia político-administrativa",
+    "Atualizada até setembro/2026"
+  ],
+  "arquivo": "municipais/MG/belo-horizonte/lei-organica/1990/lei-organica-belo-horizonte-1990.md",
+  "sha256": "751948ab59af8b1f65d5778ecb45132b6b096fc1c8dacae7741894ffce0f6679",
+  "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/belo-horizonte-organica.doc",
+  "sha256_fonte": "935c44b2ee4d91cd6eccd230b3808632943d416c213d932d4174df2b05256606",
+  "sha256_corpo": "a4bf7ce06cc1431e86f5d10af6399bba93e58a634edbe273eb5ca72858a3bb21",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "verificado_em": "2026-10-28T19:08:25.044914",
+  "observacao": "Compilação individual oficial; emendas anexas preservadas no mesmo documento, sem aumento artificial da contagem."
+}

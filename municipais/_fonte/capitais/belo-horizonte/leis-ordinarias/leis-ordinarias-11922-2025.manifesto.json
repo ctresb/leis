@@ -1,0 +1,36 @@
+{
+  "municipio": "Belo Horizonte",
+  "uf": "MG",
+  "codigo_ibge": "3106200",
+  "tipo": "Lei Ordinária",
+  "categoria": "leis-ordinarias",
+  "numero": "11922",
+  "data": "2025-11-14",
+  "data_publicacao": "2025-11-15",
+  "titulo": "Lei nº 11.922, de 14 de novembro de 2025",
+  "slug": "leis-ordinarias-11922-2025",
+  "arquivo_sil": "lei11922.doc",
+  "ementa_sil": "Autoriza a desafetação e a alienação do bem imóvel que especifica.",
+  "fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei/11922/2025",
+  "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f769a916734019a9171dec10003",
+  "sil_id_doc_da_norma": "2c907f769a916734019a9171dec10003",
+  "sil_tipo_id": "2c907f78064b443701064b444c020008",
+  "arquivo": "municipais/MG/belo-horizonte/leis-ordinarias/2025/leis-ordinarias-11922-2025.md",
+  "sha256": "1fc695dc8e73bbdcf46451858d89169b8a830d387f981cd118332b417182712d",
+  "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/leis-ordinarias/leis-ordinarias-11922-2025.doc",
+  "sha256_fonte": "708fd565669d217d14f83ae9adc81a30cd0585cb3bbd6b8a3bb766181bc9dcf4",
+  "sha256_corpo": "839f1a95cdb4682560aa301246936f07a9fbb69e8330e80ac0a98ac4e8531017",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "verificado_em": "2026-10-28T21:17:14.414089",
+  "anexos": [
+    {
+      "nome": "lei11922-anexo.pdf",
+      "sil_id_doc_da_norma": "2c907f769a916734019a9171f45b0006",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f769a916734019a9171f45b0006",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/leis-ordinarias/lei11922-anexo.pdf",
+      "sha256_fonte": "c284a00869071242641717add824b3922fb4cae05762591a46e2159982ec192e",
+      "bytes": 2400848
+    }
+  ],
+  "observacao": "Varredura nº a nº no SIL (listagem só por ano vazia); somente leis promulgadas; anexos são binários da mesma norma."
+}
