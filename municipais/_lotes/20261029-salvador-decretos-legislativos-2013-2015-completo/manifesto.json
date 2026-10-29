@@ -1,0 +1,58 @@
+{
+  "municipio": "Salvador",
+  "uf": "BA",
+  "codigo_ibge": "2927408",
+  "fonte_api": "https://portal-api.dioly.com.br/api/diarios/",
+  "rps": 2.0,
+  "consultas": [],
+  "completo": true,
+  "intervalo": [
+    "2013-01-01",
+    "2015-12-31"
+  ],
+  "tipo": "DOL",
+  "extrator": "dioly-raw-v2",
+  "extrator_geometria": "geometria-colunas-v2",
+  "sha256_geometria": "3d954c48700d49328c6d71f3d841cfc40394642e81e338c23d7c27cae175dcd5",
+  "sha256_classificador": "a675bc6957ff8810538990f748e1a1d37fa7cf28a7db2d76f0c37d151721908a",
+  "edicoes": 693,
+  "so_cache": false,
+  "rps_max": 2,
+  "modo": "decretos-legislativos",
+  "contagens": {
+    "sem_ato_promulgado": 679,
+    "ok": 13,
+    "sem_texto": 1
+  },
+  "arquivos": [
+    "municipais/BA/salvador/decretos-legislativos/2013/decretos-legislativos-951-2013-dol-4050-dl-951.md",
+    "municipais/BA/salvador/decretos-legislativos/2013/decretos-legislativos-953-2013-dol-4058-dl-953.md",
+    "municipais/BA/salvador/decretos-legislativos/2013/decretos-legislativos-954-2013-dol-4087-dl-954.md",
+    "municipais/BA/salvador/decretos-legislativos/2013/decretos-legislativos-955-2013-dol-4156-dl-955.md",
+    "municipais/BA/salvador/decretos-legislativos/2013/decretos-legislativos-956-2013-dol-4218-dl-956.md",
+    "municipais/BA/salvador/decretos-legislativos/2014/decretos-legislativos-957-2014-dol-4299-dl-957.md",
+    "municipais/BA/salvador/decretos-legislativos/2015/decretos-legislativos-958-2015-dol-4481-dl-958.md",
+    "municipais/BA/salvador/decretos-legislativos/2015/decretos-legislativos-959-2015-dol-4557-dl-959.md",
+    "municipais/BA/salvador/decretos-legislativos/2015/decretos-legislativos-960-2015-dol-4557-dl-960.md",
+    "municipais/BA/salvador/decretos-legislativos/2015/decretos-legislativos-961-2015-dol-4557-dl-961.md",
+    "municipais/BA/salvador/decretos-legislativos/2015/decretos-legislativos-962-2015-dol-4586-dl-962.md"
+  ],
+  "numeros": [
+    "951/2013",
+    "953/2013",
+    "954/2013",
+    "955/2013",
+    "956/2013",
+    "957/2014",
+    "958/2015",
+    "959/2015",
+    "960/2015",
+    "961/2015",
+    "962/2015"
+  ],
+  "ja_existiam": 2,
+  "novos": [],
+  "descartes": [],
+  "observacao": "Só atos promulgados pela Mesa da CMS (epígrafe em linha própria, Art. 1º, fórmula promulga/faz saber, Sala das Sessões datada no ano da epígrafe e até 1 ano antes da edição). Projetos, indicações, citações em ata/expediente e reproduções antigas não entram. Recorte termina nas assinaturas da Mesa.",
+  "baixado_em": "2026-10-29"
+}
