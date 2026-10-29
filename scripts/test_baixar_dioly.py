@@ -5,7 +5,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from baixar_dioly import (
     blocos_emenda, eh_promulgada, data_do_bloco, titulo_do_bloco, gravar_emenda,
     recortar_ato, EPIGRAFE, SALA, blocos_lc, eh_lc_promulgada, data_do_gabinete,
-    titulo_lc, caminho_pdf, nota_lc,
+    titulo_lc, caminho_pdf, nota_lc, blocos_lo, lo_contemporanea, titulo_lo, marcar_ilegivel,
 )
 
 ELO_2013 = """
@@ -279,6 +279,40 @@ Abre crédito.
 """
 
 
+LO_9831 = """
+EXECUTIVO
+LEIS
+LEI Nº 9.831/2025
+Confere ao advogado constituído prerrogativas.
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA,
+Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+Art. 1º Esta Lei dispõe sobre a juntada de documentos por advogados.
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+GABINETE DO PREFEITO DO MUNICÍPIO DO SALVADOR, em 11 de março de 2025.
+BRUNO SOARES REIS
+Prefeito
+LEI COMPLEMENTAR Nº 090/2025
+Altera a Lei Complementar nº 36.
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA,
+Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+Art. 1º Fica alterado.
+GABINETE DO PREFEITO DO MUNICÍPIO DO SALVADOR, em 11 de março de 2025.
+DECRETOS FINANCEIROS
+DECRETO Nº 39.918 de 11 de março de 2025
+Abre crédito. Conforme LEI Nº 7.186/2006 e Lei nº 9.640, de 19 de maio de 2022.
+"""
+
+LO_EDITAL_ANTIGA = """
+ANEXO XI - EDITAL DE CREDENCIAMENTO Nº. 001/2024
+LEI Nº. 9283/2017
+Regula e disciplina o SETAX.
+O PREFEITO MUNICIPAL DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, Faço saber
+que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+Art. 1º Esta Lei disciplina o SETAX.
+GABINETE DO PREFEITO MUNICIPAL DO SALVADOR, em 21 de novembro de 2017.
+"""
+
+
 class DiolyLeisComplementaresTest(unittest.TestCase):
     def test_nao_corta_ementa_que_cita_lei_ordinaria(self):
         achados = blocos_lc(LC_EMENTA_QUEBRA)
@@ -351,6 +385,28 @@ class DiolyLeisComplementaresTest(unittest.TestCase):
                                     "municipais/BA/salvador/leis-complementares/2020/x.md",
                                     dt.date(2026, 10, 28))
             self.assertEqual(erros, [], avisos)
+
+
+class DiolyLeisOrdinariasTest(unittest.TestCase):
+    def test_lo_sancionada_sem_lc_nem_decreto(self):
+        achados = blocos_lo(LO_9831)
+        self.assertEqual([(n, a) for n, a, _ in achados], [("9831", "2025")])
+        bloco = achados[0][2]
+        self.assertIn("Art. 1º", bloco)
+        self.assertNotIn("COMPLEMENTAR", bloco)
+        self.assertNotIn("DECRETO", bloco)
+        self.assertEqual(lo_contemporanea(bloco, "2025", "2025-03-12"), "2025-03-11")
+        self.assertEqual(titulo_lo("9831", "2025-03-11"), "Lei nº 9831, de 11 de março de 2025")
+
+    def test_glifo_sem_unicode_vira_marcador(self):
+        saida = marcar_ilegivel("Art. 1º Texto.\nŶĞǆŽy͗'ƌĂƵĚĞƉůŝĐĂĕĆŽ\nƐƉĞĐŝĂůŝƐƚĂ\nFim.")
+        self.assertEqual(saida.splitlines(),
+                         ["Art. 1º Texto.", "[trecho ilegível no PDF: fonte sem mapa Unicode]", "Fim."])
+
+    def test_lei_antiga_em_edital_descartada(self):
+        achados = blocos_lo(LO_EDITAL_ANTIGA)
+        self.assertEqual([(n, a) for n, a, _ in achados], [("9283", "2017")])
+        self.assertEqual(lo_contemporanea(achados[0][2], "2017", "2024-01-05"), "")
 
 
 if __name__ == "__main__":

@@ -8,6 +8,9 @@ O índice vem de `GET https://portal-api.dioly.com.br/api/diarios/?page=N` (≤2
 `--modo leis-complementares` lê o DOM e fica só com leis complementares sancionadas
 (epígrafe `LEI COMPLEMENTAR Nº`, Art. 1º, sanção, gabinete). Projetos ficam de fora.
 Citações a LC em portaria, contrato ou balanço não entram.
+`--modo leis-ordinarias` lê o DOM e fica só com leis ordinárias sancionadas (epígrafe
+`LEI Nº 9.829/2025` em caixa alta, sem COMPLEMENTAR; Art. 1º, sanção e gabinete do prefeito
+datado até 1 ano antes da edição). Leis antigas reproduzidas em edital/anexo ficam de fora.
 """
 import argparse
 import collections
@@ -50,6 +53,11 @@ CONSULTAS_LC = (
     "sanciono a seguinte Lei Complementar",
     "sanciono a seguinte Lei:",
     "Altera dispositivos da Lei Complementar",
+)
+CONSULTAS_LO = (
+    "sanciono a seguinte Lei:",
+    "Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei",
+    "a seguinte Lei:",
 )
 
 EPIGRAFE = re.compile(
@@ -144,7 +152,7 @@ SANCIONO_LC = re.compile(
 PROJETO_LC = re.compile(r"projeto\s+de\s+lei\s+complementar", re.I)
 GABINETE_LC = re.compile(
     r"GABINETE DO PREFEITO.{0,80},\s*em\s+"
-    r"(?P<dia>\d{1,2})\s+de\s+(?P<mes>\w+)\s+de\s+(?P<ano>\d{4})",
+    r"(?P<dia>\d{1,2})\s+(?:de\s+)?(?P<mes>\w+)\s+de\s+(?P<ano>\d{4})",  # "em 28 março de 2025" (DOM 9001)
     re.I,
 )
 REPUBLICADA = re.compile(r"Republicada por ter sa[ií]do com incorre", re.I)
@@ -817,7 +825,7 @@ def nota_lc(bloco):
     return (1 if REPUBLICADA.search(bloco) else 0, len(bloco))
 
 
-def data_do_gabinete(bloco, data_edicao):
+def data_do_gabinete(bloco, data_edicao, folga=3):
     achadas = []
     for m in GABINETE_LC.finditer(bloco):
         mes = MESES.get(m.group("mes").lower())
@@ -832,7 +840,7 @@ def data_do_gabinete(bloco, data_edicao):
                 limite = dt.date.fromisoformat(data_edicao)
             except ValueError:
                 limite = d
-            if d > limite + dt.timedelta(days=3):
+            if d > limite + dt.timedelta(days=folga):
                 continue
         achadas.append(d)
     return achadas[0].isoformat() if achadas else ""
@@ -874,6 +882,131 @@ def processar_edicao_lc(item, pdf_path, bruto):
 
 def gravar_lc(destino, meta, corpo):
     return gravar_emenda(destino, meta, corpo)
+
+
+# --- leis ordinárias (DOM) ---------------------------------------------------------------
+EPIGRAFE_LO = re.compile(
+    r"^LEI\s+N\s*[ºo°]?\s*\.?\s*(?P<num>\d{1,2}\.?\d{3})\s*"
+    r"(?:/\s*(?P<ano>\d{4})|,?\s+DE\s+\d{1,2}\s+DE\s+[A-ZÇ]+\s+DE\s+(?P<ano2>\d{4}))[ \t]*$",
+    re.M,
+)
+PROJETO_LO = re.compile(r"projeto\s+de\s+lei", re.I)
+SANCIONO_LO = re.compile(r"sanciono a(?:\s+seguinte)?\s+Lei\s*:|decreta e eu sanciono a seguinte Lei", re.I)
+ATO_MAIUSCULO = re.compile(r"^[A-ZÇÃÕÉÍÓÚÂÊ]{3,}")
+GLIFO_QUEBRADO = re.compile(r"[\u0180-\u03ff\ufffd\x01-\x08\x0e-\x1f]")
+ILEGIVEL = "[trecho ilegível no PDF: fonte sem mapa Unicode]"
+
+
+def marcar_ilegivel(bloco):
+    """Troca linhas com glifos sem ToUnicode (ex. `ŶĞǆŽ`) por um marcador; não reconstrói texto."""
+    linhas = []
+    for ln in bloco.splitlines():
+        s = ln.strip()
+        ruins = len(GLIFO_QUEBRADO.findall(s))
+        if ruins and (ruins == len(s) or (ruins >= 2 and ruins >= 0.1 * len(s))):
+            if linhas and linhas[-1] == ILEGIVEL:
+                continue
+            linhas.append(ILEGIVEL)
+            continue
+        linhas.append(ln)
+    return "\n".join(linhas)
+
+
+def numero_lo(m):
+    return str(int(m.group("num").replace(".", ""))), m.group("ano") or m.group("ano2")
+
+
+def eh_epigrafe_ato_lo(texto, ini, m):
+    """Linha inteira `LEI Nº N/AAAA` em caixa alta; nunca COMPLEMENTAR, nunca projeto."""
+    linha = m.group(0)
+    if "COMPLEMENTAR" in linha.upper():
+        return False
+    if PROJETO_LO.search(texto[max(0, ini - 40):ini]):
+        return False
+    return True
+
+
+def eh_lo_promulgada(bloco):
+    cabeca = "\n".join(bloco.splitlines()[:3])
+    if re.search(r"COMPLEMENTAR", cabeca, re.I) and EPIGRAFE_LC.search(cabeca):
+        return False
+    if PROJETO_LO.search(cabeca):
+        return False
+    if not EPIGRAFE_LO.search(bloco):
+        return False
+    if not ARTIGO.search(bloco):
+        return False
+    gab = GABINETE_LC.search(bloco)
+    if not gab:
+        return False
+    # Algumas leis saem no DOM sem a fórmula de sanção (DOM 9007, 9181, 9185); vale então
+    # o fecho do gabinete assinado pelo Prefeito logo abaixo.
+    if not SANCIONO_LO.search(bloco) and not re.search(
+            r"^\s*Prefeito\s*$", bloco[gab.end():gab.end() + 160], re.I | re.M):
+        return False
+    return True
+
+
+def blocos_lo(texto):
+    """Recorta cada lei ordinária sancionada da epígrafe em caixa alta até o próximo ato."""
+    saida = []
+    for m in EPIGRAFE_LO.finditer(texto):
+        ini = m.start()
+        if not eh_epigrafe_ato_lo(texto, ini, m):
+            continue
+        num, ano = numero_lo(m)
+        fim = len(texto)
+        for n in INICIO_LC.finditer(texto, m.end()):
+            if n.start() < m.end() + 10 or not ATO_MAIUSCULO.match(texto[n.start():n.start() + 8]):
+                continue
+            em = EPIGRAFE_LO.match(texto, n.start())
+            if em and numero_lo(em) == (num, ano):
+                continue
+            fim = n.start()
+            break
+        bloco = marcar_ilegivel(limpar_bloco_lc(recortar_lc(texto[ini:fim])))
+        if eh_lo_promulgada(bloco):
+            saida.append((num, ano, bloco))
+    por = {}
+    for num, ano, bloco in saida:
+        chave = (num, ano)
+        if chave not in por or len(bloco) > len(por[chave][2]):
+            por[chave] = (num, ano, bloco)
+    return [por[k] for k in sorted(por, key=lambda x: (x[1], int(x[0])))]
+
+
+def lo_contemporanea(bloco, ano, data_edicao, folga_dias=366):
+    """Gabinete datado no ano da lei e até `folga_dias` antes da edição (barra lei antiga em edital).
+
+    Edições de feriado cobrem vários dias ("02 Á 06 DE ABRIL"); a API dá só o primeiro, então o
+    gabinete pode cair até 10 dias depois de `data_publicacao`.
+    """
+    data = data_do_gabinete(bloco, data_edicao, folga=10)
+    if not data or data[:4] != ano:
+        return ""
+    if data_edicao:
+        try:
+            if dt.date.fromisoformat(data) < dt.date.fromisoformat(data_edicao) - dt.timedelta(days=folga_dias):
+                return ""
+        except ValueError:
+            return ""
+    return data
+
+
+def titulo_lo(numero, data):
+    return titulo_lc(numero, data).replace("Lei Complementar", "Lei", 1)
+
+
+def extrair_lo(pdf):
+    for fn in (texto_raw, texto_layout):
+        try:
+            texto = juntar_hifen(fn(pdf))
+        except (subprocess.CalledProcessError, subprocess.TimeoutExpired, RuntimeError):
+            continue
+        achados = blocos_lo(texto)
+        if achados:
+            return achados
+    return []
 
 
 def conferir_ibge(raiz):
@@ -1015,16 +1148,147 @@ def coletar_lc(a, rede, edicoes, pasta_fonte, classificador_sha, hoje):
     return 0
 
 
+def persistir_lo(pasta_md, item, num, ano_ep, bloco, data, sha_pdf, classificador_sha, hoje):
+    data_edicao = item.get("data_publicacao") or ""
+    ano = (data or ano_ep)[:4]
+    corpo = corpo_markdown(bloco)
+    if len(re.sub(r"\W", "", corpo)) < 80:
+        return None
+    edicao = numero_edicao(item)
+    codigo = "%s-%s-LO-%s" % (item.get("tipo") or "DOM", edicao, num)
+    slug = slugify("leis-ordinarias-%s-%s-%s" % (num, ano, codigo.lower()))[:110]
+    destino = pasta_md / ano / (slug + ".md")
+    meta = {
+        "titulo": titulo_lo(num, data),
+        "tipo": CANONICO["lei ordinaria"][1],
+        "tipo_na_fonte": "Lei Ordinária",
+        "numero": num,
+        "data": data,
+        "ano": ano,
+        "municipio": MUNICIPIO,
+        "uf": UF,
+        "codigo_ibge": IBGE_SALVADOR,
+        "revogada": None,
+        "versao_texto": "publicação original no Diário Oficial do Município (CMS/Dioly)"
+        + ("; republicada por incorreção" if REPUBLICADA.search(bloco) else ""),
+        "extrator": EXTRATOR,
+        "sha256_classificador": classificador_sha,
+        "sha256_extrator_geometria": SHA_GEOMETRIA,
+        "sha256_pdf": sha_pdf,
+        "sha256_texto": hashlib.sha256(corpo.encode()).hexdigest(),
+        "publicacao": "%s nº %s de %s" % (
+            item.get("tipo") or "DOM", edicao,
+            dt.date.fromisoformat(data_edicao).strftime("%d/%m/%Y") if data_edicao else ""),
+        "data_publicacao": data_edicao,
+        "codigo_identificador": codigo,
+        "fonte": item["pdf_url"],
+        "baixado_em": hoje,
+    }
+    if destino.exists():
+        destino.unlink()
+    gravar_emenda(destino, meta, corpo)
+    return destino
+
+
+def coletar_lo(a, rede, edicoes, pasta_fonte, classificador_sha, hoje):
+    pasta_md = RAIZ / "municipais" / UF / "salvador" / "leis-ordinarias"
+    lote = RAIZ / ("municipais/_lotes/%s-salvador-leis-ordinarias" % hoje.replace("-", ""))
+    lote.mkdir(parents=True, exist_ok=True)
+    gravar_json(lote / "edicoes.json", edicoes)
+    falhas_path = lote / "falhas.jsonl"
+    falhas_path.write_text("")
+    cont = collections.Counter()
+    por_chave = {}
+    descartes = []
+    with falhas_path.open("a", encoding="utf-8") as falhas:
+        for n, item in enumerate(edicoes, 1):
+            pdf = caminho_pdf(pasta_fonte, item)
+            try:
+                bruto, _cache = baixar_pdf(rede, item, pdf)
+                achados, falha = [], None
+                amostra = texto_raw(pdf)
+                if pdf_escaneado(amostra) and len(re.sub(r"\W", "", amostra)) < 80:
+                    falha = {"status": "sem_texto", "motivo": "PDF sem texto legível", "edicao": item["id"]}
+                else:
+                    achados = extrair_lo(pdf)
+            except Exception as e:
+                falha = {"status": "erro", "edicao": item.get("id"), "data": item.get("data_publicacao"),
+                         "fonte": item.get("pdf_url"), "erro": str(e)[:400]}
+                achados = []
+            if falha:
+                falhas.write(json.dumps(falha, ensure_ascii=False) + "\n")
+                falhas.flush()
+                cont[falha.get("status", "erro")] += 1
+                continue
+            data_edicao = item.get("data_publicacao") or ""
+            validos = []
+            for num, ano, bloco in achados:
+                data = lo_contemporanea(bloco, ano, data_edicao)
+                if not data:
+                    descartes.append({"numero": num, "ano": ano, "edicao": numero_edicao(item),
+                                      "motivo": "gabinete ausente/fora do ano ou antigo (edital/anexo)"})
+                    continue
+                validos.append((num, ano, bloco, data))
+            if not validos:
+                cont["sem_lo_sancionada"] += 1
+            else:
+                cont["ok"] += 1
+                sha_pdf = hashlib.sha256(bruto).hexdigest()
+                for num, ano, bloco, data in validos:
+                    chave = (num, ano)
+                    nota = nota_lc(bloco) + (data_edicao,)
+                    atual = por_chave.get(chave)
+                    if atual is not None and nota <= atual[0]:
+                        continue
+                    destino = persistir_lo(pasta_md, item, num, ano, bloco, data, sha_pdf,
+                                           classificador_sha, hoje)
+                    if destino is None:
+                        continue
+                    if atual is not None:
+                        antigo = atual[1]
+                        if antigo != destino and Path(antigo).exists():
+                            Path(antigo).unlink()
+                    por_chave[chave] = (nota, destino)
+                    print("  LO %s/%s → %s" % (num, ano, destino.relative_to(RAIZ)), flush=True)
+            if n % 10 == 0 or n == len(edicoes):
+                print("[%s/%s] %s chaves=%s" % (n, len(edicoes), dict(cont), len(por_chave)), flush=True)
+    ordem = sorted(por_chave, key=lambda x: (x[1], int(x[0])))
+    gravados = [str(por_chave[k][1]) for k in ordem]
+    manifesto = {
+        "municipio": MUNICIPIO, "uf": UF, "codigo_ibge": IBGE_SALVADOR,
+        "fonte_api": API, "rps": a.rps, "consultas": [] if a.completo else list(CONSULTAS_LO),
+        "completo": bool(a.completo),
+        "intervalo": [a.de, a.ate], "tipo": a.tipo, "extrator": EXTRATOR,
+        "extrator_geometria": EXTRATOR_GEOMETRIA, "sha256_geometria": SHA_GEOMETRIA,
+        "sha256_classificador": classificador_sha, "edicoes": len(edicoes),
+        "so_cache": bool(a.so_cache), "rps_max": 2, "modo": "leis-ordinarias",
+        "contagens": dict(cont), "arquivos": [str(Path(p).relative_to(RAIZ)) for p in gravados],
+        "numeros": ["%s/%s" % k for k in ordem],
+        "descartes": descartes,
+        "observacao": (
+            "Só leis sancionadas pelo prefeito (epígrafe LEI Nº em caixa alta, Art. 1º, sanção, "
+            "gabinete). Leis promulgadas pela Câmara (veto derrubado), projetos, citações e leis "
+            "antigas reproduzidas em edital/anexo não entram."
+        ),
+        "baixado_em": hoje,
+    }
+    gravar_json(lote / "manifesto.json", manifesto)
+    (lote / "lista.txt").write_text("\n".join(manifesto["arquivos"]) + ("\n" if gravados else ""))
+    print("gravadas", len(gravados), "em", pasta_md, flush=True)
+    return 0
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--indice", type=Path, help="JSON local (lista de edições). Sem isso, consulta a API.")
     ap.add_argument("--atualizar-indice", action="store_true",
                     help="varre todas as páginas da API e grava --indice")
-    ap.add_argument("--tipo", default="DOL")
+    ap.add_argument("--tipo", default=None, help="DOL (emendas) ou DOM (LC/LO); padrão conforme --modo")
     ap.add_argument("--de", default="2010-01-01")
     ap.add_argument("--ate", default="2026-12-31")
     ap.add_argument("--rps", type=float, default=2)
-    ap.add_argument("--modo", choices=("emendas", "leis-complementares"), default="emendas")
+    ap.add_argument("--modo", choices=("emendas", "leis-complementares", "leis-ordinarias"),
+                    default="emendas")
     ap.add_argument("--completo", action="store_true",
                     help="baixa todo DOL no intervalo, sem filtro q= (milhares de PDFs)")
     ap.add_argument("--so-cache", action="store_true",
@@ -1032,12 +1296,15 @@ def main(argv=None):
     ap.add_argument("--limite", type=int, default=0)
     ap.add_argument("--listar", action="store_true")
     a = ap.parse_args(argv)
+    if a.tipo is None:
+        a.tipo = "DOL" if a.modo == "emendas" else "DOM"
     if not 0 < a.rps <= 2:
         ap.error("--rps máximo 2")
     conferir_ibge(RAIZ)
     rede = Rede(rps=a.rps)
     pasta_fonte = RAIZ / "municipais/_fonte/dioly/salvador"
-    consultas = CONSULTAS_LC if a.modo == "leis-complementares" else CONSULTAS_PADRAO
+    consultas = {"leis-complementares": CONSULTAS_LC,
+                 "leis-ordinarias": CONSULTAS_LO}.get(a.modo, CONSULTAS_PADRAO)
     if a.atualizar_indice:
         if not a.indice:
             ap.error("--atualizar-indice exige --indice")
@@ -1073,6 +1340,8 @@ def main(argv=None):
     hoje = dt.date.today().isoformat()
     if a.modo == "leis-complementares":
         return coletar_lc(a, rede, edicoes, pasta_fonte, classificador_sha, hoje)
+    if a.modo == "leis-ordinarias":
+        return coletar_lo(a, rede, edicoes, pasta_fonte, classificador_sha, hoje)
 
     pasta_md = RAIZ / "municipais" / UF / "salvador" / "emendas-lei-organica"
     falhas_path = RAIZ / "municipais/BA/salvador/_falhas.jsonl"
