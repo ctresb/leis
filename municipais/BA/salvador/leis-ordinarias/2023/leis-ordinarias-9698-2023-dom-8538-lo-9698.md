@@ -1,0 +1,43 @@
+---
+titulo: "Lei nº 9698, de 17 de maio de 2023"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "9698"
+data: 2023-05-17
+ano: "2023"
+municipio: "Salvador"
+uf: "BA"
+codigo_ibge: "2927408"
+revogada: null
+versao_texto: "publicação original no Diário Oficial do Município (CMS/Dioly)"
+extrator: "dioly-raw-v2"
+sha256_classificador: "21dff5e46a840bc9d87c9c81a0e8753e03ca0a7e50c98a0393dc479b5644c163"
+sha256_extrator_geometria: "3d954c48700d49328c6d71f3d841cfc40394642e81e338c23d7c27cae175dcd5"
+sha256_pdf: "e61843e3f3151bc0063681dc1451d914a32f66b23206e828843af0940bdcbb71"
+sha256_texto: "9370eddcc2f6e8a734fa6e2479d310a2f681b65d573a83cff967ee99888fd746"
+publicacao: "DOM nº 8538 de 18/05/2023"
+data_publicacao: 2023-05-18
+codigo_identificador: "DOM-8538-LO-9698"
+fonte: "https://portal-api.dioly.com.br/uploads/pdfs/52942fa0-b6ac-43f8-8872-2491a7e95a3c_dom-8538-18-05-2023.pdf"
+baixado_em: 2026-10-28
+---
+
+# Lei nº 9698, de 17 de maio de 2023
+
+LEI Nº 9.698 /2023 Altera os Anexos III-A, III-B e I-C da Lei Municipal nº 9.626, de 3 de março de 2022. O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** Os Anexos III-A, III-B e I-C da Lei Municipal nº 9.626, de 3 de março de 2022, passam a viger de acordo com as tabelas constantes no Anexo Único desta Lei.
+
+**Parágrafo único.** Esta Lei se aplica aos servidores do Quadro de Pessoal efetivo ativos, inativos e pensionistas da Câmara Municipal de Salvador.
+
+**Art. 2º** As despesas decorrentes desta Lei correrão à conta da verba própria do orçamento vigente.
+
+**Art. 3º** As alterações a que se refere o art. 1º desta Lei são relativas à revisão geral anual disciplinada no art. 37, inciso X, da Constituição Federal, não importando, portanto, em reajuste real, mas em mera e parcial recomposição salarial.
+
+**Art. 4º** Esta Lei entra em vigor na data de sua publicação, retroagindo seus efeitos a 1º de maio de 2023. GABINETE DO PREFEITO DO MUNICÍPIO DO SALVADOR, em 17 de maio de 2023 . BRUNO SOARES REIS Prefeito CARLOS FELIPE VAZQUEZ DE SOUZA LEÃO Secretário de Governo
+
+ANEXO III - A: Tabelas de Vencimento de Cargos Efetivos Classe Grupo 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 4 R$ 3.272,33 R$ 3.403,22 R$ 3.539,36 R$ 3.680,93 R$ 3.828,17 R$ 3.981,30 R$ 4.140,54 R$ 4.306,16 R$ 4.478,40 R$ 4.657,54 R$ 4.843,85 R$ 5.037,61 R$ 5.239,11 R$ 5.448,68 R$ 5.666,63 R$ 5.893,30 R$ 6.129,03 Crescimento Horizontal 4,0% 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 R$ 6.374,19 R$ 6.629,17 R$ 6.894,34 R$ 7.170,11 R$ 7.456,91 R$ 7.755,19 R$ 8.065,40 R$ 8.388,01 R$ 8.723,54 R$ 9.072,48 R$ 9.435,38 R$ 9.812,79 R$ 10.205,31 R$ 10.613,52 R$ 11.038,05 R$ 11.479,58 R$ 11.938,76 R$ 12.416,31 Carreira Nível Analista (composta pelos cargos de Analista Legislativo Municipal e de Analista de Tecnologia da Informação) Classe Grupo 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 4 R$ 3.272,33 R$ 3.403,22 R$ 3.539,36 R$ 3.680,93 R$ 3.828,17 R$ 3.981,30 R$ 4.140,54 R$ 4.306,16 R$ 4.478,40 R$ 4.657,54 R$ 4.843,85 R$ 5.037,61 R$ 5.239,11 R$ 5.448,68 R$ 5.666,63 R$ 5.893,30 R$ 6.129,03 Crescimento Horizontal 4,0% 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 R$ 6.374,19 R$ 6.629,17 R$ 6.894,34 R$ 7.170,11 R$ 7.456,91 R$ 7.755,19 R$ 8.065,40 R$ 8.388,01 R$ 8.723,54 R$ 9.072,48 R$ 9.435,38 R$ 9.812,79 R$ 10.205,31 R$ 10.613,52 R$ 11.038,05 R$ 11.479,58 R$ 11.938,76 R$ 12.416,31 Carreira Nível Assistente (composta pelos cargos de Assistente Legislativo Municipal, Técnico em Enfermagem e Auxiliar em Saúde Bucal) Classe Grupo 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 4 R$ 2.051,62 R$ 2.133,68 R$ 2.219,03 R$ 2.307,78 R$ 2.400,10 R$ 2.496,11 R$ 2.595,95 R$ 2.699,78 R$ 2.807,77 R$ 2.920,08 R$ 3.036,88 R$ 3.158,36 R$ 3.284,69 R$ 3.416,08 R$ 3.552,73 R$ 3.694,83 R$ 3.842,62 Crescimento Horizontal 4,0% 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 R$ 3.996,33 R$ 4.156,18 R$ 4.322,43 R$ 4.495,33 R$ 4.675,14 R$ 4.862,15 R$ 5.056,64 R$ 5.258,91 R$ 5.469,27 R$ 5.688,03 R$ 5.915,56 R$ 6.152,19 R$ 6.398,27 R$ 6.654,20 R$ 6.920,37 R$ 7.197,19 R$ 7.485,08 R$ 7.784,48 Carreira Nível Auxiliar (composta pelo cargo de Auxiliar Legislativo Municipal) Classe Grupo 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 4 R$ 1.286,29 R$ 1.337,74 R$ 1.391,24 R$ 1.446,89 R$ 1.504,77 R$ 1.564,96 R$ 1.627,55 R$ 1.692,66 R$ 1.760,37 R$ 1.830,78 R$ 1.904,01 R$ 1.980,17 R$ 2.059,38 R$ 2.141,76 R$ 2.227,42 R$ 2.316,52 R$ 2.409,18 Crescimento Horizontal 4,0% 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 R$ 2.505,55 R$ 2.605,77 R$ 2.710,00 R$ 2.818,40 R$ 2.931,14 R$ 3.048,38 R$ 3.170,31 R$ 3.297,13 R$ 3.429,01 R$ 3.566,18 R$ 3.708,83 R$ 3.857,18 R$ 4.011,47 R$ 4.171,93 R$ 4.338,81 R$ 4.512,36 R$ 4.692,85 R$ 4.880,56 Carreira Nível Especialista (composta pelos cargos específicos de Arquiteto, Engenheiro Civil, Assistente Social, Odontólogo, Médico, Enfermeiro e Advogado Legislativo, antigo Consultor Jurídico) A B C A B C D E F G A B C D E F G A B C D E F G D E F G 1 2 3 4 5 6 7 8 9 10 11 12 R$ 1.525,78 R$ 1.678,36 R$ 1.846,19 R$ 2.030,81 R$ 2.233,90 R$ 2.457,28 R$ 2.703,01 R$ 2.973,31 R$ 3.270,65 R$ 3.597,72 R$ 3.957,49 R$ 4.353,24 Crescimento Horizontal 10,0% Carreira Nível Analista (composta pelos cargos de Analista Legislativo Municipal e de Analista de Tecnologia da Informação) 1 2 3 4 5 6 7 8 9 10 11 12 R$ 1.525,78 R$ 1.678,36 R$ 1.846,19 R$ 2.030,81 R$ 2.233,90 R$ 2.457,28 R$ 2.703,01 R$ 2.973,31 R$ 3.270,65 R$ 3.597,72 R$ 3.957,49 R$ 4.353,24 Crescimento Horizontal 10,0% 1 2 3 4 5 6 7 8 9 10 11 12 R$ 1.393,90 R$ 1.533,29 R$ 1.686,62 R$ 1.855,28 R$ 2.040,81 R$ 2.244,90 R$ 2.469,38 R$ 2.716,31 R$ 2.987,94 R$ 3.286,74 R$ 3.615,41 R$ 3.976,96 Crescimento Horizontal 10,0% Carreira Nível Auxiliar (composta pelo cargo de Auxiliar Legislativo Municipal) 1 2 3 4 5 6 7 8 9 10 11 12 R$ 1.173,52 R$ 1.290,86 R$ 1.419,95 R$ 1.561,95 R$ 1.718,15 R$ 1.889,97 R$ 2.078,96 R$ 2.286,86 R$ 2.515,54 R$ 2.767,09 R$ 3.043,81 R$ 3.348,19 Crescimento Horizontal 10,0% Carreira Nível Especialista (composta pelos cargos específicos de Arquiteto, Engenheiro Civil, Assistente Social, Odontólogo, Médico, Enfermeiro e Advogado Legislativo, antigo Consultor Jurídico) Carreira Nível Assistente (composta pelos cargos de Assistente Legislativo Municipal, Técnico em Enfermagem e Auxiliar em Saúde Bucal)
+
+Anexo III - B: Tabela de Grat. por Avanço de Competência Função de Confiança Quantitativo Classe Carga Horária Gratificação (R$) Supervisor / Secretário 32 / 06 FC 10 40h 1.803,62 Coordenador 19 FC 20 40h 2.617,38 Assistente Técnico 10 FC 30 40h 4.150,76 Procurador Adjunto 02 FC 30 40h 4.150,76 Procurador Juridico Especial 01 FC 30 40h 4.150,76
+
+Anexo I - C: Quadro de Funções de Confiança
