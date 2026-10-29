@@ -1,0 +1,3092 @@
+[
+  {
+    "id": 5645,
+    "tipo": "DOM",
+    "numero": 7541,
+    "data_publicacao": "2020-01-03",
+    "titulo": "DOM - 7541 - 03/01/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ab261e1e-18d8-41cb-817a-fcf643061139.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ab261e1e-18d8-41cb-817a-fcf643061139_dom-7541-03-01-2020.pdf",
+    "created_at": "2026-10-06T09:50:33.575678"
+  },
+  {
+    "id": 5315,
+    "tipo": "DOM",
+    "numero": 7542,
+    "data_publicacao": "2020-01-04",
+    "titulo": "DOM - 7542 - 04/01/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/a17068db-0966-4b56-804f-c0bdc3e7059a.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/a17068db-0966-4b56-804f-c0bdc3e7059a_dom-7542-04-01-2020.pdf",
+    "created_at": "2026-10-06T09:39:23.781192"
+  },
+  {
+    "id": 5317,
+    "tipo": "DOM",
+    "numero": 7544,
+    "data_publicacao": "2020-01-08",
+    "titulo": "DOM - 7544 - 08/01/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/a2ca1966-1965-47ea-ac0b-cf29419afd53.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/a2ca1966-1965-47ea-ac0b-cf29419afd53_dom-7544-08-01-2020.pdf",
+    "created_at": "2026-10-06T09:39:27.945547"
+  },
+  {
+    "id": 5318,
+    "tipo": "DOM",
+    "numero": 7545,
+    "data_publicacao": "2020-01-09",
+    "titulo": "DOM - 7545 - 09/01/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/263ecee7-2ba5-4c9a-b5af-87f02d88f4ba.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/263ecee7-2ba5-4c9a-b5af-87f02d88f4ba_dom-7545-09-01-2020.pdf",
+    "created_at": "2026-10-06T09:39:29.982174"
+  },
+  {
+    "id": 5319,
+    "tipo": "DOM",
+    "numero": 7546,
+    "data_publicacao": "2020-01-10",
+    "titulo": "DOM - 7546 - 10/01/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/98a90280-ea77-4a93-93c7-0cb9df636e88.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/98a90280-ea77-4a93-93c7-0cb9df636e88_dom-7546-10-01-2020.pdf",
+    "created_at": "2026-10-06T09:39:31.422805"
+  },
+  {
+    "id": 5320,
+    "tipo": "DOM",
+    "numero": 7547,
+    "data_publicacao": "2020-01-11",
+    "titulo": "DOM - 7547 - 11/01/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/a4307966-9054-4336-879d-52f6121fd6ca.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/a4307966-9054-4336-879d-52f6121fd6ca_dom-7547-11-01-2020.pdf",
+    "created_at": "2026-10-06T09:39:35.068914"
+  },
+  {
+    "id": 5323,
+    "tipo": "DOM",
+    "numero": 7550,
+    "data_publicacao": "2020-01-16",
+    "titulo": "DOM - 7550 - 16/01/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/47e5b53f-fbdb-40e8-94b3-730a2f1ad83b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/47e5b53f-fbdb-40e8-94b3-730a2f1ad83b_dom-7550-16-01-2020.pdf",
+    "created_at": "2026-10-06T09:39:40.316462"
+  },
+  {
+    "id": 5325,
+    "tipo": "DOM",
+    "numero": 7552,
+    "data_publicacao": "2020-01-18",
+    "titulo": "DOM - 7552 - 18/01/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/366b0d46-7f0b-4bac-9122-387e9e164720.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/366b0d46-7f0b-4bac-9122-387e9e164720_dom-7552-18-01-2020.pdf",
+    "created_at": "2026-10-06T09:39:43.595881"
+  },
+  {
+    "id": 5326,
+    "tipo": "DOM",
+    "numero": 7553,
+    "data_publicacao": "2020-01-21",
+    "titulo": "DOM - 7553 - 21/01/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/e5ddc1c1-ad9d-4cf6-bc9d-b84878f75cef.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/e5ddc1c1-ad9d-4cf6-bc9d-b84878f75cef_dom-7553-21-01-2020.pdf",
+    "created_at": "2026-10-06T09:39:46.067664"
+  },
+  {
+    "id": 5329,
+    "tipo": "DOM",
+    "numero": 7556,
+    "data_publicacao": "2020-01-24",
+    "titulo": "DOM - 7556 - 24/01/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ba41d94f-82fd-4c6f-abee-3cbf31151e7d.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ba41d94f-82fd-4c6f-abee-3cbf31151e7d_dom-7556-24-01-2020.pdf",
+    "created_at": "2026-10-06T09:39:50.887359"
+  },
+  {
+    "id": 5330,
+    "tipo": "DOM",
+    "numero": 7557,
+    "data_publicacao": "2020-01-25",
+    "titulo": "DOM - 7557 - 25/01/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/fd334e33-c7f9-4174-9de1-9c793b1f1465.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/fd334e33-c7f9-4174-9de1-9c793b1f1465_dom-7557-25-01-2020.pdf",
+    "created_at": "2026-10-06T09:39:53.001963"
+  },
+  {
+    "id": 5331,
+    "tipo": "DOM",
+    "numero": 7558,
+    "data_publicacao": "2020-01-28",
+    "titulo": "DOM - 7558 - 28/01/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/3eaaac74-653f-4ac9-b31d-0d6a89165ad5.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/3eaaac74-653f-4ac9-b31d-0d6a89165ad5_dom-7558-28-01-2020.pdf",
+    "created_at": "2026-10-06T09:39:56.503174"
+  },
+  {
+    "id": 5333,
+    "tipo": "DOM",
+    "numero": 7559,
+    "data_publicacao": "2020-01-29",
+    "titulo": "DOM - 7559 - 29/01/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/1ca8a0e7-46ba-4637-84bd-0f4cc26f9839.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/1ca8a0e7-46ba-4637-84bd-0f4cc26f9839_dom-7559-29-01-2020.pdf",
+    "created_at": "2026-10-06T09:40:03.174635"
+  },
+  {
+    "id": 5334,
+    "tipo": "DOM",
+    "numero": 7561,
+    "data_publicacao": "2020-01-30",
+    "titulo": "DOM - 7561 - 30/01/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/7c4ea088-8198-4c0a-867a-7a98970ad480.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/7c4ea088-8198-4c0a-867a-7a98970ad480_dom-7561-30-01-2020.pdf",
+    "created_at": "2026-10-06T09:40:05.257292"
+  },
+  {
+    "id": 5335,
+    "tipo": "DOM",
+    "numero": 7562,
+    "data_publicacao": "2020-01-31",
+    "titulo": "DOM - 7562 - 31/01/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/8367a3cf-6093-496f-9449-91350554fb04.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/8367a3cf-6093-496f-9449-91350554fb04_dom-7562-31-01-2020.pdf",
+    "created_at": "2026-10-06T09:40:06.925085"
+  },
+  {
+    "id": 5336,
+    "tipo": "DOM",
+    "numero": 7563,
+    "data_publicacao": "2020-02-01",
+    "titulo": "DOM - 7563 - 01/02/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/4b645add-8dca-4c12-b362-6dc18d6f5bac.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/4b645add-8dca-4c12-b362-6dc18d6f5bac_dom-7563-01-02-2020.pdf",
+    "created_at": "2026-10-06T09:40:15.941772"
+  },
+  {
+    "id": 5337,
+    "tipo": "DOM",
+    "numero": 7564,
+    "data_publicacao": "2020-02-04",
+    "titulo": "DOM - 7564 - 04/02/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/b9ad1611-4e3d-4e48-b7c2-535743e7c5f2.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/b9ad1611-4e3d-4e48-b7c2-535743e7c5f2_dom-7564-04-02-2020.pdf",
+    "created_at": "2026-10-06T09:40:19.101608"
+  },
+  {
+    "id": 5338,
+    "tipo": "DOM",
+    "numero": 7565,
+    "data_publicacao": "2020-02-05",
+    "titulo": "DOM - 7565 - 05/02/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/bfc77f25-067b-419c-8864-e341afa033c7.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/bfc77f25-067b-419c-8864-e341afa033c7_dom-7565-05-02-2020.pdf",
+    "created_at": "2026-10-06T09:40:21.018319"
+  },
+  {
+    "id": 5339,
+    "tipo": "DOM",
+    "numero": 7566,
+    "data_publicacao": "2020-02-06",
+    "titulo": "DOM - 7566 - 06/02/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/94489fdd-27af-4837-a1a6-e5ee044a684f.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/94489fdd-27af-4837-a1a6-e5ee044a684f_dom-7566-06-02-2020.pdf",
+    "created_at": "2026-10-06T09:40:25.673555"
+  },
+  {
+    "id": 5340,
+    "tipo": "DOM",
+    "numero": 7567,
+    "data_publicacao": "2020-02-07",
+    "titulo": "DOM - 7567 - 07/02/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/012f287b-010f-4210-a11f-b2ffc8ee6772.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/012f287b-010f-4210-a11f-b2ffc8ee6772_dom-7567-07-02-2020.pdf",
+    "created_at": "2026-10-06T09:40:27.327416"
+  },
+  {
+    "id": 5341,
+    "tipo": "DOM",
+    "numero": 7568,
+    "data_publicacao": "2020-02-08",
+    "titulo": "DOM - 7568 - 08/02/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/4ccfb477-2694-4d91-9327-9a2253c3be5b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/4ccfb477-2694-4d91-9327-9a2253c3be5b_dom-7568-08-02-2020.pdf",
+    "created_at": "2026-10-06T09:40:29.607233"
+  },
+  {
+    "id": 5342,
+    "tipo": "DOM",
+    "numero": 7569,
+    "data_publicacao": "2020-02-11",
+    "titulo": "DOM - 7569 - 11/02/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/195f74b3-a0bf-4462-99af-fb919c1acd0a.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/195f74b3-a0bf-4462-99af-fb919c1acd0a_dom-7569-11-02-2020.pdf",
+    "created_at": "2026-10-06T09:40:32.212586"
+  },
+  {
+    "id": 5343,
+    "tipo": "DOM",
+    "numero": 7570,
+    "data_publicacao": "2020-02-12",
+    "titulo": "DOM - 7570 - 12/02/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/953db0db-b2e7-4118-95f4-d21f316dc722.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/953db0db-b2e7-4118-95f4-d21f316dc722_dom-7570-12-02-2020.pdf",
+    "created_at": "2026-10-06T09:40:34.729445"
+  },
+  {
+    "id": 5344,
+    "tipo": "DOM",
+    "numero": 7571,
+    "data_publicacao": "2020-02-13",
+    "titulo": "DOM - 7571 - 13/02/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/b762bf75-5705-43d1-9e82-8c4e8c83056e.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/b762bf75-5705-43d1-9e82-8c4e8c83056e_dom-7571-13-02-2020.pdf",
+    "created_at": "2026-10-06T09:40:37.586256"
+  },
+  {
+    "id": 5346,
+    "tipo": "DOM",
+    "numero": 7572,
+    "data_publicacao": "2020-02-14",
+    "titulo": "DOM - 7572 - 14/02/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/e1911e76-1ec7-4f4c-ab1b-f4a0aa9b4021.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/e1911e76-1ec7-4f4c-ab1b-f4a0aa9b4021_dom-7572-14-02-2020.pdf",
+    "created_at": "2026-10-06T09:40:40.982359"
+  },
+  {
+    "id": 5347,
+    "tipo": "DOM",
+    "numero": 7574,
+    "data_publicacao": "2020-02-15",
+    "titulo": "DOM - 7574 - 15/02/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ecfe1c05-5ada-410d-b120-598667073d78.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ecfe1c05-5ada-410d-b120-598667073d78_dom-7574-15-02-2020.pdf",
+    "created_at": "2026-10-06T09:40:43.002509"
+  },
+  {
+    "id": 5348,
+    "tipo": "DOM",
+    "numero": 7575,
+    "data_publicacao": "2020-02-18",
+    "titulo": "DOM - 7575 - 18/02/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/df8eaf31-c29a-43ab-83ab-e12f43cabc5e.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/df8eaf31-c29a-43ab-83ab-e12f43cabc5e_dom-7575-18-02-2020.pdf",
+    "created_at": "2026-10-06T09:40:47.722843"
+  },
+  {
+    "id": 5349,
+    "tipo": "DOM",
+    "numero": 7576,
+    "data_publicacao": "2020-02-19",
+    "titulo": "DOM - 7576 - 19/02/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/7d044c1d-6c11-4c02-818e-75e6e8466b98.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/7d044c1d-6c11-4c02-818e-75e6e8466b98_dom-7576-19-02-2020.pdf",
+    "created_at": "2026-10-06T09:40:51.054847"
+  },
+  {
+    "id": 5351,
+    "tipo": "DOM",
+    "numero": 7577,
+    "data_publicacao": "2020-02-20",
+    "titulo": "DOM - 7577 - 20/02/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/e37e2c14-3ad7-4167-87eb-5e76dd017423.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/e37e2c14-3ad7-4167-87eb-5e76dd017423_dom-7577-20-02-2020.pdf",
+    "created_at": "2026-10-06T09:40:55.623390"
+  },
+  {
+    "id": 5350,
+    "tipo": "DOM",
+    "numero": 7578,
+    "data_publicacao": "2020-02-20",
+    "titulo": "DOM - 7578 - 20/02/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/89ab9b6f-c5a2-4c34-8056-a5cbcadfb967.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/89ab9b6f-c5a2-4c34-8056-a5cbcadfb967_dom-7578-20-02-2020.pdf",
+    "created_at": "2026-10-06T09:40:53.549087"
+  },
+  {
+    "id": 5352,
+    "tipo": "DOM",
+    "numero": 7580,
+    "data_publicacao": "2020-02-21",
+    "titulo": "DOM - 7580 - 21/02/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/1d2a272b-743f-4e1a-82f3-d5ac1a4f71cd.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/1d2a272b-743f-4e1a-82f3-d5ac1a4f71cd_dom-7580-21-02-2020.pdf",
+    "created_at": "2026-10-06T09:40:57.434965"
+  },
+  {
+    "id": 5354,
+    "tipo": "DOM",
+    "numero": 7581,
+    "data_publicacao": "2020-02-28",
+    "titulo": "DOM - 7581 - 28/02/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/fa5de946-9720-4348-af9e-ec0a0f4d7af0.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/fa5de946-9720-4348-af9e-ec0a0f4d7af0_dom-7581-28-02-2020.pdf",
+    "created_at": "2026-10-06T09:41:01.625913"
+  },
+  {
+    "id": 5355,
+    "tipo": "DOM",
+    "numero": 7582,
+    "data_publicacao": "2020-02-29",
+    "titulo": "DOM - 7582 - 29/02/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/43468ba3-cfad-425d-8b93-d4e0f334bd43.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/43468ba3-cfad-425d-8b93-d4e0f334bd43_dom-7582-29-02-2020.pdf",
+    "created_at": "2026-10-06T09:41:04.607994"
+  },
+  {
+    "id": 5356,
+    "tipo": "DOM",
+    "numero": 7583,
+    "data_publicacao": "2020-03-03",
+    "titulo": "DOM - 7583 - 03/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/19228b1e-15f9-4968-b6fc-798fc18183c4.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/19228b1e-15f9-4968-b6fc-798fc18183c4_dom-7583-03-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:06.921971"
+  },
+  {
+    "id": 5357,
+    "tipo": "DOM",
+    "numero": 7584,
+    "data_publicacao": "2020-03-04",
+    "titulo": "DOM - 7584 - 04/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/c640af37-6dfe-4009-a1ee-4b7d27d02824.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/c640af37-6dfe-4009-a1ee-4b7d27d02824_dom-7584-04-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:08.519517"
+  },
+  {
+    "id": 5358,
+    "tipo": "DOM",
+    "numero": 7585,
+    "data_publicacao": "2020-03-05",
+    "titulo": "DOM - 7585 - 05/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/9906e92a-39c1-471d-8a55-6d5d748710e1.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/9906e92a-39c1-471d-8a55-6d5d748710e1_dom-7585-05-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:14.528531"
+  },
+  {
+    "id": 5359,
+    "tipo": "DOM",
+    "numero": 7586,
+    "data_publicacao": "2020-03-06",
+    "titulo": "DOM - 7586 - 06/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ac8225d0-4d33-4ee0-89a5-f8c018a71e95.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ac8225d0-4d33-4ee0-89a5-f8c018a71e95_dom-7586-06-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:15.808926"
+  },
+  {
+    "id": 5360,
+    "tipo": "DOM",
+    "numero": 7587,
+    "data_publicacao": "2020-03-07",
+    "titulo": "DOM - 7587 - 07/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/3c63faab-d633-4e5f-8c51-6da0ebdc3a2d.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/3c63faab-d633-4e5f-8c51-6da0ebdc3a2d_dom-7587-07-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:17.064271"
+  },
+  {
+    "id": 5361,
+    "tipo": "DOM",
+    "numero": 7588,
+    "data_publicacao": "2020-03-10",
+    "titulo": "DOM - 7588 - 10/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/50906a72-3a88-4303-aaab-73e65f6f892b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/50906a72-3a88-4303-aaab-73e65f6f892b_dom-7588-10-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:20.261530"
+  },
+  {
+    "id": 5362,
+    "tipo": "DOM",
+    "numero": 7589,
+    "data_publicacao": "2020-03-11",
+    "titulo": "DOM - 7589 - 11/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/1e88686a-b69d-459e-a688-01a826bf1fc0.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/1e88686a-b69d-459e-a688-01a826bf1fc0_dom-7589-11-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:24.666556"
+  },
+  {
+    "id": 5363,
+    "tipo": "DOM",
+    "numero": 7590,
+    "data_publicacao": "2020-03-12",
+    "titulo": "DOM - 7590 - 12/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/5ed51570-dfc6-405e-a56c-b452d722ca85.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/5ed51570-dfc6-405e-a56c-b452d722ca85_dom-7590-12-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:28.064407"
+  },
+  {
+    "id": 5364,
+    "tipo": "DOM",
+    "numero": 7591,
+    "data_publicacao": "2020-03-13",
+    "titulo": "DOM - 7591 - 13/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/e3bd23e3-5474-4d71-b659-07b4b4b3fce2.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/e3bd23e3-5474-4d71-b659-07b4b4b3fce2_dom-7591-13-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:31.620262"
+  },
+  {
+    "id": 5365,
+    "tipo": "DOM",
+    "numero": 7592,
+    "data_publicacao": "2020-03-14",
+    "titulo": "DOM - 7592 - 14/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/4d0f77a6-63a8-4bf1-8c24-5b8f79e3ef28.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/4d0f77a6-63a8-4bf1-8c24-5b8f79e3ef28_dom-7592-14-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:32.673441"
+  },
+  {
+    "id": 5367,
+    "tipo": "DOM",
+    "numero": 7593,
+    "data_publicacao": "2020-03-14",
+    "titulo": "DOM - 7593 - 14/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/1cf3575b-d396-4dbd-8897-d6ba0e7cc283.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/1cf3575b-d396-4dbd-8897-d6ba0e7cc283_dom-7593-14-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:35.110386"
+  },
+  {
+    "id": 5366,
+    "tipo": "DOM",
+    "numero": 7594,
+    "data_publicacao": "2020-03-16",
+    "titulo": "DOM - 7594 - 16/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/6fab5311-a70c-43dc-b750-0019ffb94966.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/6fab5311-a70c-43dc-b750-0019ffb94966_dom-7594-16-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:33.422416"
+  },
+  {
+    "id": 5368,
+    "tipo": "DOM",
+    "numero": 7595,
+    "data_publicacao": "2020-03-17",
+    "titulo": "DOM - 7595 - 17/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/257a9c31-f93c-461e-b1a4-0a80df4cf61f.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/257a9c31-f93c-461e-b1a4-0a80df4cf61f_dom-7595-17-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:37.676648"
+  },
+  {
+    "id": 5369,
+    "tipo": "DOM",
+    "numero": 7596,
+    "data_publicacao": "2020-03-18",
+    "titulo": "DOM - 7596 - 18/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/a2264080-3f9c-4484-89ac-6abfcda613c9.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/a2264080-3f9c-4484-89ac-6abfcda613c9_dom-7596-18-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:41.387286"
+  },
+  {
+    "id": 5370,
+    "tipo": "DOM",
+    "numero": 7597,
+    "data_publicacao": "2020-03-19",
+    "titulo": "DOM - 7597 - 19/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/66c3979e-3a46-4ce5-bfbc-1e49ceb787fd.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/66c3979e-3a46-4ce5-bfbc-1e49ceb787fd_dom-7597-19-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:43.402006"
+  },
+  {
+    "id": 5372,
+    "tipo": "DOM",
+    "numero": 7598,
+    "data_publicacao": "2020-03-20",
+    "titulo": "DOM - 7598 - 20/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/b6e3c9a5-4339-4205-ae9b-995de8081d77.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/b6e3c9a5-4339-4205-ae9b-995de8081d77_dom-7598-20-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:47.593144"
+  },
+  {
+    "id": 5374,
+    "tipo": "DOM",
+    "numero": 7600,
+    "data_publicacao": "2020-03-21",
+    "titulo": "DOM - 7600 - 21/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/31b32817-863e-44b0-84e8-b3dd385553b3.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/31b32817-863e-44b0-84e8-b3dd385553b3_dom-7600-21-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:50.940521"
+  },
+  {
+    "id": 5373,
+    "tipo": "DOM",
+    "numero": 7601,
+    "data_publicacao": "2020-03-21",
+    "titulo": "DOM - 7601 - 21/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/e752d4ba-1362-4cbb-8f41-147762dac1a1.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/e752d4ba-1362-4cbb-8f41-147762dac1a1_dom-7601-21-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:49.851561"
+  },
+  {
+    "id": 5375,
+    "tipo": "DOM",
+    "numero": 7602,
+    "data_publicacao": "2020-03-23",
+    "titulo": "DOM - 7602 - 23/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/6483fd71-f4b0-404d-a698-a1ea42c539e5.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/6483fd71-f4b0-404d-a698-a1ea42c539e5_dom-7602-23-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:51.819660"
+  },
+  {
+    "id": 5376,
+    "tipo": "DOM",
+    "numero": 7603,
+    "data_publicacao": "2020-03-24",
+    "titulo": "DOM - 7603 - 24/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/264cabab-f063-4bbb-aa03-591b379c3bbd.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/264cabab-f063-4bbb-aa03-591b379c3bbd_dom-7603-24-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:53.625009"
+  },
+  {
+    "id": 5377,
+    "tipo": "DOM",
+    "numero": 7604,
+    "data_publicacao": "2020-03-24",
+    "titulo": "DOM - 7604 - 24/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/9791c716-85e7-4104-bc59-a517e58c34c6.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/9791c716-85e7-4104-bc59-a517e58c34c6_dom-7604-24-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:54.794136"
+  },
+  {
+    "id": 5378,
+    "tipo": "DOM",
+    "numero": 7605,
+    "data_publicacao": "2020-03-25",
+    "titulo": "DOM - 7605 - 25/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ab846279-daf0-477c-89d3-7d556256c2ff.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ab846279-daf0-477c-89d3-7d556256c2ff_dom-7605-25-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:56.323913"
+  },
+  {
+    "id": 5379,
+    "tipo": "DOM",
+    "numero": 7606,
+    "data_publicacao": "2020-03-25",
+    "titulo": "DOM - 7606 - 25/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/5a1c92a4-5f14-498c-9ccc-d93e9cd8998b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/5a1c92a4-5f14-498c-9ccc-d93e9cd8998b_dom-7606-25-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:57.139828"
+  },
+  {
+    "id": 5380,
+    "tipo": "DOM",
+    "numero": 7607,
+    "data_publicacao": "2020-03-26",
+    "titulo": "DOM - 7607 - 26/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/9760f170-9aba-4f3e-9df4-58c4d414ac38.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/9760f170-9aba-4f3e-9df4-58c4d414ac38_dom-7607-26-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:58.204054"
+  },
+  {
+    "id": 5381,
+    "tipo": "DOM",
+    "numero": 7608,
+    "data_publicacao": "2020-03-27",
+    "titulo": "DOM - 7608 - 27/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/86df947a-8373-44da-8811-21f6db5a81cb.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/86df947a-8373-44da-8811-21f6db5a81cb_dom-7608-27-03-2020.pdf",
+    "created_at": "2026-10-06T09:41:59.797207"
+  },
+  {
+    "id": 5382,
+    "tipo": "DOM",
+    "numero": 7609,
+    "data_publicacao": "2020-03-27",
+    "titulo": "DOM - 7609 - 27/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/83cf7586-ef57-468a-b5e0-a1f4d31b624e.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/83cf7586-ef57-468a-b5e0-a1f4d31b624e_dom-7609-27-03-2020.pdf",
+    "created_at": "2026-10-06T09:42:00.777553"
+  },
+  {
+    "id": 5383,
+    "tipo": "DOM",
+    "numero": 7610,
+    "data_publicacao": "2020-03-28",
+    "titulo": "DOM - 7610 - 28/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/77eacc25-b6a0-49b3-bfe2-39d61997993f.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/77eacc25-b6a0-49b3-bfe2-39d61997993f_dom-7610-28-03-2020.pdf",
+    "created_at": "2026-10-06T09:42:01.902684"
+  },
+  {
+    "id": 5385,
+    "tipo": "DOM",
+    "numero": 7612,
+    "data_publicacao": "2020-03-31",
+    "titulo": "DOM - 7612 - 31/03/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/cf4c1c18-f968-4af0-99d7-93982f07ad12.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/cf4c1c18-f968-4af0-99d7-93982f07ad12_dom-7612-31-03-2020.pdf",
+    "created_at": "2026-10-06T09:42:06.356685"
+  },
+  {
+    "id": 5386,
+    "tipo": "DOM",
+    "numero": 7613,
+    "data_publicacao": "2020-04-01",
+    "titulo": "DOM - 7613 - 01/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/d48d69cb-2116-44e7-91da-ba74703a73b7.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/d48d69cb-2116-44e7-91da-ba74703a73b7_dom-7613-01-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:07.814404"
+  },
+  {
+    "id": 5387,
+    "tipo": "DOM",
+    "numero": 7614,
+    "data_publicacao": "2020-04-02",
+    "titulo": "DOM - 7614 - 02/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/44771e04-549e-435e-b7e3-17cd2d1de840.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/44771e04-549e-435e-b7e3-17cd2d1de840_dom-7614-02-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:08.894990"
+  },
+  {
+    "id": 5388,
+    "tipo": "DOM",
+    "numero": 7615,
+    "data_publicacao": "2020-04-03",
+    "titulo": "DOM - 7615 - 03/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/63e40cf7-6c20-48c8-86cd-0f8fa4f1fc89.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/63e40cf7-6c20-48c8-86cd-0f8fa4f1fc89_dom-7615-03-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:09.847692"
+  },
+  {
+    "id": 5389,
+    "tipo": "DOM",
+    "numero": 7616,
+    "data_publicacao": "2020-04-03",
+    "titulo": "DOM - 7616 - 03/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/e088e815-ab99-4072-8d9d-dc5340d7f7b5.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/e088e815-ab99-4072-8d9d-dc5340d7f7b5_dom-7616-03-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:10.711927"
+  },
+  {
+    "id": 5390,
+    "tipo": "DOM",
+    "numero": 7618,
+    "data_publicacao": "2020-04-04",
+    "titulo": "DOM - 7618 - 04/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/239c2ae5-c181-4fa5-8e53-d3054a1d0496.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/239c2ae5-c181-4fa5-8e53-d3054a1d0496_dom-7618-04-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:11.832717"
+  },
+  {
+    "id": 5392,
+    "tipo": "DOM",
+    "numero": 7619,
+    "data_publicacao": "2020-04-07",
+    "titulo": "DOM - 7619 - 07/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/11972f63-3aef-4287-99ac-34eb66e3a38c.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/11972f63-3aef-4287-99ac-34eb66e3a38c_dom-7619-07-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:14.440337"
+  },
+  {
+    "id": 5393,
+    "tipo": "DOM",
+    "numero": 7620,
+    "data_publicacao": "2020-04-08",
+    "titulo": "DOM - 7620 - 08/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/4bf2d95f-0449-4584-8065-7ac7b0ee522f.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/4bf2d95f-0449-4584-8065-7ac7b0ee522f_dom-7620-08-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:15.517769"
+  },
+  {
+    "id": 5394,
+    "tipo": "DOM",
+    "numero": 7621,
+    "data_publicacao": "2020-04-09",
+    "titulo": "DOM - 7621 - 09/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/2556e701-ad9e-4c23-8e1b-f5d81929129b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/2556e701-ad9e-4c23-8e1b-f5d81929129b_dom-7621-09-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:16.801988"
+  },
+  {
+    "id": 5395,
+    "tipo": "DOM",
+    "numero": 7623,
+    "data_publicacao": "2020-04-10",
+    "titulo": "DOM - 7623 - 10/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/157d5d99-10a2-4acb-bca1-8c35f8d349b1.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/157d5d99-10a2-4acb-bca1-8c35f8d349b1_dom-7623-10-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:17.607956"
+  },
+  {
+    "id": 5396,
+    "tipo": "DOM",
+    "numero": 7622,
+    "data_publicacao": "2020-04-11",
+    "titulo": "DOM - 7622 - 11/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/720fa240-c480-49cd-b2b2-9ef8c9446527.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/720fa240-c480-49cd-b2b2-9ef8c9446527_dom-7622-11-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:18.300360"
+  },
+  {
+    "id": 5397,
+    "tipo": "DOM",
+    "numero": 7624,
+    "data_publicacao": "2020-04-14",
+    "titulo": "DOM - 7624 - 14/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/fa71c4b8-1034-49bc-b6f4-819f3865ef09.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/fa71c4b8-1034-49bc-b6f4-819f3865ef09_dom-7624-14-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:19.503695"
+  },
+  {
+    "id": 5398,
+    "tipo": "DOM",
+    "numero": 7625,
+    "data_publicacao": "2020-04-15",
+    "titulo": "DOM - 7625 - 15/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/eeb46221-be96-47fe-9da9-021930dac60d.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/eeb46221-be96-47fe-9da9-021930dac60d_dom-7625-15-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:20.425535"
+  },
+  {
+    "id": 5399,
+    "tipo": "DOM",
+    "numero": 7626,
+    "data_publicacao": "2020-04-16",
+    "titulo": "DOM - 7626 - 16/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/84388271-9022-4f5e-9aa8-7ffe4e569d63.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/84388271-9022-4f5e-9aa8-7ffe4e569d63_dom-7626-16-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:21.461674"
+  },
+  {
+    "id": 5401,
+    "tipo": "DOM",
+    "numero": 7628,
+    "data_publicacao": "2020-04-17",
+    "titulo": "DOM - 7628 - 17/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/49dbc82b-5965-4108-a61c-151b180217ed.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/49dbc82b-5965-4108-a61c-151b180217ed_dom-7628-17-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:23.397014"
+  },
+  {
+    "id": 5403,
+    "tipo": "DOM",
+    "numero": 7631,
+    "data_publicacao": "2020-04-20",
+    "titulo": "DOM - 7631 - 20/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/41905d49-f853-4740-a2c5-75eefb9206d4.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/41905d49-f853-4740-a2c5-75eefb9206d4_dom-7631-20-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:25.723114"
+  },
+  {
+    "id": 5404,
+    "tipo": "DOM",
+    "numero": 7632,
+    "data_publicacao": "2020-04-21",
+    "titulo": "DOM - 7632 - 21/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/19c86178-ac6e-4003-bf42-7a4e1819b35a.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/19c86178-ac6e-4003-bf42-7a4e1819b35a_dom-7632-21-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:26.719579"
+  },
+  {
+    "id": 5405,
+    "tipo": "DOM",
+    "numero": 7633,
+    "data_publicacao": "2020-04-23",
+    "titulo": "DOM - 7633 - 23/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/50ada8ce-b3b7-4273-93a2-f5b93bed535e.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/50ada8ce-b3b7-4273-93a2-f5b93bed535e_dom-7633-23-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:28.951020"
+  },
+  {
+    "id": 5406,
+    "tipo": "DOM",
+    "numero": 7634,
+    "data_publicacao": "2020-04-24",
+    "titulo": "DOM - 7634 - 24/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/6ffa1da1-f047-44c2-a9b2-d204f90e647c.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/6ffa1da1-f047-44c2-a9b2-d204f90e647c_dom-7634-24-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:31.431948"
+  },
+  {
+    "id": 5407,
+    "tipo": "DOM",
+    "numero": 7635,
+    "data_publicacao": "2020-04-24",
+    "titulo": "DOM - 7635 - 24/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/6e8cba87-c12f-4c2c-abe6-de410510a556.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/6e8cba87-c12f-4c2c-abe6-de410510a556_dom-7635-24-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:32.514343"
+  },
+  {
+    "id": 5408,
+    "tipo": "DOM",
+    "numero": 7636,
+    "data_publicacao": "2020-04-24",
+    "titulo": "DOM - 7636 - 24/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/7b9ea584-31e3-4c67-a8a9-1def68a58f6b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/7b9ea584-31e3-4c67-a8a9-1def68a58f6b_dom-7636-24-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:33.399879"
+  },
+  {
+    "id": 5409,
+    "tipo": "DOM",
+    "numero": 7637,
+    "data_publicacao": "2020-04-25",
+    "titulo": "DOM - 7637 - 25/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/13fce537-9c36-40c3-be63-5d89b7bfdeb2.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/13fce537-9c36-40c3-be63-5d89b7bfdeb2_dom-7637-25-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:34.546044"
+  },
+  {
+    "id": 5410,
+    "tipo": "DOM",
+    "numero": 7638,
+    "data_publicacao": "2020-04-28",
+    "titulo": "DOM - 7638 - 28/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/9a69e083-9c12-475a-8886-db9947581fa1.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/9a69e083-9c12-475a-8886-db9947581fa1_dom-7638-28-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:35.699016"
+  },
+  {
+    "id": 5411,
+    "tipo": "DOM",
+    "numero": 7639,
+    "data_publicacao": "2020-04-29",
+    "titulo": "DOM - 7639 - 29/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/c1dfb0fc-fea6-4dd7-b446-a68fefbb8d92.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/c1dfb0fc-fea6-4dd7-b446-a68fefbb8d92_dom-7639-29-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:37.365143"
+  },
+  {
+    "id": 5412,
+    "tipo": "DOM",
+    "numero": 7640,
+    "data_publicacao": "2020-04-30",
+    "titulo": "DOM - 7640 - 30/04/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/e317fefd-dad7-48a1-9cb7-75efa2910c51.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/e317fefd-dad7-48a1-9cb7-75efa2910c51_dom-7640-30-04-2020.pdf",
+    "created_at": "2026-10-06T09:42:38.672087"
+  },
+  {
+    "id": 5414,
+    "tipo": "DOM",
+    "numero": 7641,
+    "data_publicacao": "2020-05-01",
+    "titulo": "DOM - 7641 - 01/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/69c6425a-a0d5-4f93-be3a-d07833439900.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/69c6425a-a0d5-4f93-be3a-d07833439900_dom-7641-01-05-2020.pdf",
+    "created_at": "2026-10-06T09:42:42.924611"
+  },
+  {
+    "id": 5415,
+    "tipo": "DOM",
+    "numero": 7642,
+    "data_publicacao": "2020-05-04",
+    "titulo": "DOM - 7642 - 04/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ee289e6b-9160-411f-9510-ae1ac93a84cf.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ee289e6b-9160-411f-9510-ae1ac93a84cf_dom-7642-04-05-2020.pdf",
+    "created_at": "2026-10-06T09:42:43.876175"
+  },
+  {
+    "id": 5416,
+    "tipo": "DOM",
+    "numero": 7643,
+    "data_publicacao": "2020-05-05",
+    "titulo": "DOM - 7643 - 05/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/9ff60af7-99f5-475b-bc95-6aa72c91080a.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/9ff60af7-99f5-475b-bc95-6aa72c91080a_dom-7643-05-05-2020.pdf",
+    "created_at": "2026-10-06T09:42:44.788195"
+  },
+  {
+    "id": 5417,
+    "tipo": "DOM",
+    "numero": 7644,
+    "data_publicacao": "2020-05-06",
+    "titulo": "DOM - 7644 - 06/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/d8fe69c0-3b8d-4ed7-8527-b0233f0c1f4d.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/d8fe69c0-3b8d-4ed7-8527-b0233f0c1f4d_dom-7644-06-05-2020.pdf",
+    "created_at": "2026-10-06T09:42:46.016578"
+  },
+  {
+    "id": 5418,
+    "tipo": "DOM",
+    "numero": 7645,
+    "data_publicacao": "2020-05-07",
+    "titulo": "DOM - 7645 - 07/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/c3c730d7-59a9-4122-9f13-580d7e84fa0f.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/c3c730d7-59a9-4122-9f13-580d7e84fa0f_dom-7645-07-05-2020.pdf",
+    "created_at": "2026-10-06T09:42:47.774134"
+  },
+  {
+    "id": 5420,
+    "tipo": "DOM",
+    "numero": 7647,
+    "data_publicacao": "2020-05-08",
+    "titulo": "DOM - 7647 - 08/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/5324f180-54f1-4703-830c-09cc7bdc3f92.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/5324f180-54f1-4703-830c-09cc7bdc3f92_dom-7647-08-05-2020.pdf",
+    "created_at": "2026-10-06T09:42:49.962476"
+  },
+  {
+    "id": 5422,
+    "tipo": "DOM",
+    "numero": 7648,
+    "data_publicacao": "2020-05-09",
+    "titulo": "DOM - 7648 - 09/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/54388857-565c-48db-a91d-e058efe4ca99.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/54388857-565c-48db-a91d-e058efe4ca99_dom-7648-09-05-2020.pdf",
+    "created_at": "2026-10-06T09:42:51.835284"
+  },
+  {
+    "id": 5421,
+    "tipo": "DOM",
+    "numero": 7649,
+    "data_publicacao": "2020-05-09",
+    "titulo": "DOM - 7649 - 09/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/4172a20c-9c65-40b1-8eef-b7c0da8c4dad.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/4172a20c-9c65-40b1-8eef-b7c0da8c4dad_dom-7649-09-05-2020.pdf",
+    "created_at": "2026-10-06T09:42:51.087892"
+  },
+  {
+    "id": 5423,
+    "tipo": "DOM",
+    "numero": 7650,
+    "data_publicacao": "2020-05-12",
+    "titulo": "DOM - 7650 - 12/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/50d0924d-c984-4e43-9639-ff57a016ff84.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/50d0924d-c984-4e43-9639-ff57a016ff84_dom-7650-12-05-2020.pdf",
+    "created_at": "2026-10-06T09:42:52.872493"
+  },
+  {
+    "id": 5424,
+    "tipo": "DOM",
+    "numero": 7651,
+    "data_publicacao": "2020-05-12",
+    "titulo": "DOM - 7651 - 12/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/bff17806-2a90-4594-8038-4bb0f45eccd3.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/bff17806-2a90-4594-8038-4bb0f45eccd3_dom-7651-12-05-2020.pdf",
+    "created_at": "2026-10-06T09:42:55.732135"
+  },
+  {
+    "id": 5425,
+    "tipo": "DOM",
+    "numero": 7652,
+    "data_publicacao": "2020-05-13",
+    "titulo": "DOM - 7652 - 13/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/7a0c749d-45fd-4292-b90b-41f0540a672f.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/7a0c749d-45fd-4292-b90b-41f0540a672f_dom-7652-13-05-2020.pdf",
+    "created_at": "2026-10-06T09:42:58.630381"
+  },
+  {
+    "id": 5426,
+    "tipo": "DOM",
+    "numero": 7653,
+    "data_publicacao": "2020-05-14",
+    "titulo": "DOM - 7653 - 14/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/1a104b2b-1dd8-41f6-abba-03bdd589b63c.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/1a104b2b-1dd8-41f6-abba-03bdd589b63c_dom-7653-14-05-2020.pdf",
+    "created_at": "2026-10-06T09:42:59.842149"
+  },
+  {
+    "id": 5427,
+    "tipo": "DOM",
+    "numero": 7654,
+    "data_publicacao": "2020-05-15",
+    "titulo": "DOM - 7654 - 15/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/920c5101-9e34-430d-8405-beb64b8bfdbe.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/920c5101-9e34-430d-8405-beb64b8bfdbe_dom-7654-15-05-2020.pdf",
+    "created_at": "2026-10-06T09:43:01.248364"
+  },
+  {
+    "id": 5428,
+    "tipo": "DOM",
+    "numero": 7655,
+    "data_publicacao": "2020-05-16",
+    "titulo": "DOM - 7655 - 16/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/69f4d969-be30-48d0-bbf4-ffabf55c4957.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/69f4d969-be30-48d0-bbf4-ffabf55c4957_dom-7655-16-05-2020.pdf",
+    "created_at": "2026-10-06T09:43:02.605497"
+  },
+  {
+    "id": 5429,
+    "tipo": "DOM",
+    "numero": 7656,
+    "data_publicacao": "2020-05-18",
+    "titulo": "DOM - 7656 - 18/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/5ed72c57-8ff0-443a-b48f-1cfe0bf87f05.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/5ed72c57-8ff0-443a-b48f-1cfe0bf87f05_dom-7656-18-05-2020.pdf",
+    "created_at": "2026-10-06T09:43:07.330319"
+  },
+  {
+    "id": 5413,
+    "tipo": "DOM",
+    "numero": 7657,
+    "data_publicacao": "2020-05-19",
+    "titulo": "DOM - 7657 - 19/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/5b60d19a-d2ad-43e9-9bfb-0734cb77889c.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/5b60d19a-d2ad-43e9-9bfb-0734cb77889c_dom-7657-19-05-2020-2.pdf",
+    "created_at": "2026-10-06T09:42:41.207666"
+  },
+  {
+    "id": 5430,
+    "tipo": "DOM",
+    "numero": 7658,
+    "data_publicacao": "2020-05-20",
+    "titulo": "DOM - 7658 - 20/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ec7a4f02-cc87-4f96-ac30-94c9a3038d94.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ec7a4f02-cc87-4f96-ac30-94c9a3038d94_dom-7658-20-05-2020.pdf",
+    "created_at": "2026-10-06T09:43:08.555086"
+  },
+  {
+    "id": 5431,
+    "tipo": "DOM",
+    "numero": 7659,
+    "data_publicacao": "2020-05-20",
+    "titulo": "DOM - 7659 - 20/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/5bcb23c3-bc5d-478a-8911-87cfb2625f9b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/5bcb23c3-bc5d-478a-8911-87cfb2625f9b_dom-7659-20-05-2020.pdf",
+    "created_at": "2026-10-06T09:43:10.768470"
+  },
+  {
+    "id": 5432,
+    "tipo": "DOM",
+    "numero": 7661,
+    "data_publicacao": "2020-05-22",
+    "titulo": "DOM - 7661 - 22/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/89165aae-b4ed-4cc6-885f-30329f5bfe3b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/89165aae-b4ed-4cc6-885f-30329f5bfe3b_dom-7661-22-05-2020.pdf",
+    "created_at": "2026-10-06T09:43:12.025445"
+  },
+  {
+    "id": 5434,
+    "tipo": "DOM",
+    "numero": 7662,
+    "data_publicacao": "2020-05-23",
+    "titulo": "DOM - 7662 - 23/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/a3abbe2b-ef44-4d4e-b02d-cf3098bb47df.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/a3abbe2b-ef44-4d4e-b02d-cf3098bb47df_dom-7662-23-05-2020.pdf",
+    "created_at": "2026-10-06T09:43:16.310933"
+  },
+  {
+    "id": 5435,
+    "tipo": "DOM",
+    "numero": 7663,
+    "data_publicacao": "2020-05-23",
+    "titulo": "DOM - 7663 - 23/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/b9b19b66-b8bc-4ad8-8e28-176966782a51.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/b9b19b66-b8bc-4ad8-8e28-176966782a51_dom-7663-23-05-2020.pdf",
+    "created_at": "2026-10-06T09:43:17.250588"
+  },
+  {
+    "id": 5433,
+    "tipo": "DOM",
+    "numero": 7664,
+    "data_publicacao": "2020-05-23",
+    "titulo": "DOM - 7664 - 23/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/6cbee2f5-7874-4903-82ee-e1978792de60.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/6cbee2f5-7874-4903-82ee-e1978792de60_dom-7664-23-05-2020.pdf",
+    "created_at": "2026-10-06T09:43:13.920743"
+  },
+  {
+    "id": 5436,
+    "tipo": "DOM",
+    "numero": 7665,
+    "data_publicacao": "2020-05-26",
+    "titulo": "DOM - 7665 - 26/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/1d1d5f73-2622-4283-a77c-9d59f8e62a6d.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/1d1d5f73-2622-4283-a77c-9d59f8e62a6d_dom-7665-26-05-2020.pdf",
+    "created_at": "2026-10-06T09:43:18.225713"
+  },
+  {
+    "id": 5437,
+    "tipo": "DOM",
+    "numero": 7666,
+    "data_publicacao": "2020-05-26",
+    "titulo": "DOM - 7666 - 26/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/88ea3f9b-67a0-4b07-ba40-d844b27e5f8f.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/88ea3f9b-67a0-4b07-ba40-d844b27e5f8f_dom-7666-26-05-2020.pdf",
+    "created_at": "2026-10-06T09:43:21.413567"
+  },
+  {
+    "id": 5439,
+    "tipo": "DOM",
+    "numero": 7668,
+    "data_publicacao": "2020-05-28",
+    "titulo": "DOM - 7668 - 28/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ac7a8cd9-f808-4e3c-ba55-90460dafee79.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ac7a8cd9-f808-4e3c-ba55-90460dafee79_dom-7668-28-05-2020.pdf",
+    "created_at": "2026-10-06T09:43:24.103122"
+  },
+  {
+    "id": 5440,
+    "tipo": "DOM",
+    "numero": 7669,
+    "data_publicacao": "2020-05-28",
+    "titulo": "DOM - 7669 - 28/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/60d037e8-b125-412a-a95e-1363322cf8f1.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/60d037e8-b125-412a-a95e-1363322cf8f1_dom-7669-28-05-2020.pdf",
+    "created_at": "2026-10-06T09:43:25.630013"
+  },
+  {
+    "id": 5441,
+    "tipo": "DOM",
+    "numero": 7670,
+    "data_publicacao": "2020-05-29",
+    "titulo": "DOM - 7670 - 29/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/4cf0a329-88c0-44de-89a3-58ead4cdee00.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/4cf0a329-88c0-44de-89a3-58ead4cdee00_dom-7670-29-05-2020.pdf",
+    "created_at": "2026-10-06T09:43:26.937074"
+  },
+  {
+    "id": 5442,
+    "tipo": "DOM",
+    "numero": 7671,
+    "data_publicacao": "2020-05-30",
+    "titulo": "DOM - 7671 - 30/05/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/5b30d4b4-8ecc-4821-af32-13e9b7dadf0e.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/5b30d4b4-8ecc-4821-af32-13e9b7dadf0e_dom-7671-30-05-2020.pdf",
+    "created_at": "2026-10-06T09:43:27.811691"
+  },
+  {
+    "id": 5443,
+    "tipo": "DOM",
+    "numero": 7672,
+    "data_publicacao": "2020-06-01",
+    "titulo": "DOM - 7672 - 01/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/40714637-0a3d-4c08-8a2e-60f0215f83ee.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/40714637-0a3d-4c08-8a2e-60f0215f83ee_dom-7672-01-06-2020.pdf",
+    "created_at": "2026-10-06T09:43:30.498970"
+  },
+  {
+    "id": 5444,
+    "tipo": "DOM",
+    "numero": 7673,
+    "data_publicacao": "2020-06-02",
+    "titulo": "DOM - 7673 - 02/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/998e3f06-b31b-4dec-b394-f048dff1848e.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/998e3f06-b31b-4dec-b394-f048dff1848e_dom-7673-02-06-2020.pdf",
+    "created_at": "2026-10-06T09:43:32.369809"
+  },
+  {
+    "id": 5445,
+    "tipo": "DOM",
+    "numero": 7674,
+    "data_publicacao": "2020-06-03",
+    "titulo": "DOM - 7674 - 03/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/2e7b4c71-7105-4538-b208-9f67b41fee6f.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/2e7b4c71-7105-4538-b208-9f67b41fee6f_dom-7674-03-06-2020.pdf",
+    "created_at": "2026-10-06T09:43:34.156674"
+  },
+  {
+    "id": 5446,
+    "tipo": "DOM",
+    "numero": 7675,
+    "data_publicacao": "2020-06-04",
+    "titulo": "DOM - 7675 - 04/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/cb748a6d-ce1d-4d15-8718-43287a15c30e.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/cb748a6d-ce1d-4d15-8718-43287a15c30e_dom-7675-04-06-2020.pdf",
+    "created_at": "2026-10-06T09:43:35.935326"
+  },
+  {
+    "id": 5447,
+    "tipo": "DOM",
+    "numero": 7676,
+    "data_publicacao": "2020-06-04",
+    "titulo": "DOM - 7676 - 04/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/87789fa1-1487-4636-a2ca-803ce6dc18e7.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/87789fa1-1487-4636-a2ca-803ce6dc18e7_dom-7676-04-06-2020.pdf",
+    "created_at": "2026-10-06T09:43:37.465215"
+  },
+  {
+    "id": 5448,
+    "tipo": "DOM",
+    "numero": 7677,
+    "data_publicacao": "2020-06-05",
+    "titulo": "DOM - 7677 - 05/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ed3e75df-b9ba-49e8-9589-d2cf8e958119.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ed3e75df-b9ba-49e8-9589-d2cf8e958119_dom-7677-05-06-2020.pdf",
+    "created_at": "2026-10-06T09:43:38.680075"
+  },
+  {
+    "id": 5449,
+    "tipo": "DOM",
+    "numero": 7678,
+    "data_publicacao": "2020-06-05",
+    "titulo": "DOM - 7678 - 05/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/cbcd3867-789c-4ee8-b1db-c7982947bfd6.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/cbcd3867-789c-4ee8-b1db-c7982947bfd6_dom-7678-05-06-2020.pdf",
+    "created_at": "2026-10-06T09:43:39.538608"
+  },
+  {
+    "id": 5450,
+    "tipo": "DOM",
+    "numero": 7679,
+    "data_publicacao": "2020-06-06",
+    "titulo": "DOM - 7679 - 06/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/c9692f20-a210-4c3e-b9f1-1af4f65fb70b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/c9692f20-a210-4c3e-b9f1-1af4f65fb70b_dom-7679-06-06-2020.pdf",
+    "created_at": "2026-10-06T09:43:41.549629"
+  },
+  {
+    "id": 5451,
+    "tipo": "DOM",
+    "numero": 7680,
+    "data_publicacao": "2020-06-08",
+    "titulo": "DOM - 7680 - 08/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/8a97595a-8aa9-470b-b1e5-9d7ce507d687.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/8a97595a-8aa9-470b-b1e5-9d7ce507d687_dom-7680-08-06-2020.pdf",
+    "created_at": "2026-10-06T09:43:44.073406"
+  },
+  {
+    "id": 5452,
+    "tipo": "DOM",
+    "numero": 7681,
+    "data_publicacao": "2020-06-09",
+    "titulo": "DOM - 7681 - 09/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/56bad841-d212-485a-ae4f-fa7c7f5b3c86.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/56bad841-d212-485a-ae4f-fa7c7f5b3c86_dom-7681-09-06-2020.pdf",
+    "created_at": "2026-10-06T09:43:46.388795"
+  },
+  {
+    "id": 5453,
+    "tipo": "DOM",
+    "numero": 7683,
+    "data_publicacao": "2020-06-10",
+    "titulo": "DOM - 7683 - 10/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/dc5ea173-d85b-4076-a138-4d73fd0995a6.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/dc5ea173-d85b-4076-a138-4d73fd0995a6_dom-7683-10-06-2020.pdf",
+    "created_at": "2026-10-06T09:43:47.638994"
+  },
+  {
+    "id": 5454,
+    "tipo": "DOM",
+    "numero": 7684,
+    "data_publicacao": "2020-06-11",
+    "titulo": "DOM - 7684 - 11/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/9dd757ae-87de-4bfe-a59b-0658a147d179.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/9dd757ae-87de-4bfe-a59b-0658a147d179_dom-7684-11-06-2020.pdf",
+    "created_at": "2026-10-06T09:43:48.791286"
+  },
+  {
+    "id": 5455,
+    "tipo": "DOM",
+    "numero": 7685,
+    "data_publicacao": "2020-06-12",
+    "titulo": "DOM - 7685 - 12/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ee827aad-7231-47ad-9747-f03c4e0f0e76.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ee827aad-7231-47ad-9747-f03c4e0f0e76_dom-7685-12-06-2020.pdf",
+    "created_at": "2026-10-06T09:43:51.485079"
+  },
+  {
+    "id": 5456,
+    "tipo": "DOM",
+    "numero": 7686,
+    "data_publicacao": "2020-06-13",
+    "titulo": "DOM - 7686 - 13/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/15ccf191-6974-4bc4-b5be-171ca49f184b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/15ccf191-6974-4bc4-b5be-171ca49f184b_dom-7686-13-06-2020.pdf",
+    "created_at": "2026-10-06T09:43:53.165595"
+  },
+  {
+    "id": 5457,
+    "tipo": "DOM",
+    "numero": 7687,
+    "data_publicacao": "2020-06-15",
+    "titulo": "DOM - 7687 - 15/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/97e9a893-826c-4e93-a1d9-0070e4e1bd06.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/97e9a893-826c-4e93-a1d9-0070e4e1bd06_dom-7687-15-06-2020.pdf",
+    "created_at": "2026-10-06T09:43:54.104961"
+  },
+  {
+    "id": 5459,
+    "tipo": "DOM",
+    "numero": 7689,
+    "data_publicacao": "2020-06-16",
+    "titulo": "DOM - 7689 - 16/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/cb52e7e4-ff52-426d-8609-e599035d7b28.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/cb52e7e4-ff52-426d-8609-e599035d7b28_dom-7689-16-06-2020.pdf",
+    "created_at": "2026-10-06T09:43:59.096693"
+  },
+  {
+    "id": 5460,
+    "tipo": "DOM",
+    "numero": 7690,
+    "data_publicacao": "2020-06-17",
+    "titulo": "DOM - 7690 - 17/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/8064a760-c101-4a10-9de0-6611f6d15649.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/8064a760-c101-4a10-9de0-6611f6d15649_dom-7690-17-06-2020.pdf",
+    "created_at": "2026-10-06T09:44:00.897043"
+  },
+  {
+    "id": 5461,
+    "tipo": "DOM",
+    "numero": 7691,
+    "data_publicacao": "2020-06-18",
+    "titulo": "DOM - 7691 - 18/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/25e01422-aba9-4a9a-a8d3-3bcb2669b84d.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/25e01422-aba9-4a9a-a8d3-3bcb2669b84d_dom-7691-18-06-2020.pdf",
+    "created_at": "2026-10-06T09:44:02.187428"
+  },
+  {
+    "id": 5462,
+    "tipo": "DOM",
+    "numero": 7692,
+    "data_publicacao": "2020-06-19",
+    "titulo": "DOM - 7692 - 19/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/88176adc-04c2-4588-aa43-df3b548106ee.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/88176adc-04c2-4588-aa43-df3b548106ee_dom-7692-19-06-2020.pdf",
+    "created_at": "2026-10-06T09:44:03.653410"
+  },
+  {
+    "id": 5463,
+    "tipo": "DOM",
+    "numero": 7693,
+    "data_publicacao": "2020-06-19",
+    "titulo": "DOM - 7693 - 19/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/cd4d6acf-91b5-43f2-a42c-5c28c0e388dc.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/cd4d6acf-91b5-43f2-a42c-5c28c0e388dc_dom-7693-19-06-2020.pdf",
+    "created_at": "2026-10-06T09:44:05.553563"
+  },
+  {
+    "id": 5465,
+    "tipo": "DOM",
+    "numero": 7694,
+    "data_publicacao": "2020-06-20",
+    "titulo": "DOM - 7694 - 20/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/07232639-dbc9-4fab-a419-e69c14ffa696.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/07232639-dbc9-4fab-a419-e69c14ffa696_dom-7694-20-06-2020.pdf",
+    "created_at": "2026-10-06T09:44:08.638219"
+  },
+  {
+    "id": 5464,
+    "tipo": "DOM",
+    "numero": 7695,
+    "data_publicacao": "2020-06-20",
+    "titulo": "DOM - 7695 - 20/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/98aecfa8-6868-45f1-808a-fd369e1c1fdc.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/98aecfa8-6868-45f1-808a-fd369e1c1fdc_dom-7695-20-06-2020.pdf",
+    "created_at": "2026-10-06T09:44:07.496236"
+  },
+  {
+    "id": 5467,
+    "tipo": "DOM",
+    "numero": 7697,
+    "data_publicacao": "2020-06-23",
+    "titulo": "DOM - 7697 - 23/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/de26d4b8-e366-4077-b479-998177b94b0b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/de26d4b8-e366-4077-b479-998177b94b0b_dom-7697-23-06-2020.pdf",
+    "created_at": "2026-10-06T09:44:10.465292"
+  },
+  {
+    "id": 5468,
+    "tipo": "DOM",
+    "numero": 7698,
+    "data_publicacao": "2020-06-23",
+    "titulo": "DOM - 7698 - 23/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/c14890c9-a2b9-41f9-8fed-ec6194973d2b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/c14890c9-a2b9-41f9-8fed-ec6194973d2b_dom-7698-23-06-2020.pdf",
+    "created_at": "2026-10-06T09:44:49.290547"
+  },
+  {
+    "id": 5469,
+    "tipo": "DOM",
+    "numero": 7699,
+    "data_publicacao": "2020-06-24",
+    "titulo": "DOM - 7699 - 24/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/f2d9ac1e-fcac-4a06-9141-a415f0078ba1.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/f2d9ac1e-fcac-4a06-9141-a415f0078ba1_dom-7699-24-06-2020.pdf",
+    "created_at": "2026-10-06T09:44:50.372167"
+  },
+  {
+    "id": 5470,
+    "tipo": "DOM",
+    "numero": 7700,
+    "data_publicacao": "2020-06-24",
+    "titulo": "DOM - 7700 - 24/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/cdd874e0-7709-4002-930e-90f45e06ca53.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/cdd874e0-7709-4002-930e-90f45e06ca53_dom-7700-24-06-2020.pdf",
+    "created_at": "2026-10-06T09:44:51.432795"
+  },
+  {
+    "id": 5471,
+    "tipo": "DOM",
+    "numero": 7701,
+    "data_publicacao": "2020-06-25",
+    "titulo": "DOM - 7701 - 25/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/c59068b2-b23b-4536-9679-e31623f8514e.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/c59068b2-b23b-4536-9679-e31623f8514e_dom-7701-25-06-2020.pdf",
+    "created_at": "2026-10-06T09:44:52.606306"
+  },
+  {
+    "id": 5472,
+    "tipo": "DOM",
+    "numero": 7702,
+    "data_publicacao": "2020-06-26",
+    "titulo": "DOM - 7702 - 26/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/e3c13340-f5d4-4bf0-8fff-7897834879dc.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/e3c13340-f5d4-4bf0-8fff-7897834879dc_dom-7702-26-06-2020.pdf",
+    "created_at": "2026-10-06T09:44:54.026794"
+  },
+  {
+    "id": 5473,
+    "tipo": "DOM",
+    "numero": 7703,
+    "data_publicacao": "2020-06-26",
+    "titulo": "DOM - 7703 - 26/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/6a1eb7fe-08a2-472d-a42f-e183e7114e26.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/6a1eb7fe-08a2-472d-a42f-e183e7114e26_dom-7703-26-06-2020.pdf",
+    "created_at": "2026-10-06T09:44:55.312621"
+  },
+  {
+    "id": 5474,
+    "tipo": "DOM",
+    "numero": 7704,
+    "data_publicacao": "2020-06-27",
+    "titulo": "DOM - 7704 - 27/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/76c631c2-845c-4582-bce2-ee9f159fd286.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/76c631c2-845c-4582-bce2-ee9f159fd286_dom-7704-27-06-2020.pdf",
+    "created_at": "2026-10-06T09:44:56.970144"
+  },
+  {
+    "id": 5475,
+    "tipo": "DOM",
+    "numero": 7705,
+    "data_publicacao": "2020-06-30",
+    "titulo": "DOM - 7705 - 30/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/204bb968-2850-4d2b-b320-781b77e18e76.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/204bb968-2850-4d2b-b320-781b77e18e76_dom-7705-30-06-2020.pdf",
+    "created_at": "2026-10-06T09:45:00.174592"
+  },
+  {
+    "id": 5476,
+    "tipo": "DOM",
+    "numero": 7706,
+    "data_publicacao": "2020-06-30",
+    "titulo": "DOM - 7706 - 30/06/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/7aa5545d-cff8-4c96-adb8-29efaf1d4b28.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/7aa5545d-cff8-4c96-adb8-29efaf1d4b28_dom-7706-30-06-2020.pdf",
+    "created_at": "2026-10-06T09:45:05.778125"
+  },
+  {
+    "id": 5478,
+    "tipo": "DOM",
+    "numero": 7708,
+    "data_publicacao": "2020-07-02",
+    "titulo": "DOM - 7708 - 02/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/c25772fb-fe1f-4f88-b3ac-d40dfa858319.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/c25772fb-fe1f-4f88-b3ac-d40dfa858319_dom-7708-02-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:08.083243"
+  },
+  {
+    "id": 5479,
+    "tipo": "DOM",
+    "numero": 7709,
+    "data_publicacao": "2020-07-02",
+    "titulo": "DOM - 7709 - 02/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/7259177e-d9a9-412e-8eb8-9e2ddf7d2648.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/7259177e-d9a9-412e-8eb8-9e2ddf7d2648_dom-7709-02-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:08.941763"
+  },
+  {
+    "id": 5480,
+    "tipo": "DOM",
+    "numero": 7710,
+    "data_publicacao": "2020-07-03",
+    "titulo": "DOM - 7710 - 03/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/9b009cb8-9a9c-4b23-9a51-5711e4a2f5d7.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/9b009cb8-9a9c-4b23-9a51-5711e4a2f5d7_dom-7710-03-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:10.559555"
+  },
+  {
+    "id": 5482,
+    "tipo": "DOM",
+    "numero": 7711,
+    "data_publicacao": "2020-07-04",
+    "titulo": "DOM - 7711 - 04/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/7113b646-e90e-4acf-b0d8-1dd2b71e8442.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/7113b646-e90e-4acf-b0d8-1dd2b71e8442_dom-7711-04-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:14.323187"
+  },
+  {
+    "id": 5481,
+    "tipo": "DOM",
+    "numero": 7712,
+    "data_publicacao": "2020-07-04",
+    "titulo": "DOM - 7712 - 04/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/1891d678-2b8a-416e-a200-0d6f3a3e6af9.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/1891d678-2b8a-416e-a200-0d6f3a3e6af9_dom-7712-04-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:11.744720"
+  },
+  {
+    "id": 5483,
+    "tipo": "DOM",
+    "numero": 7713,
+    "data_publicacao": "2020-07-07",
+    "titulo": "DOM - 7713 - 07/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/2203fbcd-8059-4730-9595-920a8c0ae229.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/2203fbcd-8059-4730-9595-920a8c0ae229_dom-7713-07-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:15.612860"
+  },
+  {
+    "id": 5484,
+    "tipo": "DOM",
+    "numero": 7714,
+    "data_publicacao": "2020-07-07",
+    "titulo": "DOM - 7714 - 07/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/3c64f244-8036-4217-9cdc-83b1172e482b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/3c64f244-8036-4217-9cdc-83b1172e482b_dom-7714-07-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:16.526863"
+  },
+  {
+    "id": 5485,
+    "tipo": "DOM",
+    "numero": 7715,
+    "data_publicacao": "2020-07-08",
+    "titulo": "DOM - 7715 - 08/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/939512ba-a3da-44d9-bf8c-9696552da7a7.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/939512ba-a3da-44d9-bf8c-9696552da7a7_dom-7715-08-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:17.572229"
+  },
+  {
+    "id": 5486,
+    "tipo": "DOM",
+    "numero": 7716,
+    "data_publicacao": "2020-07-08",
+    "titulo": "DOM - 7716 - 08/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/f0b07f96-bb65-4bee-a23e-667572dab89e.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/f0b07f96-bb65-4bee-a23e-667572dab89e_dom-7716-08-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:22.327715"
+  },
+  {
+    "id": 5487,
+    "tipo": "DOM",
+    "numero": 7717,
+    "data_publicacao": "2020-07-09",
+    "titulo": "DOM - 7717 - 09/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/2a7d3a0c-d859-4b46-86fc-53325465fc5d.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/2a7d3a0c-d859-4b46-86fc-53325465fc5d_dom-7717-09-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:23.755129"
+  },
+  {
+    "id": 5488,
+    "tipo": "DOM",
+    "numero": 7718,
+    "data_publicacao": "2020-07-10",
+    "titulo": "DOM - 7718 - 10/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/35de93bf-c67e-415c-a89a-25288f9743c9.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/35de93bf-c67e-415c-a89a-25288f9743c9_dom-7718-10-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:25.125773"
+  },
+  {
+    "id": 5490,
+    "tipo": "DOM",
+    "numero": 7719,
+    "data_publicacao": "2020-07-11",
+    "titulo": "DOM - 7719 - 11/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/fa9da245-6395-40ae-b919-2a37dbdb4b0b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/fa9da245-6395-40ae-b919-2a37dbdb4b0b_dom-7719-11-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:26.904497"
+  },
+  {
+    "id": 5489,
+    "tipo": "DOM",
+    "numero": 7720,
+    "data_publicacao": "2020-07-11",
+    "titulo": "DOM - 7720 - 11/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/e34046e3-f24e-4fb3-946d-40a96ba6beb7.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/e34046e3-f24e-4fb3-946d-40a96ba6beb7_dom-7720-11-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:26.118739"
+  },
+  {
+    "id": 5491,
+    "tipo": "DOM",
+    "numero": 7721,
+    "data_publicacao": "2020-07-14",
+    "titulo": "DOM - 7721 - 14/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/4adf818c-3a47-459b-afb6-98f97350a3a0.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/4adf818c-3a47-459b-afb6-98f97350a3a0_dom-7721-14-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:27.982596"
+  },
+  {
+    "id": 5492,
+    "tipo": "DOM",
+    "numero": 7722,
+    "data_publicacao": "2020-07-15",
+    "titulo": "DOM - 7722 - 15/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/76a13fe5-8f2c-441a-9689-7b0f8f99a001.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/76a13fe5-8f2c-441a-9689-7b0f8f99a001_dom-7722-15-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:29.207870"
+  },
+  {
+    "id": 5493,
+    "tipo": "DOM",
+    "numero": 7724,
+    "data_publicacao": "2020-07-16",
+    "titulo": "DOM - 7724 - 16/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/412b42d7-e4b3-4155-a810-9216a9474c4f.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/412b42d7-e4b3-4155-a810-9216a9474c4f_dom-7724-16-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:30.526376"
+  },
+  {
+    "id": 5494,
+    "tipo": "DOM",
+    "numero": 7725,
+    "data_publicacao": "2020-07-17",
+    "titulo": "DOM - 7725 - 17/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ff2a64ad-5c97-4682-b0b4-eb1b87994c24.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ff2a64ad-5c97-4682-b0b4-eb1b87994c24_dom-7725-17-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:31.882856"
+  },
+  {
+    "id": 5496,
+    "tipo": "DOM",
+    "numero": 7726,
+    "data_publicacao": "2020-07-18",
+    "titulo": "DOM - 7726 - 18/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/98fc8110-2880-40b5-b302-fad96b6e3426.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/98fc8110-2880-40b5-b302-fad96b6e3426_dom-7726-18-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:34.022969"
+  },
+  {
+    "id": 5495,
+    "tipo": "DOM",
+    "numero": 7727,
+    "data_publicacao": "2020-07-18",
+    "titulo": "DOM - 7727 - 18/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/cf0900d3-0ac2-415b-938d-e77a7258bbf8.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/cf0900d3-0ac2-415b-938d-e77a7258bbf8_dom-7727-18-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:33.202269"
+  },
+  {
+    "id": 5497,
+    "tipo": "DOM",
+    "numero": 7728,
+    "data_publicacao": "2020-07-20",
+    "titulo": "DOM - 7728 - 20/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/9db18e54-466b-4dc9-8e9c-d3bd7bc0b65c.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/9db18e54-466b-4dc9-8e9c-d3bd7bc0b65c_dom-7728-20-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:35.331781"
+  },
+  {
+    "id": 5498,
+    "tipo": "DOM",
+    "numero": 7729,
+    "data_publicacao": "2020-07-21",
+    "titulo": "DOM - 7729 - 21/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/a0af80cd-58fc-406d-b5c2-2b6acef2025a.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/a0af80cd-58fc-406d-b5c2-2b6acef2025a_dom-7729-21-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:36.360668"
+  },
+  {
+    "id": 5499,
+    "tipo": "DOM",
+    "numero": 7730,
+    "data_publicacao": "2020-07-22",
+    "titulo": "DOM - 7730 - 22/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/fc5ac6c9-8421-4192-93c9-91a5907ea113.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/fc5ac6c9-8421-4192-93c9-91a5907ea113_dom-7730-22-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:37.728640"
+  },
+  {
+    "id": 5500,
+    "tipo": "DOM",
+    "numero": 7731,
+    "data_publicacao": "2020-07-22",
+    "titulo": "DOM - 7731 - 22/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/a8f8ee2a-c122-4666-ab73-68b7879c9b4d.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/a8f8ee2a-c122-4666-ab73-68b7879c9b4d_dom-7731-22-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:41.618025"
+  },
+  {
+    "id": 5501,
+    "tipo": "DOM",
+    "numero": 7732,
+    "data_publicacao": "2020-07-23",
+    "titulo": "DOM - 7732 - 23/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/32c295ff-9ca8-4c56-af76-434f107586ef.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/32c295ff-9ca8-4c56-af76-434f107586ef_dom-7732-23-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:43.068938"
+  },
+  {
+    "id": 5502,
+    "tipo": "DOM",
+    "numero": 7733,
+    "data_publicacao": "2020-07-23",
+    "titulo": "DOM - 7733 - 23/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/fb02f3a8-9682-4c5b-8df2-c6b4bec0a273.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/fb02f3a8-9682-4c5b-8df2-c6b4bec0a273_dom-7733-23-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:44.052319"
+  },
+  {
+    "id": 5503,
+    "tipo": "DOM",
+    "numero": 7734,
+    "data_publicacao": "2020-07-24",
+    "titulo": "DOM - 7734 - 24/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/b213a50a-750f-45fa-b610-acbd2cc8469b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/b213a50a-750f-45fa-b610-acbd2cc8469b_dom-7734-24-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:45.293773"
+  },
+  {
+    "id": 5504,
+    "tipo": "DOM",
+    "numero": 7735,
+    "data_publicacao": "2020-07-24",
+    "titulo": "DOM - 7735 - 24/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/bc253717-d705-43d2-9964-2ece71a298fe.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/bc253717-d705-43d2-9964-2ece71a298fe_dom-7735-24-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:46.186532"
+  },
+  {
+    "id": 5505,
+    "tipo": "DOM",
+    "numero": 7736,
+    "data_publicacao": "2020-07-25",
+    "titulo": "DOM - 7736 - 25/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/9bd020a5-3379-4b44-b69a-0ed9e153bc81.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/9bd020a5-3379-4b44-b69a-0ed9e153bc81_dom-7736-25-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:47.399812"
+  },
+  {
+    "id": 5506,
+    "tipo": "DOM",
+    "numero": 7737,
+    "data_publicacao": "2020-07-28",
+    "titulo": "DOM - 7737 - 28/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/126e5b47-c5a1-4230-9343-123e3e95efc2.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/126e5b47-c5a1-4230-9343-123e3e95efc2_dom-7737-28-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:48.725018"
+  },
+  {
+    "id": 5507,
+    "tipo": "DOM",
+    "numero": 7738,
+    "data_publicacao": "2020-07-29",
+    "titulo": "DOM - 7738 - 29/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/3899b455-cfe0-4ef5-af16-aefc3bfb9a07.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/3899b455-cfe0-4ef5-af16-aefc3bfb9a07_dom-7738-29-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:50.335773"
+  },
+  {
+    "id": 5508,
+    "tipo": "DOM",
+    "numero": 7739,
+    "data_publicacao": "2020-07-30",
+    "titulo": "DOM - 7739 - 30/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/465d4aed-3d88-4d43-954c-472733838a67.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/465d4aed-3d88-4d43-954c-472733838a67_dom-7739-30-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:51.787872"
+  },
+  {
+    "id": 5509,
+    "tipo": "DOM",
+    "numero": 7741,
+    "data_publicacao": "2020-07-31",
+    "titulo": "DOM - 7741 - 31/07/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/1fd0f1b0-ffe9-46cf-9eba-59332849bdbb.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/1fd0f1b0-ffe9-46cf-9eba-59332849bdbb_dom-7741-31-07-2020.pdf",
+    "created_at": "2026-10-06T09:45:59.312459"
+  },
+  {
+    "id": 5510,
+    "tipo": "DOM",
+    "numero": 7742,
+    "data_publicacao": "2020-08-01",
+    "titulo": "DOM - 7742 - 01/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/952655a6-e94d-4803-8d9d-f9c8fbef6678.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/952655a6-e94d-4803-8d9d-f9c8fbef6678_dom-7742-01-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:00.726642"
+  },
+  {
+    "id": 5511,
+    "tipo": "DOM",
+    "numero": 7743,
+    "data_publicacao": "2020-08-04",
+    "titulo": "DOM - 7743 - 04/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/7c78b048-d6db-4055-8833-d1e1cd4de6fe.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/7c78b048-d6db-4055-8833-d1e1cd4de6fe_dom-7743-04-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:02.831313"
+  },
+  {
+    "id": 5512,
+    "tipo": "DOM",
+    "numero": 7744,
+    "data_publicacao": "2020-08-05",
+    "titulo": "DOM - 7744 - 05/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/4943c1e4-6a4d-4b55-81bf-b3814b469012.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/4943c1e4-6a4d-4b55-81bf-b3814b469012_dom-7744-05-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:04.243736"
+  },
+  {
+    "id": 5513,
+    "tipo": "DOM",
+    "numero": 7745,
+    "data_publicacao": "2020-08-05",
+    "titulo": "DOM - 7745 - 05/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/4e1def96-085d-4f8d-b691-64512d4604e1.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/4e1def96-085d-4f8d-b691-64512d4604e1_dom-7745-05-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:04.978183"
+  },
+  {
+    "id": 5514,
+    "tipo": "DOM",
+    "numero": 7746,
+    "data_publicacao": "2020-08-06",
+    "titulo": "DOM - 7746 - 06/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/a484a3e1-b8ee-48eb-b776-c610517345bf.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/a484a3e1-b8ee-48eb-b776-c610517345bf_dom-7746-06-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:05.914113"
+  },
+  {
+    "id": 5515,
+    "tipo": "DOM",
+    "numero": 7747,
+    "data_publicacao": "2020-08-06",
+    "titulo": "DOM - 7747 - 06/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/bc3f8184-9f45-40ee-b8ed-a39ddc107122.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/bc3f8184-9f45-40ee-b8ed-a39ddc107122_dom-7747-06-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:08.690467"
+  },
+  {
+    "id": 5516,
+    "tipo": "DOM",
+    "numero": 7748,
+    "data_publicacao": "2020-08-07",
+    "titulo": "DOM - 7748 - 07/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/9e24213d-9dcf-48aa-9c92-a6912bb61c27.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/9e24213d-9dcf-48aa-9c92-a6912bb61c27_dom-7748-07-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:12.811753"
+  },
+  {
+    "id": 5518,
+    "tipo": "DOM",
+    "numero": 32461,
+    "data_publicacao": "2020-08-08",
+    "titulo": "DOM - 32461 - 08/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/86c54e3d-599b-4af4-b03c-6fba1df2737a.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/86c54e3d-599b-4af4-b03c-6fba1df2737a_dom-7750-08-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:17.438603"
+  },
+  {
+    "id": 5520,
+    "tipo": "DOM",
+    "numero": 7753,
+    "data_publicacao": "2020-08-11",
+    "titulo": "DOM - 7753 - 11/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/81993a1d-7943-4bb2-add6-a2f92967b6db.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/81993a1d-7943-4bb2-add6-a2f92967b6db_dom-7753-11-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:19.988355"
+  },
+  {
+    "id": 5521,
+    "tipo": "DOM",
+    "numero": 7754,
+    "data_publicacao": "2020-08-12",
+    "titulo": "DOM - 7754 - 12/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/da709943-8a18-4133-8116-7580d70b69f1.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/da709943-8a18-4133-8116-7580d70b69f1_dom-7754-12-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:23.399014"
+  },
+  {
+    "id": 5522,
+    "tipo": "DOM",
+    "numero": 7755,
+    "data_publicacao": "2020-08-12",
+    "titulo": "DOM - 7755 - 12/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/0cd7b8ff-61cb-4925-aa9f-94d9a0dd86c4.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/0cd7b8ff-61cb-4925-aa9f-94d9a0dd86c4_dom-7755-12-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:24.247231"
+  },
+  {
+    "id": 5523,
+    "tipo": "DOM",
+    "numero": 7756,
+    "data_publicacao": "2020-08-13",
+    "titulo": "DOM - 7756 - 13/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/b9ddd544-9b23-4785-a7b7-7c01b58235b0.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/b9ddd544-9b23-4785-a7b7-7c01b58235b0_dom-7756-13-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:25.438626"
+  },
+  {
+    "id": 5524,
+    "tipo": "DOM",
+    "numero": 7757,
+    "data_publicacao": "2020-08-13",
+    "titulo": "DOM - 7757 - 13/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/1f7d74db-8a59-489c-b6bc-651aea8970a1.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/1f7d74db-8a59-489c-b6bc-651aea8970a1_dom-7757-13-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:27.752082"
+  },
+  {
+    "id": 5525,
+    "tipo": "DOM",
+    "numero": 7759,
+    "data_publicacao": "2020-08-14",
+    "titulo": "DOM - 7759 - 14/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/7747b2e8-b5c7-43aa-bf58-fb87b16faf70.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/7747b2e8-b5c7-43aa-bf58-fb87b16faf70_dom-7759-14-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:30.479596"
+  },
+  {
+    "id": 5526,
+    "tipo": "DOM",
+    "numero": 7760,
+    "data_publicacao": "2020-08-15",
+    "titulo": "DOM - 7760 - 15/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/56139bf7-feb9-4c52-8bf8-5005dd9df9b5.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/56139bf7-feb9-4c52-8bf8-5005dd9df9b5_dom-7760-15-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:31.795119"
+  },
+  {
+    "id": 5527,
+    "tipo": "DOM",
+    "numero": 7761,
+    "data_publicacao": "2020-08-18",
+    "titulo": "DOM - 7761 - 18/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/2c39fc14-8033-4b2c-872e-efc450b62f77.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/2c39fc14-8033-4b2c-872e-efc450b62f77_dom-7761-18-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:33.011157"
+  },
+  {
+    "id": 5528,
+    "tipo": "DOM",
+    "numero": 7763,
+    "data_publicacao": "2020-08-19",
+    "titulo": "DOM - 7763 - 19/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/b496e177-17ae-43db-acaa-3fd92bed905c.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/b496e177-17ae-43db-acaa-3fd92bed905c_dom-7763-19-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:35.065174"
+  },
+  {
+    "id": 5529,
+    "tipo": "DOM",
+    "numero": 7764,
+    "data_publicacao": "2020-08-20",
+    "titulo": "DOM - 7764 - 20/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/721ac03c-22b4-4604-ad81-5531c70f027f.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/721ac03c-22b4-4604-ad81-5531c70f027f_dom-7764-20-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:36.891642"
+  },
+  {
+    "id": 5530,
+    "tipo": "DOM",
+    "numero": 7765,
+    "data_publicacao": "2020-08-21",
+    "titulo": "DOM - 7765 - 21/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/6cc13638-db66-43d6-ab70-f646f4648cd2.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/6cc13638-db66-43d6-ab70-f646f4648cd2_dom-7765-21-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:38.275884"
+  },
+  {
+    "id": 5531,
+    "tipo": "DOM",
+    "numero": 7766,
+    "data_publicacao": "2020-08-21",
+    "titulo": "DOM - 7766 - 21/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/fbd1ea90-4db9-4f29-99e7-45e056e0af15.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/fbd1ea90-4db9-4f29-99e7-45e056e0af15_dom-7766-21-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:41.412092"
+  },
+  {
+    "id": 5532,
+    "tipo": "DOM",
+    "numero": 7767,
+    "data_publicacao": "2020-08-22",
+    "titulo": "DOM - 7767 - 22/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/f3049a94-cc12-478a-95f4-86c7aeb16a85.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/f3049a94-cc12-478a-95f4-86c7aeb16a85_dom-7767-22-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:42.946769"
+  },
+  {
+    "id": 5533,
+    "tipo": "DOM",
+    "numero": 7768,
+    "data_publicacao": "2020-08-25",
+    "titulo": "DOM - 7768 - 25/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/802eab22-43b3-4346-a968-f53a469987e6.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/802eab22-43b3-4346-a968-f53a469987e6_dom-7768-25-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:45.084676"
+  },
+  {
+    "id": 5534,
+    "tipo": "DOM",
+    "numero": 7769,
+    "data_publicacao": "2020-08-26",
+    "titulo": "DOM - 7769 - 26/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/316f608a-0c00-4888-ae10-b3ebeb4a3ddf.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/316f608a-0c00-4888-ae10-b3ebeb4a3ddf_dom-7769-26-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:46.535554"
+  },
+  {
+    "id": 5535,
+    "tipo": "DOM",
+    "numero": 7770,
+    "data_publicacao": "2020-08-27",
+    "titulo": "DOM - 7770 - 27/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/5f86cd39-2d40-4f28-9862-5be3c31a108e.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/5f86cd39-2d40-4f28-9862-5be3c31a108e_dom-7770-27-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:48.193414"
+  },
+  {
+    "id": 5537,
+    "tipo": "DOM",
+    "numero": 7771,
+    "data_publicacao": "2020-08-28",
+    "titulo": "DOM - 7771 - 28/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/2b38e621-7ce9-43c0-a561-f7ae2a0b1917.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/2b38e621-7ce9-43c0-a561-f7ae2a0b1917_dom-7771-28-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:52.343022"
+  },
+  {
+    "id": 5536,
+    "tipo": "DOM",
+    "numero": 7772,
+    "data_publicacao": "2020-08-28",
+    "titulo": "DOM - 7772 - 28/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/61183d9a-2641-4e27-86d0-b9511c54f37d.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/61183d9a-2641-4e27-86d0-b9511c54f37d_dom-7772-28-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:51.220230"
+  },
+  {
+    "id": 5539,
+    "tipo": "DOM",
+    "numero": 7773,
+    "data_publicacao": "2020-08-29",
+    "titulo": "DOM - 7773 - 29/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/11bcbdea-ae80-4f32-87b4-7b7fd1d5f9f8.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/11bcbdea-ae80-4f32-87b4-7b7fd1d5f9f8_dom-7773-29-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:55.797428"
+  },
+  {
+    "id": 5538,
+    "tipo": "DOM",
+    "numero": 7774,
+    "data_publicacao": "2020-08-29",
+    "titulo": "DOM - 7774 - 29/08/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/6bfd7f36-0b46-4815-96d9-1b996fa38242.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/6bfd7f36-0b46-4815-96d9-1b996fa38242_dom-7774-29-08-2020.pdf",
+    "created_at": "2026-10-06T09:46:53.835954"
+  },
+  {
+    "id": 5540,
+    "tipo": "DOM",
+    "numero": 7775,
+    "data_publicacao": "2020-09-01",
+    "titulo": "DOM - 7775 - 01/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/b4f32e49-0f18-4718-93fa-ef7c637400d3.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/b4f32e49-0f18-4718-93fa-ef7c637400d3_dom-7775-01-09-2020.pdf",
+    "created_at": "2026-10-06T09:46:56.888807"
+  },
+  {
+    "id": 5541,
+    "tipo": "DOM",
+    "numero": 7776,
+    "data_publicacao": "2020-09-02",
+    "titulo": "DOM - 7776 - 02/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/70fd83ed-29be-4a93-8b5e-626bcf75928e.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/70fd83ed-29be-4a93-8b5e-626bcf75928e_dom-7776-02-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:13.998475"
+  },
+  {
+    "id": 5542,
+    "tipo": "DOM",
+    "numero": 7777,
+    "data_publicacao": "2020-09-03",
+    "titulo": "DOM - 7777 - 03/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/5db2e1e4-248a-49da-81f4-c94f57e5b548.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/5db2e1e4-248a-49da-81f4-c94f57e5b548_dom-7777-03-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:15.478560"
+  },
+  {
+    "id": 5543,
+    "tipo": "DOM",
+    "numero": 7778,
+    "data_publicacao": "2020-09-04",
+    "titulo": "DOM - 7778 - 04/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/9a4e7688-f1db-4d57-a813-e0255c9ec198.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/9a4e7688-f1db-4d57-a813-e0255c9ec198_dom-7778-04-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:16.680717"
+  },
+  {
+    "id": 5544,
+    "tipo": "DOM",
+    "numero": 7779,
+    "data_publicacao": "2020-09-04",
+    "titulo": "DOM - 7779 - 04/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/34f130be-797e-4f1e-81d8-46c6d53d991d.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/34f130be-797e-4f1e-81d8-46c6d53d991d_dom-7779-04-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:20.022278"
+  },
+  {
+    "id": 5545,
+    "tipo": "DOM",
+    "numero": 7780,
+    "data_publicacao": "2020-09-05",
+    "titulo": "DOM - 7780 - 05/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/97d282e1-7683-4ad5-9f77-3c4ee6ce8a88.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/97d282e1-7683-4ad5-9f77-3c4ee6ce8a88_dom-7780-05-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:24.064814"
+  },
+  {
+    "id": 5546,
+    "tipo": "DOM",
+    "numero": 7781,
+    "data_publicacao": "2020-09-09",
+    "titulo": "DOM - 7781 - 09/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/8a7469db-6369-453a-8d19-7011a994a2ba.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/8a7469db-6369-453a-8d19-7011a994a2ba_dom-7781-09-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:25.660330"
+  },
+  {
+    "id": 5547,
+    "tipo": "DOM",
+    "numero": 7782,
+    "data_publicacao": "2020-09-10",
+    "titulo": "DOM - 7782 - 10/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/a3b3172e-a16d-4b22-8f5d-f2999cc51307.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/a3b3172e-a16d-4b22-8f5d-f2999cc51307_dom-7782-10-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:27.998834"
+  },
+  {
+    "id": 5548,
+    "tipo": "DOM",
+    "numero": 7783,
+    "data_publicacao": "2020-09-11",
+    "titulo": "DOM - 7783 - 11/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/c560967d-372f-426c-8299-01e029563661.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/c560967d-372f-426c-8299-01e029563661_dom-7783-11-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:29.660282"
+  },
+  {
+    "id": 5549,
+    "tipo": "DOM",
+    "numero": 7784,
+    "data_publicacao": "2020-09-11",
+    "titulo": "DOM - 7784 - 11/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/9175ee59-a027-4f41-a624-5d8944445bf6.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/9175ee59-a027-4f41-a624-5d8944445bf6_dom-7784-11-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:33.117990"
+  },
+  {
+    "id": 5551,
+    "tipo": "DOM",
+    "numero": 7785,
+    "data_publicacao": "2020-09-12",
+    "titulo": "DOM - 7785 - 12/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/5bef406c-17ef-4d2f-9cbb-b608b9314fef.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/5bef406c-17ef-4d2f-9cbb-b608b9314fef_dom-7785-12-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:35.158471"
+  },
+  {
+    "id": 5550,
+    "tipo": "DOM",
+    "numero": 7786,
+    "data_publicacao": "2020-09-12",
+    "titulo": "DOM - 7786 - 12/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ccb59c18-f4d1-4734-91d6-2bc9fc82abf8.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ccb59c18-f4d1-4734-91d6-2bc9fc82abf8_dom-7786-12-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:34.350615"
+  },
+  {
+    "id": 5552,
+    "tipo": "DOM",
+    "numero": 7787,
+    "data_publicacao": "2020-09-15",
+    "titulo": "DOM - 7787 - 15/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/bf83d5f5-072a-45cc-80d4-ef67f6d57281.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/bf83d5f5-072a-45cc-80d4-ef67f6d57281_dom-7787-15-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:37.247942"
+  },
+  {
+    "id": 5553,
+    "tipo": "DOM",
+    "numero": 7788,
+    "data_publicacao": "2020-09-16",
+    "titulo": "DOM - 7788 - 16/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/7e4288a2-ba6b-457b-8dcd-974b4fb83662.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/7e4288a2-ba6b-457b-8dcd-974b4fb83662_dom-7788-16-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:38.585385"
+  },
+  {
+    "id": 5554,
+    "tipo": "DOM",
+    "numero": 7789,
+    "data_publicacao": "2020-09-17",
+    "titulo": "DOM - 7789 - 17/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/10cec2dd-9110-4200-a840-95cbbb042108.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/10cec2dd-9110-4200-a840-95cbbb042108_dom-7789-17-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:39.930669"
+  },
+  {
+    "id": 5555,
+    "tipo": "DOM",
+    "numero": 7790,
+    "data_publicacao": "2020-09-18",
+    "titulo": "DOM - 7790 - 18/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/78a82127-4812-4bc0-bd9f-aed29f99eba9.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/78a82127-4812-4bc0-bd9f-aed29f99eba9_dom-7790-18-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:42.548404"
+  },
+  {
+    "id": 5556,
+    "tipo": "DOM",
+    "numero": 32326,
+    "data_publicacao": "2020-09-18",
+    "titulo": "DOM - 32326 - 18/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/7a67ed95-e625-4258-a1cb-7b40354c61f4.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/7a67ed95-e625-4258-a1cb-7b40354c61f4_dom-7791-18-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:45.194113"
+  },
+  {
+    "id": 5557,
+    "tipo": "DOM",
+    "numero": 7792,
+    "data_publicacao": "2020-09-19",
+    "titulo": "DOM - 7792 - 19/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/61fd6112-76a1-423b-9afb-6b895ac8fe95.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/61fd6112-76a1-423b-9afb-6b895ac8fe95_dom-7792-19-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:47.141409"
+  },
+  {
+    "id": 5558,
+    "tipo": "DOM",
+    "numero": 7793,
+    "data_publicacao": "2020-09-22",
+    "titulo": "DOM - 7793 - 22/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/641756c8-9672-4f49-8b2b-b7b8099b846b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/641756c8-9672-4f49-8b2b-b7b8099b846b_dom-7793-22-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:49.608216"
+  },
+  {
+    "id": 5559,
+    "tipo": "DOM",
+    "numero": 7794,
+    "data_publicacao": "2020-09-23",
+    "titulo": "DOM - 7794 - 23/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/290ae6d1-0704-4d56-8cec-73dbd3af5b70.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/290ae6d1-0704-4d56-8cec-73dbd3af5b70_dom-7794-23-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:52.619646"
+  },
+  {
+    "id": 5560,
+    "tipo": "DOM",
+    "numero": 7795,
+    "data_publicacao": "2020-09-24",
+    "titulo": "DOM - 7795 - 24/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/d21ed93a-4ea0-4712-a295-bcbf1a6f339a.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/d21ed93a-4ea0-4712-a295-bcbf1a6f339a_dom-7795-24-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:54.268318"
+  },
+  {
+    "id": 5562,
+    "tipo": "DOM",
+    "numero": 7796,
+    "data_publicacao": "2020-09-25",
+    "titulo": "DOM - 7796 - 25/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/b0bea246-8027-4e40-a721-42ef3874f6e4.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/b0bea246-8027-4e40-a721-42ef3874f6e4_dom-7796-25-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:56.733413"
+  },
+  {
+    "id": 5561,
+    "tipo": "DOM",
+    "numero": 7797,
+    "data_publicacao": "2020-09-25",
+    "titulo": "DOM - 7797 - 25/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/5d31e840-fed4-4f2f-8ea5-9a8f83a2ed8f.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/5d31e840-fed4-4f2f-8ea5-9a8f83a2ed8f_dom-7797-25-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:55.347733"
+  },
+  {
+    "id": 5563,
+    "tipo": "DOM",
+    "numero": 7798,
+    "data_publicacao": "2020-09-26",
+    "titulo": "DOM - 7798 - 26/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/d3c287a2-b237-49bb-a661-3a90e1d99774.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/d3c287a2-b237-49bb-a661-3a90e1d99774_dom-7798-26-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:59.054655"
+  },
+  {
+    "id": 5564,
+    "tipo": "DOM",
+    "numero": 7799,
+    "data_publicacao": "2020-09-28",
+    "titulo": "DOM - 7799 - 28/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/bf7464ca-66a3-4a5a-8fd8-6a948787565d.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/bf7464ca-66a3-4a5a-8fd8-6a948787565d_dom-7799-28-09-2020.pdf",
+    "created_at": "2026-10-06T09:47:59.977887"
+  },
+  {
+    "id": 5565,
+    "tipo": "DOM",
+    "numero": 7800,
+    "data_publicacao": "2020-09-29",
+    "titulo": "DOM - 7800 - 29/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/bf9a39b8-497c-4f0e-a42e-b02296685bd9.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/bf9a39b8-497c-4f0e-a42e-b02296685bd9_dom-7800-29-09-2020.pdf",
+    "created_at": "2026-10-06T09:48:02.178071"
+  },
+  {
+    "id": 5566,
+    "tipo": "DOM",
+    "numero": 7801,
+    "data_publicacao": "2020-09-29",
+    "titulo": "DOM - 7801 - 29/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/fd3e1636-3b86-40de-986c-7cd78b60f969.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/fd3e1636-3b86-40de-986c-7cd78b60f969_dom-7801-29-09-2020.pdf",
+    "created_at": "2026-10-06T09:48:03.280826"
+  },
+  {
+    "id": 5567,
+    "tipo": "DOM",
+    "numero": 7802,
+    "data_publicacao": "2020-09-30",
+    "titulo": "DOM - 7802 - 30/09/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/01173a56-0848-4ee6-bf79-5b6dcd05f65d.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/01173a56-0848-4ee6-bf79-5b6dcd05f65d_dom-7802-30-09-2020.pdf",
+    "created_at": "2026-10-06T09:48:05.527009"
+  },
+  {
+    "id": 5568,
+    "tipo": "DOM",
+    "numero": 7803,
+    "data_publicacao": "2020-10-01",
+    "titulo": "DOM - 7803 - 01/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/91636be2-96bd-4e64-a293-a267e9bfcc64.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/91636be2-96bd-4e64-a293-a267e9bfcc64_dom-7803-01-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:06.848893"
+  },
+  {
+    "id": 5569,
+    "tipo": "DOM",
+    "numero": 7804,
+    "data_publicacao": "2020-10-02",
+    "titulo": "DOM - 7804 - 02/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/275fd869-55f2-4ff1-8bcf-6dca53ce4dc3.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/275fd869-55f2-4ff1-8bcf-6dca53ce4dc3_dom-7804-02-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:08.632745"
+  },
+  {
+    "id": 5570,
+    "tipo": "DOM",
+    "numero": 7805,
+    "data_publicacao": "2020-10-02",
+    "titulo": "DOM - 7805 - 02/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/c8b10191-0514-4960-be52-27f99d5b0d93.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/c8b10191-0514-4960-be52-27f99d5b0d93_dom-7805-02-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:09.573758"
+  },
+  {
+    "id": 5571,
+    "tipo": "DOM",
+    "numero": 7806,
+    "data_publicacao": "2020-10-03",
+    "titulo": "DOM - 7806 - 03/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/55c41286-2077-4a39-9d67-b9cb7dca9b64.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/55c41286-2077-4a39-9d67-b9cb7dca9b64_dom-7806-03-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:11.295265"
+  },
+  {
+    "id": 5572,
+    "tipo": "DOM",
+    "numero": 7807,
+    "data_publicacao": "2020-10-06",
+    "titulo": "DOM - 7807 - 06/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/3a8642f7-7d99-4972-81cb-0d82f5f78668.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/3a8642f7-7d99-4972-81cb-0d82f5f78668_dom-7807-06-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:13.286641"
+  },
+  {
+    "id": 5573,
+    "tipo": "DOM",
+    "numero": 7808,
+    "data_publicacao": "2020-10-07",
+    "titulo": "DOM - 7808 - 07/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/a88e2eec-462c-4e3c-aefd-93067654e0f9.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/a88e2eec-462c-4e3c-aefd-93067654e0f9_dom-7808-07-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:15.173935"
+  },
+  {
+    "id": 5574,
+    "tipo": "DOM",
+    "numero": 7809,
+    "data_publicacao": "2020-10-08",
+    "titulo": "DOM - 7809 - 08/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/eed3ff04-b83b-49a8-90a2-814eda5f71a1.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/eed3ff04-b83b-49a8-90a2-814eda5f71a1_dom-7809-08-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:17.046374"
+  },
+  {
+    "id": 5576,
+    "tipo": "DOM",
+    "numero": 7810,
+    "data_publicacao": "2020-10-09",
+    "titulo": "DOM - 7810 - 09/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/22f5b999-0e76-48ac-ae82-400aae80e5d9.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/22f5b999-0e76-48ac-ae82-400aae80e5d9_dom-7810-09-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:19.354672"
+  },
+  {
+    "id": 5575,
+    "tipo": "DOM",
+    "numero": 13261,
+    "data_publicacao": "2020-10-09",
+    "titulo": "DOM - 13261 - 09/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/552c9992-5c89-4f91-bf6c-e81cb4f61d67.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/552c9992-5c89-4f91-bf6c-e81cb4f61d67_dom-7811-09-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:17.818503"
+  },
+  {
+    "id": 5577,
+    "tipo": "DOM",
+    "numero": 7812,
+    "data_publicacao": "2020-10-10",
+    "titulo": "DOM - 7812 - 10/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/1d15b12a-7ce7-4ca0-af70-20adf3505c8a.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/1d15b12a-7ce7-4ca0-af70-20adf3505c8a_dom-7812-10-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:20.564759"
+  },
+  {
+    "id": 5578,
+    "tipo": "DOM",
+    "numero": 7814,
+    "data_publicacao": "2020-10-14",
+    "titulo": "DOM - 7814 - 14/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/b5bd9f91-bd17-425e-b2c1-4bb0d28ba5e8.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/b5bd9f91-bd17-425e-b2c1-4bb0d28ba5e8_dom-7814-14-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:21.817829"
+  },
+  {
+    "id": 5579,
+    "tipo": "DOM",
+    "numero": 7815,
+    "data_publicacao": "2020-10-15",
+    "titulo": "DOM - 7815 - 15/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/2ba19f9e-107c-4610-abb3-8139a1f128a4.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/2ba19f9e-107c-4610-abb3-8139a1f128a4_dom-7815-15-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:23.418027"
+  },
+  {
+    "id": 5580,
+    "tipo": "DOM",
+    "numero": 7816,
+    "data_publicacao": "2020-10-16",
+    "titulo": "DOM - 7816 - 16/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/8095cae8-b396-4606-bff9-4cc2167a0b80.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/8095cae8-b396-4606-bff9-4cc2167a0b80_dom-7816-16-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:24.734556"
+  },
+  {
+    "id": 5581,
+    "tipo": "DOM",
+    "numero": 7817,
+    "data_publicacao": "2020-10-16",
+    "titulo": "DOM - 7817 - 16/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/2e773c05-4d1b-4d21-8a56-12540c5d3812.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/2e773c05-4d1b-4d21-8a56-12540c5d3812_dom-7817-16-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:25.911857"
+  },
+  {
+    "id": 5582,
+    "tipo": "DOM",
+    "numero": 7818,
+    "data_publicacao": "2020-10-17",
+    "titulo": "DOM - 7818 - 17/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/4af1f845-c6a4-4a9e-9ef5-11be8b135619.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/4af1f845-c6a4-4a9e-9ef5-11be8b135619_dom-7818-17-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:27.454880"
+  },
+  {
+    "id": 5583,
+    "tipo": "DOM",
+    "numero": 7819,
+    "data_publicacao": "2020-10-20",
+    "titulo": "DOM - 7819 - 20/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/e781fb68-1acc-4c3e-b1be-1b95879a992d.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/e781fb68-1acc-4c3e-b1be-1b95879a992d_dom-7819-20-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:28.834863"
+  },
+  {
+    "id": 5584,
+    "tipo": "DOM",
+    "numero": 7820,
+    "data_publicacao": "2020-10-21",
+    "titulo": "DOM - 7820 - 21/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/0f1f79a3-b8e6-44ef-919f-2b5e86d4a6b8.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/0f1f79a3-b8e6-44ef-919f-2b5e86d4a6b8_dom-7820-21-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:30.548951"
+  },
+  {
+    "id": 5585,
+    "tipo": "DOM",
+    "numero": 7821,
+    "data_publicacao": "2020-10-22",
+    "titulo": "DOM - 7821 - 22/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/26c82b12-9372-487a-8659-88ce06982d20.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/26c82b12-9372-487a-8659-88ce06982d20_dom-7821-22-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:32.325950"
+  },
+  {
+    "id": 5586,
+    "tipo": "DOM",
+    "numero": 7822,
+    "data_publicacao": "2020-10-23",
+    "titulo": "DOM - 7822 - 23/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/8d53ee1c-dadb-44de-8397-c697f2ed0f61.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/8d53ee1c-dadb-44de-8397-c697f2ed0f61_dom-7822-23-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:34.521406"
+  },
+  {
+    "id": 5587,
+    "tipo": "DOM",
+    "numero": 7823,
+    "data_publicacao": "2020-10-24",
+    "titulo": "DOM - 7823 - 24/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ae177281-8a56-4f0a-90cc-9b1f2588b16a.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ae177281-8a56-4f0a-90cc-9b1f2588b16a_dom-7823-24-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:36.083145"
+  },
+  {
+    "id": 5588,
+    "tipo": "DOM",
+    "numero": 7824,
+    "data_publicacao": "2020-10-27",
+    "titulo": "DOM - 7824 - 27/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/1543eba3-cfd0-4319-b47a-b2e5e889974d.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/1543eba3-cfd0-4319-b47a-b2e5e889974d_dom-7824-27-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:38.335118"
+  },
+  {
+    "id": 5589,
+    "tipo": "DOM",
+    "numero": 7825,
+    "data_publicacao": "2020-10-27",
+    "titulo": "DOM - 7825 - 27/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/48ddaad2-a2e5-49b0-a5de-c21c82210e64.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/48ddaad2-a2e5-49b0-a5de-c21c82210e64_dom-7825-27-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:39.308841"
+  },
+  {
+    "id": 5590,
+    "tipo": "DOM",
+    "numero": 7826,
+    "data_publicacao": "2020-10-28",
+    "titulo": "DOM - 7826 - 28/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/0c28d127-32fd-4c66-84ae-058a80f4fde5.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/0c28d127-32fd-4c66-84ae-058a80f4fde5_dom-7826-28-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:40.392472"
+  },
+  {
+    "id": 5591,
+    "tipo": "DOM",
+    "numero": 7827,
+    "data_publicacao": "2020-10-28",
+    "titulo": "DOM - 7827 - 28/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/278cc4cb-8e95-4f6e-82f3-e8b6448a9625.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/278cc4cb-8e95-4f6e-82f3-e8b6448a9625_dom-7827-28-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:41.113155"
+  },
+  {
+    "id": 5592,
+    "tipo": "DOM",
+    "numero": 7828,
+    "data_publicacao": "2020-10-29",
+    "titulo": "DOM - 7828 - 29/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/5eef8255-ac15-466f-8fcc-1081303ab9c4.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/5eef8255-ac15-466f-8fcc-1081303ab9c4_dom-7828-29-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:42.678761"
+  },
+  {
+    "id": 5593,
+    "tipo": "DOM",
+    "numero": 7829,
+    "data_publicacao": "2020-10-29",
+    "titulo": "DOM - 7829 - 29/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/7b508743-ba75-4c86-8708-79f886ed459b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/7b508743-ba75-4c86-8708-79f886ed459b_dom-7829-29-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:43.559148"
+  },
+  {
+    "id": 5595,
+    "tipo": "DOM",
+    "numero": 7830,
+    "data_publicacao": "2020-10-30",
+    "titulo": "DOM - 7830 - 30/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/04a9d6dd-d912-4ccf-9a29-e801f131bc18.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/04a9d6dd-d912-4ccf-9a29-e801f131bc18_dom-7830-30-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:45.560623"
+  },
+  {
+    "id": 5594,
+    "tipo": "DOM",
+    "numero": 7831,
+    "data_publicacao": "2020-10-30",
+    "titulo": "DOM - 7831 - 30/10/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/9bcf735a-e998-4f4c-a015-8472fac7efeb.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/9bcf735a-e998-4f4c-a015-8472fac7efeb_dom-7831-30-10-2020.pdf",
+    "created_at": "2026-10-06T09:48:44.906871"
+  },
+  {
+    "id": 5596,
+    "tipo": "DOM",
+    "numero": 7832,
+    "data_publicacao": "2020-11-04",
+    "titulo": "DOM - 7832 - 04/11/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/d2fdd60e-c6ac-4dc6-9a17-013a436ae208.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/d2fdd60e-c6ac-4dc6-9a17-013a436ae208_dom-7832-04-11-2020.pdf",
+    "created_at": "2026-10-06T09:48:47.145522"
+  },
+  {
+    "id": 5597,
+    "tipo": "DOM",
+    "numero": 7833,
+    "data_publicacao": "2020-11-05",
+    "titulo": "DOM - 7833 - 05/11/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/90a55c7e-7e33-42d3-8d14-36320b553477.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/90a55c7e-7e33-42d3-8d14-36320b553477_dom-7833-05-11-2020.pdf",
+    "created_at": "2026-10-06T09:48:48.967137"
+  },
+  {
+    "id": 5598,
+    "tipo": "DOM",
+    "numero": 7834,
+    "data_publicacao": "2020-11-06",
+    "titulo": "DOM - 7834 - 06/11/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/f3ad7bfe-43b3-4692-b801-ed04d85ca97c.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/f3ad7bfe-43b3-4692-b801-ed04d85ca97c_dom-7834-06-11-2020.pdf",
+    "created_at": "2026-10-06T09:48:50.660977"
+  },
+  {
+    "id": 5599,
+    "tipo": "DOM",
+    "numero": 7835,
+    "data_publicacao": "2020-11-07",
+    "titulo": "DOM - 7835 - 07/11/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/f603b66a-3ee9-4b40-96bd-4cd583f014fa.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/f603b66a-3ee9-4b40-96bd-4cd583f014fa_dom-7835-07-11-2020.pdf",
+    "created_at": "2026-10-06T09:48:52.215325"
+  },
+  {
+    "id": 5600,
+    "tipo": "DOM",
+    "numero": 7836,
+    "data_publicacao": "2020-11-10",
+    "titulo": "DOM - 7836 - 10/11/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/5d7886d9-90d8-441a-8ad8-1548516f63f3.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/5d7886d9-90d8-441a-8ad8-1548516f63f3_dom-7836-10-11-2020.pdf",
+    "created_at": "2026-10-06T09:48:55.510995"
+  },
+  {
+    "id": 5601,
+    "tipo": "DOM",
+    "numero": 7837,
+    "data_publicacao": "2020-11-11",
+    "titulo": "DOM - 7837 - 11/11/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/e7ae0f09-8b33-40cf-8016-e8e0ca14d130.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/e7ae0f09-8b33-40cf-8016-e8e0ca14d130_dom-7837-11-11-2020.pdf",
+    "created_at": "2026-10-06T09:48:57.689893"
+  },
+  {
+    "id": 5602,
+    "tipo": "DOM",
+    "numero": 7838,
+    "data_publicacao": "2020-11-12",
+    "titulo": "DOM - 7838 - 12/11/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/09128eb5-5955-4671-9f30-bb3df5b033bb.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/09128eb5-5955-4671-9f30-bb3df5b033bb_dom-7838-12-11-2020.pdf",
+    "created_at": "2026-10-06T09:48:59.150512"
+  },
+  {
+    "id": 5603,
+    "tipo": "DOM",
+    "numero": 7839,
+    "data_publicacao": "2020-11-12",
+    "titulo": "DOM - 7839 - 12/11/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ec704629-4c88-4ba3-b5e8-629c15427d2e.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ec704629-4c88-4ba3-b5e8-629c15427d2e_dom-7839-12-11-2020.pdf",
+    "created_at": "2026-10-06T09:49:00.078246"
+  },
+  {
+    "id": 5604,
+    "tipo": "DOM",
+    "numero": 7840,
+    "data_publicacao": "2020-11-13",
+    "titulo": "DOM - 7840 - 13/11/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/e5edff12-c1c9-4eef-8590-d227a18def63.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/e5edff12-c1c9-4eef-8590-d227a18def63_dom-7840-13-11-2020.pdf",
+    "created_at": "2026-10-06T09:49:01.334362"
+  },
+  {
+    "id": 5605,
+    "tipo": "DOM",
+    "numero": 7842,
+    "data_publicacao": "2020-11-14",
+    "titulo": "DOM - 7842 - 14/11/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/19c05c7f-f2ab-4431-b427-6133561d0ce6.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/19c05c7f-f2ab-4431-b427-6133561d0ce6_dom-7842-14-11-2020.pdf",
+    "created_at": "2026-10-06T09:49:03.434377"
+  },
+  {
+    "id": 5606,
+    "tipo": "DOM",
+    "numero": 7843,
+    "data_publicacao": "2020-11-17",
+    "titulo": "DOM - 7843 - 17/11/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/270ee4aa-e5df-4772-a1a6-dbc3c063a66c.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/270ee4aa-e5df-4772-a1a6-dbc3c063a66c_dom-7843-17-11-2020.pdf",
+    "created_at": "2026-10-06T09:49:05.295137"
+  },
+  {
+    "id": 5607,
+    "tipo": "DOM",
+    "numero": 7844,
+    "data_publicacao": "2020-11-18",
+    "titulo": "DOM - 7844 - 18/11/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/1ba29dd1-0d34-4945-8b4f-0c9c8f9f95eb.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/1ba29dd1-0d34-4945-8b4f-0c9c8f9f95eb_dom-7844-18-11-2020.pdf",
+    "created_at": "2026-10-06T09:49:06.744587"
+  },
+  {
+    "id": 5608,
+    "tipo": "DOM",
+    "numero": 7845,
+    "data_publicacao": "2020-11-19",
+    "titulo": "DOM - 7845 - 19/11/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/6c1d6600-2f62-4abd-bc52-879f27a77bd0.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/6c1d6600-2f62-4abd-bc52-879f27a77bd0_dom-7845-19-11-2020.pdf",
+    "created_at": "2026-10-06T09:49:08.099535"
+  },
+  {
+    "id": 5609,
+    "tipo": "DOM",
+    "numero": 7846,
+    "data_publicacao": "2020-11-20",
+    "titulo": "DOM - 7846 - 20/11/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/5409512a-7171-4a37-ac01-c2ac77a99fcc.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/5409512a-7171-4a37-ac01-c2ac77a99fcc_dom-7846-20-11-2020.pdf",
+    "created_at": "2026-10-06T09:49:09.514110"
+  },
+  {
+    "id": 5610,
+    "tipo": "DOM",
+    "numero": 7847,
+    "data_publicacao": "2020-11-21",
+    "titulo": "DOM - 7847 - 21/11/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/9422438f-95c8-4990-8cef-a522cb08c898.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/9422438f-95c8-4990-8cef-a522cb08c898_dom-7847-21-11-2020.pdf",
+    "created_at": "2026-10-06T09:49:10.773734"
+  },
+  {
+    "id": 5611,
+    "tipo": "DOM",
+    "numero": 7848,
+    "data_publicacao": "2020-11-24",
+    "titulo": "DOM - 7848 - 24/11/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/a2ad2e3c-daa0-4c54-aacc-7375638a86ba.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/a2ad2e3c-daa0-4c54-aacc-7375638a86ba_dom-7848-24-11-2020.pdf",
+    "created_at": "2026-10-06T09:49:12.321612"
+  },
+  {
+    "id": 5612,
+    "tipo": "DOM",
+    "numero": 7849,
+    "data_publicacao": "2020-11-25",
+    "titulo": "DOM - 7849 - 25/11/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/62a0a99b-38b6-4144-8cc8-fe6ef7df8431.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/62a0a99b-38b6-4144-8cc8-fe6ef7df8431_dom-7849-25-11-2020.pdf",
+    "created_at": "2026-10-06T09:49:14.346976"
+  },
+  {
+    "id": 5613,
+    "tipo": "DOM",
+    "numero": 7851,
+    "data_publicacao": "2020-11-26",
+    "titulo": "DOM - 7851 - 26/11/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/2698509c-79f3-484a-9e67-20a22e608781.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/2698509c-79f3-484a-9e67-20a22e608781_dom-7851-26-11-2020.pdf",
+    "created_at": "2026-10-06T09:49:16.445853"
+  },
+  {
+    "id": 5614,
+    "tipo": "DOM",
+    "numero": 7852,
+    "data_publicacao": "2020-11-27",
+    "titulo": "DOM - 7852 - 27/11/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/87167489-4350-4818-b75d-55e1e86393e8.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/87167489-4350-4818-b75d-55e1e86393e8_dom-7852-27-11-2020.pdf",
+    "created_at": "2026-10-06T09:49:18.565772"
+  },
+  {
+    "id": 5615,
+    "tipo": "DOM",
+    "numero": 7854,
+    "data_publicacao": "2020-11-28",
+    "titulo": "DOM - 7854 - 28/11/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/918c1da4-35be-4ebb-bb20-c712e75e64b4.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/918c1da4-35be-4ebb-bb20-c712e75e64b4_dom-7854-28-11-2020.pdf",
+    "created_at": "2026-10-06T09:49:20.663844"
+  },
+  {
+    "id": 5617,
+    "tipo": "DOM",
+    "numero": 7855,
+    "data_publicacao": "2020-12-01",
+    "titulo": "DOM - 7855 - 01/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/fed6bf64-8f7f-453a-9c5d-eaa438ffeb0f.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/fed6bf64-8f7f-453a-9c5d-eaa438ffeb0f_dom-7855-01-12-2020.pdf",
+    "created_at": "2026-10-06T09:49:22.890175"
+  },
+  {
+    "id": 5618,
+    "tipo": "DOM",
+    "numero": 7856,
+    "data_publicacao": "2020-12-02",
+    "titulo": "DOM - 7856 - 02/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/2aa7f3e5-f7f8-4be9-bc34-4638eb172958.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/2aa7f3e5-f7f8-4be9-bc34-4638eb172958_dom-7856-02-12-2020.pdf",
+    "created_at": "2026-10-06T09:49:24.571847"
+  },
+  {
+    "id": 5619,
+    "tipo": "DOM",
+    "numero": 7857,
+    "data_publicacao": "2020-12-03",
+    "titulo": "DOM - 7857 - 03/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/d4fece66-cbb4-4af8-80a9-e03b83d9f678.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/d4fece66-cbb4-4af8-80a9-e03b83d9f678_dom-7857-03-12-2020.pdf",
+    "created_at": "2026-10-06T09:49:26.738869"
+  },
+  {
+    "id": 5620,
+    "tipo": "DOM",
+    "numero": 7858,
+    "data_publicacao": "2020-12-04",
+    "titulo": "DOM - 7858 - 04/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ea98b137-5df1-40c7-94c7-f75c8b2c04a8.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ea98b137-5df1-40c7-94c7-f75c8b2c04a8_dom-7858-04-12-2020.pdf",
+    "created_at": "2026-10-06T09:49:28.745317"
+  },
+  {
+    "id": 5621,
+    "tipo": "DOM",
+    "numero": 7859,
+    "data_publicacao": "2020-12-05",
+    "titulo": "DOM - 7859 - 05/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/02675431-0a0b-4806-b06b-337e7d90ecd2.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/02675431-0a0b-4806-b06b-337e7d90ecd2_dom-7859-05-12-2020.pdf",
+    "created_at": "2026-10-06T09:49:30.210071"
+  },
+  {
+    "id": 5622,
+    "tipo": "DOM",
+    "numero": 7861,
+    "data_publicacao": "2020-12-08",
+    "titulo": "DOM - 7861 - 08/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/2fdcba57-3268-4648-bf18-07bc9f31740a.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/2fdcba57-3268-4648-bf18-07bc9f31740a_dom-7861-08-12-2020.pdf",
+    "created_at": "2026-10-06T09:49:34.150697"
+  },
+  {
+    "id": 5623,
+    "tipo": "DOM",
+    "numero": 7862,
+    "data_publicacao": "2020-12-09",
+    "titulo": "DOM - 7862 - 09/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/793e0c93-6b28-46a8-b536-7bffad9da0a7.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/793e0c93-6b28-46a8-b536-7bffad9da0a7_dom-7862-09-12-2020.pdf",
+    "created_at": "2026-10-06T09:49:36.031614"
+  },
+  {
+    "id": 5624,
+    "tipo": "DOM",
+    "numero": 7863,
+    "data_publicacao": "2020-12-09",
+    "titulo": "DOM - 7863 - 09/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/e936cf79-0eed-4b58-a328-d1f47ad71adb.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/e936cf79-0eed-4b58-a328-d1f47ad71adb_dom-7863-09-12-2020.pdf",
+    "created_at": "2026-10-06T09:49:37.022259"
+  },
+  {
+    "id": 5625,
+    "tipo": "DOM",
+    "numero": 7864,
+    "data_publicacao": "2020-12-10",
+    "titulo": "DOM - 7864 - 10/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ba7133a5-759d-4f44-9007-eb96a67df8f7.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ba7133a5-759d-4f44-9007-eb96a67df8f7_dom-7864-10-12-2020.pdf",
+    "created_at": "2026-10-06T09:49:39.949810"
+  },
+  {
+    "id": 5627,
+    "tipo": "DOM",
+    "numero": 7866,
+    "data_publicacao": "2020-12-11",
+    "titulo": "DOM - 7866 - 11/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/f631f12b-5fec-4766-bf59-8f98bbf93f73.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/f631f12b-5fec-4766-bf59-8f98bbf93f73_dom-7866-11-12-2020.pdf",
+    "created_at": "2026-10-06T09:49:44.426098"
+  },
+  {
+    "id": 4800,
+    "tipo": "DOM",
+    "numero": 7867,
+    "data_publicacao": "2020-12-12",
+    "titulo": "DOM - 7867 - 12/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/49d3e1fe-b777-477d-baf1-ef1e8d0a6de3.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/49d3e1fe-b777-477d-baf1-ef1e8d0a6de3_dom-7867-12-12-2020.pdf",
+    "created_at": "2026-09-30T09:36:00.765930"
+  },
+  {
+    "id": 5628,
+    "tipo": "DOM",
+    "numero": 7868,
+    "data_publicacao": "2020-12-14",
+    "titulo": "DOM - 7868 - 14/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/182c28ef-c9fe-4439-9af1-6bb0ecd7f38a.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/182c28ef-c9fe-4439-9af1-6bb0ecd7f38a_dom-7868-14-12-2020.pdf",
+    "created_at": "2026-10-06T09:49:47.176246"
+  },
+  {
+    "id": 5629,
+    "tipo": "DOM",
+    "numero": 7869,
+    "data_publicacao": "2020-12-15",
+    "titulo": "DOM - 7869 - 15/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/bdc84738-7448-4501-9d79-6b3da4e82c23.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/bdc84738-7448-4501-9d79-6b3da4e82c23_dom-7869-15-12-2020.pdf",
+    "created_at": "2026-10-06T09:49:48.494421"
+  },
+  {
+    "id": 5630,
+    "tipo": "DOM",
+    "numero": 7870,
+    "data_publicacao": "2020-12-15",
+    "titulo": "DOM - 7870 - 15/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/5db6879b-9229-4920-a54f-6bdc65dab14b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/5db6879b-9229-4920-a54f-6bdc65dab14b_dom-7870-15-12-2020.pdf",
+    "created_at": "2026-10-06T09:49:49.676729"
+  },
+  {
+    "id": 5631,
+    "tipo": "DOM",
+    "numero": 7871,
+    "data_publicacao": "2020-12-16",
+    "titulo": "DOM - 7871 - 16/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/7362a3bf-e95a-4006-b816-9bef44582a31.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/7362a3bf-e95a-4006-b816-9bef44582a31_dom-7871-16-12-2020.pdf",
+    "created_at": "2026-10-06T09:49:51.040022"
+  },
+  {
+    "id": 5632,
+    "tipo": "DOM",
+    "numero": 7872,
+    "data_publicacao": "2020-12-16",
+    "titulo": "DOM - 7872 - 16/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/97c1e66a-5bd4-448f-93b0-d61593ae54c9.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/97c1e66a-5bd4-448f-93b0-d61593ae54c9_dom-7872-16-12-2020.pdf",
+    "created_at": "2026-10-06T09:49:52.521148"
+  },
+  {
+    "id": 5633,
+    "tipo": "DOM",
+    "numero": 7873,
+    "data_publicacao": "2020-12-17",
+    "titulo": "DOM - 7873 - 17/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/f6e226c2-4e92-403e-881c-3cde37709dbe.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/f6e226c2-4e92-403e-881c-3cde37709dbe_dom-7873-17-12-2020.pdf",
+    "created_at": "2026-10-06T09:49:54.588608"
+  },
+  {
+    "id": 5634,
+    "tipo": "DOM",
+    "numero": 7874,
+    "data_publicacao": "2020-12-17",
+    "titulo": "DOM - 7874 - 17/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/aebdf2ae-bbd2-4c75-87e3-62f982aeb637.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/aebdf2ae-bbd2-4c75-87e3-62f982aeb637_dom-7874-17-12-2020.pdf",
+    "created_at": "2026-10-06T09:49:57.193918"
+  },
+  {
+    "id": 5635,
+    "tipo": "DOM",
+    "numero": 7875,
+    "data_publicacao": "2020-12-18",
+    "titulo": "DOM - 7875 - 18/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/22cefa33-4e20-4ff1-9157-fd60cb843ffa.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/22cefa33-4e20-4ff1-9157-fd60cb843ffa_dom-7875-18-12-2020.pdf",
+    "created_at": "2026-10-06T09:49:58.410767"
+  },
+  {
+    "id": 5636,
+    "tipo": "DOM",
+    "numero": 7876,
+    "data_publicacao": "2020-12-18",
+    "titulo": "DOM - 7876 - 18/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/427a4203-695b-4c3c-baa6-e69d08e6d336.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/427a4203-695b-4c3c-baa6-e69d08e6d336_dom-7876-18-12-2020.pdf",
+    "created_at": "2026-10-06T09:49:59.448665"
+  },
+  {
+    "id": 5637,
+    "tipo": "DOM",
+    "numero": 7877,
+    "data_publicacao": "2020-12-19",
+    "titulo": "DOM - 7877 - 19/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/cb16159b-e60a-4f66-a783-e9f21ad4c3d9.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/cb16159b-e60a-4f66-a783-e9f21ad4c3d9_dom-7877-19-12-2020.pdf",
+    "created_at": "2026-10-06T09:50:00.798755"
+  },
+  {
+    "id": 5638,
+    "tipo": "DOM",
+    "numero": 7878,
+    "data_publicacao": "2020-12-22",
+    "titulo": "DOM - 7878 - 22/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/6fccb21c-9f1f-45bf-b0c5-2d2e88160ca9.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/6fccb21c-9f1f-45bf-b0c5-2d2e88160ca9_dom-7878-22-12-2020.pdf",
+    "created_at": "2026-10-06T09:50:02.785174"
+  },
+  {
+    "id": 5049,
+    "tipo": "DOM",
+    "numero": 32580,
+    "data_publicacao": "2020-12-22",
+    "titulo": "DOM - 32580 - 22/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ed0d690d-b2b9-4056-ae25-74a9a47876a2.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ed0d690d-b2b9-4056-ae25-74a9a47876a2_dom-7879-22-12-2020.pdf",
+    "created_at": "2026-09-30T11:24:17.390119"
+  },
+  {
+    "id": 5639,
+    "tipo": "DOM",
+    "numero": 7880,
+    "data_publicacao": "2020-12-23",
+    "titulo": "DOM - 7880 - 23/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/f890f637-663e-4f3c-a550-ecccf8ad9b75.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/f890f637-663e-4f3c-a550-ecccf8ad9b75_dom-7880-23-12-2020.pdf",
+    "created_at": "2026-10-06T09:50:05.102859"
+  },
+  {
+    "id": 5640,
+    "tipo": "DOM",
+    "numero": 7881,
+    "data_publicacao": "2020-12-23",
+    "titulo": "DOM - 7881 - 23/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/c0cf7bed-b0c6-438d-aa8f-48490335b947.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/c0cf7bed-b0c6-438d-aa8f-48490335b947_dom-7881-23-12-2020.pdf",
+    "created_at": "2026-10-06T09:50:06.505374"
+  },
+  {
+    "id": 5642,
+    "tipo": "DOM",
+    "numero": 7883,
+    "data_publicacao": "2020-12-29",
+    "titulo": "DOM - 7883 - 29/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/e7d91235-a618-4ada-a969-82dd83b75436.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/e7d91235-a618-4ada-a969-82dd83b75436_dom-7883-29-12-2020.pdf",
+    "created_at": "2026-10-06T09:50:09.726641"
+  },
+  {
+    "id": 5643,
+    "tipo": "DOM",
+    "numero": 7884,
+    "data_publicacao": "2020-12-30",
+    "titulo": "DOM - 7884 - 30/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/0f03be0c-d6cd-4146-a490-60e0eef8913e.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/0f03be0c-d6cd-4146-a490-60e0eef8913e_dom-7884-30-12-2020.pdf",
+    "created_at": "2026-10-06T09:50:16.969238"
+  },
+  {
+    "id": 5644,
+    "tipo": "DOM",
+    "numero": 7885,
+    "data_publicacao": "2020-12-31",
+    "titulo": "DOM - 7885 - 31/12/2020",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/bab3a2bf-d2dd-453e-9b13-22db12ed76de.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/bab3a2bf-d2dd-453e-9b13-22db12ed76de_dom-7885-31-12-2020.pdf",
+    "created_at": "2026-10-06T09:50:24.693335"
+  }
+]

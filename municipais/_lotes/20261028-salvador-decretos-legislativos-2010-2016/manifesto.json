@@ -1,0 +1,97 @@
+{
+  "municipio": "Salvador",
+  "uf": "BA",
+  "codigo_ibge": "2927408",
+  "fonte_api": "https://portal-api.dioly.com.br/api/diarios/",
+  "rps": 2.0,
+  "consultas": [
+    "DECRETO LEGISLATIVO",
+    "DECRETO LEGISLATIVO Nº"
+  ],
+  "completo": false,
+  "intervalo": [
+    "2010-01-01",
+    "2016-12-31"
+  ],
+  "tipo": "DOL",
+  "extrator": "dioly-raw-v2",
+  "extrator_geometria": "geometria-colunas-v2",
+  "sha256_geometria": "3d954c48700d49328c6d71f3d841cfc40394642e81e338c23d7c27cae175dcd5",
+  "sha256_classificador": "5e13290c9fbb8307e11c641c79077c5df9d4f8f053305a6ae22dababc33b710b",
+  "edicoes": 410,
+  "so_cache": false,
+  "rps_max": 2,
+  "modo": "decretos-legislativos",
+  "contagens": {
+    "sem_ato_promulgado": 390,
+    "ok": 20
+  },
+  "arquivos": [
+    "municipais/BA/salvador/decretos-legislativos/2010/decretos-legislativos-943-2010-dol-3449-dl-943.md",
+    "municipais/BA/salvador/decretos-legislativos/2010/decretos-legislativos-944-2010-dol-3457-dl-944.md",
+    "municipais/BA/salvador/decretos-legislativos/2010/decretos-legislativos-945-2010-dol-3561-dl-945.md",
+    "municipais/BA/salvador/decretos-legislativos/2010/decretos-legislativos-946-2010-dol-3564-dl-946.md",
+    "municipais/BA/salvador/decretos-legislativos/2011/decretos-legislativos-947-2011-dol-3689-dl-947.md",
+    "municipais/BA/salvador/decretos-legislativos/2011/decretos-legislativos-948-2011-dol-3785-dl-948.md",
+    "municipais/BA/salvador/decretos-legislativos/2012/decretos-legislativos-949-2012-dol-3974-dl-949.md",
+    "municipais/BA/salvador/decretos-legislativos/2012/decretos-legislativos-950-2012-dol-3978-dl-950.md",
+    "municipais/BA/salvador/decretos-legislativos/2013/decretos-legislativos-951-2013-dol-4050-dl-951.md",
+    "municipais/BA/salvador/decretos-legislativos/2013/decretos-legislativos-953-2013-dol-4058-dl-953.md",
+    "municipais/BA/salvador/decretos-legislativos/2013/decretos-legislativos-954-2013-dol-4087-dl-954.md",
+    "municipais/BA/salvador/decretos-legislativos/2013/decretos-legislativos-955-2013-dol-4156-dl-955.md",
+    "municipais/BA/salvador/decretos-legislativos/2013/decretos-legislativos-956-2013-dol-4218-dl-956.md",
+    "municipais/BA/salvador/decretos-legislativos/2014/decretos-legislativos-957-2014-dol-4299-dl-957.md",
+    "municipais/BA/salvador/decretos-legislativos/2015/decretos-legislativos-958-2015-dol-4481-dl-958.md",
+    "municipais/BA/salvador/decretos-legislativos/2015/decretos-legislativos-959-2015-dol-4557-dl-959.md",
+    "municipais/BA/salvador/decretos-legislativos/2015/decretos-legislativos-960-2015-dol-4557-dl-960.md",
+    "municipais/BA/salvador/decretos-legislativos/2015/decretos-legislativos-961-2015-dol-4557-dl-961.md",
+    "municipais/BA/salvador/decretos-legislativos/2015/decretos-legislativos-962-2015-dol-4586-dl-962.md",
+    "municipais/BA/salvador/decretos-legislativos/2016/decretos-legislativos-963-2016-dol-4821-dl-963.md",
+    "municipais/BA/salvador/decretos-legislativos/2016/decretos-legislativos-964-2016-dol-4821-dl-964.md"
+  ],
+  "numeros": [
+    "943/2010",
+    "944/2010",
+    "945/2010",
+    "946/2010",
+    "947/2011",
+    "948/2011",
+    "949/2012",
+    "950/2012",
+    "951/2013",
+    "953/2013",
+    "954/2013",
+    "955/2013",
+    "956/2013",
+    "957/2014",
+    "958/2015",
+    "959/2015",
+    "960/2015",
+    "961/2015",
+    "962/2015",
+    "963/2016",
+    "964/2016"
+  ],
+  "descartes": [
+    {
+      "numero": "944",
+      "ano": "2010",
+      "edicao": 3457,
+      "motivo": "texto misturado com notícia do jornal"
+    },
+    {
+      "numero": "958",
+      "ano": "2015",
+      "edicao": 4488,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "958",
+      "ano": "2015",
+      "edicao": 4513,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    }
+  ],
+  "observacao": "Só atos promulgados pela Mesa da CMS (epígrafe em linha própria, Art. 1º, fórmula promulga/faz saber, Sala das Sessões datada no ano da epígrafe e até 1 ano antes da edição). Projetos, indicações, citações em ata/expediente e reproduções antigas não entram. Recorte termina nas assinaturas da Mesa.",
+  "baixado_em": "2026-10-28"
+}

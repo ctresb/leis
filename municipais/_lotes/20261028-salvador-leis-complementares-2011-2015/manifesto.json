@@ -1,0 +1,58 @@
+{
+  "municipio": "Salvador",
+  "uf": "BA",
+  "codigo_ibge": "2927408",
+  "fonte_api": "https://portal-api.dioly.com.br/api/diarios/",
+  "rps": 2.0,
+  "consultas": [
+    "LEIS COMPLEMENTARES",
+    "a seguinte Lei Complementar:",
+    "sanciono a seguinte Lei Complementar",
+    "sanciono a seguinte Lei:",
+    "Altera dispositivos da Lei Complementar"
+  ],
+  "intervalo": [
+    "2011-01-01",
+    "2015-12-31"
+  ],
+  "tipo": "DOM",
+  "extrator": "dioly-raw-v2",
+  "extrator_geometria": "geometria-colunas-v2",
+  "sha256_geometria": "3d954c48700d49328c6d71f3d841cfc40394642e81e338c23d7c27cae175dcd5",
+  "sha256_classificador": "8e32cab60268d2d17b529fad97a7a0a5f1644efc7a5a2400bae9797d2d66778f",
+  "edicoes": 187,
+  "so_cache": false,
+  "rps_max": 2,
+  "modo": "leis-complementares",
+  "contagens": {
+    "sem_lc_promulgada": 181,
+    "ok": 6
+  },
+  "arquivos": [
+    "municipais/BA/salvador/leis-complementares/2011/leis-complementares-53-2011-dom-5461-lc-53.md",
+    "municipais/BA/salvador/leis-complementares/2012/leis-complementares-56-2012-dom-5581-lc-56.md",
+    "municipais/BA/salvador/leis-complementares/2012/leis-complementares-58-2012-dom-5585-lc-58.md",
+    "municipais/BA/salvador/leis-complementares/2014/leis-complementares-60-2014-dom-6023-lc-60.md",
+    "municipais/BA/salvador/leis-complementares/2014/leis-complementares-61-2014-dom-6249-lc-61.md",
+    "municipais/BA/salvador/leis-complementares/2014/leis-complementares-62-2014-dom-6249-lc-62.md",
+    "municipais/BA/salvador/leis-complementares/2015/leis-complementares-63-2015-dom-6418-lc-63.md"
+  ],
+  "numeros": [
+    "53",
+    "56",
+    "58",
+    "60",
+    "61",
+    "62",
+    "63"
+  ],
+  "resto": {
+    "janela_entregue": [
+      "2011-01-01",
+      "2015-12-31"
+    ],
+    "janela_restante": [],
+    "observacao": "Citações a LC no DOM (portaria, contrato, LRF, LC 140/2011 federal) não entram. Projetos de lei complementar ficam de fora. A janela 2011–2015 (~50 edições q=LEIS COMPLEMENTARES) fica para leva seguinte; lá já foram vistas LC 053, 054, 056–058, 060–062."
+  },
+  "baixado_em": "2026-10-28"
+}

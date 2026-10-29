@@ -1,0 +1,110 @@
+{
+  "municipio": "Salvador",
+  "uf": "BA",
+  "codigo_ibge": "2927408",
+  "fonte_api": "https://portal-api.dioly.com.br/api/diarios/",
+  "rps": 2.0,
+  "consultas": [
+    "LEIS COMPLEMENTARES",
+    "a seguinte Lei Complementar:",
+    "sanciono a seguinte Lei Complementar",
+    "sanciono a seguinte Lei:",
+    "Altera dispositivos da Lei Complementar"
+  ],
+  "intervalo": [
+    "2016-01-01",
+    "2026-12-31"
+  ],
+  "tipo": "DOM",
+  "extrator": "dioly-raw-v2",
+  "extrator_geometria": "geometria-colunas-v2",
+  "sha256_geometria": "3d954c48700d49328c6d71f3d841cfc40394642e81e338c23d7c27cae175dcd5",
+  "sha256_classificador": "8e32cab60268d2d17b529fad97a7a0a5f1644efc7a5a2400bae9797d2d66778f",
+  "edicoes": 496,
+  "so_cache": false,
+  "rps_max": 2,
+  "modo": "leis-complementares",
+  "contagens": {
+    "sem_lc_promulgada": 467,
+    "ok": 29
+  },
+  "arquivos": [
+    "municipais/BA/salvador/leis-complementares/2016/leis-complementares-64-2016-dom-6598-lc-64.md",
+    "municipais/BA/salvador/leis-complementares/2017/leis-complementares-65-2017-dom-6816-lc-65.md",
+    "municipais/BA/salvador/leis-complementares/2017/leis-complementares-66-2017-dom-6843-lc-66.md",
+    "municipais/BA/salvador/leis-complementares/2017/leis-complementares-67-2017-dom-6854-lc-67.md",
+    "municipais/BA/salvador/leis-complementares/2017/leis-complementares-68-2017-dom-6936-lc-68.md",
+    "municipais/BA/salvador/leis-complementares/2017/leis-complementares-69-2017-dom-6988-lc-69.md",
+    "municipais/BA/salvador/leis-complementares/2018/leis-complementares-70-2018-dom-7140-lc-70.md",
+    "municipais/BA/salvador/leis-complementares/2018/leis-complementares-71-2018-dom-7211-lc-71.md",
+    "municipais/BA/salvador/leis-complementares/2019/leis-complementares-72-2019-dom-7475-lc-72.md",
+    "municipais/BA/salvador/leis-complementares/2020/leis-complementares-73-2020-dom-7570-lc-73.md",
+    "municipais/BA/salvador/leis-complementares/2020/leis-complementares-74-2020-dom-7585-lc-74.md",
+    "municipais/BA/salvador/leis-complementares/2020/leis-complementares-75-2020-dom-7611-lc-75.md",
+    "municipais/BA/salvador/leis-complementares/2020/leis-complementares-76-2020-dom-7884-lc-76.md",
+    "municipais/BA/salvador/leis-complementares/2021/leis-complementares-77-2021-dom-7968-lc-77.md",
+    "municipais/BA/salvador/leis-complementares/2021/leis-complementares-78-2021-dom-8187-lc-78.md",
+    "municipais/BA/salvador/leis-complementares/2022/leis-complementares-79-2022-dom-8231-lc-79.md",
+    "municipais/BA/salvador/leis-complementares/2022/leis-complementares-80-2022-dom-8304-lc-80.md",
+    "municipais/BA/salvador/leis-complementares/2022/leis-complementares-82-2022-dom-8331-lc-82.md",
+    "municipais/BA/salvador/leis-complementares/2022/leis-complementares-83-2022-dom-8404-lc-83.md",
+    "municipais/BA/salvador/leis-complementares/2022/leis-complementares-84-2022-dom-8436-lc-84.md",
+    "municipais/BA/salvador/leis-complementares/2023/leis-complementares-85-2023-dom-8664-lc-85.md",
+    "municipais/BA/salvador/leis-complementares/2023/leis-complementares-86-2023-dom-8672-lc-86.md",
+    "municipais/BA/salvador/leis-complementares/2024/leis-complementares-87-2024-dom-8758-lc-87.md",
+    "municipais/BA/salvador/leis-complementares/2024/leis-complementares-88-2024-dom-8886-lc-88.md",
+    "municipais/BA/salvador/leis-complementares/2025/leis-complementares-89-2025-dom-8943-lc-89.md",
+    "municipais/BA/salvador/leis-complementares/2025/leis-complementares-90-2025-dom-9134-lc-90.md",
+    "municipais/BA/salvador/leis-complementares/2025/leis-complementares-91-2025-dom-9134-lc-91.md",
+    "municipais/BA/salvador/leis-complementares/2025/leis-complementares-92-2025-dom-9140-lc-92.md",
+    "municipais/BA/salvador/leis-complementares/2025/leis-complementares-93-2025-dom-9181-lc-93.md",
+    "municipais/BA/salvador/leis-complementares/2026/leis-complementares-94-2026-dom-9291-lc-94.md"
+  ],
+  "numeros": [
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94"
+  ],
+  "resto": {
+    "janela_entregue": [
+      "2016-01-01",
+      "2026-12-31"
+    ],
+    "janela_restante": [
+      "2011-01-01",
+      "2015-12-31"
+    ],
+    "lacuna": [
+      "81"
+    ],
+    "observacao": "Citações a LC no DOM (portaria, contrato, LRF, LC 140/2011 federal) não entram. Projetos de lei complementar ficam de fora. LC 081/2022: epígrafe ALL-CAPS não encontrada nos DOM de julho/2022 (8318, 8319, 8322, 8329, 8331, 8335, 8339); LC 083 cita «81 de 20 de julho de 2022», mas o DOM de 20–21/07 traz a LC 082, não a 081. Texto não inventado. A janela 2011–2015 (~50 edições q=LEIS COMPLEMENTARES) fica para leva seguinte; lá já foram vistas LC 053, 054, 056–058, 060–062."
+  },
+  "baixado_em": "2026-10-28"
+}
