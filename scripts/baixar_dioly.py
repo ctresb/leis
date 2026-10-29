@@ -13,6 +13,10 @@ Citações a LC em portaria, contrato ou balanço não entram.
 datado até 1 ano antes da edição). Leis antigas reproduzidas em edital/anexo ficam de fora.
 `--modo resolucoes` e `--modo decretos-legislativos` leem o DOL e ficam só com atos promulgados
 pela Mesa (epígrafe em linha própria, Art. 1º, promulga/faz saber, Sala das Sessões no ano).
+`--modo decretos` lê o DOM e fica só com decretos numerados do Prefeito (`DECRETO Nº N de …`
+em linha própria, DECRETA:, Art. 1º, GABINETE DO PREFEITO + Prefeito). Decretos legislativos,
+decretos simples sem número e retificações ficam de fora. Todos os modos somam aos md já
+gravados: (número, ano) presente de outra edição fica com o md antigo.
 """
 import argparse
 import collections
@@ -1011,6 +1015,185 @@ def extrair_lo(pdf):
     return []
 
 
+# --- decretos do Executivo (DOM) --------------------------------------------------------
+CONSULTAS_DEC = (
+    "DECRETO Nº",
+    "DECRETO N°",
+    "DECRETOS NUMERADOS",
+    "DECRETOS FINANCEIROS",
+)
+# Epígrafe = linha inteira em caixa alta: "DECRETO Nº 41.680 de 30 de abril de 2026",
+# "DECRETO Nº 38.212/2024", "DECRETO Nº 37.001/2023, DE 05/01/2023". Nunca LEGISLATIVO,
+# MUNICIPAL (citação em parecer) nem "DECRETOS de …" (decretos simples, não numerados).
+EPIGRAFE_DEC = re.compile(
+    r"^[ \t]*DECRETO[ \t]+N[ \t]*[ºo°]?[ \t]*\.?[ \t]*(?P<num>\d{1,2}\.\d{3}|\d{1,5})[ \t]*"
+    r"(?:/[ \t]*(?P<ano>\d{4})(?:[ \t]*,?[ \t]*(?:DE|de)[ \t]+\d{1,2}/\d{1,2}/\d{4})?"
+    r"|,?[ \t]+(?:DE|de)[ \t]+\d{1,2}[º°]?[ \t]+(?:DE|de)[ \t]+[A-Za-zÇç]+[ \t]+(?:DE|de)[ \t]+(?P<ano2>\d{4}))"
+    r"[ \t.]*$", re.M)
+DECRETA = re.compile(r"\bDECRETA\s*:", re.I)
+PREFEITO_DEC = re.compile(r"O\s+PREFEITO\s+(?:MUNICIPAL\s+)?D[OA]\s+MUNIC[IÍ]PIO|PREFEIT[OA]\s+(?:MUNICIPAL\s+)?"
+                          r"(?:EM\s+EXERC[IÍ]CIO\s+)?D[OA]\s+(?:(?:MUNIC[IÍ]PIO|CIDADE)\s+D[OE]\s+)?SALVADOR", re.I)
+# Cabeçalho de página do DOM que pdftotext intercala no meio do ato ("SÁBADO A SEGUNDA-FEIRA",
+# "24 A 26 DE JANEIRO DE 2026", "DIÁRIO OFICIAL DO SALVADOR-BAHIA").
+_DIA_DOM = r"(?:SEGUNDA|TER[ÇC]A|QUARTA|QUINTA|SEXTA|S[ÁA]BADO|DOMINGO)(?:-FEIRA)?"
+_MES_DOM = r"(?:JANEIRO|FEVEREIRO|MAR[ÇC]O|ABRIL|MAIO|JUNHO|JULHO|AGOSTO|SETEMBRO|OUTUBRO|NOVEMBRO|DEZEMBRO)"
+CHROME_DOM = re.compile(
+    r"^(?:" + _DIA_DOM + r"(?:\s*(?:,|A|E|À)\s*" + _DIA_DOM + r")*"
+    r"|\d{1,2}(?:\s*(?:,|A|E|À)\s*\d{1,2})*\s+(?:DE\s+)?" + _MES_DOM + r"(?:\s*(?:A|E|À)\s*\d{1,2}\s+DE\s+"
+    + _MES_DOM + r")?\s+DE\s+20\d{2}"
+    r"|DI[ÁA]RIO\s+OFICIAL\s+DO\s+SALVADOR[-–— ]+BAHIA"
+    r"|ANO\s+[IVXLC]+\s*\|?\s*N\s*[ºo°.]?\s*[\d.]+(?:\s+\d{1,3})?)\s*$")
+# Linha que encerra o recorte de um decreto (próximo ato ou seção do DOM).
+FIM_DEC = re.compile(
+    r"^(?:DECRETOS?\b|LEI\s+(?:COMPLEMENTAR\s+)?N|PORTARIAS?\b|RESOLU[ÇC][ÃA]O\b|INSTRU[ÇC][ÃA]O\s+NORMATIVA"
+    r"|EXTRATOS?\b|AVISOS?\b|EDITA(?:L|IS)\b|ERRATA\b|RETIFICA[ÇC][ÃA]O\b|COMUNICADO\b|ATOS?\s+D[OA]\b"
+    r"|ATA\b|PROJETO\s+DE\b|AVISO\b|SECRETARIA\s+MUNICIPAL\b|CASA\s+CIVIL$|GABINETE\s+DO\s+PREFEITO$"
+    r"|EXECUTIVO$|LEGISLATIVO$|SUM[ÁA]RIO$)")
+# "GABINETEDO PREFEITO" (DOM 9301, 9315) sai colado no PDF.
+GABINETE_DEC = re.compile(
+    r"GABINETE\s*DO\s+PREFEITO.{0,80}?,\s*(?:em|de)?\s*"
+    r"(?P<dia>\d{1,2})[º°]?\s*(?:de\s*)?(?P<mes>[A-Za-zçÇ]+?)\s*(?:de\s*)?(?P<ano>\d{4})",
+    re.I,
+)
+# Cabeçalho de órgão: dentro de anexo só encerra se um ato começa logo abaixo.
+ORGAO_DEC = re.compile(r"^(?:SECRETARIA\s+MUNICIPAL\b|CASA\s+CIVIL$|GABINETE\s+DO\s+PREFEITO$)")
+ATO_DEC = re.compile(
+    r"^(?:DECRETOS?\b|LEI\s+(?:COMPLEMENTAR\s+)?N|PORTARIAS?\b|RESOLU[ÇC][ÃA]O\b|INSTRU[ÇC][ÃA]O\s+NORMATIVA"
+    r"|EXTRATOS?\b|AVISOS?\b|EDITA(?:L|IS)\b|ERRATA\b|RETIFICA[ÇC][ÃA]O\b|COMUNICADO\b|ATOS?\b|ATA\b)")
+ASSINA_DEC = re.compile(
+    r"^(?:Prefeit[oa]|Vice-Prefeit|Secret[áa]ri[oa]|Chefe|Procurador|Controlador|Diretor|Presidente"
+    r"|Ouvidor|Subsecret|em\s+exerc[ií]cio)", re.I)
+
+
+def limpar_dom(bloco):
+    return "\n".join(ln for ln in bloco.splitlines() if not CHROME_DOM.match(ln.strip()))
+
+
+def numero_dec(m):
+    return str(int(m.group("num").replace(".", ""))), m.group("ano") or m.group("ano2")
+
+
+def _linha_nome(s):
+    return (len(s) <= 80 and not re.search(r"\d", s) and s.upper() == s
+            and re.search(r"[A-ZÁÉÍÓÚÂÊÔÃÕÇ]{3,}", s) and not FIM_DEC.match(s) and not CHROME_LC.match(s))
+
+
+def recortar_dec(bloco):
+    """Decreto até o gabinete + assinaturas; anexo próprio (`ANEXO …`) entra até o próximo ato."""
+    m = GABINETE_DEC.search(bloco)
+    if not m:
+        return bloco.strip()
+    fim_linha = bloco.find("\n", m.end())
+    fim_linha = len(bloco) if fim_linha < 0 else fim_linha
+    linhas = [bloco[:fim_linha].rstrip()]
+    anexo = False
+    resto = [ln.strip() for ln in bloco[fim_linha:].splitlines() if ln.strip()]
+    for i, s in enumerate(resto):
+        if (CHROME_LC.match(s) or CHROME_DOM.match(s) or CABECALHO_PAGINA.match(s)
+                or LETRA_VERTICAL_LC.match(s) or re.fullmatch(r"\d{1,3}", s)):
+            linhas.append(s)
+            continue
+        if anexo:
+            if EPIGRAFE_DEC.match(s) or COLOFON_LC.search(s):
+                break
+            if ORGAO_DEC.match(s):
+                if any(ATO_DEC.match(x) for x in resto[i + 1:i + 5]):
+                    break
+            elif FIM_DEC.match(s):
+                break
+            linhas.append(s)
+            continue
+        if re.match(r"^ANEXO\b", s, re.I):
+            anexo = True
+            linhas.append(s)
+            continue
+        if ASSINA_DEC.match(s) or _linha_nome(s):
+            linhas.append(s)
+            continue
+        break
+    return "\n".join(linhas).strip()
+
+
+def eh_dec_sancionado(bloco):
+    linhas = [ln for ln in bloco.splitlines() if ln.strip()]
+    if not linhas or not EPIGRAFE_DEC.match(linhas[0]):
+        return False
+    art = ARTIGO.search(bloco)
+    if not art:
+        return False
+    antes = bloco[:art.start()]
+    if not DECRETA.search(antes) or not PREFEITO_DEC.search(antes):
+        return False
+    gab = GABINETE_DEC.search(bloco)
+    if not gab or gab.start() < art.start():
+        return False
+    return bool(re.search(r"^\s*Prefeit[oa](?:\s+em\s+exerc[ií]cio)?\s*$",
+                          bloco[gab.end():gab.end() + 400], re.I | re.M))
+
+
+def blocos_dec(texto):
+    """Recorta cada decreto numerado do Prefeito (epígrafe em linha própria) até o próximo ato."""
+    saida, descartes = [], []
+    for m in EPIGRAFE_DEC.finditer(texto):
+        ini = m.start()
+        num, ano = numero_dec(m)
+        if PROJETO_LO.search(texto[max(0, ini - 40):ini]):
+            continue
+        fim = len(texto)
+        for n in EPIGRAFE_DEC.finditer(texto, m.end()):
+            fim = n.start()
+            break
+        bloco = marcar_ilegivel(limpar_bloco_lc(limpar_dom(recortar_dec(texto[ini:fim]))))
+        if eh_dec_sancionado(bloco):
+            saida.append((num, ano, bloco))
+        elif ARTIGO.search(bloco):
+            descartes.append((num, ano, "sem DECRETA + Art. 1º + gabinete/Prefeito no recorte"))
+    por = {}
+    for num, ano, bloco in saida:
+        chave = (num, ano)
+        if chave not in por or len(bloco) > len(por[chave][2]):
+            por[chave] = (num, ano, bloco)
+    return [por[k] for k in sorted(por, key=lambda x: (x[1], int(x[0])))], descartes
+
+
+def data_dec(bloco, ano, data_edicao, folga_dias=366):
+    """Data do gabinete no ano da epígrafe, até 10 dias depois e 1 ano antes da edição."""
+    for m in GABINETE_DEC.finditer(bloco):
+        mes = MESES.get(m.group("mes").lower())
+        if not mes:
+            continue
+        try:
+            d = dt.date(int(m.group("ano")), mes, int(m.group("dia")))
+        except ValueError:
+            continue
+        if str(d.year) != ano:
+            continue
+        if data_edicao:
+            e = dt.date.fromisoformat(data_edicao)
+            if d > e + dt.timedelta(days=10) or d < e - dt.timedelta(days=folga_dias):
+                continue
+        return d.isoformat()
+    return ""
+
+
+def titulo_dec(numero, data):
+    return titulo_lc(numero, data).replace("Lei Complementar", "Decreto", 1)
+
+
+def extrair_dec(pdf):
+    descartes = []
+    for fn in (texto_raw, texto_layout):
+        try:
+            texto = juntar_hifen(fn(pdf))
+        except (subprocess.CalledProcessError, subprocess.TimeoutExpired, RuntimeError):
+            continue
+        achados, desc = blocos_dec(texto)
+        if achados:
+            return achados, desc
+        descartes = descartes or desc
+    return [], descartes
+
+
 # --- resoluções e decretos legislativos (DOL) ---------------------------------------------
 CONSULTAS_RES = (
     "RESOLUÇÃO Nº",
@@ -1049,7 +1232,11 @@ CHROME_MESA = re.compile(
     r"|\d{1,2}(?:\s*(?:,|e|a|à)\s*\d{1,2})*\s+de\s+" + _MES_CAP + r"\s+de\s+\d{4}"
     r"|C[ÂA]MARA\s+MUNICIPAL|Ano\s+[IVXLC]+|N\s*[°º]\s*[\d.]+|ATOS\s+DO\s+PODER\s+LEGISLATIVO)\s*$")
 ULTIMO_ARTIGO_SALA = 1500
-PROMULGA_MESA = re.compile(r"promulg\w*|faz\s+saber|fa[çc]o\s+saber", re.I)
+# 2013–2015 a CMS publica "A CÂMARA MUNICIPAL DE SALVADOR / RESOLVE:" (ou DECRETA:) no lugar
+# de "promulga e manda publicar" (DOL 4237).
+PROMULGA_MESA = re.compile(
+    r"promulg\w*|faz\s+saber|fa[çc]o\s+saber"
+    r"|A\s+C[ÂA]MARA\s+MUNICIPAL\s+D[OE]\s+SALVADOR\s*,?\s*(?:RESOLVE|DECRETA)\s*:", re.I)
 SALA_ATO = re.compile(r"Sala\s+das\s+Sess[oõ]es,?\s+(?:em\s+)?[oO]?\s*" + POR_EXTENSO.pattern, re.I)
 PROJETO_MESA = re.compile(r"projeto\s+de\s*$", re.I)
 PARA_ASSINATURA = re.compile(
@@ -1263,10 +1450,27 @@ def persistir_mesa(pasta_md, serie, item, num, ano_ep, bloco, data, sha_pdf, cla
     return destino
 
 
+def chaves_existentes(pasta_md):
+    """(numero, ano) → md já gravado na pasta da série (rodadas anteriores q=/completo).
+
+    Uma rodada nova soma: chave já presente vinda de outra edição fica com o md antigo."""
+    saida = {}
+    for md in sorted(Path(pasta_md).glob("*/*.md")):
+        cab = md.read_text(encoding="utf-8", errors="replace")[:3000]
+        num = re.search(r'^numero:\s*"?([^"\n]+)"?\s*$', cab, re.M)
+        ano = re.search(r'^ano:\s*"?(\d{4})"?\s*$', cab, re.M)
+        cod = re.search(r'^codigo_identificador:\s*"?([^"\n]+)"?\s*$', cab, re.M)
+        if num and ano:
+            saida.setdefault((num.group(1).strip(), ano.group(1)), (md, cod.group(1) if cod else ""))
+    return saida
+
+
 def coletar_mesa(a, rede, edicoes, pasta_fonte, classificador_sha, hoje):
     serie = a.modo
     cfg = SERIES_MESA[serie]
     pasta_md = RAIZ / "municipais" / UF / "salvador" / CANONICO[cfg["chave"]][0]
+    existentes = chaves_existentes(pasta_md)
+    ja_existiam = collections.Counter()
     nome_lote = a.lote or "%s-salvador-%s-%s-%s" % (hoje.replace("-", ""), serie, a.de[:4], a.ate[:4])
     lote = RAIZ / "municipais/_lotes" / nome_lote
     lote.mkdir(parents=True, exist_ok=True)
@@ -1314,6 +1518,11 @@ def coletar_mesa(a, rede, edicoes, pasta_fonte, classificador_sha, hoje):
                 sha_pdf = hashlib.sha256(bruto).hexdigest()
                 for num, ano, bloco, data in validos:
                     chave = (num, ano)
+                    velho = existentes.get(chave)
+                    codigo = "%s-%s-%s-%s" % (item.get("tipo") or "DOL", edicao_dol(item), cfg["sigla"], num)
+                    if velho is not None and velho[1] != codigo:
+                        ja_existiam[chave] += 1
+                        continue
                     nota = nota_lc(bloco) + (data_edicao,)
                     atual = por_chave.get(chave)
                     if atual is not None and nota <= atual[0]:
@@ -1342,6 +1551,8 @@ def coletar_mesa(a, rede, edicoes, pasta_fonte, classificador_sha, hoje):
         "so_cache": bool(a.so_cache), "rps_max": 2, "modo": serie,
         "contagens": dict(cont), "arquivos": [str(Path(p).relative_to(RAIZ)) for p in gravados],
         "numeros": ["%s/%s" % k for k in ordem],
+        "ja_existiam": len(ja_existiam),
+        "novos": ["%s/%s" % k for k in ordem if k not in existentes],
         "descartes": descartes,
         "observacao": (
             "Só atos promulgados pela Mesa da CMS (epígrafe em linha própria, Art. 1º, fórmula "
@@ -1626,6 +1837,149 @@ def coletar_lo(a, rede, edicoes, pasta_fonte, classificador_sha, hoje):
     return 0
 
 
+def persistir_dec(pasta_md, item, num, ano_ep, bloco, data, sha_pdf, classificador_sha, hoje):
+    data_edicao = item.get("data_publicacao") or ""
+    ano = (data or ano_ep)[:4]
+    corpo = corpo_markdown(bloco)
+    if len(re.sub(r"\W", "", corpo)) < 80:
+        return None
+    edicao = numero_edicao(item)
+    codigo = "%s-%s-DEC-%s" % (item.get("tipo") or "DOM", edicao, num)
+    slug = slugify("decretos-%s-%s-%s" % (num, ano, codigo.lower()))[:110]
+    destino = pasta_md / ano / (slug + ".md")
+    meta = {
+        "titulo": titulo_dec(num, data),
+        "tipo": CANONICO["decreto"][1],
+        "tipo_na_fonte": "Decreto",
+        "numero": num,
+        "data": data,
+        "ano": ano,
+        "municipio": MUNICIPIO,
+        "uf": UF,
+        "codigo_ibge": IBGE_SALVADOR,
+        "revogada": None,
+        "versao_texto": "publicação original no Diário Oficial do Município (Dioly)"
+        + ("; republicada por incorreção" if REPUBLICADA.search(bloco) else ""),
+        "extrator": EXTRATOR,
+        "sha256_classificador": classificador_sha,
+        "sha256_extrator_geometria": SHA_GEOMETRIA,
+        "sha256_pdf": sha_pdf,
+        "sha256_texto": hashlib.sha256(corpo.encode()).hexdigest(),
+        "publicacao": "%s nº %s de %s" % (
+            item.get("tipo") or "DOM", edicao,
+            dt.date.fromisoformat(data_edicao).strftime("%d/%m/%Y") if data_edicao else ""),
+        "data_publicacao": data_edicao,
+        "codigo_identificador": codigo,
+        "fonte": item["pdf_url"],
+        "baixado_em": hoje,
+    }
+    if destino.exists():
+        destino.unlink()
+    gravar_emenda(destino, meta, corpo)
+    return destino
+
+
+def coletar_dec(a, rede, edicoes, pasta_fonte, classificador_sha, hoje):
+    """Decretos numerados do Prefeito no DOM; soma aos md já gravados (dedup por número/ano)."""
+    pasta_md = RAIZ / "municipais" / UF / "salvador" / CANONICO["decreto"][0]
+    existentes = chaves_existentes(pasta_md)
+    ja_existiam = collections.Counter()
+    nome_lote = a.lote or "%s-salvador-decretos-%s-%s" % (hoje.replace("-", ""), a.de[:4], a.ate[:4])
+    lote = RAIZ / "municipais/_lotes" / nome_lote
+    lote.mkdir(parents=True, exist_ok=True)
+    gravar_json(lote / "edicoes.json", edicoes)
+    falhas_path = lote / "falhas.jsonl"
+    falhas_path.write_text("")
+    cont = collections.Counter()
+    por_chave = {}
+    descartes = []
+    with falhas_path.open("a", encoding="utf-8") as falhas:
+        for n, item in enumerate(edicoes, 1):
+            pdf = caminho_pdf(pasta_fonte, item)
+            try:
+                bruto, _cache = baixar_pdf(rede, item, pdf)
+                achados, desc, falha = [], [], None
+                amostra = texto_raw(pdf)
+                if pdf_escaneado(amostra) and len(re.sub(r"\W", "", amostra)) < 80:
+                    falha = {"status": "sem_texto", "motivo": "PDF sem texto legível", "edicao": item["id"]}
+                else:
+                    achados, desc = extrair_dec(pdf)
+            except Exception as e:
+                falha = {"status": "erro", "edicao": item.get("id"), "data": item.get("data_publicacao"),
+                         "fonte": item.get("pdf_url"), "erro": str(e)[:400]}
+                achados, desc = [], []
+            if falha:
+                falhas.write(json.dumps(falha, ensure_ascii=False) + "\n")
+                falhas.flush()
+                cont[falha.get("status", "erro")] += 1
+                continue
+            data_edicao = item.get("data_publicacao") or ""
+            for num, ano, motivo in desc:
+                descartes.append({"numero": num, "ano": ano, "edicao": numero_edicao(item), "motivo": motivo})
+            validos = []
+            for num, ano, bloco in achados:
+                data = data_dec(bloco, ano, data_edicao)
+                if not data:
+                    descartes.append({"numero": num, "ano": ano, "edicao": numero_edicao(item),
+                                      "motivo": "gabinete fora do ano/da edição (reprodução ou citação)"})
+                    continue
+                validos.append((num, ano, bloco, data))
+            if not validos:
+                cont["sem_decreto"] += 1
+            else:
+                cont["ok"] += 1
+                sha_pdf = hashlib.sha256(bruto).hexdigest()
+                for num, ano, bloco, data in validos:
+                    chave = (num, ano)
+                    velho = existentes.get(chave)
+                    codigo = "%s-%s-DEC-%s" % (item.get("tipo") or "DOM", numero_edicao(item), num)
+                    if velho is not None and velho[1] != codigo:
+                        ja_existiam[chave] += 1
+                        continue
+                    nota = nota_lc(bloco) + (data_edicao,)
+                    atual = por_chave.get(chave)
+                    if atual is not None and nota <= atual[0]:
+                        continue
+                    destino = persistir_dec(pasta_md, item, num, ano, bloco, data, sha_pdf,
+                                            classificador_sha, hoje)
+                    if destino is None:
+                        continue
+                    if atual is not None:
+                        antigo = atual[1]
+                        if antigo != destino and Path(antigo).exists():
+                            Path(antigo).unlink()
+                    por_chave[chave] = (nota, destino)
+            if n % 10 == 0 or n == len(edicoes):
+                print("[%s/%s] %s chaves=%s" % (n, len(edicoes), dict(cont), len(por_chave)), flush=True)
+    ordem = sorted(por_chave, key=lambda x: (x[1], int(x[0])))
+    gravados = [str(por_chave[k][1]) for k in ordem]
+    manifesto = {
+        "municipio": MUNICIPIO, "uf": UF, "codigo_ibge": IBGE_SALVADOR,
+        "fonte_api": API, "rps": a.rps, "consultas": [] if a.completo else list(CONSULTAS_DEC),
+        "completo": bool(a.completo),
+        "intervalo": [a.de, a.ate], "tipo": a.tipo, "extrator": EXTRATOR,
+        "extrator_geometria": EXTRATOR_GEOMETRIA, "sha256_geometria": SHA_GEOMETRIA,
+        "sha256_classificador": classificador_sha, "edicoes": len(edicoes),
+        "so_cache": bool(a.so_cache), "rps_max": 2, "modo": "decretos",
+        "contagens": dict(cont), "arquivos": [str(Path(p).relative_to(RAIZ)) for p in gravados],
+        "numeros": ["%s/%s" % k for k in ordem],
+        "ja_existiam": len(ja_existiam),
+        "novos": ["%s/%s" % k for k in ordem if k not in existentes],
+        "descartes": descartes,
+        "observacao": (
+            "Só decretos numerados do Prefeito (epígrafe DECRETO Nº em linha própria, O PREFEITO … "
+            "DECRETA:, Art. 1º, GABINETE DO PREFEITO datado no ano da epígrafe e até 1 ano antes da "
+            "edição, assinatura do Prefeito). Decretos legislativos, decretos simples sem número, "
+            "retificações, citações em parecer e projetos não entram. Anexo próprio (ANEXO …) entra."
+        ),
+        "baixado_em": hoje,
+    }
+    gravar_json(lote / "manifesto.json", manifesto)
+    (lote / "lista.txt").write_text("\n".join(manifesto["arquivos"]) + ("\n" if gravados else ""))
+    print("gravados", len(gravados), "em", pasta_md, flush=True)
+    return 0
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--indice", type=Path, help="JSON local (lista de edições). Sem isso, consulta a API.")
@@ -1636,7 +1990,7 @@ def main(argv=None):
     ap.add_argument("--ate", default="2026-12-31")
     ap.add_argument("--rps", type=float, default=2)
     ap.add_argument("--modo", choices=("emendas", "leis-complementares", "leis-ordinarias",
-                                       "resolucoes", "decretos-legislativos"),
+                                       "resolucoes", "decretos-legislativos", "decretos"),
                     default="emendas")
     ap.add_argument("--lote", default=None,
                     help="nome da pasta em municipais/_lotes/ (resoluções/DL; padrão por série+janela)")
@@ -1657,7 +2011,8 @@ def main(argv=None):
     consultas = {"leis-complementares": CONSULTAS_LC,
                  "leis-ordinarias": CONSULTAS_LO,
                  "resolucoes": CONSULTAS_RES,
-                 "decretos-legislativos": CONSULTAS_DL}.get(a.modo, CONSULTAS_PADRAO)
+                 "decretos-legislativos": CONSULTAS_DL,
+                 "decretos": CONSULTAS_DEC}.get(a.modo, CONSULTAS_PADRAO)
     if a.atualizar_indice:
         if not a.indice:
             ap.error("--atualizar-indice exige --indice")
@@ -1695,6 +2050,8 @@ def main(argv=None):
         return coletar_lc(a, rede, edicoes, pasta_fonte, classificador_sha, hoje)
     if a.modo == "leis-ordinarias":
         return coletar_lo(a, rede, edicoes, pasta_fonte, classificador_sha, hoje)
+    if a.modo == "decretos":
+        return coletar_dec(a, rede, edicoes, pasta_fonte, classificador_sha, hoje)
     if a.modo in SERIES_MESA:
         return coletar_mesa(a, rede, edicoes, pasta_fonte, classificador_sha, hoje)
 

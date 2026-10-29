@@ -550,5 +550,120 @@ class TestMesa(unittest.TestCase):
         self.assertNotIn("Vereadores", recortar_mesa("RESOLUÇÃO Nº 1/2026\n" + txt))
 
 
+from baixar_dioly import blocos_dec, chaves_existentes, data_dec, titulo_dec  # noqa: E402
+
+# Trechos do DOM 9259 (01/05/2026) e DOM 8884 (03/10/2024), pdftotext -raw.
+DEC_2026 = """EXECUTIVO
+DECRETOS FINANCEIROS
+DECRETO Nº 41.680 de 30 de abril de 2026
+Abre ao Orçamento Fiscal, o Crédito Adicional
+Suplementar, na forma que indica e dá outras
+providências.
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas
+atribuições, com fundamento no artigo 52, inciso XXVII da Lei Orgânica do Município.
+DECRETA:
+Art. 1º Fica aberto ao Orçamento Fiscal, o Crédito Adicional Suplementar, no valor
+de R$350.000,00 (Trezentos e cinquenta mil reais) na unidade orçamentária indicada no anexo
+integrante a este Decreto.
+Art. 3º Este Decreto entra em vigor na data de sua publicação.
+GABINETEDO PREFEITO DO MUNICIPIO DO SALVADOR, em 30 de abril de 2026.
+BRUNO SOARES REIS
+Prefeito
+JOÃO FELIPE DE SOUZA LEÃO
+Secretário de Governo
+ANEXO AO DECRETO Nº 41.680/2026
+PREFEITURA MUN. DE SALVADOR CRÉDITO ADICIONAL SUPLEMENTAR
+580002-SPMJ 14.244.0003.262000 4.4.90.52 1.700.1 350.000,00
+TOTAL GERAL 350.000,00 350.000,00
+DECRETOS SIMPLES
+DECRETOS de 04 de maio de 2026
+O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas
+atribuições,
+RESOLVE:
+Nomear FULANO.
+GABINETE DO PREFEITO DO MUNICÍPIO DO SALVADOR, em 04 de maio de 2026.
+"""
+DEC_RUIDO = """RETIFICAÇÃO
+No Decreto nº 39.224, de 01/10/2024, publicado no DOM de 02/10/2024;
+ONDE SE LÊ:
+DECRETO Nº 39.224 de 01 de outubro de 202
+LEIA -SE:
+DECRETO Nº 39.224 de 01 de outubro de 2024
+DECRETOS SIMPLES
+DECRETO de 02 de outubro de 2024
+DECRETO MUNICIPAL N° 37.329/2023
+DECRETO LEGISLATIVO Nº 990/2026
+A Mesa da Câmara Municipal do Salvador faz saber que promulga o seguinte Decreto Legislativo:
+Art. 1º Fica concedido.
+Sala das Sessões, em 13 de maio de 2026.
+"""
+
+
+class TestDecretos(unittest.TestCase):
+    def test_decreto_numerado_com_anexo(self):
+        achados, desc = blocos_dec(DEC_2026)
+        self.assertEqual([(n, a) for n, a, _ in achados], [("41680", "2026")])
+        bloco = achados[0][2]
+        self.assertTrue(bloco.startswith("DECRETO Nº 41.680 de 30 de abril de 2026"))
+        self.assertIn("TOTAL GERAL 350.000,00", bloco)
+        self.assertIn("Secretário de Governo", bloco)
+        self.assertNotIn("DECRETOS SIMPLES", bloco)
+        self.assertNotIn("Nomear", bloco)
+        self.assertEqual(desc, [])
+
+    def test_gabinete_colado_e_sem_de(self):
+        bloco = blocos_dec(DEC_2026)[0][0][2]
+        self.assertEqual(data_dec(bloco, "2026", "2026-05-01"), "2026-04-30")
+        self.assertEqual(data_dec(bloco, "2025", "2026-05-01"), "")
+        self.assertEqual(data_dec("GABINETE DO PREFEITO DO MUNICÍPIO DO SALVADOR, em10dedezembrode2025.",
+                                  "2025", "2025-12-10"), "2025-12-10")
+        self.assertEqual(data_dec("GABINETE DO PREFEITO DO MUNICÍPIO DO SALVADOR, em 27 de agosto 2025.",
+                                  "2025", "2025-08-28"), "2025-08-27")
+
+    def test_cabecalho_dom_entre_gabinete_e_prefeito(self):
+        txt = DEC_2026.replace("GABINETEDO PREFEITO DO MUNICIPIO DO SALVADOR, em 30 de abril de 2026.\n",
+                               "GABINETE DO PREFEITO DO MUNICIPIO DO SALVADOR, em 30 de abril de 2026.\n"
+                               "DIÁRIO OFICIAL DO\nSALVADOR-BAHIA\nSÁBADO A SEGUNDA-FEIRA\n"
+                               "24 A 26 DE JANEIRO DE 2026\nANO XXXIX | N º 9.198\n4\n")
+        achados, _ = blocos_dec(txt)
+        self.assertEqual([(n, a) for n, a, _ in achados], [("41680", "2026")])
+        self.assertNotIn("SÁBADO", achados[0][2])
+        self.assertIn("TOTAL GERAL", achados[0][2])
+
+    def test_retificacao_legislativo_e_citacao_nao_entram(self):
+        self.assertEqual(blocos_dec(DEC_RUIDO)[0], [])
+
+    def test_titulo(self):
+        self.assertEqual(titulo_dec("41680", "2026-04-30"), "Decreto nº 41680, de 30 de abril de 2026")
+
+    def test_chaves_existentes_le_frontmatter(self):
+        import tempfile
+        from pathlib import Path
+        with tempfile.TemporaryDirectory() as d:
+            p = Path(d) / "2013" / "x.md"
+            p.parent.mkdir()
+            p.write_text('---\nnumero: "2343"\nano: "2013"\ncodigo_identificador: "DOL-4237-RES-2343"\n---\n')
+            self.assertEqual(chaves_existentes(d), {("2343", "2013"): (p, "DOL-4237-RES-2343")})
+
+
+class TestMesa2014(unittest.TestCase):
+    def test_camara_resolve_2013(self):
+        txt = """ATOS DO PODER LEGISLATIVO
+RESOLUÇÃO Nº 2.343/2013
+Cria a Frente Parlamentar e Popular Mista em Defesa da Cultura.
+A CÂMARA MUNICIPAL DE SALVADOR
+RESOLVE:
+Art. 1º Fica criada a Frente Parlamentar e Popular Mista em Defesa da Cultura, com o objetivo
+de acompanhar as ações de fomento à cultura no Município.
+Art. 2º Esta Resolução entra em vigor na data de sua publicação.
+Sala das Sessões, 11 de dezembro de 2013.
+PAULO CÂMARA
+Presidente
+"""
+        achados, _ = blocos_mesa(txt, "resolucoes")
+        self.assertEqual([(n, a) for n, a, _ in achados], [("2343", "2013")])
+        self.assertEqual(data_sala(achados[0][2], "2013", "2014-02-06"), "2013-12-11")
+
+
 if __name__ == "__main__":
     unittest.main()
