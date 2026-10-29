@@ -1021,7 +1021,7 @@ CONSULTAS_DL = (
     "DECRETO LEGISLATIVO Nº",
 )
 _NUM_ATO = r"N\s*\.?\s*[ºo°]?\s*\.?\s*(?P<num>\d{1,2}\.\d{3}|\d{1,4})"
-_NUM_ATO_MIN = r"n\s*\.?\s*[ºo°]?\s*\.?\s*(?P<num>\d{1,2}\.\d{3}|\d{1,4})"
+_NUM_ATO_MIN = r"[Nn]\s*\.?\s*[ºo°]?\s*\.?\s*(?P<num>\d{1,2}\.\d{3}|\d{1,4})"
 _ANO_ATO = (r"\s*(?:/\s*(?P<ano>\d{4}|\d{2})"
             r"|,?\s+(?:DE|de)\s+\d{1,2}[º°]?\s+(?:DE|de)\s+[A-Za-zÇç]+\s+(?:DE|de)\s+(?P<ano2>\d{4}))"
             r"[ \t.]*$")
@@ -1034,8 +1034,8 @@ EPIGRAFE_DL = re.compile(
     r"^[ \t]*(?:DECRETO[ \t]+LEGISLATIVO[ \t]+" + _NUM_ATO + "|Decreto[ \t]+Legislativo[ \t]+"
     + _NUM_ATO_MIN.replace("num", "numm") + ")" + _ANO_ATO, re.M)
 PROXIMO_ATO_MESA = re.compile(
-    r"^[ \t]*(?:RESOLU[ÇC][ÃA]O\s+N|Resolu[çc][ãa]o\s+n\s*\.?\s*[ºo°]\s*\.?\s*[\d.]+\s*/"
-    r"|DECRETO\s+LEGISLATIVO\s+N|Decreto\s+Legislativo\s+n\s*\.?\s*[ºo°]\s*\.?\s*[\d.]+\s*/"
+    r"^[ \t]*(?:RESOLU[ÇC][ÃA]O\s+N|Resolu[çc][ãa]o\s+[Nn]\s*\.?\s*[ºo°]\s*\.?\s*[\d.]+\s*/"
+    r"|DECRETO\s+LEGISLATIVO\s+N|Decreto\s+Legislativo\s+[Nn]\s*\.?\s*[ºo°]\s*\.?\s*[\d.]+\s*/"
     r"|LEI\s+(?:COMPLEMENTAR\s+)?N|EMENDA\s+(?:N|[ÀA]\s+LEI)|PROJETO\s+DE\b"
     r"|ATOS?\s+D[OA]\s+(?:PRESIDENTE|MESA)|ATO\s+(?:DA\s+MESA\s+)?N|PORTARIA\b|INDICA[ÇC][ÃA]O\b"
     r"|MO[ÇC][ÃA]O\b|EDITAL\b|AVISO\b|EXTRATO\b|ERRATA\b|RETIFICA[ÇC][ÃA]O\b|REQUERIMENTO\b"
