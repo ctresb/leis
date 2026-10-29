@@ -409,5 +409,146 @@ class DiolyLeisOrdinariasTest(unittest.TestCase):
         self.assertEqual(lo_contemporanea(achados[0][2], "2017", "2024-01-05"), "")
 
 
+from baixar_dioly import blocos_mesa, data_sala, titulo_mesa, recortar_mesa  # noqa: E402
+
+RES_2026 = """ATOS DO PODER LEGISLATIVO
+RESOLUÇÃO Nº 3.622/2026
+Concede a Medalha Tomé de Souza à Sra. Suzana Mamede.
+A Mesa da Câmara Municipal do Salvador faz saber que o Poder Legislativo Municipal
+promulga e manda publicar, para os devidos efeitos, a seguinte Resolução:
+Art. 1º Fica concedida a Medalha Tomé de Souza à Sra. Suzana Mamede, em reconhecimen-
+to aos relevantes serviços prestados ao Município de Salvador.
+Art. 4º Esta Resolução entra em vigor na data de sua publicação.
+Sala das Sessões, em 06 de outubro de 2026.
+CARLOS MUNIZ
+Presidente
+Cláudio Tinoco \t\t\t RICARDO ALMEIDA
+1º Secretário \t\t\t\t 2º Secretário
+ATOS DO PRESIDENTE
+ATO Nº 821/2026
+O PRESIDENTE DA CÂMARA MUNICIPAL DE SALVADOR, no uso de suas atribuições
+RESOLVE:
+Art. 1º Fica renovado o reconhecimento de utilidade pública municipal
+"""
+
+RES_2010 = """Resolução nº 1.971/2010
+Institui a Frente Parlamentar em Defesa da Vida.
+A MESA DA CÂMARA MUNICIPAL DO SALVADOR faz saber que o Poder
+Legislativo Municipal promulga e manda publicar, para os devidos efeitos, a
+seguinte RESOLUÇÃO:
+Art. 1º Fica instituída a Frente Parlamentar.
+Art. 8º Esta Resolução entra em vigor na data de sua publicação.
+Sala das Sessões, em 03 de fevereiro de 2010.
+Alan Sanches
+Presidente
+Sidelvan Nóbrega Vânia Galvão
+1º Secretário 2ª Secretária
+Resolução nº 1.972/2010
+Institui a Frente Parlamentar de Prevenção.
+A MESA DA CÂMARA MUNICIPAL DO SALVADOR faz saber que o Poder
+Legislativo Municipal promulga e manda publicar, para os devidos efeitos, a
+seguinte RESOLUÇÃO:
+Art. 1º Fica instituída a Frente Parlamentar de Prevenção.
+Sala das Sessões, em 03 de fevereiro de 2010.
+Alan Sanches
+Presidente
+"""
+
+DL_2026 = """ATOS DO PODER LEGISLATIVO
+DECRETO LEGISLATIVO Nº 990/2026
+Altera o Decreto Legislativo nº 811, de 31 de outubro de
+1996.
+A MESA DA CÂMARA MUNICIPAL DO SALVADOR faz saber que o Poder Legislati-
+vo Municipal promulga e manda publicar, para os devidos efeitos, o seguinte DECRETO
+LEGISLATIVO:
+Art. 1º O Art. 4° do Decreto Legislativo nº 811, de 31 de outubro de 1996, passa a vigorar
+com a seguinte redação:
+Art. 3º. Este Decreto Legislativo entra em vigor Lei na data de sua publicação.
+Sala das Sessões, em 13 de maio de 2026.
+CARLOS MUNIZ
+Presidente
+ATO Nº 813/2026
+"""
+
+RUIDO_MESA = """Projeto de Decreto Legislativo n. 1/25. Subiu à Tribuna, para Parecer.
+Na sequência, foi promulgado o Decreto Legislativo n. 989/25. Em co-
+Foram promulgadas as Resoluções n.s 3.563 a 3.567/26.
+PROJETO DE RESOLUÇÃO Nº 45/2026
+Altera o Regimento.
+Art. 1º Fica alterado.
+Sala das Sessões, em 13 de maio de 2026.
+buições e de conformidade com o Decreto Legislativo n.º 811/96, RESOLVE:
+PRODUÇÃO LEGISLATIVA - JANEIRO A DEZEMBRO 2024
+PROJETOS DE
+DECRETO LEGISLATIVO
+"""
+
+
+class TestMesa(unittest.TestCase):
+    def test_resolucao_caixa_alta_corta_no_ato_seguinte(self):
+        achados, desc = blocos_mesa(RES_2026, "resolucoes")
+        self.assertEqual([(n, a) for n, a, _ in achados], [("3622", "2026")])
+        bloco = achados[0][2]
+        self.assertTrue(bloco.startswith("RESOLUÇÃO Nº 3.622/2026"))
+        self.assertIn("2º Secretário", bloco)
+        self.assertNotIn("ATOS DO PRESIDENTE", bloco)
+        self.assertNotIn("utilidade pública", bloco)
+        self.assertEqual(desc, [])
+
+    def test_resolucao_2010_titulo_misto(self):
+        achados, _ = blocos_mesa(RES_2010, "resolucoes")
+        self.assertEqual([(n, a) for n, a, _ in achados], [("1971", "2010"), ("1972", "2010")])
+        self.assertNotIn("1.972", achados[0][2])
+
+    def test_decreto_legislativo(self):
+        achados, _ = blocos_mesa(DL_2026, "decretos-legislativos")
+        self.assertEqual([(n, a) for n, a, _ in achados], [("990", "2026")])
+        self.assertNotIn("ATO Nº 813", achados[0][2])
+        self.assertEqual(blocos_mesa(DL_2026, "resolucoes")[0], [])
+
+    def test_ruido_nao_entra(self):
+        for serie in ("resolucoes", "decretos-legislativos"):
+            self.assertEqual(blocos_mesa(RUIDO_MESA, serie)[0], [])
+
+    def test_data_sala_no_ano(self):
+        bloco = blocos_mesa(RES_2026, "resolucoes")[0][0][2]
+        self.assertEqual(data_sala(bloco, "2026", "2026-10-08"), "2026-10-06")
+        self.assertEqual(data_sala(bloco, "2025", "2026-10-08"), "")
+        self.assertEqual(data_sala(bloco, "2026", "2028-10-08"), "")
+
+    def test_titulo(self):
+        self.assertEqual(titulo_mesa("Decreto Legislativo", "990", "2026-05-13"),
+                         "Decreto Legislativo nº 990, de 13 de maio de 2026")
+
+    def test_ata_no_meio_descarta(self):
+        txt = ("RESOLUÇÃO Nº 3.151/2022\nConcede o Título.\nA Mesa da Câmara Municipal do Salvador faz "
+               "saber que o Poder Legislativo Municipal\npromulga e manda publicar a seguinte Resolução:\n"
+               "Art. 1º Fica concedido o Título.\nArt. 4º Esta Resolução entra em vigor.\n"
+               "28 de Dezembro de 2022\nCÂMARA MUNICIPAL\nATA 24ª SESSÃO ORDINÁRIA\n"
+               + "Compareceram os senhores vereadores e demais presentes.\n" * 40
+               + "Sala das Sessões, em 21 de dezembro de 2022.\n")
+        achados, desc = blocos_mesa(txt, "resolucoes")
+        self.assertEqual(achados, [])
+        self.assertTrue(desc)
+
+    def test_cabecalho_de_pagina_sai(self):
+        txt = RES_2026.replace("Art. 4º", "Quinta e Sexta-feira, 8 e 9 de Dezembro de 2022\n"
+                               "8 de Outubro de 2026\nCÂMARA MUNICIPAL\nArt. 4º")
+        bloco = blocos_mesa(txt, "resolucoes")[0][0][2]
+        self.assertNotIn("Outubro de 2026", bloco)
+        self.assertNotIn("CÂMARA MUNICIPAL\n", bloco)
+        self.assertNotIn("Sexta-feira", bloco)
+
+    def test_edicao_dol_usa_numero_da_api(self):
+        from baixar_dioly import edicao_dol
+        item = {"id": 1, "numero": 6695, "pdf_url": "https://x/u_DOL-2024-04-30-66951.pdf.pdf"}
+        self.assertEqual(edicao_dol(item), 6695)
+
+    def test_assinatura_para_em_legenda(self):
+        txt = ("Sala das Sessões, em 06 de outubro de 2026.\nCARLOS MUNIZ\nPresidente\n"
+               "Vereadores da bancada de governo acompanham os discursos dos colegas\n")
+        self.assertNotIn("Vereadores", recortar_mesa("RESOLUÇÃO Nº 1/2026\n" + txt))
+
+
 if __name__ == "__main__":
     unittest.main()

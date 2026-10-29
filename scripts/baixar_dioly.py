@@ -11,6 +11,8 @@ Citações a LC em portaria, contrato ou balanço não entram.
 `--modo leis-ordinarias` lê o DOM e fica só com leis ordinárias sancionadas (epígrafe
 `LEI Nº 9.829/2025` em caixa alta, sem COMPLEMENTAR; Art. 1º, sanção e gabinete do prefeito
 datado até 1 ano antes da edição). Leis antigas reproduzidas em edital/anexo ficam de fora.
+`--modo resolucoes` e `--modo decretos-legislativos` leem o DOL e ficam só com atos promulgados
+pela Mesa (epígrafe em linha própria, Art. 1º, promulga/faz saber, Sala das Sessões no ano).
 """
 import argparse
 import collections
@@ -1009,6 +1011,351 @@ def extrair_lo(pdf):
     return []
 
 
+# --- resoluções e decretos legislativos (DOL) ---------------------------------------------
+CONSULTAS_RES = (
+    "RESOLUÇÃO Nº",
+    "promulga a seguinte Resolução",
+)
+CONSULTAS_DL = (
+    "DECRETO LEGISLATIVO",
+    "DECRETO LEGISLATIVO Nº",
+)
+_NUM_ATO = r"N\s*\.?\s*[ºo°]?\s*\.?\s*(?P<num>\d{1,2}\.\d{3}|\d{1,4})"
+_NUM_ATO_MIN = r"n\s*\.?\s*[ºo°]?\s*\.?\s*(?P<num>\d{1,2}\.\d{3}|\d{1,4})"
+_ANO_ATO = (r"\s*(?:/\s*(?P<ano>\d{4}|\d{2})"
+            r"|,?\s+(?:DE|de)\s+\d{1,2}[º°]?\s+(?:DE|de)\s+[A-Za-zÇç]+\s+(?:DE|de)\s+(?P<ano2>\d{4}))"
+            r"[ \t.]*$")
+# Epígrafe = linha inteira. CMS usa caixa alta (2017+) e "Resolução nº 1.971/2010" em 2010–2016;
+# citações no meio da frase nunca ocupam a linha sozinhas.
+EPIGRAFE_RES = re.compile(
+    r"^[ \t]*(?:RESOLU[ÇC][ÃA]O[ \t]+" + _NUM_ATO + "|Resolu[çc][ãa]o[ \t]+"
+    + _NUM_ATO_MIN.replace("num", "numm") + ")" + _ANO_ATO, re.M)
+EPIGRAFE_DL = re.compile(
+    r"^[ \t]*(?:DECRETO[ \t]+LEGISLATIVO[ \t]+" + _NUM_ATO + "|Decreto[ \t]+Legislativo[ \t]+"
+    + _NUM_ATO_MIN.replace("num", "numm") + ")" + _ANO_ATO, re.M)
+PROXIMO_ATO_MESA = re.compile(
+    r"^[ \t]*(?:RESOLU[ÇC][ÃA]O\s+N|Resolu[çc][ãa]o\s+n\s*\.?\s*[ºo°]\s*\.?\s*[\d.]+\s*/"
+    r"|DECRETO\s+LEGISLATIVO\s+N|Decreto\s+Legislativo\s+n\s*\.?\s*[ºo°]\s*\.?\s*[\d.]+\s*/"
+    r"|LEI\s+(?:COMPLEMENTAR\s+)?N|EMENDA\s+(?:N|[ÀA]\s+LEI)|PROJETO\s+DE\b"
+    r"|ATOS?\s+D[OA]\s+(?:PRESIDENTE|MESA)|ATO\s+(?:DA\s+MESA\s+)?N|PORTARIA\b|INDICA[ÇC][ÃA]O\b"
+    r"|MO[ÇC][ÃA]O\b|EDITAL\b|AVISO\b|EXTRATO\b|ERRATA\b|RETIFICA[ÇC][ÃA]O\b|REQUERIMENTO\b"
+    r"|PARECER\b|ATAS?\b|EXPEDIENTE\b)", re.M)
+_MES_CAP = r"(?:Janeiro|Fevereiro|Mar[çc]o|Abril|Maio|Junho|Julho|Agosto|Setembro|Outubro|Novembro|Dezembro)"
+# cabeçalho de página do DOL: "8 de Outubro de 2026", "Quinta e Sexta-feira, 8 e 9 de Dezembro de 2022",
+# "CÂMARA MUNICIPAL"; o corpo do ato escreve o mês em minúsculas.
+CHROME_MESA = re.compile(
+    r"^(?:(?:(?:Segunda|Ter[çc]a|Quarta|Quinta|Sexta|S[áa]bado|Domingo)(?:-feira)?[, e]*)+"
+    r"(?:\s*[\d, ea]+\s+de\s+" + _MES_CAP + r"\s+de\s+\d{4})?"
+    r"|\d{1,2}(?:\s*(?:,|e|a|à)\s*\d{1,2})*\s+de\s+" + _MES_CAP + r"\s+de\s+\d{4}"
+    r"|C[ÂA]MARA\s+MUNICIPAL|Ano\s+[IVXLC]+|N\s*[°º]\s*[\d.]+|ATOS\s+DO\s+PODER\s+LEGISLATIVO)\s*$")
+ULTIMO_ARTIGO_SALA = 1500
+PROMULGA_MESA = re.compile(r"promulg\w*|faz\s+saber|fa[çc]o\s+saber", re.I)
+SALA_ATO = re.compile(r"Sala\s+das\s+Sess[oõ]es,?\s+(?:em\s+)?[oO]?\s*" + POR_EXTENSO.pattern, re.I)
+PROJETO_MESA = re.compile(r"projeto\s+de\s*$", re.I)
+PARA_ASSINATURA = re.compile(
+    r"^(?:ATOS?\b|ATO\s|O\s+PRESIDENTE|A\s+PRESIDENTE|A\s+MESA|C[ÂA]MARA\b|PORTARIA|RESOLU|DECRETO"
+    r"|LEI\b|EMENDA|PROJETO|INDICA|MO[ÇC]|EDITAL|AVISO|EXTRATO|ERRATA|RETIFICA|SECRETARIA"
+    r"|DIRETORIA|SUPERINTEND|TERMO|CONTRATO|PREG[ÃA]O|LICITA|HOMOLOGA|PAUTA|ORDEM\s+DO|Fotos?:)", re.I)
+SERIES_MESA = {
+    "resolucoes": {
+        "chave": "resolucao", "sigla": "RES", "tipo_na_fonte": "Resolução", "rotulo": "Resolução",
+        "epigrafe": EPIGRAFE_RES, "consultas": CONSULTAS_RES,
+    },
+    "decretos-legislativos": {
+        "chave": "decreto legislativo", "sigla": "DL", "tipo_na_fonte": "Decreto Legislativo",
+        "rotulo": "Decreto Legislativo", "epigrafe": EPIGRAFE_DL, "consultas": CONSULTAS_DL,
+    },
+}
+
+
+def edicao_dol(item):
+    """Número da edição DOL pela API: o nome do PDF no DOL é `DOL-AAAA-MM-DD-NNNN` (com erros
+    de digitação como `66951`), então não serve para o número."""
+    return item.get("numero") or item["id"]
+
+
+def numero_mesa(m):
+    num = m.group("num") or m.group("numm")
+    ano = m.group("ano") or m.group("ano2")
+    if len(ano) == 2:
+        ano = "20" + ano
+    return str(int(num.replace(".", ""))), ano
+
+
+def _linha_assinatura(s):
+    """Nome de vereador ou cargo da Mesa; para no próximo expediente, legenda ou frase."""
+    if CARGO.search(s):
+        return True
+    if len(s) > 70 or PARA_ASSINATURA.match(s) or FIM_JORNAL.match(s) or CHROME.match(s):
+        return False
+    if CABECALHO_PAGINA.match(s) or SESSAO.search(s) or re.search(r"\d|[:;]$|\.$", s):
+        return False
+    palavras = [p for p in re.split(r"\s+", s) if len(p) > 3]
+    if not palavras:
+        return False
+    return sum(1 for p in palavras if p[:1].isupper()) / len(palavras) >= 0.7
+
+
+def recortar_mesa(bloco):
+    """Ato até Sala das Sessões + assinaturas da Mesa; nada do expediente seguinte."""
+    m = SALA_ATO.search(bloco)
+    if not m:
+        return bloco.strip()
+    fim_linha = bloco.find("\n", m.end())
+    fim_linha = len(bloco) if fim_linha < 0 else fim_linha
+    linhas, n = [bloco[:fim_linha].rstrip()], 0
+    for ln in bloco[fim_linha:].splitlines():
+        s = ln.strip()
+        if not s or s == ".":
+            continue
+        if not _linha_assinatura(s):
+            break
+        n += 1
+        if n > 8:
+            break
+        linhas.append(s)
+    return "\n".join(linhas).strip()
+
+
+def limpar_mesa(bloco):
+    linhas = [ln for ln in bloco.splitlines() if not CHROME_MESA.match(ln.strip())]
+    return limpar_bloco("\n".join(linhas))
+
+
+def sala_longe_do_artigo(bloco):
+    """Sala das Sessões muito depois do último artigo = recorte atravessou outro texto (ata, notícia)."""
+    sala = SALA_ATO.search(bloco)
+    arts = [m.start() for m in re.finditer(r"^(?:Art\.|§|Parágrafo único)", bloco[:sala.start()], re.M)]
+    return not arts or sala.start() - arts[-1] > ULTIMO_ARTIGO_SALA
+
+
+def eh_ato_mesa(bloco, epigrafe):
+    linhas = [ln for ln in bloco.splitlines() if ln.strip()]
+    if not linhas or not epigrafe.match(linhas[0]):
+        return False
+    m = ARTIGO.search(bloco)
+    if not m:
+        return False
+    if not PROMULGA_MESA.search(bloco[:m.start()]):
+        return False
+    if not SALA_ATO.search(bloco):
+        return False
+    return True
+
+
+def blocos_mesa(texto, serie):
+    """Recorta cada resolução/decreto legislativo promulgado da epígrafe até o próximo ato.
+
+    Devolve (achados, descartes): achados = [(num, ano, bloco)]; descartes = [(num, ano, motivo)].
+    """
+    epigrafe = SERIES_MESA[serie]["epigrafe"]
+    saida, descartes = [], []
+    for m in epigrafe.finditer(texto):
+        ini = m.start()
+        num, ano = numero_mesa(m)
+        if PROJETO_MESA.search(texto[max(0, ini - 40):ini].rstrip()):
+            continue
+        fim = len(texto)
+        for n in PROXIMO_ATO_MESA.finditer(texto, m.end()):
+            if n.start() < m.end() + 2:
+                continue
+            fim = n.start()
+            break
+        bloco = limpar_mesa(recortar_mesa(texto[ini:fim]))
+        if NEWS.search(bloco):
+            descartes.append((num, ano, "texto misturado com notícia do jornal"))
+            continue
+        if eh_ato_mesa(bloco, epigrafe):
+            if sala_longe_do_artigo(bloco):
+                descartes.append((num, ano, "Sala das Sessões longe do último artigo (recorte misturado)"))
+                continue
+            saida.append((num, ano, bloco))
+        elif ARTIGO.search(bloco) or SALA_ATO.search(bloco):
+            # epígrafe isolada com corpo, mas sem a forma promulgada completa
+            descartes.append((num, ano, "sem Art. 1º + promulgação + Sala das Sessões no recorte"))
+    por = {}
+    for num, ano, bloco in saida:
+        chave = (num, ano)
+        if chave not in por or len(bloco) > len(por[chave][2]):
+            por[chave] = (num, ano, bloco)
+    return [por[k] for k in sorted(por, key=lambda x: (x[1], int(x[0])))], descartes
+
+
+def data_sala(bloco, ano, data_edicao, folga_dias=366):
+    """Data da Sala das Sessões no ano da epígrafe, até 10 dias depois e 1 ano antes da edição."""
+    for m in SALA_ATO.finditer(bloco):
+        mes = MESES.get(m.group(2).lower())
+        if not mes:
+            continue
+        try:
+            d = dt.date(int(m.group(3)), mes, int(m.group(1)))
+        except ValueError:
+            continue
+        if str(d.year) != ano:
+            continue
+        if data_edicao:
+            e = dt.date.fromisoformat(data_edicao)
+            if d > e + dt.timedelta(days=10) or d < e - dt.timedelta(days=folga_dias):
+                continue
+        return d.isoformat()
+    return ""
+
+
+def titulo_mesa(rotulo, numero, data):
+    return titulo_lc(numero, data).replace("Lei Complementar", rotulo, 1)
+
+
+def extrair_mesa(pdf, serie):
+    descartes = []
+    for fn in (texto_raw, texto_layout):
+        try:
+            texto = juntar_hifen(fn(pdf))
+        except (subprocess.CalledProcessError, subprocess.TimeoutExpired, RuntimeError):
+            continue
+        achados, desc = blocos_mesa(texto, serie)
+        if achados:
+            return achados, desc
+        descartes = descartes or desc
+    return [], descartes
+
+
+def persistir_mesa(pasta_md, serie, item, num, ano_ep, bloco, data, sha_pdf, classificador_sha, hoje):
+    cfg = SERIES_MESA[serie]
+    data_edicao = item.get("data_publicacao") or ""
+    ano = (data or ano_ep)[:4]
+    corpo = corpo_markdown(bloco)
+    if len(re.sub(r"\W", "", corpo)) < 80:
+        return None
+    edicao = edicao_dol(item)
+    codigo = "%s-%s-%s-%s" % (item.get("tipo") or "DOL", edicao, cfg["sigla"], num)
+    slug = slugify("%s-%s-%s-%s" % (serie, num, ano, codigo.lower()))[:110]
+    destino = pasta_md / ano / (slug + ".md")
+    meta = {
+        "titulo": titulo_mesa(cfg["rotulo"], num, data),
+        "tipo": CANONICO[cfg["chave"]][1],
+        "tipo_na_fonte": cfg["tipo_na_fonte"],
+        "numero": num,
+        "data": data,
+        "ano": ano,
+        "municipio": MUNICIPIO,
+        "uf": UF,
+        "codigo_ibge": IBGE_SALVADOR,
+        "revogada": None,
+        "versao_texto": "publicação original no Diário Oficial do Legislativo (CMS/Dioly)"
+        + ("; republicada por incorreção" if REPUBLICADA.search(bloco) else ""),
+        "extrator": EXTRATOR,
+        "sha256_classificador": classificador_sha,
+        "sha256_extrator_geometria": SHA_GEOMETRIA,
+        "sha256_pdf": sha_pdf,
+        "sha256_texto": hashlib.sha256(corpo.encode()).hexdigest(),
+        "publicacao": "%s nº %s de %s" % (
+            item.get("tipo") or "DOL", edicao,
+            dt.date.fromisoformat(data_edicao).strftime("%d/%m/%Y") if data_edicao else ""),
+        "data_publicacao": data_edicao,
+        "codigo_identificador": codigo,
+        "fonte": item["pdf_url"],
+        "baixado_em": hoje,
+    }
+    if destino.exists():
+        destino.unlink()
+    gravar_emenda(destino, meta, corpo)
+    return destino
+
+
+def coletar_mesa(a, rede, edicoes, pasta_fonte, classificador_sha, hoje):
+    serie = a.modo
+    cfg = SERIES_MESA[serie]
+    pasta_md = RAIZ / "municipais" / UF / "salvador" / CANONICO[cfg["chave"]][0]
+    nome_lote = a.lote or "%s-salvador-%s-%s-%s" % (hoje.replace("-", ""), serie, a.de[:4], a.ate[:4])
+    lote = RAIZ / "municipais/_lotes" / nome_lote
+    lote.mkdir(parents=True, exist_ok=True)
+    gravar_json(lote / "edicoes.json", edicoes)
+    falhas_path = lote / "falhas.jsonl"
+    falhas_path.write_text("")
+    cont = collections.Counter()
+    por_chave = {}
+    descartes = []
+    with falhas_path.open("a", encoding="utf-8") as falhas:
+        for n, item in enumerate(edicoes, 1):
+            pdf = caminho_pdf(pasta_fonte, item)
+            try:
+                bruto, _cache = baixar_pdf(rede, item, pdf)
+                achados, desc, falha = [], [], None
+                amostra = texto_raw(pdf)
+                if pdf_escaneado(amostra) and len(re.sub(r"\W", "", amostra)) < 80:
+                    falha = {"status": "sem_texto", "motivo": "PDF sem texto legível", "edicao": item["id"]}
+                else:
+                    achados, desc = extrair_mesa(pdf, serie)
+            except Exception as e:
+                falha = {"status": "erro", "edicao": item.get("id"), "data": item.get("data_publicacao"),
+                         "fonte": item.get("pdf_url"), "erro": str(e)[:400]}
+                achados, desc = [], []
+            if falha:
+                falhas.write(json.dumps(falha, ensure_ascii=False) + "\n")
+                falhas.flush()
+                cont[falha.get("status", "erro")] += 1
+                continue
+            data_edicao = item.get("data_publicacao") or ""
+            for num, ano, motivo in desc:
+                descartes.append({"numero": num, "ano": ano, "edicao": edicao_dol(item), "motivo": motivo})
+            validos = []
+            for num, ano, bloco in achados:
+                data = data_sala(bloco, ano, data_edicao)
+                if not data:
+                    descartes.append({"numero": num, "ano": ano, "edicao": edicao_dol(item),
+                                      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"})
+                    continue
+                validos.append((num, ano, bloco, data))
+            if not validos:
+                cont["sem_ato_promulgado"] += 1
+            else:
+                cont["ok"] += 1
+                sha_pdf = hashlib.sha256(bruto).hexdigest()
+                for num, ano, bloco, data in validos:
+                    chave = (num, ano)
+                    nota = nota_lc(bloco) + (data_edicao,)
+                    atual = por_chave.get(chave)
+                    if atual is not None and nota <= atual[0]:
+                        continue
+                    destino = persistir_mesa(pasta_md, serie, item, num, ano, bloco, data, sha_pdf,
+                                             classificador_sha, hoje)
+                    if destino is None:
+                        continue
+                    if atual is not None:
+                        antigo = atual[1]
+                        if antigo != destino and Path(antigo).exists():
+                            Path(antigo).unlink()
+                    por_chave[chave] = (nota, destino)
+                    print("  %s %s/%s → %s" % (cfg["sigla"], num, ano, destino.relative_to(RAIZ)), flush=True)
+            if n % 10 == 0 or n == len(edicoes):
+                print("[%s/%s] %s chaves=%s" % (n, len(edicoes), dict(cont), len(por_chave)), flush=True)
+    ordem = sorted(por_chave, key=lambda x: (x[1], int(x[0])))
+    gravados = [str(por_chave[k][1]) for k in ordem]
+    manifesto = {
+        "municipio": MUNICIPIO, "uf": UF, "codigo_ibge": IBGE_SALVADOR,
+        "fonte_api": API, "rps": a.rps, "consultas": [] if a.completo else list(cfg["consultas"]),
+        "completo": bool(a.completo),
+        "intervalo": [a.de, a.ate], "tipo": a.tipo, "extrator": EXTRATOR,
+        "extrator_geometria": EXTRATOR_GEOMETRIA, "sha256_geometria": SHA_GEOMETRIA,
+        "sha256_classificador": classificador_sha, "edicoes": len(edicoes),
+        "so_cache": bool(a.so_cache), "rps_max": 2, "modo": serie,
+        "contagens": dict(cont), "arquivos": [str(Path(p).relative_to(RAIZ)) for p in gravados],
+        "numeros": ["%s/%s" % k for k in ordem],
+        "descartes": descartes,
+        "observacao": (
+            "Só atos promulgados pela Mesa da CMS (epígrafe em linha própria, Art. 1º, fórmula "
+            "promulga/faz saber, Sala das Sessões datada no ano da epígrafe e até 1 ano antes da "
+            "edição). Projetos, indicações, citações em ata/expediente e reproduções antigas não entram. "
+            "Recorte termina nas assinaturas da Mesa."
+        ),
+        "baixado_em": hoje,
+    }
+    gravar_json(lote / "manifesto.json", manifesto)
+    (lote / "lista.txt").write_text("\n".join(manifesto["arquivos"]) + ("\n" if gravados else ""))
+    print("gravadas", len(gravados), "em", pasta_md, flush=True)
+    return 0
+
+
 def conferir_ibge(raiz):
     ibge = json.loads((Path(raiz) / "municipais/_indice/ibge-municipios.json").read_text())
     item = next(x for x in ibge if str(x["id"]) == IBGE_SALVADOR)
@@ -1287,8 +1634,11 @@ def main(argv=None):
     ap.add_argument("--de", default="2010-01-01")
     ap.add_argument("--ate", default="2026-12-31")
     ap.add_argument("--rps", type=float, default=2)
-    ap.add_argument("--modo", choices=("emendas", "leis-complementares", "leis-ordinarias"),
+    ap.add_argument("--modo", choices=("emendas", "leis-complementares", "leis-ordinarias",
+                                       "resolucoes", "decretos-legislativos"),
                     default="emendas")
+    ap.add_argument("--lote", default=None,
+                    help="nome da pasta em municipais/_lotes/ (resoluções/DL; padrão por série+janela)")
     ap.add_argument("--completo", action="store_true",
                     help="baixa todo DOL no intervalo, sem filtro q= (milhares de PDFs)")
     ap.add_argument("--so-cache", action="store_true",
@@ -1297,14 +1647,16 @@ def main(argv=None):
     ap.add_argument("--listar", action="store_true")
     a = ap.parse_args(argv)
     if a.tipo is None:
-        a.tipo = "DOL" if a.modo == "emendas" else "DOM"
+        a.tipo = "DOL" if a.modo in ("emendas", "resolucoes", "decretos-legislativos") else "DOM"
     if not 0 < a.rps <= 2:
         ap.error("--rps máximo 2")
     conferir_ibge(RAIZ)
     rede = Rede(rps=a.rps)
     pasta_fonte = RAIZ / "municipais/_fonte/dioly/salvador"
     consultas = {"leis-complementares": CONSULTAS_LC,
-                 "leis-ordinarias": CONSULTAS_LO}.get(a.modo, CONSULTAS_PADRAO)
+                 "leis-ordinarias": CONSULTAS_LO,
+                 "resolucoes": CONSULTAS_RES,
+                 "decretos-legislativos": CONSULTAS_DL}.get(a.modo, CONSULTAS_PADRAO)
     if a.atualizar_indice:
         if not a.indice:
             ap.error("--atualizar-indice exige --indice")
@@ -1342,6 +1694,8 @@ def main(argv=None):
         return coletar_lc(a, rede, edicoes, pasta_fonte, classificador_sha, hoje)
     if a.modo == "leis-ordinarias":
         return coletar_lo(a, rede, edicoes, pasta_fonte, classificador_sha, hoje)
+    if a.modo in SERIES_MESA:
+        return coletar_mesa(a, rede, edicoes, pasta_fonte, classificador_sha, hoje)
 
     pasta_md = RAIZ / "municipais" / UF / "salvador" / "emendas-lei-organica"
     falhas_path = RAIZ / "municipais/BA/salvador/_falhas.jsonl"
