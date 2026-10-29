@@ -1,0 +1,38 @@
+---
+titulo: "Lei Ordinária nº 8175, de 7 de novembro de 2023"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "8175"
+data: "2023-11-07"
+municipio: "Rio de Janeiro"
+uf: "RJ"
+codigo_ibge: "3304557"
+situacao: "Em Vigor"
+ementa: "Inclui na Lei nº 5.242/2011 o Instituto Apontar como de utilidade pública."
+versao_texto: "texto integral HTML da base de legislação da Câmara Municipal do Rio de Janeiro (Domino/contlei.nsf, view leiord); a própria fonte declara que o texto não substitui o publicado no Diário Oficial"
+fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/C784A607F201779F03258A610060B629?OpenDocument"
+fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/C784A607F201779F03258A610060B629?OpenDocument"
+sha256_fonte: "0c56eeda15ec495c5bfc2d82d86bea59e8a8441619c4940080422f3d1bdeee48"
+sha256_texto: "dcf0dbcb02b9203c93568ab257a74f37881aac4fbac8806a7dd18af194102bf6"
+baixado_em: "2026-10-29"
+revogada: null
+---
+
+# Lei Ordinária nº 8175, de 7 de novembro de 2023
+
+LEI Nº 8.175, DE 7 DE NOVEMBRO DE 2023. Inclui na Lei nº 5.242/2011 o Instituto Apontar como de utilidade pública.**  
+Autor: Vereador Pedro Duarte.  
+  
+**O PREFEITO DA CIDADE DO RIO DE JANEIRO**  
+Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** Fica incluído o Instituto Apontar no art. 2º da Lei nº 5.242, de 17 de janeiro de 2011, que trata da Consolidação Municipal de Utilidades Públicas.
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação.
+
+**EDUARDO PAES**
+
+**Este texto não substitui o publicado no Diário Oficial de 11/08/2023**
+
+<table> <tr><td><strong>Status da Lei </strong></td><td> Em Vigor</td></tr> </table>
+
