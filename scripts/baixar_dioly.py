@@ -1125,7 +1125,8 @@ def limpar_mesa(bloco):
 def sala_longe_do_artigo(bloco):
     """Sala das Sessões muito depois do último artigo = recorte atravessou outro texto (ata, notícia)."""
     sala = SALA_ATO.search(bloco)
-    arts = [m.start() for m in re.finditer(r"^(?:Art\.|§|Parágrafo único)", bloco[:sala.start()], re.M)]
+    arts = [m.start() for m in re.finditer(
+        r"^(?:Art\b|§|Parágrafo único|[IVXLC]+\s*[-–—)]|[a-z]\))", bloco[:sala.start()], re.M)]
     return not arts or sala.start() - arts[-1] > ULTIMO_ARTIGO_SALA
 
 
