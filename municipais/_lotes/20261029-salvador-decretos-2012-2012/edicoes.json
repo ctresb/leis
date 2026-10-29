@@ -1,0 +1,2032 @@
+[
+  {
+    "id": 7613,
+    "tipo": "DOM",
+    "numero": 5524,
+    "data_publicacao": "2012-01-03",
+    "titulo": "DOM - 5524 - 03/01/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/f467f7d0-7965-4a0f-a285-e89a345e10dc.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/f467f7d0-7965-4a0f-a285-e89a345e10dc_DOM-5524-03-01-2012.pdf",
+    "created_at": "2026-10-07T09:24:57.889497"
+  },
+  {
+    "id": 7614,
+    "tipo": "DOM",
+    "numero": 5525,
+    "data_publicacao": "2012-01-04",
+    "titulo": "DOM - 5525 - 04/01/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/edd638f9-e5e8-42c4-b3fc-a824d3161bbd.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/edd638f9-e5e8-42c4-b3fc-a824d3161bbd_DOM-5525-04-01-2012.pdf",
+    "created_at": "2026-10-07T09:25:00.232672"
+  },
+  {
+    "id": 7406,
+    "tipo": "DOM",
+    "numero": 5526,
+    "data_publicacao": "2012-01-05",
+    "titulo": "DOM - 5526 - 05/01/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/fe2bb29c-cc2c-4d11-b22a-cb029ede45df.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/fe2bb29c-cc2c-4d11-b22a-cb029ede45df_DOM-5526-05-01-2012.pdf",
+    "created_at": "2026-10-07T09:14:48.190055"
+  },
+  {
+    "id": 7407,
+    "tipo": "DOM",
+    "numero": 5527,
+    "data_publicacao": "2012-01-06",
+    "titulo": "DOM - 5527 - 06/01/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/a38ddfc8-db9e-4102-8d56-8fac3b000894.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/a38ddfc8-db9e-4102-8d56-8fac3b000894_DOM-5527-06-01-2012.pdf",
+    "created_at": "2026-10-07T09:14:53.021220"
+  },
+  {
+    "id": 7408,
+    "tipo": "DOM",
+    "numero": 5528,
+    "data_publicacao": "2012-01-07",
+    "titulo": "DOM - 5528 - 07/01/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/28121001-86a7-4b25-b8cb-28de5b7ffa34.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/28121001-86a7-4b25-b8cb-28de5b7ffa34_DOM-5528-07-01-2012.pdf",
+    "created_at": "2026-10-07T09:15:00.698841"
+  },
+  {
+    "id": 7409,
+    "tipo": "DOM",
+    "numero": 5529,
+    "data_publicacao": "2012-01-10",
+    "titulo": "DOM - 5529 - 10/01/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/27907fb1-eef8-41be-bef1-743599368188.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/27907fb1-eef8-41be-bef1-743599368188_DOM-5529-10-01-2012.pdf",
+    "created_at": "2026-10-07T09:15:06.278004"
+  },
+  {
+    "id": 7410,
+    "tipo": "DOM",
+    "numero": 5530,
+    "data_publicacao": "2012-01-11",
+    "titulo": "DOM - 5530 - 11/01/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/2779aa62-f23b-4dd2-8f7f-724944b91f63.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/2779aa62-f23b-4dd2-8f7f-724944b91f63_DOM-5530-11-01-2012.pdf",
+    "created_at": "2026-10-07T09:15:09.046924"
+  },
+  {
+    "id": 7411,
+    "tipo": "DOM",
+    "numero": 5531,
+    "data_publicacao": "2012-01-12",
+    "titulo": "DOM - 5531 - 12/01/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/2519081b-cd58-4080-a4cd-a3446e166198.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/2519081b-cd58-4080-a4cd-a3446e166198_DOM-5531-12-01-2012.pdf",
+    "created_at": "2026-10-07T09:15:11.855752"
+  },
+  {
+    "id": 7412,
+    "tipo": "DOM",
+    "numero": 5532,
+    "data_publicacao": "2012-01-13",
+    "titulo": "DOM - 5532 - 13/01/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/22c1e4b5-5c9f-4144-b3ad-f6e67c49f83c.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/22c1e4b5-5c9f-4144-b3ad-f6e67c49f83c_DOM-5532-13-01-2012.pdf",
+    "created_at": "2026-10-07T09:15:14.589967"
+  },
+  {
+    "id": 7413,
+    "tipo": "DOM",
+    "numero": 5533,
+    "data_publicacao": "2012-01-14",
+    "titulo": "DOM - 5533 - 14/01/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/84342a00-8648-4a1a-bd96-fdf0c87e6b87.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/84342a00-8648-4a1a-bd96-fdf0c87e6b87_DOM-5533-14-01-2012.pdf",
+    "created_at": "2026-10-07T09:15:17.302140"
+  },
+  {
+    "id": 7414,
+    "tipo": "DOM",
+    "numero": 5534,
+    "data_publicacao": "2012-01-17",
+    "titulo": "DOM - 5534 - 17/01/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/c893911a-e55d-475e-b6e6-4b1e9a113d03.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/c893911a-e55d-475e-b6e6-4b1e9a113d03_DOM-5534-17-01-2012.pdf",
+    "created_at": "2026-10-07T09:15:22.783839"
+  },
+  {
+    "id": 7415,
+    "tipo": "DOM",
+    "numero": 5535,
+    "data_publicacao": "2012-01-18",
+    "titulo": "DOM - 5535 - 18/01/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/78583985-671e-4be4-92f7-b0163bcd18ab.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/78583985-671e-4be4-92f7-b0163bcd18ab_DOM-5535-18-01-2012.pdf",
+    "created_at": "2026-10-07T09:15:25.649727"
+  },
+  {
+    "id": 7416,
+    "tipo": "DOM",
+    "numero": 5536,
+    "data_publicacao": "2012-01-19",
+    "titulo": "DOM - 5536 - 19/01/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/2bc68b87-8a6c-45eb-975f-87ad7701053f.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/2bc68b87-8a6c-45eb-975f-87ad7701053f_DOM-5536-19-01-2012.pdf",
+    "created_at": "2026-10-07T09:15:30.239540"
+  },
+  {
+    "id": 7417,
+    "tipo": "DOM",
+    "numero": 5538,
+    "data_publicacao": "2012-01-21",
+    "titulo": "DOM - 5538 - 21/01/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/4c7618af-22f4-4707-a0f8-9be3c42ae1d8.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/4c7618af-22f4-4707-a0f8-9be3c42ae1d8_DOM-5538-21-01-2012.pdf",
+    "created_at": "2026-10-07T09:15:40.305220"
+  },
+  {
+    "id": 7418,
+    "tipo": "DOM",
+    "numero": 5539,
+    "data_publicacao": "2012-01-24",
+    "titulo": "DOM - 5539 - 24/01/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/b7dd1ec9-9902-47ce-ba19-cc93506174cb.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/b7dd1ec9-9902-47ce-ba19-cc93506174cb_DOM-5539-24-01-2012.pdf",
+    "created_at": "2026-10-07T09:15:45.567212"
+  },
+  {
+    "id": 7419,
+    "tipo": "DOM",
+    "numero": 5540,
+    "data_publicacao": "2012-01-25",
+    "titulo": "DOM - 5540 - 25/01/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/2e8e063c-d880-44f1-ae29-cacaaa4695b7.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/2e8e063c-d880-44f1-ae29-cacaaa4695b7_DOM-5540-25-01-2012.pdf",
+    "created_at": "2026-10-07T09:15:49.817766"
+  },
+  {
+    "id": 7420,
+    "tipo": "DOM",
+    "numero": 5541,
+    "data_publicacao": "2012-01-26",
+    "titulo": "DOM - 5541 - 26/01/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/e60cf9ae-8d3b-4ddc-b2fe-a28aca710a0e.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/e60cf9ae-8d3b-4ddc-b2fe-a28aca710a0e_DOM-5541-26-01-2012.pdf",
+    "created_at": "2026-10-07T09:15:52.495443"
+  },
+  {
+    "id": 7421,
+    "tipo": "DOM",
+    "numero": 5542,
+    "data_publicacao": "2012-01-27",
+    "titulo": "DOM - 5542 - 27/01/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/03adbada-2412-415a-af98-064854e7ced4.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/03adbada-2412-415a-af98-064854e7ced4_DOM-5542-27-01-2012.pdf",
+    "created_at": "2026-10-07T09:15:55.090657"
+  },
+  {
+    "id": 7422,
+    "tipo": "DOM",
+    "numero": 5543,
+    "data_publicacao": "2012-01-28",
+    "titulo": "DOM - 5543 - 28/01/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/8893ae2d-ceb6-423e-b663-e17b904fa0fa.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/8893ae2d-ceb6-423e-b663-e17b904fa0fa_DOM-5543-28-01-2012.pdf",
+    "created_at": "2026-10-07T09:15:59.588985"
+  },
+  {
+    "id": 7423,
+    "tipo": "DOM",
+    "numero": 5544,
+    "data_publicacao": "2012-01-31",
+    "titulo": "DOM - 5544 - 31/01/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/61da6e8f-2272-4adb-92c1-0be14ad66638.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/61da6e8f-2272-4adb-92c1-0be14ad66638_DOM-5544-31-01-2012.pdf",
+    "created_at": "2026-10-07T09:16:03.288902"
+  },
+  {
+    "id": 7424,
+    "tipo": "DOM",
+    "numero": 5545,
+    "data_publicacao": "2012-02-01",
+    "titulo": "DOM - 5545 - 01/02/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/c3c423eb-b47c-4aa5-bae1-36813150c606.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/c3c423eb-b47c-4aa5-bae1-36813150c606_DOM-5545-01-02-2012.pdf",
+    "created_at": "2026-10-07T09:16:07.352545"
+  },
+  {
+    "id": 7425,
+    "tipo": "DOM",
+    "numero": 5546,
+    "data_publicacao": "2012-02-02",
+    "titulo": "DOM - 5546 - 02/02/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/e36fd788-3306-4f0a-a196-a826bac45e16.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/e36fd788-3306-4f0a-a196-a826bac45e16_DOM-5546-02-02-2012.pdf",
+    "created_at": "2026-10-07T09:16:10.028074"
+  },
+  {
+    "id": 7426,
+    "tipo": "DOM",
+    "numero": 5547,
+    "data_publicacao": "2012-02-03",
+    "titulo": "DOM - 5547 - 03/02/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/0f268c12-ba32-469d-a080-a244a488100e.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/0f268c12-ba32-469d-a080-a244a488100e_DOM-5547-03-02-2012.pdf",
+    "created_at": "2026-10-07T09:16:12.691886"
+  },
+  {
+    "id": 7427,
+    "tipo": "DOM",
+    "numero": 5548,
+    "data_publicacao": "2012-02-04",
+    "titulo": "DOM - 5548 - 04/02/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/15e3b3b4-a7e0-4c25-9ad4-73ad4a73fce2.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/15e3b3b4-a7e0-4c25-9ad4-73ad4a73fce2_DOM-5548-04-02-2012.pdf",
+    "created_at": "2026-10-07T09:16:15.366357"
+  },
+  {
+    "id": 7428,
+    "tipo": "DOM",
+    "numero": 5549,
+    "data_publicacao": "2012-02-07",
+    "titulo": "DOM - 5549 - 07/02/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/3ecaaeca-cb0d-45a4-b932-64efb9dbd6d0.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/3ecaaeca-cb0d-45a4-b932-64efb9dbd6d0_DOM-5549-07-02-2012.pdf",
+    "created_at": "2026-10-07T09:16:17.776505"
+  },
+  {
+    "id": 7429,
+    "tipo": "DOM",
+    "numero": 5550,
+    "data_publicacao": "2012-02-08",
+    "titulo": "DOM - 5550 - 08/02/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/75b30514-156f-482b-84c8-9fd5dcf836bd.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/75b30514-156f-482b-84c8-9fd5dcf836bd_DOM-5550-08-02-2012.pdf",
+    "created_at": "2026-10-07T09:16:20.188744"
+  },
+  {
+    "id": 7430,
+    "tipo": "DOM",
+    "numero": 5551,
+    "data_publicacao": "2012-02-09",
+    "titulo": "DOM - 5551 - 09/02/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/c370a27d-405a-485e-9c8e-408efb2613b7.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/c370a27d-405a-485e-9c8e-408efb2613b7_DOM-5551-09-02-2012.pdf",
+    "created_at": "2026-10-07T09:16:22.497665"
+  },
+  {
+    "id": 7431,
+    "tipo": "DOM",
+    "numero": 22607,
+    "data_publicacao": "2012-02-11",
+    "titulo": "DOM - 22607 - 11/02/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/0a8c726d-7256-4ab2-9f77-3cb876913ee1.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/0a8c726d-7256-4ab2-9f77-3cb876913ee1_DOM-5553-11-02-2012.pdf",
+    "created_at": "2026-10-07T09:16:27.110816"
+  },
+  {
+    "id": 7432,
+    "tipo": "DOM",
+    "numero": 5554,
+    "data_publicacao": "2012-02-14",
+    "titulo": "DOM - 5554 - 14/02/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/6086182a-998e-4ab7-8f89-432a85c415b6.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/6086182a-998e-4ab7-8f89-432a85c415b6_DOM-5554-14-02-2012.pdf",
+    "created_at": "2026-10-07T09:16:32.661483"
+  },
+  {
+    "id": 7433,
+    "tipo": "DOM",
+    "numero": 5555,
+    "data_publicacao": "2012-02-15",
+    "titulo": "DOM - 5555 - 15/02/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/85e73e29-d885-4d97-92f2-771933c11e08.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/85e73e29-d885-4d97-92f2-771933c11e08_DOM-5555-15-02-2012.pdf",
+    "created_at": "2026-10-07T09:16:35.929120"
+  },
+  {
+    "id": 7434,
+    "tipo": "DOM",
+    "numero": 5556,
+    "data_publicacao": "2012-02-16",
+    "titulo": "DOM - 5556 - 16/02/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/fe627dc0-1a83-41b7-ad08-e60b8ed92208.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/fe627dc0-1a83-41b7-ad08-e60b8ed92208_DOM-5556-16-02-2012.pdf",
+    "created_at": "2026-10-07T09:16:39.907285"
+  },
+  {
+    "id": 7435,
+    "tipo": "DOM",
+    "numero": 5557,
+    "data_publicacao": "2012-02-17",
+    "titulo": "DOM - 5557 - 17/02/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/5499d61c-367f-469d-bc54-da3d75d32fd8.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/5499d61c-367f-469d-bc54-da3d75d32fd8_DOM-5557-17-02-2012.pdf",
+    "created_at": "2026-10-07T09:16:44.072142"
+  },
+  {
+    "id": 7436,
+    "tipo": "DOM",
+    "numero": 5558,
+    "data_publicacao": "2012-02-24",
+    "titulo": "DOM - 5558 - 24/02/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/e9c959c4-96da-4984-bb16-f7bd34350c43.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/e9c959c4-96da-4984-bb16-f7bd34350c43_DOM-5558-24-02-2012.pdf",
+    "created_at": "2026-10-07T09:16:49.336849"
+  },
+  {
+    "id": 7437,
+    "tipo": "DOM",
+    "numero": 5559,
+    "data_publicacao": "2012-02-25",
+    "titulo": "DOM - 5559 - 25/02/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/c3a5e4d7-e1b9-43c6-8f13-f35b87fd3b99.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/c3a5e4d7-e1b9-43c6-8f13-f35b87fd3b99_DOM-5559-25-02-2012.pdf",
+    "created_at": "2026-10-07T09:16:52.468131"
+  },
+  {
+    "id": 7438,
+    "tipo": "DOM",
+    "numero": 5560,
+    "data_publicacao": "2012-02-28",
+    "titulo": "DOM - 5560 - 28/02/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/943ca623-101e-4148-b619-5fc6dff0c38b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/943ca623-101e-4148-b619-5fc6dff0c38b_DOM-5560-28-02-2012.pdf",
+    "created_at": "2026-10-07T09:16:54.412839"
+  },
+  {
+    "id": 7439,
+    "tipo": "DOM",
+    "numero": 5561,
+    "data_publicacao": "2012-02-29",
+    "titulo": "DOM - 5561 - 29/02/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/bd374768-0dde-46d1-8743-af87dd138344.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/bd374768-0dde-46d1-8743-af87dd138344_DOM-5561-29-02-2012.pdf",
+    "created_at": "2026-10-07T09:16:57.298546"
+  },
+  {
+    "id": 7440,
+    "tipo": "DOM",
+    "numero": 5562,
+    "data_publicacao": "2012-03-01",
+    "titulo": "DOM - 5562 - 01/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/72dd1ec1-6f26-40f6-b1a3-20ea9bba3dc6.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/72dd1ec1-6f26-40f6-b1a3-20ea9bba3dc6_DOM-5562-01-03-2012.pdf",
+    "created_at": "2026-10-07T09:16:59.863567"
+  },
+  {
+    "id": 7441,
+    "tipo": "DOM",
+    "numero": 5563,
+    "data_publicacao": "2012-03-02",
+    "titulo": "DOM - 5563 - 02/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/95b1e0f3-8148-4446-8f63-456f06ceeb11.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/95b1e0f3-8148-4446-8f63-456f06ceeb11_DOM-5563-02-03-2012.pdf",
+    "created_at": "2026-10-07T09:17:02.185580"
+  },
+  {
+    "id": 7442,
+    "tipo": "DOM",
+    "numero": 5564,
+    "data_publicacao": "2012-03-03",
+    "titulo": "DOM - 5564 - 03/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ef337b1d-67c7-4d39-a53f-039c63838c71.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ef337b1d-67c7-4d39-a53f-039c63838c71_DOM-5564-03-03-2012.pdf",
+    "created_at": "2026-10-07T09:17:05.557943"
+  },
+  {
+    "id": 7443,
+    "tipo": "DOM",
+    "numero": 22655,
+    "data_publicacao": "2012-03-06",
+    "titulo": "DOM - 22655 - 06/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/864d63b3-4116-4c0e-ba90-1a1b57dbe551.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/864d63b3-4116-4c0e-ba90-1a1b57dbe551_DOM-5565-06-03-2012.pdf",
+    "created_at": "2026-10-07T09:17:07.671070"
+  },
+  {
+    "id": 7444,
+    "tipo": "DOM",
+    "numero": 5566,
+    "data_publicacao": "2012-03-07",
+    "titulo": "DOM - 5566 - 07/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/67496df0-3d97-4417-9d1a-02ad335eaf65.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/67496df0-3d97-4417-9d1a-02ad335eaf65_DOM-5566-07-03-2012.pdf",
+    "created_at": "2026-10-07T09:17:10.900003"
+  },
+  {
+    "id": 7445,
+    "tipo": "DOM",
+    "numero": 5567,
+    "data_publicacao": "2012-03-08",
+    "titulo": "DOM - 5567 - 08/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/4cd20079-3bf0-494b-8e15-543066342a2a.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/4cd20079-3bf0-494b-8e15-543066342a2a_DOM-5567-08-03-2012.pdf",
+    "created_at": "2026-10-07T09:17:15.228294"
+  },
+  {
+    "id": 7446,
+    "tipo": "DOM",
+    "numero": 5568,
+    "data_publicacao": "2012-03-09",
+    "titulo": "DOM - 5568 - 09/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/3a90de7e-87a2-4698-976e-7a1c8fc77442.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/3a90de7e-87a2-4698-976e-7a1c8fc77442_DOM-5568-09-03-2012.pdf",
+    "created_at": "2026-10-07T09:17:18.809182"
+  },
+  {
+    "id": 7447,
+    "tipo": "DOM",
+    "numero": 5569,
+    "data_publicacao": "2012-03-10",
+    "titulo": "DOM - 5569 - 10/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/cd230838-3488-4aab-bc62-315c5dfdb1e4.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/cd230838-3488-4aab-bc62-315c5dfdb1e4_DOM-5569-10-03-2012.pdf",
+    "created_at": "2026-10-07T09:17:22.934042"
+  },
+  {
+    "id": 7448,
+    "tipo": "DOM",
+    "numero": 5570,
+    "data_publicacao": "2012-03-13",
+    "titulo": "DOM - 5570 - 13/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/64555c65-f6b3-4d6b-84eb-f5c57adaa3ec.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/64555c65-f6b3-4d6b-84eb-f5c57adaa3ec_DOM-5570-13-03-2012.pdf",
+    "created_at": "2026-10-07T09:17:27.549533"
+  },
+  {
+    "id": 7449,
+    "tipo": "DOM",
+    "numero": 5571,
+    "data_publicacao": "2012-03-14",
+    "titulo": "DOM - 5571 - 14/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/e15aa45a-23b1-487c-82a8-6adefae50bd7.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/e15aa45a-23b1-487c-82a8-6adefae50bd7_DOM-5571-14-03-2012.pdf",
+    "created_at": "2026-10-07T09:17:30.269015"
+  },
+  {
+    "id": 7450,
+    "tipo": "DOM",
+    "numero": 5572,
+    "data_publicacao": "2012-03-15",
+    "titulo": "DOM - 5572 - 15/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/6c4bdd91-5c49-475f-9346-25eab0f0ee65.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/6c4bdd91-5c49-475f-9346-25eab0f0ee65_DOM-5572-15-03-2012.pdf",
+    "created_at": "2026-10-07T09:17:32.781895"
+  },
+  {
+    "id": 7451,
+    "tipo": "DOM",
+    "numero": 5573,
+    "data_publicacao": "2012-03-16",
+    "titulo": "DOM - 5573 - 16/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/c5557ee7-2223-49d4-8652-6486826a99da.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/c5557ee7-2223-49d4-8652-6486826a99da_DOM-5573-16-03-2012.pdf",
+    "created_at": "2026-10-07T09:17:36.579779"
+  },
+  {
+    "id": 7452,
+    "tipo": "DOM",
+    "numero": 5574,
+    "data_publicacao": "2012-03-17",
+    "titulo": "DOM - 5574 - 17/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/8a994a81-e334-443c-a80e-bcba18286e28.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/8a994a81-e334-443c-a80e-bcba18286e28_DOM-5574-17-03-2012.pdf",
+    "created_at": "2026-10-07T09:17:41.031543"
+  },
+  {
+    "id": 7453,
+    "tipo": "DOM",
+    "numero": 5575,
+    "data_publicacao": "2012-03-20",
+    "titulo": "DOM - 5575 - 20/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ac1de1bf-427a-418b-bb23-152c3dce2bbf.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ac1de1bf-427a-418b-bb23-152c3dce2bbf_DOM-5575-20-03-2012.pdf",
+    "created_at": "2026-10-07T09:17:43.901439"
+  },
+  {
+    "id": 7454,
+    "tipo": "DOM",
+    "numero": 5576,
+    "data_publicacao": "2012-03-21",
+    "titulo": "DOM - 5576 - 21/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/226b6010-009a-466f-8904-1d24c31544f2.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/226b6010-009a-466f-8904-1d24c31544f2_DOM-5576-21-03-2012.pdf",
+    "created_at": "2026-10-07T09:17:46.991846"
+  },
+  {
+    "id": 7455,
+    "tipo": "DOM",
+    "numero": 5000,
+    "data_publicacao": "2012-03-22",
+    "titulo": "DOM - 5000 - 22/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/0e6ac83b-4e22-43b9-bd8d-84b0f80a84cd.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/0e6ac83b-4e22-43b9-bd8d-84b0f80a84cd_DOM-5577-22-03-2012.pdf",
+    "created_at": "2026-10-07T09:17:49.162614"
+  },
+  {
+    "id": 7456,
+    "tipo": "DOM",
+    "numero": 5578,
+    "data_publicacao": "2012-03-23",
+    "titulo": "DOM - 5578 - 23/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/c2991a99-3602-4955-9a4e-6a5c4fd0bd58.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/c2991a99-3602-4955-9a4e-6a5c4fd0bd58_DOM-5578-23-03-2012.pdf",
+    "created_at": "2026-10-07T09:17:52.442385"
+  },
+  {
+    "id": 7457,
+    "tipo": "DOM",
+    "numero": 5579,
+    "data_publicacao": "2012-03-24",
+    "titulo": "DOM - 5579 - 24/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/d8ff0077-21d3-4922-b749-c528b9ef4bff.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/d8ff0077-21d3-4922-b749-c528b9ef4bff_DOM-5579-24-03-2012.pdf",
+    "created_at": "2026-10-07T09:17:55.189524"
+  },
+  {
+    "id": 7458,
+    "tipo": "DOM",
+    "numero": 5580,
+    "data_publicacao": "2012-03-27",
+    "titulo": "DOM - 5580 - 27/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/c5f144d2-d998-4bfd-bb9f-18d6eaa3fc4e.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/c5f144d2-d998-4bfd-bb9f-18d6eaa3fc4e_DOM-5580-27-03-2012.pdf",
+    "created_at": "2026-10-07T09:17:58.776008"
+  },
+  {
+    "id": 7459,
+    "tipo": "DOM",
+    "numero": 5581,
+    "data_publicacao": "2012-03-28",
+    "titulo": "DOM - 5581 - 28/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/8a2838f0-77b1-4d6e-b64f-20b9f0c9753f.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/8a2838f0-77b1-4d6e-b64f-20b9f0c9753f_DOM-5581-28-03-2012.pdf",
+    "created_at": "2026-10-07T09:18:01.384307"
+  },
+  {
+    "id": 7460,
+    "tipo": "DOM",
+    "numero": 5582,
+    "data_publicacao": "2012-03-29",
+    "titulo": "DOM - 5582 - 29/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/2d446a30-7ec7-4722-92ab-f81f204c14de.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/2d446a30-7ec7-4722-92ab-f81f204c14de_DOM-5582-29-03-2012.pdf",
+    "created_at": "2026-10-07T09:18:04.279521"
+  },
+  {
+    "id": 7461,
+    "tipo": "DOM",
+    "numero": 5583,
+    "data_publicacao": "2012-03-30",
+    "titulo": "DOM - 5583 - 30/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ff2d0be7-6070-4000-8b87-4947701511ec.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ff2d0be7-6070-4000-8b87-4947701511ec_DOM-5583-30-03-2012.pdf",
+    "created_at": "2026-10-07T09:18:07.527098"
+  },
+  {
+    "id": 7462,
+    "tipo": "DOM",
+    "numero": 5584,
+    "data_publicacao": "2012-03-31",
+    "titulo": "DOM - 5584 - 31/03/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/8bd28bb1-3a8c-4434-8e69-8f96b1b7d9dc.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/8bd28bb1-3a8c-4434-8e69-8f96b1b7d9dc_DOM-5584-31-03-2012.pdf",
+    "created_at": "2026-10-07T09:18:10.263273"
+  },
+  {
+    "id": 7463,
+    "tipo": "DOM",
+    "numero": 5585,
+    "data_publicacao": "2012-04-03",
+    "titulo": "DOM - 5585 - 03/04/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/b677a326-a933-41bb-866f-d499f35b0a13.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/b677a326-a933-41bb-866f-d499f35b0a13_DOM-5585-03-04-2012.pdf",
+    "created_at": "2026-10-07T09:18:12.576205"
+  },
+  {
+    "id": 7464,
+    "tipo": "DOM",
+    "numero": 5586,
+    "data_publicacao": "2012-04-04",
+    "titulo": "DOM - 5586 - 04/04/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/3ccfbf30-3433-4b7c-a767-743415d6d347.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/3ccfbf30-3433-4b7c-a767-743415d6d347_DOM-5586-04-04-2012.pdf",
+    "created_at": "2026-10-07T09:18:15.130971"
+  },
+  {
+    "id": 7465,
+    "tipo": "DOM",
+    "numero": 5587,
+    "data_publicacao": "2012-04-05",
+    "titulo": "DOM - 5587 - 05/04/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/bc781d65-2faf-4e03-b121-86ac16e4725a.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/bc781d65-2faf-4e03-b121-86ac16e4725a_DOM-5587-05-04-2012.pdf",
+    "created_at": "2026-10-07T09:18:18.150300"
+  },
+  {
+    "id": 7466,
+    "tipo": "DOM",
+    "numero": 5588,
+    "data_publicacao": "2012-04-10",
+    "titulo": "DOM - 5588 - 10/04/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/cda598df-2691-4d17-be1d-7f9801d4987b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/cda598df-2691-4d17-be1d-7f9801d4987b_DOM-5588-10-04-2012.pdf",
+    "created_at": "2026-10-07T09:18:20.747758"
+  },
+  {
+    "id": 7467,
+    "tipo": "DOM",
+    "numero": 5589,
+    "data_publicacao": "2012-04-11",
+    "titulo": "DOM - 5589 - 11/04/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/1dbad27d-5534-4c0b-90d6-079f6d0a56bc.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/1dbad27d-5534-4c0b-90d6-079f6d0a56bc_DOM-5589-11-04-2012.pdf",
+    "created_at": "2026-10-07T09:18:23.203043"
+  },
+  {
+    "id": 7468,
+    "tipo": "DOM",
+    "numero": 5590,
+    "data_publicacao": "2012-04-12",
+    "titulo": "DOM - 5590 - 12/04/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/87d74d77-e941-4534-ba2e-8b7f68a591d2.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/87d74d77-e941-4534-ba2e-8b7f68a591d2_DOM-5590-12-04-2012.pdf",
+    "created_at": "2026-10-07T09:18:26.631497"
+  },
+  {
+    "id": 7469,
+    "tipo": "DOM",
+    "numero": 5591,
+    "data_publicacao": "2012-04-13",
+    "titulo": "DOM - 5591 - 13/04/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/651a5a45-d644-4864-a4f4-e063d607b42d.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/651a5a45-d644-4864-a4f4-e063d607b42d_DOM-5591-13-04-2012.pdf",
+    "created_at": "2026-10-07T09:18:29.163090"
+  },
+  {
+    "id": 7470,
+    "tipo": "DOM",
+    "numero": 5592,
+    "data_publicacao": "2012-04-14",
+    "titulo": "DOM - 5592 - 14/04/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/2291de10-b81f-4908-9aac-22c899ad2dc5.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/2291de10-b81f-4908-9aac-22c899ad2dc5_DOM-5592-14-04-2012.pdf",
+    "created_at": "2026-10-07T09:18:32.057897"
+  },
+  {
+    "id": 7471,
+    "tipo": "DOM",
+    "numero": 5593,
+    "data_publicacao": "2012-04-17",
+    "titulo": "DOM - 5593 - 17/04/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/4598c02f-6791-43ac-a988-3388dc065720.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/4598c02f-6791-43ac-a988-3388dc065720_DOM-5593-17-04-2012.pdf",
+    "created_at": "2026-10-07T09:18:34.799722"
+  },
+  {
+    "id": 7472,
+    "tipo": "DOM",
+    "numero": 5594,
+    "data_publicacao": "2012-04-18",
+    "titulo": "DOM - 5594 - 18/04/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/89cfda58-6c9e-45b1-b78a-c82f0acfff0c.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/89cfda58-6c9e-45b1-b78a-c82f0acfff0c_DOM-5594-18-04-2012.pdf",
+    "created_at": "2026-10-07T09:18:37.324186"
+  },
+  {
+    "id": 7473,
+    "tipo": "DOM",
+    "numero": 5595,
+    "data_publicacao": "2012-04-19",
+    "titulo": "DOM - 5595 - 19/04/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/a3e79bb2-2fa7-410f-ad5e-fb4b36a6f3d1.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/a3e79bb2-2fa7-410f-ad5e-fb4b36a6f3d1_DOM-5595-19-04-2012.pdf",
+    "created_at": "2026-10-07T09:18:40.372005"
+  },
+  {
+    "id": 7474,
+    "tipo": "DOM",
+    "numero": 5596,
+    "data_publicacao": "2012-04-20",
+    "titulo": "DOM - 5596 - 20/04/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/b6bfb58f-b198-4e8a-b93c-1177775ed004.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/b6bfb58f-b198-4e8a-b93c-1177775ed004_DOM-5596-20-04-2012.pdf",
+    "created_at": "2026-10-07T09:18:43.179337"
+  },
+  {
+    "id": 7475,
+    "tipo": "DOM",
+    "numero": 5597,
+    "data_publicacao": "2012-04-21",
+    "titulo": "DOM - 5597 - 21/04/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/20a73a91-fcf4-4ffc-85fc-bfc5fcc05c9b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/20a73a91-fcf4-4ffc-85fc-bfc5fcc05c9b_DOM-5597-21-04-2012.pdf",
+    "created_at": "2026-10-07T09:18:45.429750"
+  },
+  {
+    "id": 7476,
+    "tipo": "DOM",
+    "numero": 5598,
+    "data_publicacao": "2012-04-24",
+    "titulo": "DOM - 5598 - 24/04/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/30851f3e-ea75-4377-bf52-e2624ca83418.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/30851f3e-ea75-4377-bf52-e2624ca83418_DOM-5598-24-04-2012.pdf",
+    "created_at": "2026-10-07T09:18:47.936523"
+  },
+  {
+    "id": 7477,
+    "tipo": "DOM",
+    "numero": 5599,
+    "data_publicacao": "2012-04-25",
+    "titulo": "DOM - 5599 - 25/04/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/cd831bb9-a299-4494-9247-bd3251f1ca50.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/cd831bb9-a299-4494-9247-bd3251f1ca50_DOM-5599-25-04-2012.pdf",
+    "created_at": "2026-10-07T09:18:50.981547"
+  },
+  {
+    "id": 7478,
+    "tipo": "DOM",
+    "numero": 5600,
+    "data_publicacao": "2012-04-26",
+    "titulo": "DOM - 5600 - 26/04/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/d7ec1b7a-c255-4aaf-b601-547fceb5ad7c.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/d7ec1b7a-c255-4aaf-b601-547fceb5ad7c_DOM-5600-26-04-2012.pdf",
+    "created_at": "2026-10-07T09:18:54.275060"
+  },
+  {
+    "id": 7479,
+    "tipo": "DOM",
+    "numero": 5601,
+    "data_publicacao": "2012-04-27",
+    "titulo": "DOM - 5601 - 27/04/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/a0a6109a-4635-4231-b565-75e312875b1c.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/a0a6109a-4635-4231-b565-75e312875b1c_DOM-5601-27-04-2012.pdf",
+    "created_at": "2026-10-07T09:18:57.516215"
+  },
+  {
+    "id": 7480,
+    "tipo": "DOM",
+    "numero": 5602,
+    "data_publicacao": "2012-04-28",
+    "titulo": "DOM - 5602 - 28/04/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/7c468b37-1fff-49ef-a542-b10edb9a5db6.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/7c468b37-1fff-49ef-a542-b10edb9a5db6_DOM-5602-28-04-2012.pdf",
+    "created_at": "2026-10-07T09:19:01.717020"
+  },
+  {
+    "id": 7481,
+    "tipo": "DOM",
+    "numero": 5603,
+    "data_publicacao": "2012-05-03",
+    "titulo": "DOM - 5603 - 03/05/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/e9f105fd-52e9-4ee4-8d6b-9109cd3b8b6a.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/e9f105fd-52e9-4ee4-8d6b-9109cd3b8b6a_DOM-5603-03-05-2012.pdf",
+    "created_at": "2026-10-07T09:19:06.206283"
+  },
+  {
+    "id": 7482,
+    "tipo": "DOM",
+    "numero": 5604,
+    "data_publicacao": "2012-05-04",
+    "titulo": "DOM - 5604 - 04/05/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/f0670707-f1b7-4736-81ae-b2da30eeb3bf.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/f0670707-f1b7-4736-81ae-b2da30eeb3bf_DOM-5604-04-05-2012.pdf",
+    "created_at": "2026-10-07T09:19:08.980964"
+  },
+  {
+    "id": 7483,
+    "tipo": "DOM",
+    "numero": 5605,
+    "data_publicacao": "2012-05-05",
+    "titulo": "DOM - 5605 - 05/05/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/6095ce8d-8951-49c9-a7c9-f26d6abb7d91.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/6095ce8d-8951-49c9-a7c9-f26d6abb7d91_DOM-5605-05-05-2012.pdf",
+    "created_at": "2026-10-07T09:19:11.580094"
+  },
+  {
+    "id": 7485,
+    "tipo": "DOM",
+    "numero": 5607,
+    "data_publicacao": "2012-05-09",
+    "titulo": "DOM - 5607 - 09/05/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/80982c13-efab-44ec-a813-243b1695a41d.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/80982c13-efab-44ec-a813-243b1695a41d_DOM-5607-09-05-2012.pdf",
+    "created_at": "2026-10-07T09:19:18.096121"
+  },
+  {
+    "id": 7486,
+    "tipo": "DOM",
+    "numero": 5608,
+    "data_publicacao": "2012-05-10",
+    "titulo": "DOM - 5608 - 10/05/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/63c4c2f9-4836-445d-8cbe-07892cf25713.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/63c4c2f9-4836-445d-8cbe-07892cf25713_DOM-5608-10-05-2012.pdf",
+    "created_at": "2026-10-07T09:19:19.926513"
+  },
+  {
+    "id": 7487,
+    "tipo": "DOM",
+    "numero": 5609,
+    "data_publicacao": "2012-05-11",
+    "titulo": "DOM - 5609 - 11/05/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/fad099a1-c631-4a30-bbea-453f68920150.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/fad099a1-c631-4a30-bbea-453f68920150_DOM-5609-11-05-2012.pdf",
+    "created_at": "2026-10-07T09:19:22.791545"
+  },
+  {
+    "id": 7488,
+    "tipo": "DOM",
+    "numero": 5610,
+    "data_publicacao": "2012-05-12",
+    "titulo": "DOM - 5610 - 12/05/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/9f1e5f43-8fc8-4901-9bc0-8bdc768d226f.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/9f1e5f43-8fc8-4901-9bc0-8bdc768d226f_DOM-5610-12-05-2012.pdf",
+    "created_at": "2026-10-07T09:19:25.057962"
+  },
+  {
+    "id": 7489,
+    "tipo": "DOM",
+    "numero": 5611,
+    "data_publicacao": "2012-05-15",
+    "titulo": "DOM - 5611 - 15/05/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/2d408304-691a-40a9-97e8-341543018cf0.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/2d408304-691a-40a9-97e8-341543018cf0_DOM-5611-15-05-2012.pdf",
+    "created_at": "2026-10-07T09:19:27.221356"
+  },
+  {
+    "id": 7490,
+    "tipo": "DOM",
+    "numero": 5612,
+    "data_publicacao": "2012-05-16",
+    "titulo": "DOM - 5612 - 16/05/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/5c3da835-5ba9-45c7-95cd-b6603a440861.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/5c3da835-5ba9-45c7-95cd-b6603a440861_DOM-5612-16-05-2012.pdf",
+    "created_at": "2026-10-07T09:19:29.706868"
+  },
+  {
+    "id": 7491,
+    "tipo": "DOM",
+    "numero": 5613,
+    "data_publicacao": "2012-05-17",
+    "titulo": "DOM - 5613 - 17/05/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/c12d45d4-36d1-4d92-93e5-bbb6417c004e.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/c12d45d4-36d1-4d92-93e5-bbb6417c004e_DOM-5613-17-05-2012.pdf",
+    "created_at": "2026-10-07T09:19:32.161024"
+  },
+  {
+    "id": 7492,
+    "tipo": "DOM",
+    "numero": 5614,
+    "data_publicacao": "2012-05-18",
+    "titulo": "DOM - 5614 - 18/05/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/06ba015b-1f1d-4f93-9617-9bbb00475ae5.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/06ba015b-1f1d-4f93-9617-9bbb00475ae5_DOM-5614-18-05-2012.pdf",
+    "created_at": "2026-10-07T09:19:33.664727"
+  },
+  {
+    "id": 7493,
+    "tipo": "DOM",
+    "numero": 5615,
+    "data_publicacao": "2012-05-19",
+    "titulo": "DOM - 5615 - 19/05/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/4f066a67-5f4e-4c2d-9e01-0bd516cb5af9.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/4f066a67-5f4e-4c2d-9e01-0bd516cb5af9_DOM-5615-19-05-2012.pdf",
+    "created_at": "2026-10-07T09:19:35.140075"
+  },
+  {
+    "id": 7494,
+    "tipo": "DOM",
+    "numero": 5616,
+    "data_publicacao": "2012-05-22",
+    "titulo": "DOM - 5616 - 22/05/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/fed49b5e-bbf4-42c0-83ec-e95d98e9dd07.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/fed49b5e-bbf4-42c0-83ec-e95d98e9dd07_DOM-5616-22-05-2012.pdf",
+    "created_at": "2026-10-07T09:19:36.516963"
+  },
+  {
+    "id": 7496,
+    "tipo": "DOM",
+    "numero": 5618,
+    "data_publicacao": "2012-05-24",
+    "titulo": "DOM - 5618 - 24/05/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/f589b505-0367-44e5-b29d-ede64684f4db.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/f589b505-0367-44e5-b29d-ede64684f4db_DOM-5618-24-05-2012.pdf",
+    "created_at": "2026-10-07T09:19:40.360578"
+  },
+  {
+    "id": 7497,
+    "tipo": "DOM",
+    "numero": 5619,
+    "data_publicacao": "2012-05-25",
+    "titulo": "DOM - 5619 - 25/05/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ae1a7e8d-dd0c-4a75-b6ac-1572d00b8021.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ae1a7e8d-dd0c-4a75-b6ac-1572d00b8021_DOM-5619-25-05-2012.pdf",
+    "created_at": "2026-10-07T09:19:41.971831"
+  },
+  {
+    "id": 7498,
+    "tipo": "DOM",
+    "numero": 5620,
+    "data_publicacao": "2012-05-28",
+    "titulo": "DOM - 5620 - 28/05/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/b2906e8a-072f-41f0-afad-7d2c14737264.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/b2906e8a-072f-41f0-afad-7d2c14737264_DOM-5620-26-05-2012.pdf",
+    "created_at": "2026-10-07T09:19:43.461584"
+  },
+  {
+    "id": 7499,
+    "tipo": "DOM",
+    "numero": 5621,
+    "data_publicacao": "2012-05-29",
+    "titulo": "DOM - 5621 - 29/05/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/395178a5-a127-4476-ad93-5db8546f0277.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/395178a5-a127-4476-ad93-5db8546f0277_DOM-5621-29-05-2012.pdf",
+    "created_at": "2026-10-07T09:19:45.349580"
+  },
+  {
+    "id": 7500,
+    "tipo": "DOM",
+    "numero": 5622,
+    "data_publicacao": "2012-05-30",
+    "titulo": "DOM - 5622 - 30/05/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/575fa62a-9de2-40b2-a2a4-2041cb9cd49c.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/575fa62a-9de2-40b2-a2a4-2041cb9cd49c_DOM-5622-30-05-2012.pdf",
+    "created_at": "2026-10-07T09:19:47.360399"
+  },
+  {
+    "id": 7501,
+    "tipo": "DOM",
+    "numero": 5623,
+    "data_publicacao": "2012-05-31",
+    "titulo": "DOM - 5623 - 31/05/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/45adad5a-fac3-42b7-86e0-eeb8cff486af.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/45adad5a-fac3-42b7-86e0-eeb8cff486af_DOM-5623-31-05-2012.pdf",
+    "created_at": "2026-10-07T09:19:48.439140"
+  },
+  {
+    "id": 7502,
+    "tipo": "DOM",
+    "numero": 5624,
+    "data_publicacao": "2012-06-01",
+    "titulo": "DOM - 5624 - 01/06/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/0ff3417f-8191-45dc-b513-a94d8491d39b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/0ff3417f-8191-45dc-b513-a94d8491d39b_DOM-5624-01-06-2012.pdf",
+    "created_at": "2026-10-07T09:19:51.936384"
+  },
+  {
+    "id": 7503,
+    "tipo": "DOM",
+    "numero": 5625,
+    "data_publicacao": "2012-06-02",
+    "titulo": "DOM - 5625 - 02/06/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/8d0b9087-324f-4adc-b821-d0ad67192e09.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/8d0b9087-324f-4adc-b821-d0ad67192e09_DOM-5625-02-06-2012.pdf",
+    "created_at": "2026-10-07T09:19:55.352887"
+  },
+  {
+    "id": 7504,
+    "tipo": "DOM",
+    "numero": 5626,
+    "data_publicacao": "2012-06-05",
+    "titulo": "DOM - 5626 - 05/06/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/0ecb316a-e934-4718-8a1d-911b9fa4c189.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/0ecb316a-e934-4718-8a1d-911b9fa4c189_DOM-5626-05-06-2012.pdf",
+    "created_at": "2026-10-07T09:19:57.090581"
+  },
+  {
+    "id": 7505,
+    "tipo": "DOM",
+    "numero": 5627,
+    "data_publicacao": "2012-06-06",
+    "titulo": "DOM - 5627 - 06/06/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/f120e758-5d29-432b-8c95-1315ecfea16b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/f120e758-5d29-432b-8c95-1315ecfea16b_DOM-5627-06-06-2012.pdf",
+    "created_at": "2026-10-07T09:19:59.923237"
+  },
+  {
+    "id": 7506,
+    "tipo": "DOM",
+    "numero": 5628,
+    "data_publicacao": "2012-06-07",
+    "titulo": "DOM - 5628 - 07/06/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/1eb09548-e5ee-4c74-a448-42002733b3e2.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/1eb09548-e5ee-4c74-a448-42002733b3e2_DOM-5628-07-06-2012.pdf",
+    "created_at": "2026-10-07T09:20:03.024129"
+  },
+  {
+    "id": 7507,
+    "tipo": "DOM",
+    "numero": 5630,
+    "data_publicacao": "2012-06-13",
+    "titulo": "DOM - 5630 - 13/06/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/feeea63e-7ccf-43a2-98a8-b9d2f37c800f.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/feeea63e-7ccf-43a2-98a8-b9d2f37c800f_DOM-5630-13-06-2012.pdf",
+    "created_at": "2026-10-07T09:20:05.237061"
+  },
+  {
+    "id": 7508,
+    "tipo": "DOM",
+    "numero": 5631,
+    "data_publicacao": "2012-06-14",
+    "titulo": "DOM - 5631 - 14/06/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/35ee9102-24f3-427d-bcca-a38d4b5102ac.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/35ee9102-24f3-427d-bcca-a38d4b5102ac_DOM-5631-14-06-2012.pdf",
+    "created_at": "2026-10-07T09:20:07.702501"
+  },
+  {
+    "id": 7510,
+    "tipo": "DOM",
+    "numero": 5633,
+    "data_publicacao": "2012-06-16",
+    "titulo": "DOM - 5633 - 16/06/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/0a558a68-f015-482e-ba8f-791f965c74b6.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/0a558a68-f015-482e-ba8f-791f965c74b6_DOM-5633-16-06-2012.pdf",
+    "created_at": "2026-10-07T09:20:11.483103"
+  },
+  {
+    "id": 7511,
+    "tipo": "DOM",
+    "numero": 5634,
+    "data_publicacao": "2012-06-19",
+    "titulo": "DOM - 5634 - 19/06/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/9399a89f-05ab-493c-bf08-eb466c419548.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/9399a89f-05ab-493c-bf08-eb466c419548_DOM-5634-19-06-2012.pdf",
+    "created_at": "2026-10-07T09:20:14.416561"
+  },
+  {
+    "id": 7512,
+    "tipo": "DOM",
+    "numero": 5635,
+    "data_publicacao": "2012-06-20",
+    "titulo": "DOM - 5635 - 20/06/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/5ff4a713-db70-467c-95eb-d8a70773019c.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/5ff4a713-db70-467c-95eb-d8a70773019c_DOM-5635-20-06-2012.pdf",
+    "created_at": "2026-10-07T09:20:16.186094"
+  },
+  {
+    "id": 7513,
+    "tipo": "DOM",
+    "numero": 5636,
+    "data_publicacao": "2012-06-21",
+    "titulo": "DOM - 5636 - 21/06/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/4c1de76f-87f1-46bf-ab17-4f2b745d472f.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/4c1de76f-87f1-46bf-ab17-4f2b745d472f_DOM-5636-21-06-2012.pdf",
+    "created_at": "2026-10-07T09:20:18.514554"
+  },
+  {
+    "id": 7516,
+    "tipo": "DOM",
+    "numero": 5639,
+    "data_publicacao": "2012-06-27",
+    "titulo": "DOM - 5639 - 27/06/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/223affdb-fc5a-455e-936e-405f3de609b5.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/223affdb-fc5a-455e-936e-405f3de609b5_DOM-5639-27-06-2012.pdf",
+    "created_at": "2026-10-07T09:20:28.849772"
+  },
+  {
+    "id": 7517,
+    "tipo": "DOM",
+    "numero": 5640,
+    "data_publicacao": "2012-06-28",
+    "titulo": "DOM - 5640 - 28/06/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/46866a70-dc3d-40b2-990c-f22b01f3bee6.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/46866a70-dc3d-40b2-990c-f22b01f3bee6_DOM-5640-28-06-2012.pdf",
+    "created_at": "2026-10-07T09:20:32.032360"
+  },
+  {
+    "id": 7518,
+    "tipo": "DOM",
+    "numero": 5641,
+    "data_publicacao": "2012-06-29",
+    "titulo": "DOM - 5641 - 29/06/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/acd4f32c-f10f-4400-82b2-e9658295fd95.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/acd4f32c-f10f-4400-82b2-e9658295fd95_DOM-5641-29-06-2012.pdf",
+    "created_at": "2026-10-07T09:20:34.238612"
+  },
+  {
+    "id": 7519,
+    "tipo": "DOM",
+    "numero": 5642,
+    "data_publicacao": "2012-06-30",
+    "titulo": "DOM - 5642 - 30/06/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/487026d7-b8f5-40cc-8507-78264b9fca94.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/487026d7-b8f5-40cc-8507-78264b9fca94_DOM-5642-30-06-2012.pdf",
+    "created_at": "2026-10-07T09:20:37.018486"
+  },
+  {
+    "id": 7520,
+    "tipo": "DOM",
+    "numero": 5643,
+    "data_publicacao": "2012-07-04",
+    "titulo": "DOM - 5643 - 04/07/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/f03d6a5b-b94f-4129-a322-9b0fb34b81d6.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/f03d6a5b-b94f-4129-a322-9b0fb34b81d6_DOM-5643-04-07-2012.pdf",
+    "created_at": "2026-10-07T09:20:40.462127"
+  },
+  {
+    "id": 7521,
+    "tipo": "DOM",
+    "numero": 5644,
+    "data_publicacao": "2012-07-05",
+    "titulo": "DOM - 5644 - 05/07/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/27c8da3b-6e1d-4288-9816-6a91150ae351.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/27c8da3b-6e1d-4288-9816-6a91150ae351_DOM-5644-05-07-2012.pdf",
+    "created_at": "2026-10-07T09:20:42.325638"
+  },
+  {
+    "id": 7522,
+    "tipo": "DOM",
+    "numero": 5645,
+    "data_publicacao": "2012-07-06",
+    "titulo": "DOM - 5645 - 06/07/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/f5fa0d68-19b0-45e0-a937-001d5d3d7fcd.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/f5fa0d68-19b0-45e0-a937-001d5d3d7fcd_DOM-5645-06-07-2012.pdf",
+    "created_at": "2026-10-07T09:20:43.514033"
+  },
+  {
+    "id": 7523,
+    "tipo": "DOM",
+    "numero": 5646,
+    "data_publicacao": "2012-07-07",
+    "titulo": "DOM - 5646 - 07/07/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/7be35dc9-9098-4aab-a10d-a573a3166ecd.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/7be35dc9-9098-4aab-a10d-a573a3166ecd_DOM-5646-07-07-2012.pdf",
+    "created_at": "2026-10-07T09:20:48.723903"
+  },
+  {
+    "id": 7524,
+    "tipo": "DOM",
+    "numero": 5647,
+    "data_publicacao": "2012-07-10",
+    "titulo": "DOM - 5647 - 10/07/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/4ff777dc-f608-4b6a-b2d7-adb749012d66.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/4ff777dc-f608-4b6a-b2d7-adb749012d66_DOM-5647-10-07-2012.pdf",
+    "created_at": "2026-10-07T09:20:51.116758"
+  },
+  {
+    "id": 7525,
+    "tipo": "DOM",
+    "numero": 5648,
+    "data_publicacao": "2012-07-11",
+    "titulo": "DOM - 5648 - 11/07/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/a12e9a04-81e3-44d9-a7c3-18f54fbad6f4.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/a12e9a04-81e3-44d9-a7c3-18f54fbad6f4_DOM-5648-11-07-2012.pdf",
+    "created_at": "2026-10-07T09:20:53.870087"
+  },
+  {
+    "id": 7526,
+    "tipo": "DOM",
+    "numero": 5649,
+    "data_publicacao": "2012-07-12",
+    "titulo": "DOM - 5649 - 12/07/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/01c4f338-6b4e-4ced-b073-9ad63debd707.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/01c4f338-6b4e-4ced-b073-9ad63debd707_DOM-5649-12-07-2012.pdf",
+    "created_at": "2026-10-07T09:20:57.197147"
+  },
+  {
+    "id": 7527,
+    "tipo": "DOM",
+    "numero": 5650,
+    "data_publicacao": "2012-07-13",
+    "titulo": "DOM - 5650 - 13/07/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/a9ace520-fbfc-4171-a5a7-155cc3df88d2.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/a9ace520-fbfc-4171-a5a7-155cc3df88d2_DOM-5650-13-07-2012.pdf",
+    "created_at": "2026-10-07T09:20:58.856221"
+  },
+  {
+    "id": 7528,
+    "tipo": "DOM",
+    "numero": 5651,
+    "data_publicacao": "2012-07-14",
+    "titulo": "DOM - 5651 - 14/07/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/fb87d94b-6921-4c30-a1b5-b8e7668d1aaa.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/fb87d94b-6921-4c30-a1b5-b8e7668d1aaa_DOM-5651-14-07-2012.pdf",
+    "created_at": "2026-10-07T09:21:00.183175"
+  },
+  {
+    "id": 7529,
+    "tipo": "DOM",
+    "numero": 5652,
+    "data_publicacao": "2012-07-17",
+    "titulo": "DOM - 5652 - 17/07/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/3c7e85b9-9f33-474b-94d7-4001d691fda6.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/3c7e85b9-9f33-474b-94d7-4001d691fda6_DOM-5652-17-07-2012.pdf",
+    "created_at": "2026-10-07T09:21:02.090973"
+  },
+  {
+    "id": 7530,
+    "tipo": "DOM",
+    "numero": 5653,
+    "data_publicacao": "2012-07-18",
+    "titulo": "DOM - 5653 - 18/07/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/0b3cadbb-df2b-417b-8a9f-f08cfd7c40cc.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/0b3cadbb-df2b-417b-8a9f-f08cfd7c40cc_DOM-5653-18-07-2012.pdf",
+    "created_at": "2026-10-07T09:21:03.977045"
+  },
+  {
+    "id": 7531,
+    "tipo": "DOM",
+    "numero": 5654,
+    "data_publicacao": "2012-07-19",
+    "titulo": "DOM - 5654 - 19/07/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/c0b8afb6-271e-4833-8fa8-9ef9760e4170.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/c0b8afb6-271e-4833-8fa8-9ef9760e4170_DOM-5654-19-07-2012.pdf",
+    "created_at": "2026-10-07T09:21:05.491942"
+  },
+  {
+    "id": 7532,
+    "tipo": "DOM",
+    "numero": 5655,
+    "data_publicacao": "2012-07-20",
+    "titulo": "DOM - 5655 - 20/07/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/4646749e-e2c8-45a1-9d13-bd0e50c473f2.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/4646749e-e2c8-45a1-9d13-bd0e50c473f2_DOM-5655-20-07-2012.pdf",
+    "created_at": "2026-10-07T09:21:07.570042"
+  },
+  {
+    "id": 7533,
+    "tipo": "DOM",
+    "numero": 5656,
+    "data_publicacao": "2012-07-21",
+    "titulo": "DOM - 5656 - 21/07/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/7467be31-b820-470e-82ef-75a8c5857b86.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/7467be31-b820-470e-82ef-75a8c5857b86_DOM-5656-21-07-2012.pdf",
+    "created_at": "2026-10-07T09:21:10.142884"
+  },
+  {
+    "id": 7534,
+    "tipo": "DOM",
+    "numero": 5657,
+    "data_publicacao": "2012-07-24",
+    "titulo": "DOM - 5657 - 24/07/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/f2fd7347-fd98-4ffd-9743-24d1493b5aef.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/f2fd7347-fd98-4ffd-9743-24d1493b5aef_DOM-5657-24-07-2012.pdf",
+    "created_at": "2026-10-07T09:21:12.898617"
+  },
+  {
+    "id": 7535,
+    "tipo": "DOM",
+    "numero": 5658,
+    "data_publicacao": "2012-07-25",
+    "titulo": "DOM - 5658 - 25/07/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/12b7e201-3506-4b8c-83d4-0699a445d041.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/12b7e201-3506-4b8c-83d4-0699a445d041_DOM-5658-25-07-2012.pdf",
+    "created_at": "2026-10-07T09:21:15.196860"
+  },
+  {
+    "id": 7536,
+    "tipo": "DOM",
+    "numero": 5660,
+    "data_publicacao": "2012-07-27",
+    "titulo": "DOM - 5660 - 27/07/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/c88e1225-6d59-4b54-903e-c6e25035f459.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/c88e1225-6d59-4b54-903e-c6e25035f459_DOM-5660-27-07-2012.pdf",
+    "created_at": "2026-10-07T09:21:20.603650"
+  },
+  {
+    "id": 7537,
+    "tipo": "DOM",
+    "numero": 5661,
+    "data_publicacao": "2012-07-28",
+    "titulo": "DOM - 5661 - 28/07/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/66ae9f30-cfe7-4bad-81c3-e08813a8f4a5.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/66ae9f30-cfe7-4bad-81c3-e08813a8f4a5_DOM-5661-28-07-2012.pdf",
+    "created_at": "2026-10-07T09:21:22.479407"
+  },
+  {
+    "id": 7538,
+    "tipo": "DOM",
+    "numero": 5663,
+    "data_publicacao": "2012-08-01",
+    "titulo": "DOM - 5663 - 01/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/846a1c15-9ef2-4f86-8355-5e1986cbaf31.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/846a1c15-9ef2-4f86-8355-5e1986cbaf31_DOM-5663-01-08-2012.pdf",
+    "created_at": "2026-10-07T09:21:24.010326"
+  },
+  {
+    "id": 7539,
+    "tipo": "DOM",
+    "numero": 5664,
+    "data_publicacao": "2012-08-02",
+    "titulo": "DOM - 5664 - 02/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ea2e2c22-76d7-4525-a935-83df612751b1.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ea2e2c22-76d7-4525-a935-83df612751b1_DOM-5664-02-08-2012.pdf",
+    "created_at": "2026-10-07T09:21:25.037412"
+  },
+  {
+    "id": 7540,
+    "tipo": "DOM",
+    "numero": 5665,
+    "data_publicacao": "2012-08-03",
+    "titulo": "DOM - 5665 - 03/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/dacce6ce-c8c2-4c19-9e0a-e1656c531962.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/dacce6ce-c8c2-4c19-9e0a-e1656c531962_DOM-5665-03-08-2012.pdf",
+    "created_at": "2026-10-07T09:21:26.685717"
+  },
+  {
+    "id": 7541,
+    "tipo": "DOM",
+    "numero": 5666,
+    "data_publicacao": "2012-08-04",
+    "titulo": "DOM - 5666 - 04/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/81321662-0db0-4f95-bfc4-cddd034bee8d.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/81321662-0db0-4f95-bfc4-cddd034bee8d_DOM-5666-04-08-2012.pdf",
+    "created_at": "2026-10-07T09:21:28.392772"
+  },
+  {
+    "id": 7542,
+    "tipo": "DOM",
+    "numero": 5667,
+    "data_publicacao": "2012-08-07",
+    "titulo": "DOM - 5667 - 07/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/bc017f64-ec73-4d24-927e-6307cc811981.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/bc017f64-ec73-4d24-927e-6307cc811981_DOM-5667-07-08-2012.pdf",
+    "created_at": "2026-10-07T09:21:29.987927"
+  },
+  {
+    "id": 7543,
+    "tipo": "DOM",
+    "numero": 5668,
+    "data_publicacao": "2012-08-08",
+    "titulo": "DOM - 5668 - 08/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ae957264-fc5e-4437-aaa2-29011b906275.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ae957264-fc5e-4437-aaa2-29011b906275_DOM-5668-08-08-2012.pdf",
+    "created_at": "2026-10-07T09:21:31.611865"
+  },
+  {
+    "id": 7544,
+    "tipo": "DOM",
+    "numero": 5669,
+    "data_publicacao": "2012-08-09",
+    "titulo": "DOM - 5669 - 09/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/d00ad0aa-99bb-4dfa-8f44-906c0af621c0.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/d00ad0aa-99bb-4dfa-8f44-906c0af621c0_DOM-5669-09-08-2012.pdf",
+    "created_at": "2026-10-07T09:21:33.420369"
+  },
+  {
+    "id": 7545,
+    "tipo": "DOM",
+    "numero": 5670,
+    "data_publicacao": "2012-08-10",
+    "titulo": "DOM - 5670 - 10/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/6fbba4cc-e5a9-4ea3-b853-748fa907b4ff.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/6fbba4cc-e5a9-4ea3-b853-748fa907b4ff_DOM-5670-10-08-2012.pdf",
+    "created_at": "2026-10-07T09:21:34.732333"
+  },
+  {
+    "id": 7546,
+    "tipo": "DOM",
+    "numero": 5671,
+    "data_publicacao": "2012-08-11",
+    "titulo": "DOM - 5671 - 11/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/e8b5617b-16ce-4a19-a96f-b840ae8a17cf.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/e8b5617b-16ce-4a19-a96f-b840ae8a17cf_DOM-5671-11-08-2012.pdf",
+    "created_at": "2026-10-07T09:21:36.271484"
+  },
+  {
+    "id": 7547,
+    "tipo": "DOM",
+    "numero": 5672,
+    "data_publicacao": "2012-08-14",
+    "titulo": "DOM - 5672 - 14/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/8cd4189f-0919-427e-bac7-5523772dcf39.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/8cd4189f-0919-427e-bac7-5523772dcf39_DOM-5672-14-08-2012.pdf",
+    "created_at": "2026-10-07T09:21:38.913422"
+  },
+  {
+    "id": 7548,
+    "tipo": "DOM",
+    "numero": 5673,
+    "data_publicacao": "2012-08-15",
+    "titulo": "DOM - 5673 - 15/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/073ddeb0-d900-4e28-b54d-9b59ed534e09.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/073ddeb0-d900-4e28-b54d-9b59ed534e09_DOM-5673-15-08-2012.pdf",
+    "created_at": "2026-10-07T09:21:40.167077"
+  },
+  {
+    "id": 7549,
+    "tipo": "DOM",
+    "numero": 5674,
+    "data_publicacao": "2012-08-16",
+    "titulo": "DOM - 5674 - 16/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/f75e67dd-ff32-4289-935b-77365c5877fa.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/f75e67dd-ff32-4289-935b-77365c5877fa_DOM-5674-16-08-2012.pdf",
+    "created_at": "2026-10-07T09:21:41.682473"
+  },
+  {
+    "id": 7550,
+    "tipo": "DOM",
+    "numero": 5675,
+    "data_publicacao": "2012-08-17",
+    "titulo": "DOM - 5675 - 17/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/72204a0e-a7a8-4851-b367-dc54abe9f265.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/72204a0e-a7a8-4851-b367-dc54abe9f265_DOM-5675-17-08-2012.pdf",
+    "created_at": "2026-10-07T09:21:43.110056"
+  },
+  {
+    "id": 7551,
+    "tipo": "DOM",
+    "numero": 5676,
+    "data_publicacao": "2012-08-18",
+    "titulo": "DOM - 5676 - 18/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/b128be11-4824-4b9e-8113-bb1167ed88f4.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/b128be11-4824-4b9e-8113-bb1167ed88f4_DOM-5676-18-08-2012.pdf",
+    "created_at": "2026-10-07T09:21:44.549656"
+  },
+  {
+    "id": 7552,
+    "tipo": "DOM",
+    "numero": 5677,
+    "data_publicacao": "2012-08-21",
+    "titulo": "DOM - 5677 - 21/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/163f00f0-cc4b-4858-b3cb-7e25c75385bd.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/163f00f0-cc4b-4858-b3cb-7e25c75385bd_DOM-5677-21-08-2012.pdf",
+    "created_at": "2026-10-07T09:21:46.219114"
+  },
+  {
+    "id": 7553,
+    "tipo": "DOM",
+    "numero": 5678,
+    "data_publicacao": "2012-08-22",
+    "titulo": "DOM - 5678 - 22/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/2a65f3cd-0338-4dac-81c0-1d4f37a6fe62.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/2a65f3cd-0338-4dac-81c0-1d4f37a6fe62_DOM-5678-22-08-2012.pdf",
+    "created_at": "2026-10-07T09:21:47.601180"
+  },
+  {
+    "id": 7554,
+    "tipo": "DOM",
+    "numero": 5679,
+    "data_publicacao": "2012-08-23",
+    "titulo": "DOM - 5679 - 23/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/ea4ac564-f2f6-497b-bf88-35387b04ece7.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/ea4ac564-f2f6-497b-bf88-35387b04ece7_DOM-5679-23-08-2012.pdf",
+    "created_at": "2026-10-07T09:21:49.707870"
+  },
+  {
+    "id": 7555,
+    "tipo": "DOM",
+    "numero": 5680,
+    "data_publicacao": "2012-08-24",
+    "titulo": "DOM - 5680 - 24/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/2b754ece-cf48-4a99-9f5b-017e3d37af23.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/2b754ece-cf48-4a99-9f5b-017e3d37af23_DOM-5680-24-08-2012.pdf",
+    "created_at": "2026-10-07T09:21:53.005359"
+  },
+  {
+    "id": 7556,
+    "tipo": "DOM",
+    "numero": 5681,
+    "data_publicacao": "2012-08-25",
+    "titulo": "DOM - 5681 - 25/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/f6106d55-6dcd-4438-b22b-69c736c5d2c5.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/f6106d55-6dcd-4438-b22b-69c736c5d2c5_DOM-5681-25-08-2012.pdf",
+    "created_at": "2026-10-07T09:21:54.502785"
+  },
+  {
+    "id": 7557,
+    "tipo": "DOM",
+    "numero": 5682,
+    "data_publicacao": "2012-08-28",
+    "titulo": "DOM - 5682 - 28/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/8da0086a-1d25-4ca3-a0c4-9e17ccf8b23b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/8da0086a-1d25-4ca3-a0c4-9e17ccf8b23b_DOM-5682-28-08-2012.pdf",
+    "created_at": "2026-10-07T09:21:56.233566"
+  },
+  {
+    "id": 7558,
+    "tipo": "DOM",
+    "numero": 5683,
+    "data_publicacao": "2012-08-29",
+    "titulo": "DOM - 5683 - 29/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/c3b29686-0e04-4f63-91dd-cc57cd105c70.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/c3b29686-0e04-4f63-91dd-cc57cd105c70_DOM-5683-29-08-2012.pdf",
+    "created_at": "2026-10-07T09:21:57.949161"
+  },
+  {
+    "id": 7559,
+    "tipo": "DOM",
+    "numero": 5684,
+    "data_publicacao": "2012-08-30",
+    "titulo": "DOM - 5684 - 30/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/93e10b67-594c-4f14-910a-194096a065f9.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/93e10b67-594c-4f14-910a-194096a065f9_DOM-5684-30-08-2012.pdf",
+    "created_at": "2026-10-07T09:21:59.717975"
+  },
+  {
+    "id": 7560,
+    "tipo": "DOM",
+    "numero": 5685,
+    "data_publicacao": "2012-08-31",
+    "titulo": "DOM - 5685 - 31/08/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/763d28ec-f679-4225-86bd-4142671c4e61.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/763d28ec-f679-4225-86bd-4142671c4e61_DOM-5685-31-08-2012.pdf",
+    "created_at": "2026-10-07T09:22:04.548199"
+  },
+  {
+    "id": 7561,
+    "tipo": "DOM",
+    "numero": 5687,
+    "data_publicacao": "2012-09-04",
+    "titulo": "DOM - 5687 - 04/09/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/23e8ff8a-6901-41ce-9f19-3d8cab1c0188.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/23e8ff8a-6901-41ce-9f19-3d8cab1c0188_DOM-5687-04-09-2012.pdf",
+    "created_at": "2026-10-07T09:22:07.998754"
+  },
+  {
+    "id": 7562,
+    "tipo": "DOM",
+    "numero": 5689,
+    "data_publicacao": "2012-09-06",
+    "titulo": "DOM - 5689 - 06/09/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/6b40da01-c1b4-4094-931a-fdb9a01d748e.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/6b40da01-c1b4-4094-931a-fdb9a01d748e_DOM-5689-06-09-2012.pdf",
+    "created_at": "2026-10-07T09:22:11.950466"
+  },
+  {
+    "id": 7563,
+    "tipo": "DOM",
+    "numero": 5703,
+    "data_publicacao": "2012-09-27",
+    "titulo": "DOM - 5703 - 27/09/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/854be756-191b-40e8-96ae-1fb93c85ffe9.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/854be756-191b-40e8-96ae-1fb93c85ffe9_DOM-5703-27-09-2012.pdf",
+    "created_at": "2026-10-07T09:22:15.416719"
+  },
+  {
+    "id": 7564,
+    "tipo": "DOM",
+    "numero": 5705,
+    "data_publicacao": "2012-09-29",
+    "titulo": "DOM - 5705 - 29/09/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/69632e44-a9ff-4f8f-a117-fa0133cdb254.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/69632e44-a9ff-4f8f-a117-fa0133cdb254_DOM-5705-29-09-2012.pdf",
+    "created_at": "2026-10-07T09:22:17.276157"
+  },
+  {
+    "id": 7565,
+    "tipo": "DOM",
+    "numero": 5716,
+    "data_publicacao": "2012-10-17",
+    "titulo": "DOM - 5716 - 17/10/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/abe01ad1-331f-47d3-a842-8cfdbe4f1313.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/abe01ad1-331f-47d3-a842-8cfdbe4f1313_DOM-5716-17-10-2012.pdf",
+    "created_at": "2026-10-07T09:22:20.150488"
+  },
+  {
+    "id": 7566,
+    "tipo": "DOM",
+    "numero": 5717,
+    "data_publicacao": "2012-10-18",
+    "titulo": "DOM - 5717 - 18/10/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/da377532-c624-46e9-896a-a6a4ab69b7e0.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/da377532-c624-46e9-896a-a6a4ab69b7e0_DOM-5717-18-10-2012.pdf",
+    "created_at": "2026-10-07T09:22:22.820319"
+  },
+  {
+    "id": 7567,
+    "tipo": "DOM",
+    "numero": 5718,
+    "data_publicacao": "2012-10-19",
+    "titulo": "DOM - 5718 - 19/10/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/1e67c90a-0a75-4502-91ca-6c5a79c5cec3.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/1e67c90a-0a75-4502-91ca-6c5a79c5cec3_DOM-5718-19-10-2012.pdf",
+    "created_at": "2026-10-07T09:22:24.666610"
+  },
+  {
+    "id": 7568,
+    "tipo": "DOM",
+    "numero": 5720,
+    "data_publicacao": "2012-10-23",
+    "titulo": "DOM - 5720 - 23/10/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/38534447-675d-4eda-8f47-2c60ed0c8e15.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/38534447-675d-4eda-8f47-2c60ed0c8e15_DOM-5720-23-10-2012.pdf",
+    "created_at": "2026-10-07T09:22:26.576939"
+  },
+  {
+    "id": 7569,
+    "tipo": "DOM",
+    "numero": 5721,
+    "data_publicacao": "2012-10-24",
+    "titulo": "DOM - 5721 - 24/10/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/e29ec7bf-5880-4f82-970b-ce071723cfa1.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/e29ec7bf-5880-4f82-970b-ce071723cfa1_DOM-5721-24-10-2012.pdf",
+    "created_at": "2026-10-07T09:22:28.150206"
+  },
+  {
+    "id": 7570,
+    "tipo": "DOM",
+    "numero": 5722,
+    "data_publicacao": "2012-10-25",
+    "titulo": "DOM - 5722 - 25/10/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/552a186d-dcd4-4a1c-9aa3-55cabe004718.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/552a186d-dcd4-4a1c-9aa3-55cabe004718_DOM-5722-25-10-2012.pdf",
+    "created_at": "2026-10-07T09:22:30.019029"
+  },
+  {
+    "id": 7571,
+    "tipo": "DOM",
+    "numero": 5723,
+    "data_publicacao": "2012-10-26",
+    "titulo": "DOM - 5723 - 26/10/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/81c54cf9-4c2a-44e4-96d2-ffd4981f9c21.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/81c54cf9-4c2a-44e4-96d2-ffd4981f9c21_DOM-5723-26-10-2012.pdf",
+    "created_at": "2026-10-07T09:23:07.223395"
+  },
+  {
+    "id": 7572,
+    "tipo": "DOM",
+    "numero": 5724,
+    "data_publicacao": "2012-10-27",
+    "titulo": "DOM - 5724 - 27/10/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/4a30078a-0092-4a57-a2cf-0c3ec606ec55.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/4a30078a-0092-4a57-a2cf-0c3ec606ec55_DOM-5724-27-10-2012.pdf",
+    "created_at": "2026-10-07T09:23:09.327747"
+  },
+  {
+    "id": 7573,
+    "tipo": "DOM",
+    "numero": 5725,
+    "data_publicacao": "2012-10-30",
+    "titulo": "DOM - 5725 - 30/10/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/913bfeb3-7daa-409a-b833-4ae08c3afdc9.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/913bfeb3-7daa-409a-b833-4ae08c3afdc9_DOM-5725-30-10-2012.pdf",
+    "created_at": "2026-10-07T09:23:12.554427"
+  },
+  {
+    "id": 7574,
+    "tipo": "DOM",
+    "numero": 5726,
+    "data_publicacao": "2012-10-31",
+    "titulo": "DOM - 5726 - 31/10/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/0c439d43-65cc-482b-8a64-caf805237964.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/0c439d43-65cc-482b-8a64-caf805237964_DOM-5726-31-10-2012.pdf",
+    "created_at": "2026-10-07T09:23:14.667441"
+  },
+  {
+    "id": 7575,
+    "tipo": "DOM",
+    "numero": 5727,
+    "data_publicacao": "2012-11-01",
+    "titulo": "DOM - 5727 - 01/11/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/51236620-bea3-4591-a9d4-03cf62194c81.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/51236620-bea3-4591-a9d4-03cf62194c81_DOM-5727-01-11-2012.pdf",
+    "created_at": "2026-10-07T09:23:17.528585"
+  },
+  {
+    "id": 7576,
+    "tipo": "DOM",
+    "numero": 5728,
+    "data_publicacao": "2012-11-02",
+    "titulo": "DOM - 5728 - 02/11/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/5f7834b9-206c-4f06-8b58-96b22768449a.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/5f7834b9-206c-4f06-8b58-96b22768449a_DOM-5728-02-11-2012.pdf",
+    "created_at": "2026-10-07T09:23:20.228108"
+  },
+  {
+    "id": 7577,
+    "tipo": "DOM",
+    "numero": 5729,
+    "data_publicacao": "2012-11-06",
+    "titulo": "DOM - 5729 - 06/11/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/69efd59e-f174-4a41-868e-6fada2a4a2d6.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/69efd59e-f174-4a41-868e-6fada2a4a2d6_DOM-5729-06-11-2012.pdf",
+    "created_at": "2026-10-07T09:23:24.378551"
+  },
+  {
+    "id": 7578,
+    "tipo": "DOM",
+    "numero": 5730,
+    "data_publicacao": "2012-11-07",
+    "titulo": "DOM - 5730 - 07/11/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/23698b21-34d0-44b7-b047-b146675801b1.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/23698b21-34d0-44b7-b047-b146675801b1_DOM-5730-07-11-2012.pdf",
+    "created_at": "2026-10-07T09:23:26.983419"
+  },
+  {
+    "id": 7579,
+    "tipo": "DOM",
+    "numero": 5731,
+    "data_publicacao": "2012-11-08",
+    "titulo": "DOM - 5731 - 08/11/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/2544940a-a045-4062-bd60-da36422f4609.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/2544940a-a045-4062-bd60-da36422f4609_DOM-5731-08-11-2012.pdf",
+    "created_at": "2026-10-07T09:23:29.990757"
+  },
+  {
+    "id": 7580,
+    "tipo": "DOM",
+    "numero": 5732,
+    "data_publicacao": "2012-11-09",
+    "titulo": "DOM - 5732 - 09/11/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/6ad448ce-b7e6-4f5f-a387-802236316a18.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/6ad448ce-b7e6-4f5f-a387-802236316a18_DOM-5732-09-11-2012.pdf",
+    "created_at": "2026-10-07T09:23:32.268286"
+  },
+  {
+    "id": 7581,
+    "tipo": "DOM",
+    "numero": 5733,
+    "data_publicacao": "2012-11-10",
+    "titulo": "DOM - 5733 - 10/11/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/432d7502-f728-4fbc-b3af-04cd19c83a41.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/432d7502-f728-4fbc-b3af-04cd19c83a41_DOM-5733-10-11-2012.pdf",
+    "created_at": "2026-10-07T09:23:33.863071"
+  },
+  {
+    "id": 7582,
+    "tipo": "DOM",
+    "numero": 5734,
+    "data_publicacao": "2012-11-13",
+    "titulo": "DOM - 5734 - 13/11/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/25f44c09-71f0-4697-bb2d-57a260cbadcc.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/25f44c09-71f0-4697-bb2d-57a260cbadcc_DOM-5734-13-11-2012.pdf",
+    "created_at": "2026-10-07T09:23:35.659701"
+  },
+  {
+    "id": 7583,
+    "tipo": "DOM",
+    "numero": 5735,
+    "data_publicacao": "2012-11-14",
+    "titulo": "DOM - 5735 - 14/11/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/1985af6f-cd58-42e1-ad94-928f5db3a3c2.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/1985af6f-cd58-42e1-ad94-928f5db3a3c2_DOM-5735-14-11-2012.pdf",
+    "created_at": "2026-10-07T09:23:37.245010"
+  },
+  {
+    "id": 7584,
+    "tipo": "DOM",
+    "numero": 5736,
+    "data_publicacao": "2012-11-15",
+    "titulo": "DOM - 5736 - 15/11/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/b1b03eca-b290-4341-8d14-98d86f68b7f3.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/b1b03eca-b290-4341-8d14-98d86f68b7f3_DOM-5736-15-11-2012.pdf",
+    "created_at": "2026-10-07T09:23:39.032653"
+  },
+  {
+    "id": 7585,
+    "tipo": "DOM",
+    "numero": 5737,
+    "data_publicacao": "2012-11-20",
+    "titulo": "DOM - 5737 - 20/11/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/85887aa0-dc8a-416c-8666-f3631ea7fbdf.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/85887aa0-dc8a-416c-8666-f3631ea7fbdf_DOM-5737-20-11-2012.pdf",
+    "created_at": "2026-10-07T09:23:40.635874"
+  },
+  {
+    "id": 7586,
+    "tipo": "DOM",
+    "numero": 5738,
+    "data_publicacao": "2012-11-22",
+    "titulo": "DOM - 5738 - 22/11/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/b23d90c9-adbf-40f9-ab61-e16a0654df5e.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/b23d90c9-adbf-40f9-ab61-e16a0654df5e_DOM-5738-22-11-2012.pdf",
+    "created_at": "2026-10-07T09:23:42.246080"
+  },
+  {
+    "id": 7587,
+    "tipo": "DOM",
+    "numero": 5739,
+    "data_publicacao": "2012-11-23",
+    "titulo": "DOM - 5739 - 23/11/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/50d8c79d-0982-455b-a9fd-432e5082690b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/50d8c79d-0982-455b-a9fd-432e5082690b_DOM-5739-23-11-2012.pdf",
+    "created_at": "2026-10-07T09:23:45.284117"
+  },
+  {
+    "id": 7588,
+    "tipo": "DOM",
+    "numero": 5740,
+    "data_publicacao": "2012-11-24",
+    "titulo": "DOM - 5740 - 24/11/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/d651f4d9-54fb-4325-a018-18afc5641d54.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/d651f4d9-54fb-4325-a018-18afc5641d54_DOM-5740-24-11-2012.pdf",
+    "created_at": "2026-10-07T09:23:49.064953"
+  },
+  {
+    "id": 7589,
+    "tipo": "DOM",
+    "numero": 5741,
+    "data_publicacao": "2012-11-27",
+    "titulo": "DOM - 5741 - 27/11/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/d0bb3f58-9cc0-4420-8dce-98db5fdb89c1.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/d0bb3f58-9cc0-4420-8dce-98db5fdb89c1_DOM-5741-27-11-2012.pdf",
+    "created_at": "2026-10-07T09:23:52.179823"
+  },
+  {
+    "id": 7590,
+    "tipo": "DOM",
+    "numero": 5742,
+    "data_publicacao": "2012-11-28",
+    "titulo": "DOM - 5742 - 28/11/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/80b23703-0980-44b1-b801-c245c312ab09.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/80b23703-0980-44b1-b801-c245c312ab09_DOM-5742-28-11-2012.pdf",
+    "created_at": "2026-10-07T09:23:54.314849"
+  },
+  {
+    "id": 7591,
+    "tipo": "DOM",
+    "numero": 5743,
+    "data_publicacao": "2012-11-29",
+    "titulo": "DOM - 5743 - 29/11/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/3a4cd047-bc75-40ae-8fdb-364db1d7f176.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/3a4cd047-bc75-40ae-8fdb-364db1d7f176_DOM-5743-29-11-2012.pdf",
+    "created_at": "2026-10-07T09:23:56.260756"
+  },
+  {
+    "id": 7592,
+    "tipo": "DOM",
+    "numero": 5744,
+    "data_publicacao": "2012-11-30",
+    "titulo": "DOM - 5744 - 30/11/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/2e57c96d-aab0-4702-90fe-9078afa1b761.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/2e57c96d-aab0-4702-90fe-9078afa1b761_DOM-5744-30-11-2012.pdf",
+    "created_at": "2026-10-07T09:23:58.374540"
+  },
+  {
+    "id": 7593,
+    "tipo": "DOM",
+    "numero": 5745,
+    "data_publicacao": "2012-12-01",
+    "titulo": "DOM - 5745 - 01/12/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/e83ade7a-e9fd-4957-b76a-4ab4550c430d.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/e83ade7a-e9fd-4957-b76a-4ab4550c430d_DOM-5745-01-12-2012.pdf",
+    "created_at": "2026-10-07T09:24:00.423026"
+  },
+  {
+    "id": 7594,
+    "tipo": "DOM",
+    "numero": 5746,
+    "data_publicacao": "2012-12-04",
+    "titulo": "DOM - 5746 - 04/12/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/353f3502-d4ba-40bd-99c8-d5bdb9bcdfba.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/353f3502-d4ba-40bd-99c8-d5bdb9bcdfba_DOM-5746-04-12-2012.pdf",
+    "created_at": "2026-10-07T09:24:01.970076"
+  },
+  {
+    "id": 7595,
+    "tipo": "DOM",
+    "numero": 5747,
+    "data_publicacao": "2012-12-05",
+    "titulo": "DOM - 5747 - 05/12/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/dd1c280f-8e06-4ae3-92bb-aaa4e4473a79.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/dd1c280f-8e06-4ae3-92bb-aaa4e4473a79_DOM-5747-05-12-2012.pdf",
+    "created_at": "2026-10-07T09:24:03.753434"
+  },
+  {
+    "id": 7596,
+    "tipo": "DOM",
+    "numero": 5748,
+    "data_publicacao": "2012-12-06",
+    "titulo": "DOM - 5748 - 06/12/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/010f6252-572c-473c-ad30-aa188e92f7ae.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/010f6252-572c-473c-ad30-aa188e92f7ae_DOM-5748-06-12-2012.pdf",
+    "created_at": "2026-10-07T09:24:05.483589"
+  },
+  {
+    "id": 7597,
+    "tipo": "DOM",
+    "numero": 5749,
+    "data_publicacao": "2012-12-07",
+    "titulo": "DOM - 5749 - 07/12/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/00cc8377-ec79-40bd-b3f1-b99ed2d858f4.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/00cc8377-ec79-40bd-b3f1-b99ed2d858f4_DOM-5749-07-12-2012.pdf",
+    "created_at": "2026-10-07T09:24:07.019241"
+  },
+  {
+    "id": 7598,
+    "tipo": "DOM",
+    "numero": 5750,
+    "data_publicacao": "2012-12-08",
+    "titulo": "DOM - 5750 - 08/12/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/a39a4945-a044-477d-af41-58d672f119fb.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/a39a4945-a044-477d-af41-58d672f119fb_DOM-5750-08-12-2012.pdf",
+    "created_at": "2026-10-07T09:24:12.873057"
+  },
+  {
+    "id": 7599,
+    "tipo": "DOM",
+    "numero": 5751,
+    "data_publicacao": "2012-12-11",
+    "titulo": "DOM - 5751 - 11/12/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/bf3169ad-541b-4931-84d8-b8d612dd705a.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/bf3169ad-541b-4931-84d8-b8d612dd705a_DOM-5751-11-12-2012.pdf",
+    "created_at": "2026-10-07T09:24:16.072080"
+  },
+  {
+    "id": 7600,
+    "tipo": "DOM",
+    "numero": 5752,
+    "data_publicacao": "2012-12-12",
+    "titulo": "DOM - 5752 - 12/12/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/508f0d33-b7ae-4a1f-b3c4-d3b6058dea3b.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/508f0d33-b7ae-4a1f-b3c4-d3b6058dea3b_DOM-5752-12-12-2012.pdf",
+    "created_at": "2026-10-07T09:24:18.849865"
+  },
+  {
+    "id": 7601,
+    "tipo": "DOM",
+    "numero": 5753,
+    "data_publicacao": "2012-12-13",
+    "titulo": "DOM - 5753 - 13/12/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/0596c9bf-09c7-4e5e-9000-df7139f4e15f.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/0596c9bf-09c7-4e5e-9000-df7139f4e15f_DOM-5753-13-12-2012.pdf",
+    "created_at": "2026-10-07T09:24:21.367935"
+  },
+  {
+    "id": 7602,
+    "tipo": "DOM",
+    "numero": 5754,
+    "data_publicacao": "2012-12-14",
+    "titulo": "DOM - 5754 - 14/12/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/77188c3b-57b2-4a2f-b74f-687e772d7223.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/77188c3b-57b2-4a2f-b74f-687e772d7223_DOM-5754-14-12-2012.pdf",
+    "created_at": "2026-10-07T09:24:23.216659"
+  },
+  {
+    "id": 7603,
+    "tipo": "DOM",
+    "numero": 5755,
+    "data_publicacao": "2012-12-15",
+    "titulo": "DOM - 5755 - 15/12/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/01a34b3b-5dcc-48cb-97da-32291399c839.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/01a34b3b-5dcc-48cb-97da-32291399c839_DOM-5755-15-12-2012.pdf",
+    "created_at": "2026-10-07T09:24:24.493288"
+  },
+  {
+    "id": 7604,
+    "tipo": "DOM",
+    "numero": 5756,
+    "data_publicacao": "2012-12-18",
+    "titulo": "DOM - 5756 - 18/12/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/9b9cc1f2-904e-4349-bbdb-1ebbd9d345b6.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/9b9cc1f2-904e-4349-bbdb-1ebbd9d345b6_DOM-5756-18-12-2012.pdf",
+    "created_at": "2026-10-07T09:24:27.313768"
+  },
+  {
+    "id": 7605,
+    "tipo": "DOM",
+    "numero": 5757,
+    "data_publicacao": "2012-12-19",
+    "titulo": "DOM - 5757 - 19/12/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/346d8df0-a34c-4489-9fd4-7ca715502727.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/346d8df0-a34c-4489-9fd4-7ca715502727_DOM-5757-19-12-2012.pdf",
+    "created_at": "2026-10-07T09:24:29.852021"
+  },
+  {
+    "id": 7606,
+    "tipo": "DOM",
+    "numero": 5758,
+    "data_publicacao": "2012-12-20",
+    "titulo": "DOM - 5758 - 20/12/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/19ea27b3-e5c8-4728-998e-214e7be5f9b9.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/19ea27b3-e5c8-4728-998e-214e7be5f9b9_DOM-5758-20-12-2012.pdf",
+    "created_at": "2026-10-07T09:24:32.051790"
+  },
+  {
+    "id": 7607,
+    "tipo": "DOM",
+    "numero": 5759,
+    "data_publicacao": "2012-12-21",
+    "titulo": "DOM - 5759 - 21/12/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/5b8a33b1-0eae-4086-b1a9-e8c8f8a89b6a.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/5b8a33b1-0eae-4086-b1a9-e8c8f8a89b6a_DOM-5759-21-12-2012.pdf",
+    "created_at": "2026-10-07T09:24:35.956223"
+  },
+  {
+    "id": 7609,
+    "tipo": "DOM",
+    "numero": 5762,
+    "data_publicacao": "2012-12-27",
+    "titulo": "DOM - 5762 - 27/12/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/17159e68-8a41-40b0-8187-2b1e453697b6.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/17159e68-8a41-40b0-8187-2b1e453697b6_DOM-5762-27-12-2012.pdf",
+    "created_at": "2026-10-07T09:24:39.666196"
+  },
+  {
+    "id": 7610,
+    "tipo": "DOM",
+    "numero": 5763,
+    "data_publicacao": "2012-12-28",
+    "titulo": "DOM - 5763 - 28/12/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/4d8a3860-808d-42d2-9321-a426b0bdcbdf.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/4d8a3860-808d-42d2-9321-a426b0bdcbdf_DOM-5763-28-12-2012.pdf",
+    "created_at": "2026-10-07T09:24:43.353068"
+  },
+  {
+    "id": 7611,
+    "tipo": "DOM",
+    "numero": 5764,
+    "data_publicacao": "2012-12-28",
+    "titulo": "DOM - 5764 - 28/12/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/9978def7-9ffd-4ae5-93c1-699761cd78bc.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/9978def7-9ffd-4ae5-93c1-699761cd78bc_DOM-5764-28-12-2012.pdf",
+    "created_at": "2026-10-07T09:24:44.895373"
+  },
+  {
+    "id": 7612,
+    "tipo": "DOM",
+    "numero": 5765,
+    "data_publicacao": "2012-12-29",
+    "titulo": "DOM - 5765 - 29/12/2012",
+    "thumbnail_url": "https://portal-api.dioly.com.br/uploads/thumbnails/987b0109-99c6-420a-91ba-afd668784eed.jpg",
+    "pdf_url": "https://portal-api.dioly.com.br/uploads/pdfs/987b0109-99c6-420a-91ba-afd668784eed_DOM-5765-29-12-2012.pdf",
+    "created_at": "2026-10-07T09:24:53.606305"
+  }
+]
