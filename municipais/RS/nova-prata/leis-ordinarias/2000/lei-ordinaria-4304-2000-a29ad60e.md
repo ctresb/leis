@@ -1,0 +1,133 @@
+---
+titulo: "Lei Municipal N.º 4304/2000 de 12 de janeiro de 2000."
+uf: "RS"
+municipio: "NOVA PRATA"
+tipo: "Lei Ordinária"
+numero: "4304"
+data: 2000-01-12
+ano: "2000"
+ementa: "AUTORIZA O PODER EXECUTIVO MUNICIPAL A FIRMAR CONVÊNIO COM O HOSPITAL SÃO JOÃO BATISTA; AUTORIZA O PODER EXECUTIVO MUNICIPAL A REPASSAR SUBVENÇÃO AO HOSPITAL SÃO JOÃO BATISTA; DÁ OUTRAS PROVIDÊNCIAS."
+revogada: null
+versao_texto: "texto disponibilizado no Portal Legislativo da Câmara"
+sha256_pdf: "a29ad60e710284cd1c7d0d6d9eed14add445720cb97660327192d01582ba8e37"
+documento_ged: "01a01b5c-d0ae-7e55-a49e-cc06db972929"
+fonte: "https://cmnovaprata.cittatec.com.br/portal-legislativo/proposicoes/texto-original/6816"
+baixado_em: 2026-10-29
+---
+# Lei Municipal N.º 4304/2000 de 12 de janeiro de 2000.
+
+Lei Municipal N.º 4304/2000 de 12 de janeiro de 2000.
+
+“AUTORIZA O PODER EXECUTIVO
+MUNICIPAL, A FIRMAR CONVÊNIO COM O
+HOSPITAL SÃO JOÃO BATISTA; AUTORIZA O
+PODER EXECUTIVO MUNICIPAL A
+REPASSAR SUBVENÇÃO AO HOSPITAL SÃO
+JOÃO BATISTA; DÁ OUTRAS
+PROVIDÊNCIAS.”
+
+MARIO MINOZZO, NA CONDIÇÃO DE PREFEITO
+MUNICIPAL DE NOVA PRATA.
+
+Faço saber que a Câmara Municipal de Vereadores aprovou e eu
+sanciono e promulgo a seguinte Lei:
+
+Art. 1.º - Fica o Poder Executivo Municipal, autorizado a firmar Convênio
+com o Hospital São João Batista de Nova Prata, inscrito no CGC/MF sob n.º
+91616805/0001-10, com a finalidade de estabelecer cooperação mútua, para
+manutenção do sistema de plantão médico junto ao Hospital, aprovado pelo Conselho
+Municipal de Saúde, em reunião do dia 24 de julho de 1998, Ata n.º 88/98.
+
+Art. 2.º - Fica o Poder Executivo Municipal, autorizado a repassar
+subvenção ao Hospital São João Batista de Nova Prata, o valor de R$9.400,00 (nove mil
+e quatrocentos reais) mensais, de janeiro até dezembro de 2000.
+
+Art. 3.º - Fica fazendo parte integrante da presente Lei Municipal, minuta
+do Convênio.
+
+Art. 4.º - As despesas decorrentes da execução da presente Lei Municipal,
+correrão por conta de dotação orçamentária, classificada sob código: 08 - Secretaria de
+Saúde e Meio Ambiente; 01 - Unidades Subordinadas; 13754282.041 - Apoio
+Financeiro a Saúde da Pública; 3.2.3.1 - Subvenções Sociais (197).
+
+Art. 5.º - Revogadas as disposições em contrário, esta Lei Municipal
+entrará em vigor na data de sua publicação.
+
+GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em
+12 de janeiro de 2000.
+
+Mario Minozzo
+Prefeito Municipal
+TERMO DE CONVÊNIO
+
+Por este instrumento particular de Convênio, que fazem entre si, de um lado o
+MUNICÍPIO DE NOVA PRATA, pessoa jurídica de direito público interno, inscrito no
+CGC/MF sob n.º 91618439/0001-38, representado por seu Prefeito Municipal, Sr. Mario
+Minozzo, aqui denominado simplesmente de MUNICÍPIO, e, de outro lado, a HOSPITAL SÃO
+JOÃO BATISTA, com sede na Rua Cônego Peres, 765 em Nova Prata, inscrita no CGC/MF
+sob n.º 91616805/0001-10, representado por seu Presidente, Sr. Moacir Durli, aqui denominado
+simplesmente de HOSPITAL, têm entre si, como justo e acertado, o quanto segue:
+
+O presente Convênio, tem por objeto o estabelecimento de cooperação mútua,
+para implantação de pronto atendimento, consistente em turnos de 12 (doze) horas, das 19:00 hs
+às 7:00 hs e nos feriados, sábados e domingos. O pronto atendimento, será realizado no
+Hospital, onde será disponível uma área de 643 m2, seis funcionários, entre eles enfermeiros,
+auxiliares, segurança e secretário para serviços burocráticos, além de equipamentos, sendo que o
+Hospital, responsabiliza-se por toda a manutenção dos equipamentos, pagamentos de água, luz,
+telefone, material de consumo e medicamentos, bem como pagamentos dos profissionais acima
+declinados e do médico plantonista, que atuará no pronto atendimento, inclusive com
+acomodações e alimentação ao mesmo.
+
+A participação do Município, na consecução dos objetivos almejados no
+Convênio, será o repasse de subvenção, no valor de R$9.400,00 (nove mil e quatrocentos reais)
+mensais, de janeiro até dezembro de 2000.
+
+O Hospital, deverá prestar contas da subvenção repassada, no prazo máximo de
+60 (sessenta) dias, contados da data do repasse dos valores, mediante apresentação de Notas
+Fiscais e recibos comprobatórios das despesas.
+
+O Hospital, em contrapartida dos valores repassados, deverá em complemento
+ao SUS, promover o atendimento universal e totalmente gratuito, a todos os cidadãos de Nova
+Prata, que enquadrarem-se na Lei Municipal N.º 3117, de 09 de março de 1994, a qual
+estabelece como carente, as pessoas que perceberam renda familiar, igual ou inferior a um
+salário mínimo e meio mensais. Além desse atendimento, fica estabelecido um moderador no
+valor de atendimento, aos demais cidadãos, na importância de R$20,00 (vinte reais).
+
+O valor a ser repassado mensalmente e o moderador acima declinado, servem
+para pagamento dos profissionais que atuarão no plantão médico e ao ressarcimento de despesas
+havidas com o Hospital.
+
+Ficará sob responsabilidade do Hospital, a realização de todas as demais
+despesas necessárias na consecução dos objetivos declinados no presente Convênio, bem como
+o Município não possui qualquer responsabilidade, quanto a eventuais danos pessoais ou
+materiais, produzidos a terceiros.
+
+O Município não fica vinculado sobre qualquer espécie, em especial trabalhista
+e providenciaria, aos funcionários do Hospital que foram desenvolver atividades no plantão
+médico, bem como aos profissionais médicos, que forem realizar o plantão.
+...
+... folha 02
+As despesas decorrentes da execução do presente Convênio, correrão por
+conta de dotação orçamentária, classificada sob código: 08 - Secretaria de Saúde e Meio
+Ambiente; 01 - Unidades Subordinadas; 13754282.041- Apoio Financeiro a Saúde da
+Pública; 3.2.3.1 - Subvenções Sociais (197).
+
+Fica eleito o Foro da Comarca de Nova Prata, para dirimir eventuais dúvidas
+porventura advindas da execução do presente Convênio.
+
+E, por estarem justos e acertados, firmam o presente Convênio, juntamente com
+duas testemunhas a tudo presentes.
+
+Nova Prata, 12 de janeiro de 2000.
+
+Mario Minozzo
+Prefeito Municipal
+
+Moacir Durli
+Presidente do Hospital
+
+Testemunhas:
+
+1 - ___________________________
+
+2 - ___________________________

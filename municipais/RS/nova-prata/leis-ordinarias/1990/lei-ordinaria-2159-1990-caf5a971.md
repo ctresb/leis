@@ -1,0 +1,58 @@
+---
+titulo: "Lei Municipal N.º 2159 de 09 de maio de 1990."
+uf: "RS"
+municipio: "NOVA PRATA"
+tipo: "Lei Ordinária"
+numero: "2159"
+data: 1990-05-09
+ano: "1990"
+ementa: "LEI Nº 2159/1990"
+revogada: null
+versao_texto: "texto disponibilizado no Portal Legislativo da Câmara"
+sha256_pdf: "caf5a9717212d0b1350dcd1affd446fa5079390fe6037c268d4177f4f06ce455"
+documento_ged: "01a01b5c-d072-7d75-880f-aeb52ffce7fc"
+fonte: "https://cmnovaprata.cittatec.com.br/portal-legislativo/proposicoes/texto-original/5209"
+baixado_em: 2026-10-29
+---
+# Lei Municipal N.º 2159 de 09 de maio de 1990.
+
+Lei Municipal N.º 2159 de 09 de maio de 1990.
+
+AUTORIZA A CEDÊNCIA DO SERVIDOR
+EUCLIDES FOCHESATTO AO IPRAM- NP.
+
+JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
+PRATA.
+
+Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
+promulgo a seguinte Lei:
+
+Art. 1.º - Fica autorizada a cedência do servidor Euclides Fochesatto ao
+IPRAN - Instituto de Previdência e Assistência Municipal de Nova Prata, para
+desempenho de técnico em contabilidade, cumprindo 10 (dez) horas semanais no órgão
+cessionário e as demais relativas ao cargo, no órgão cedente.
+
+Art. 2.º - A cedência a que se refere o artigo anterior cessará com a posse
+da Diretoria que for eleita nos termos do artigo 62, § 2º, da Lei Municipal N.º 2119, de
+22 de fevereiro de 1990, podendo ser renovada, observadas as disponibilidades do
+Município e a necessidade do Instituto.
+
+Art. 3.º - O Servidor ora cedido desempenhará suas funções em ambos os
+órgãos, percebendo a mesma remuneração do cargo sem direito a qualquer outra
+gratificação e sem prejuízo de sua situação funcional junto ao Município, cujo
+pagamento, encargos sociais e promoção, ficam de total responsabilidade do órgão
+cedente.
+
+Art. 4.º - O IPRAM - Instituto de Previdência e Assistência Municipal de
+Nova Prata, fica obrigado a, durante o período de cedência com ônus para o Município
+comunicar oficialmente, todos os meses, a freqüência ao serviço, no horário estipulado,
+e outras ocorrências relativas à vida funcional.
+
+Art. 5.º - Revogadas as disposições em contrário, esta Lei entra em vigor
+na data de sua publicação, com efeito retroativo a 06.04.90.
+
+GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em
+09 de maio de 1990.
+
+João Carlos Schmitt
+Prefeito Municipal

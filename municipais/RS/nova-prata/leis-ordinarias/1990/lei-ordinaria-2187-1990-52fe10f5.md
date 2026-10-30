@@ -1,0 +1,303 @@
+---
+titulo: "Lei Municipal N.º 2187 de 27 de junho de 1990."
+uf: "RS"
+municipio: "NOVA PRATA"
+tipo: "Lei Ordinária"
+numero: "2187"
+data: 1990-06-27
+ano: "1990"
+ementa: "AUTORIZA O IPRAM A FIRMAR CONVÊNIO COM A UNIMED DO VALE DAS ANTAS"
+revogada: null
+versao_texto: "texto disponibilizado no Portal Legislativo da Câmara"
+sha256_pdf: "52fe10f58d5dd0c49cd4bc154cd389e0a6b04a97551fbb58d00e5528a04bf61c"
+documento_ged: "01a01b5c-d073-7ed6-90b6-2e254d4ffa4d"
+fonte: "https://cmnovaprata.cittatec.com.br/portal-legislativo/proposicoes/texto-original/5237"
+baixado_em: 2026-10-29
+---
+# Lei Municipal N.º 2187 de 27 de junho de 1990.
+
+Lei Municipal N.º 2187 de 27 de junho de 1990.
+
+AUTORIZA O IPRAM A FIRMAR
+CONVÊNIO COM A UNIMED DO VALE
+DAS ANTAS.
+
+JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
+PRATA.
+
+Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
+promulgo a seguinte Lei:
+
+Art. 1.º - Fica autorizado o Instituto de Previdência e Assistência
+Municipal de Nova Prata, através de seu representante, a firmar convênio com a
+UNIMED do Vale das Antas - Cooperativa de Trabalho Médico Ltda, para fins de
+contratação de atendimento médico hospitalar, nos termos da licitação n.º 002/90 de
+21.05.90.
+
+Art. 2.º - O convênio a ser firmado será pelo prazo de 1 (um) ano,
+podendo ser renovado por iguais períodos e obedecerá as cláusulas constantes da minuta
+que faz parte integrante desta Lei.
+
+Art. 3.º - Revogadas as disposições em contrário esta Lei entrará em
+vigor na data de sua publicação, com efeito retroativo a 12 de junho de 1990.
+
+GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em
+27 de junho de 1990.
+
+João Carlos Schmitt
+Prefeito Municipal
+MINUTA DE CONVÊNIO
+
+CONVENENTES: UNIMED DO VALE DAS ANTAS, Cooperativa de
+Trabalho Médico Ltda, CGC N.º 92.128.610/0001-93, com sede na Rua Padre Aneto
+Bogni, 603, nesta cidade de Casca-RS, neste ato representada por seu Presidente e
+Superintendente, e o INSTITUTO DE PREVIDÊNCIA E ASSISTÊNCIA
+MUNICIPAL DE NOVA PRATA (IPRAM-NP), autarquia de previdência social com
+sede à Av. Fernando Luzzatto, 158, na cidade de Nova Prata-RS, inscrita no CGC nº
+91.567.420/0001-00 e neste ato representada por sua Presidentea, denominados de
+UNIMED E CONVENENTE, respectivamente.
+OBJETO DO CONVÊNIO
+Atendimento médico hospitalar exclusivamente à funcionários, da
+CONTRATANTE e seus dependentes devidamente inscritos nos planos conveniados.
+CLÁUSULAS E CONDIÇÕES CONVENIADAS
+1. DA ASSISTÊNCIA MÉDICA
+Os atendimentos médicos, objeto do presente convênio, compreende o
+seguinte:
+1.1 - CONSULTAS
+1.1.1 - Consultas médicas no consultório do médico cooperado ou em
+serviço médico credenciado, pelo sistema de livre escolha do Beneficiário, observados
+os critérios de horário de cada médico.
+1.1.2 - Consultas médicas e pequenos procedimentos cirúrgicos no
+PADU e nos Pronto Socorros credenciados.
+1.2 - CONSULTAS E EXAMES
+1.2.1 - Consultas médicas no consultório do médico cooperado ou em
+serviços médico credenciados, pelo sistema de Livre escolha do beneficiário,
+observados os critérios de horários de cada médico.
+1.2.2 - Exames laboratoriais e de análises clínicas, exames citológicos,
+colposcópicos, cardiológicos (eletrocardiograma), neurológicos (eletroencefalograma),
+exames e testes oftalmológicos, otorrinolaringológicos, exames radiológicos, desde que
+solicitados por médicos cooperados.
+
+...
+... Folha 02
+1.2.3 - Consultas médicas e pequenos procedimento cirúrgicos no Posto
+de Atendimento de Urgência da UNIMED e nos Prontos Socorros credenciados onde e
+quando houverem:
+1.3 - CONSULTAS, EXAMES E INTERNAÇÕES
+1.3.1 - Consultas médicas no consultório do médico cooperados ou em
+serviços médicos credenciados, pelo Sistema de Livre Escolha do Beneficiário,
+observados os critérios de horário de cada médico.
+1.3.2 - Exames laboratoriais e de análises clínicas, exames citológicos,
+colposcópicos, cardiológicos (eletrocardiograma0, neurológicos, (eletroencefalograma),
+exames e testes oftalmológicos, otorrinolaringológicos, exames radiológicos, ecografia,
+quimioterapia, desde que solicitadas por médico cooperado.
+1.3.3 - Exames radiológicos contrastados no aparelho cardiovascular,
+bem como de medicina nuclear, serão realizados com autorização prévia da Contratante.
+1.3.4 - Atendimento ambulatorial de urgência, nos hospitais e Pronto
+Socorros credenciados pela UNIMED.
+1.3.5 - Internação hospitalar em quarto privativo ou semi-privativo com
+cobertura integral das seguintes despesas:
+a) diárias hospitalares até os seguintes limites de permanência, em cada
+exercício contratual:
+- parto normal ou cirúrgico - até 5 (cinco) dias;
+- casos clínicos ou cirúrgicos até 15 (quinze) dias, prorrogáveis mediante
+laudo médico e com concordância da contratante.
+- prematuros - até 30 (trinta) dias, prorrogáveis mediante laudo médico e
+com concordância da contratante.
+- U.T.I. ( Unidade de Tratamento Intensivo) - até 10 (dez) dias,
+prorrogáveis mediante laudo médico e com concordância da contratante.
+b) Serviços de enfermagem, durante o período de internação;
+c) salas de cirurgia e de parto;
+d) anestesias;
+
+...
+... Folha 03
+e) medicamentos prescritos pelo médico assistente para controle de
+doença do paciente internado:
+- análises clínicas;
+- análises patológicas;
+- exames radiológicos;
+- eletrocardiogramas;
+- endoscopia digestiva.
+f) serviços especializados e ou integrantes do tratamento pelo médico
+assistente:
+- oxigenioterapia;
+- transfusão de sangue ou plasma (só aplicação);
+- alimentação dietética;
+g) custeio de honorários profissionais dos médicos assistentes, cirurgiões
+e respectivos auxiliares, correspondentes aos serviços prestados ao paciente
+hospitalizado, nas seguintes especialidades:
+- clínica médica;
+- clínica pediátrica;
+- clínica cardiológica;
+- clínica neurológica;
+- dermatologia;
+- cirurgia geral;
+- nefrologia;
+- cirurgia genecológica;
+- cirurgia urológica;
+- cirurgia ortopédica e traumatológica;
+- cirurgia otorrinolaringológica;
+- obstetrícia;
+- emergências psiquiátricas (casos agudos de internação) até 48 (quarenta
+e oito) horas;
+1.4 - Ficam excluídos dos atendimentos médicos cooperativados, objeto
+deste convênio, chamadas domiciliares.
+1.5 - Não são também cobertos pelo convênio:
+- casos odontológicos;
+- cirurgias não éticas e tratamento não permitido pelo código de ética
+Médica;
+- doenças infecto-contagiosas de notificação compulsória sujeita a
+isolamento, de responsabilidade do Poder Público;
+- casos crônicos clínicos ou cirúrgicos e suas conseqüências;
+- remoção de pacientes fora do período urbano;
+- doenças ou lesões existentes antes deste contrato e suas sequelas;
+- internações psiquiátricas ou casos que exijam psicanálise, sonoterapia
+ou psicoterapia;
+- aparelhos ortopédicos (órteses, próteses), ortofônicos e outros,
+aviamentos de óculos, de lentes de qualquer natureza, prótese cardiovascular, válvulas,
+aparelhos de complementação ou substituição de função;
+- transplante, implante e diálises;
+- exames complementares e hospitalizações quando solicitadas por
+médicos não pertencentes à rede Assistencial da UNIMED;
+- medicamentos, salvo nos casos de internação, quando prescrito pelo
+médico assistente, Cooperado;
+- atendimento de acidentes de trabalho e tratamento de doenças
+profissionais;
+- tratamento para corrigir má formação congênita e suas conseqüências,
+inclusive os filhos nascidos na vigência deste contrato;
+- tratamentos estéticos clínicos ou cirúrgicos;
+- geriatria;
+- tratamentos especializados não previstos neste plano;
+- check-up, mesmo sob regime hospitalar;
+- despesas extraordinárias ou toaletes, gastos habituais e material
+descartável;
+- quaisquer atendimentos em casos de calamidade pública, revolução,
+guerras, epidemias, atos da natureza ou qualquer outra que atinja meciçamente a
+população, inclusive decorrentes de radiações nucleares e ou emanações nucleares ou
+ionizontes;
+- lesões, acidentes provocados por uso de entorpecentes e ou
+psicotrópicos embriagues, ato ilícito ou tentativa de suicídio;
+- reabilitação em geral;
+- internações em U.T.I. (Unidade de Tratamento Intensivo), exceto para
+os casos cirúrgicos;
+- criocauterização;
+- acidentes de trânsito;
+- procedimento que não conste na tabela da AMB (Associação Médica
+Brasileira);
+- medicamentos que não conste no BRASÍNDICE.
+1.6 - Os casos acima excluídos poderão, em caráter excepcional, e
+mediante acordo prévio entre UNIMED e CONTRATANTE serem atendidos;
+1.7 - Os atendimentos constantes do presente convênio serão efetuados
+em nível nacional, desde que prestados por médicos cooperados e entidades
+credenciadas no Sistema Nacional UNIMED, desde que autorizados pela UNIMED de
+origem.
+1.8 - Os atendimentos previstos no sub-item 1.1.1., 1.2.1. 1.3.1. serão
+prestados mediante a apresentação da Carteira de Beneficiário fornecida pela UNIMED,
+e os sub-itens 1.2.2.,1.2.3 e 1.3.3.. Os atendimentos dos sub-itens 1.2.2. e 1.3.2. serão
+prestados pelos serviços credenciados, mediante a apresentação da Carteira do
+Beneficiário e da requisição do médico cooperado. Para o atendimento previsto no sub-
+item 1.3.4. deverá o beneficiário, munido de solicitação médica, dirigir-se à UNIMED
+para obter a competente guia de internação hospitalar.
+1.9 - Nos casos de urgência e internações em dias não úteis, caberá ao
+beneficiário regularizar a situação hospitalar em até 48 (quarenta e oito) horas após a
+ocorrência, ou no primeiro dia útil subsequente.
+1.10- A contratante poderá, se assim o desejar inscrever no PEA (Plano
+de Extensão Assistencial) os seus segurados, bem como no Plano Péculio observados os
+seus regulamentos próprios, mediante o pagamento das mensalidades correspondentes.
+1.10.1 - Os beneficiários quando inscritos no PEA somente prevalecerão
+observadas as seguintes condições:
+a) O contratante deverá contar com idade inferior a 65 (sessenta e cinco) anos na data
+de assinatura do contrato;
+b) Haverá uma carência especial de 06 (seis) meses contando a partir do
+pagamento da primeira mensalidade;
+c) Os dependentes ficarão obrigados a apresentar a certidão de cartório de
+registro de pessoas físicas, atestados de dependência de INAMPS, além de outros
+documentos considerados pela UNIMED, para que se regitime as suas inscrições e
+assim, passem a gozar das vantagens do PEA.
+d) os beneficiários do PEA serão atendidos, quando internados, em
+acomodações do plano subscrito neste contrato;
+e)O prazo de 5 (cinco) anos passará a fluir da data do falecimento do
+titular do contrato;
+f) cada beneficiário receberá uma identificação especial da Extensão da
+Assistência.
+1.10.2 - Na hipótese de não serem preenchidos os requisitos da alínea C
+da cláusula 1.10.1. os dependentes não terão direito a qualquer benefício.
+2. DOS BENEFICIÁRIOS
+São considerados beneficiários deste convênio os funcionários da
+CONVENENTE e os respectivos dependentes, regularmente inscritos como tais, e
+desde que sejam legalmente assim considerados.
+2.1 - O contigente inicial do beneficiário será aquele constante da relação
+com os respectivos dados pessoais, que fazem parte integrante do presente convênio,
+sendo que no decurso do Convênio serão efetuadas as inclusões solicitadas, sempre
+mediante solicitação expressa.
+2.2 - A UNIMED reserva-se o direito de, a seu critério recusar inscrições
+de beneficiários portadores de doenças, entre outras de sequelas e agudas na fase
+crônica irreversível e doenças profissionais.
+2.3 - A exclusão de beneficiários será feita mediante comunicação por
+escrito pela CONVENENTE, juntamente com a Carteira de Beneficiário,
+responsabilizando-se a mesma pelo uso desta após exclusão do portador.
+3 - CARÊNCIAS
+PEA e Pecúlio 9 (nove) meses, após seres inscritos ou registrados na
+CONFEDERAÇÃO E UNIMED SEGURADORA.
+4 - PRAZO DE DURAÇÃO E RESCISÃO
+O prazo de duração do Presente Convênio é de no mínimo 1 (um) ano, a
+contar de sua assinatura, prorrogando-se contudo automaticamente por igual período,
+sempre que não houver manifestação expressa no sentido de sua rescisão, com a
+antecedência mínima de 30 (trinta) dias.
+4.1 - A convenente poderá rescindir o presente contrato se a UNIMED
+não cumprir com qualquer das cláusulas contratuais. Não cabendo-lhe no caso qualquer
+indenização ou penalidade salvo o ressarciamento de gastos efetuados na forma
+contratual pela UNIMED.
+5 - DOS PAGAMENTOS
+5.1 - A contratante pagará à UNIMED pela disponibilidade médica e
+administração do Convênio 17% (dezessete por cento) calculados sobre o mantante da
+fatura apresentada;
+5.2 - Quando no decurso de prazo, entre a data do recebimento pela
+UNIMED das faturas de prestadores de serviços e a do faturamento à contratante, se
+houver inflação, esta será acrescida a fatura tomando-se por base os parâmetros oficiais
+de aferição da variação inflacionária do período;
+5.3 - Os valores a serem pagos aos profissionais médicos bem como
+laboratórios e prestadores de serviços complementares, obedecerão a tabela da AMB
+(Associação Médica Brasileira).
+5.4 - O pagamento de honorários médicos obedecerá o seguinte critério.
+5.4.1 - Uma vez a tabela da AMB, para os pacientes internados em quarto
+semi-privativos.
+5.4.2 - Duas vezes a tabela da AMB, para os pacientes internados em
+quarto privativo com banheiro;
+5.4.3 - Quando internado em instalação superior, como apartamento luxo
+ou suítes, além das duas vezes a tabela da AMB, é facultado ao médico assistente,
+cobrar mediante acordo prévio até 6 (seis) vezes a tabela da AMB;
+5.5 - Os custos referente a medicamentos e similares, obedecerão a tabela
+do BRASÍNDICE, bem como contrastes e insumos para exames complementares. As
+diárias hospitalares, obedecerão a tabela da Associação dos Hospitais do Rio Grande do
+Sul, com o desconto concedido ao sistema UNIMED;
+5.6 - A contratante pagará à UNIMED uma taxa por pessoa no momento
+da inscrição, correspondente a 20 (vinte) CH (Coeficiente de Honorários) da AMB;
+5.7 - A taxa de inscrição será cobrada em fatura separada sobre a mesma
+não incidirá gastos administrativos;
+5.8 - As faturas de que tratam os itens anteriores, serão processados e
+apresentados a Contratante até o dia 20 do mês subsequente ao da prestação de serviço
+para pagamento em 5 (cinco) dias úteis;
+6 - DAS DISPOSIÇÕES GERAIS
+6.1 - O Beneficiário que optar por acomodações superiores aquelas
+oferecidas pelo Convênio, pagará diretamente as diferenças de custos , acordados, aos
+prestadores de serviços e aos profissionais médicos assistentes;
+6.2 - Os limites de idade para ingresso na PEA e Plano de Pecúlio,
+através da UNIMED SEGURADORA, é de 65 (sessenta e cinco) anos.
+6.3 - O beneficiário pagará diretamente ao médico cooperado a
+importância equivalente a 30% (trinta por cento) sobre a tabela AMB referente a
+consulta médica.
+E por estarem justos e contratados, assinam o presente Convênio em duas
+vias de igual teor e forma na presença de duas testemunhas, ficando desde já eleito o
+Foro do Comarca de Casca - RS, renunciando-se a outro por mais privilegiado que seja,
+para dirimir as dúvidas resultantes do presente Convênio.
+
+_______________,________de__________de_____.
+EMPRESA UNIMED
+
+__________________________________________ __________________________
+
+Testemunhas
+___________________________
+___________________________
