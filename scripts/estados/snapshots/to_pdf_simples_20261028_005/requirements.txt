@@ -1,0 +1,7 @@
+markdown-it-py==4.0.0
+mdurl==0.1.2
+lxml==6.1.1
+pdfplumber==0.11.9
+pdfminer.six==20251230
+pypdf==6.10.0
+fonttools==4.60.1

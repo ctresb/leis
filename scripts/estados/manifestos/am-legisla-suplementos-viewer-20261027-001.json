@@ -1,0 +1,49 @@
+{
+  "capturas": [
+    {
+      "url": "https://diario.imprensaoficial.am.gov.br/theme/AM/js/visualizacoes/visualizacoes.js",
+      "url_final": "https://diario.imprensaoficial.am.gov.br/theme/AM/js/visualizacoes/visualizacoes.js",
+      "http": 200,
+      "cache": "estaduais/AM/_fonte/auditorias/legisla-suplementos-20261027-001/d7b0a28d2ad447b5bb2bbcbc185b0e902960a8562050a55d3dbeec3fce76bc98.js.gz",
+      "sha256_fonte": "d7b0a28d2ad447b5bb2bbcbc185b0e902960a8562050a55d3dbeec3fce76bc98",
+      "sha256_cache": "837076afd3e6d623355833411ca4c5a4f23d7f0fefd5a445707875b8232cd627",
+      "capturado_em": "2026-10-27T16:52:36.725380-03:00",
+      "observado_no_HTML_SHA": "77643d8ca23961957b95df4d0ffb587b89e18bc3431234679af14c3ee7b1d9c6",
+      "headers": {
+        "Date": "Tue, 27 Oct 2026 19:52:36 GMT",
+        "Server": "Apache/2.4.25 (Debian)",
+        "Last-Modified": "Mon, 4 May 2020 17:58:39 GMT",
+        "Expires": "Wed, 28 Oct 2026 19:52:36 GMT",
+        "Cache-Control": "public, max-age=86400",
+        "Content-Length": "143",
+        "Vary": "Accept-Encoding",
+        "Access-Control-Allow-Origin": "*",
+        "Connection": "close",
+        "Content-Type": "application/javascript; charset=UTF-8"
+      }
+    },
+    {
+      "url": "https://diario.imprensaoficial.am.gov.br/theme/AM/js/visualizacoes/pdf.js",
+      "url_final": "https://diario.imprensaoficial.am.gov.br/theme/AM/js/visualizacoes/pdf.js",
+      "http": 200,
+      "cache": "estaduais/AM/_fonte/auditorias/legisla-suplementos-20261027-001/b1ed8d50a85c5496d260b2900557d77e745d1cec094f36f43db5044896eaeffe.js.gz",
+      "sha256_fonte": "b1ed8d50a85c5496d260b2900557d77e745d1cec094f36f43db5044896eaeffe",
+      "sha256_cache": "c5e55159716ec6ba8c5d7e7f897e395b45a628e430532590d1c7b2213d2d8c21",
+      "capturado_em": "2026-10-27T16:52:38.396151-03:00",
+      "observado_no_HTML_SHA": "77643d8ca23961957b95df4d0ffb587b89e18bc3431234679af14c3ee7b1d9c6",
+      "headers": {
+        "Date": "Tue, 27 Oct 2026 19:52:38 GMT",
+        "Server": "Apache/2.4.25 (Debian)",
+        "Last-Modified": "Mon, 29 Jun 2026 14:25:34 GMT",
+        "Expires": "Wed, 28 Oct 2026 19:52:38 GMT",
+        "Cache-Control": "public, max-age=86400",
+        "Content-Length": "3537",
+        "Vary": "Accept-Encoding",
+        "Access-Control-Allow-Origin": "*",
+        "Connection": "close",
+        "Content-Type": "application/javascript; charset=UTF-8"
+      }
+    }
+  ],
+  "sem_MD": true
+}

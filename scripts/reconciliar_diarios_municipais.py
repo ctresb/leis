@@ -35,7 +35,7 @@ def salvar(p,d):
 
 
 def arquivos_da_fonte(raiz,fonte):
-    r=subprocess.run(["rtk","proxy","rg","-l","-F","--glob","*.md",
+    r=subprocess.run(["rg","-l","-F","--glob","*.md",
                       "fonte: "+yaml_str(fonte),str(raiz/"municipais")],capture_output=True,text=True)
     if r.returncode not in (0,1):
         raise RuntimeError(r.stderr)

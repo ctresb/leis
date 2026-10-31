@@ -1,0 +1,78 @@
+{
+  "selecao": [
+    {
+      "id_legisla": "8741",
+      "controle_origem": "scripts/estados/manifestos/legisla-am-publico-20261021-001/am-legisla-publicacao-20261021-001.json",
+      "sha256_HTML": "bc3d7345070a476f8966dae4628e78c255d13603b7806034788e78eded35ad7d",
+      "cache_HTML": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/cc2372cd2e86039cc9437bd015f3b9b8c021aef00ea4da9896193b3bacfa1cd2.gz",
+      "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/completo/8741"
+    },
+    {
+      "id_legisla": "673",
+      "controle_origem": "scripts/estados/manifestos/legisla-am-proposta-20261027-001.json",
+      "sha256_HTML": "b349bdae66a41ef20e7b01bf2c2c5ceb620e72b7deb5170d3d5d21a36b6f2df7",
+      "cache_HTML": "estaduais/AM/_fonte/auditorias/legisla-am-leis-20261021-001/673-b349bdae66a41ef20e7b01bf2c2c5ceb620e72b7deb5170d3d5d21a36b6f2df7.html.gz",
+      "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/completo/673"
+    }
+  ],
+  "capturas": [
+    {
+      "id_legisla": "8741",
+      "controle_origem": "scripts/estados/manifestos/legisla-am-publico-20261021-001/am-legisla-publicacao-20261021-001.json",
+      "sha256_HTML": "bc3d7345070a476f8966dae4628e78c255d13603b7806034788e78eded35ad7d",
+      "cache_HTML": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/cc2372cd2e86039cc9437bd015f3b9b8c021aef00ea4da9896193b3bacfa1cd2.gz",
+      "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/completo/8741",
+      "iniciado_em": "2026-10-27T16:51:05.017001-03:00",
+      "http": 200,
+      "url_final": "https://diario.imprensaoficial.am.gov.br/portal/visualizacoes/pdf/6415/#/p:3/e:6415",
+      "headers": {
+        "Date": "Tue, 27 Oct 2026 19:51:06 GMT",
+        "Server": "Apache/2.4.25 (Debian)",
+        "Content-Length": "6449",
+        "Vary": "Accept-Encoding",
+        "Access-Control-Allow-Origin": "*",
+        "Connection": "close",
+        "Content-Type": "text/html; charset=UTF-8"
+      },
+      "headers_sessao_omitidos": [
+        "Set-Cookie"
+      ],
+      "cache": "estaduais/AM/_fonte/auditorias/legisla-suplementos-20261027-001/77643d8ca23961957b95df4d0ffb587b89e18bc3431234679af14c3ee7b1d9c6.bin.gz",
+      "sha256_fonte": "77643d8ca23961957b95df4d0ffb587b89e18bc3431234679af14c3ee7b1d9c6",
+      "sha256_cache": "47c7c8c314847b2c878050608c44cb07dcab7030257ab19516e642764837635a",
+      "PDF": false,
+      "bytes": 6449,
+      "finalizado_em": "2026-10-27T16:51:06.212246-03:00"
+    },
+    {
+      "id_legisla": "673",
+      "controle_origem": "scripts/estados/manifestos/legisla-am-proposta-20261027-001.json",
+      "sha256_HTML": "b349bdae66a41ef20e7b01bf2c2c5ceb620e72b7deb5170d3d5d21a36b6f2df7",
+      "cache_HTML": "estaduais/AM/_fonte/auditorias/legisla-am-leis-20261021-001/673-b349bdae66a41ef20e7b01bf2c2c5ceb620e72b7deb5170d3d5d21a36b6f2df7.html.gz",
+      "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/completo/673",
+      "iniciado_em": "2026-10-27T16:51:07.413347-03:00",
+      "http": 200,
+      "url_final": "https://diario.imprensaoficial.am.gov.br/portal/visualizacoes/pdf/15639/#/p:1/e:15639",
+      "headers": {
+        "Date": "Tue, 27 Oct 2026 19:51:08 GMT",
+        "Server": "Apache/2.4.25 (Debian)",
+        "Content-Length": "6455",
+        "Vary": "Accept-Encoding",
+        "Access-Control-Allow-Origin": "*",
+        "Connection": "close",
+        "Content-Type": "text/html; charset=UTF-8"
+      },
+      "headers_sessao_omitidos": [
+        "Set-Cookie"
+      ],
+      "cache": "estaduais/AM/_fonte/auditorias/legisla-suplementos-20261027-001/10dbd0afde9a44977f091ff6a7ad04f135a02c90ff493b85c40109c8e2617270.bin.gz",
+      "sha256_fonte": "10dbd0afde9a44977f091ff6a7ad04f135a02c90ff493b85c40109c8e2617270",
+      "sha256_cache": "e3d021065749ae1492f1d03d6ae2b797554b9b06f3596f386ca72303e329a82e",
+      "PDF": false,
+      "bytes": 6455,
+      "finalizado_em": "2026-10-27T16:51:08.474579-03:00"
+    }
+  ],
+  "sem_MD": true,
+  "sem_promocao": true
+}

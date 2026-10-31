@@ -1,0 +1,356 @@
+{
+  "baseline": "/tmp/constituicao-index-20261020-continuacao.z",
+  "sha256_baseline": "a424728b1798aae5662ce344200637c9dc3b621eca986d3d3a01b6ec22929285",
+  "retidos": [],
+  "colisoes_descritivas_fontes_distintas": [
+    {
+      "path": "estaduais/BA/decretos/2025/decreto-no-23600-de-16-de-abril-de-2025-0.md",
+      "chave_semantica": [
+        "BA",
+        "decreto",
+        "23600",
+        "2025-04-16"
+      ],
+      "baseline": [],
+      "lote": [
+        [
+          "estaduais/BA/decretos/2025/decreto-no-23600-de-16-de-abril-de-2025.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-23600-de-16-de-abril-de-2025"
+          ]
+        ],
+        [
+          "estaduais/BA/decretos/2025/decreto-no-23600-de-16-de-abril-de-2025-0.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-23600-de-16-de-abril-de-2025-0"
+          ]
+        ]
+      ],
+      "decisao": "fontes oficiais distintas preservadas; numeração pode pertencer a órgãos diferentes, não prova duplicação"
+    },
+    {
+      "path": "estaduais/BA/decretos/2021/decreto-no-20359-de-01-de-abril-de-2021-0.md",
+      "chave_semantica": [
+        "BA",
+        "decreto",
+        "20359",
+        "2021-04-01"
+      ],
+      "baseline": [],
+      "lote": [
+        [
+          "estaduais/BA/decretos/2021/decreto-no-20359-de-01-de-abril-de-2021.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-20359-de-01-de-abril-de-2021"
+          ]
+        ],
+        [
+          "estaduais/BA/decretos/2021/decreto-no-20359-de-01-de-abril-de-2021-0.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-20359-de-01-de-abril-de-2021-0"
+          ]
+        ]
+      ],
+      "decisao": "fontes oficiais distintas preservadas; numeração pode pertencer a órgãos diferentes, não prova duplicação"
+    },
+    {
+      "path": "estaduais/BA/decretos/2013/decreto-no-14341-de-01-de-marco-de-2013-0.md",
+      "chave_semantica": [
+        "BA",
+        "decreto",
+        "14341",
+        "2013-03-01"
+      ],
+      "baseline": [],
+      "lote": [
+        [
+          "estaduais/BA/decretos/2013/decreto-no-14341-de-01-de-marco-de-2013.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-14341-de-01-de-marco-de-2013"
+          ]
+        ],
+        [
+          "estaduais/BA/decretos/2013/decreto-no-14341-de-01-de-marco-de-2013-0.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-14341-de-01-de-marco-de-2013-0"
+          ]
+        ]
+      ],
+      "decisao": "fontes oficiais distintas preservadas; numeração pode pertencer a órgãos diferentes, não prova duplicação"
+    },
+    {
+      "path": "estaduais/BA/decretos/2010/decreto-no-11996-de-05-de-marco-de-2010-0.md",
+      "chave_semantica": [
+        "BA",
+        "decreto",
+        "11996",
+        "2010-03-05"
+      ],
+      "baseline": [],
+      "lote": [
+        [
+          "estaduais/BA/decretos/2010/decreto-no-11996-de-05-de-marco-de-2010.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-11996-de-05-de-marco-de-2010"
+          ]
+        ],
+        [
+          "estaduais/BA/decretos/2010/decreto-no-11996-de-05-de-marco-de-2010-0.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-11996-de-05-de-marco-de-2010-0"
+          ]
+        ]
+      ],
+      "decisao": "fontes oficiais distintas preservadas; numeração pode pertencer a órgãos diferentes, não prova duplicação"
+    },
+    {
+      "path": "estaduais/BA/decretos/1991/decreto-no-253-de-01-de-agosto-de-1991.md",
+      "chave_semantica": [
+        "BA",
+        "decreto",
+        "253",
+        "1991-08-01"
+      ],
+      "baseline": [],
+      "lote": [
+        [
+          "estaduais/BA/decretos/1991/decreto-no-253-de-1o-de-agosto-de-1991.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-253-de-1o-de-agosto-de-1991"
+          ]
+        ],
+        [
+          "estaduais/BA/decretos/1991/decreto-no-253-de-01-de-agosto-de-1991.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-253-de-01-de-agosto-de-1991"
+          ]
+        ]
+      ],
+      "decisao": "fontes oficiais distintas preservadas; numeração pode pertencer a órgãos diferentes, não prova duplicação"
+    },
+    {
+      "path": "estaduais/BA/decretos/1991/decreto-no-252-de-01-de-agosto-de-1991.md",
+      "chave_semantica": [
+        "BA",
+        "decreto",
+        "252",
+        "1991-08-01"
+      ],
+      "baseline": [],
+      "lote": [
+        [
+          "estaduais/BA/decretos/1991/decreto-no-252-de-1o-de-agosto-de-1991.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-252-de-1o-de-agosto-de-1991"
+          ]
+        ],
+        [
+          "estaduais/BA/decretos/1991/decreto-no-252-de-01-de-agosto-de-1991.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-252-de-01-de-agosto-de-1991"
+          ]
+        ]
+      ],
+      "decisao": "fontes oficiais distintas preservadas; numeração pode pertencer a órgãos diferentes, não prova duplicação"
+    },
+    {
+      "path": "estaduais/BA/decretos/1991/decreto-no-251-de-01-de-agosto-de-1991.md",
+      "chave_semantica": [
+        "BA",
+        "decreto",
+        "251",
+        "1991-08-01"
+      ],
+      "baseline": [],
+      "lote": [
+        [
+          "estaduais/BA/decretos/1991/decreto-no-251-de-1o-de-agosto-de-1991.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-251-de-1o-de-agosto-de-1991"
+          ]
+        ],
+        [
+          "estaduais/BA/decretos/1991/decreto-no-251-de-01-de-agosto-de-1991.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-251-de-01-de-agosto-de-1991"
+          ]
+        ]
+      ],
+      "decisao": "fontes oficiais distintas preservadas; numeração pode pertencer a órgãos diferentes, não prova duplicação"
+    },
+    {
+      "path": "estaduais/BA/decretos/1991/decreto-no-250-de-01-de-agosto-de-1991.md",
+      "chave_semantica": [
+        "BA",
+        "decreto",
+        "250",
+        "1991-08-01"
+      ],
+      "baseline": [],
+      "lote": [
+        [
+          "estaduais/BA/decretos/1991/decreto-no-250-de-1o-de-agosto-de-1991.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-250-de-1o-de-agosto-de-1991"
+          ]
+        ],
+        [
+          "estaduais/BA/decretos/1991/decreto-no-250-de-01-de-agosto-de-1991.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-250-de-01-de-agosto-de-1991"
+          ]
+        ]
+      ],
+      "decisao": "fontes oficiais distintas preservadas; numeração pode pertencer a órgãos diferentes, não prova duplicação"
+    },
+    {
+      "path": "estaduais/BA/decretos/1991/decreto-no-249-de-01-de-agosto-de-1991.md",
+      "chave_semantica": [
+        "BA",
+        "decreto",
+        "249",
+        "1991-08-01"
+      ],
+      "baseline": [],
+      "lote": [
+        [
+          "estaduais/BA/decretos/1991/decreto-no-249-de-1o-de-agosto-de-1991.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-249-de-1o-de-agosto-de-1991"
+          ]
+        ],
+        [
+          "estaduais/BA/decretos/1991/decreto-no-249-de-01-de-agosto-de-1991.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-249-de-01-de-agosto-de-1991"
+          ]
+        ]
+      ],
+      "decisao": "fontes oficiais distintas preservadas; numeração pode pertencer a órgãos diferentes, não prova duplicação"
+    },
+    {
+      "path": "estaduais/BA/decretos/1991/decreto-no-181-a-de-09-de-julho-de-1991.md",
+      "chave_semantica": [
+        "BA",
+        "decreto",
+        "181",
+        "1991-07-09"
+      ],
+      "baseline": [],
+      "lote": [
+        [
+          "estaduais/BA/decretos/1991/decreto-no-181-de-09-de-julho-de-1991.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-181-de-09-de-julho-de-1991"
+          ]
+        ],
+        [
+          "estaduais/BA/decretos/1991/decreto-no-181-a-de-09-de-julho-de-1991.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-181-a-de-09-de-julho-de-1991"
+          ]
+        ]
+      ],
+      "decisao": "fontes oficiais distintas preservadas; numeração pode pertencer a órgãos diferentes, não prova duplicação"
+    },
+    {
+      "path": "estaduais/BA/decretos/1987/decreto-no-34321-a-de-15-de-janeiro-de-1987.md",
+      "chave_semantica": [
+        "BA",
+        "decreto",
+        "34321",
+        "1987-01-15"
+      ],
+      "baseline": [],
+      "lote": [
+        [
+          "estaduais/BA/decretos/1987/decreto-no-34321-de-15-de-janeiro-de-1987.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-34321-de-15-de-janeiro-de-1987"
+          ]
+        ],
+        [
+          "estaduais/BA/decretos/1987/decreto-no-34321-a-de-15-de-janeiro-de-1987.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-34321-a-de-15-de-janeiro-de-1987"
+          ]
+        ]
+      ],
+      "decisao": "fontes oficiais distintas preservadas; numeração pode pertencer a órgãos diferentes, não prova duplicação"
+    },
+    {
+      "path": "estaduais/BA/decretos/1986/decreto-no-34114-de-28-de-novembro-de-1986-0.md",
+      "chave_semantica": [
+        "BA",
+        "decreto",
+        "34114",
+        "1986-11-28"
+      ],
+      "baseline": [],
+      "lote": [
+        [
+          "estaduais/BA/decretos/1986/decreto-no-34114-de-28-de-novembro-de-1986.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-34114-de-28-de-novembro-de-1986"
+          ]
+        ],
+        [
+          "estaduais/BA/decretos/1986/decreto-no-34114-de-28-de-novembro-de-1986-0.md",
+          [
+            "BA",
+            "www.legislabahia.ba.gov.br",
+            "/documentos/decreto-no-34114-de-28-de-novembro-de-1986-0"
+          ]
+        ]
+      ],
+      "decisao": "fontes oficiais distintas preservadas; numeração pode pertencer a órgãos diferentes, não prova duplicação"
+    }
+  ],
+  "criterio": "Fonte oficial/ID canônico e caminho: igualdade retida. Tipo e número/data adicionais auditados, sem fundir órgãos distintos por coincidência de número."
+}

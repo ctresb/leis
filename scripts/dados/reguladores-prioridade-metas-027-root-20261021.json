@@ -1,0 +1,432 @@
+{
+  "candidatos": 22756,
+  "sha256_lista": "4a935d7419afafc2bca7afe9f2dc1d0a6c0d9525636c51385ceac4689927c24c",
+  "sha256_inventario_anterior": "cb5206dd6df9bcaa93c3826b595ae2297c6c0a834b96588375bb3d3953dc25a4",
+  "sha256_auditoria_anterior": "d382dab0d8eca9b3fa81c9b6d01235fcd326570db6ec04ce6a2c9511ae7bf6f3",
+  "progresso_base": "reguladores/_indice/auditoria-headers/progresso-priorizacao-027-20261021.md.gz",
+  "sha256_progresso_base": "caee1f1912524ab77d340a377fc082a4d3387661794a96b3f6ce3059e166d905",
+  "sha256_snapshot_gzip": "e73831ea7d491c07afaf0a2beb813c83367e9e00f49896971863dbaab62b475d",
+  "prioridades": {
+    "rfb": {
+      "tem": 74267,
+      "meta": 115238,
+      "prioridade": 0
+    },
+    "confaz": {
+      "tem": 1148,
+      "meta": 12000,
+      "prioridade": 0
+    },
+    "stn": {
+      "tem": 197,
+      "meta": 2000,
+      "prioridade": 0
+    },
+    "pgfn": {
+      "tem": 124,
+      "meta": 1500,
+      "prioridade": 0
+    },
+    "carf": {
+      "tem": 63,
+      "meta": 300,
+      "prioridade": 0
+    },
+    "fazenda": {
+      "tem": 640,
+      "meta": 3000,
+      "prioridade": 0
+    },
+    "contran": {
+      "tem": 146,
+      "meta": 1357,
+      "prioridade": 0
+    },
+    "senatran": {
+      "tem": 1274,
+      "meta": 1500,
+      "prioridade": 0
+    },
+    "antt": {
+      "tem": 4136,
+      "meta": 6000,
+      "prioridade": 0
+    },
+    "antaq": {
+      "tem": 2719,
+      "meta": 500,
+      "prioridade": 2
+    },
+    "anac": {
+      "tem": 9082,
+      "meta": 700,
+      "prioridade": 2
+    },
+    "transportes": {
+      "tem": 684,
+      "meta": 2000,
+      "prioridade": 0
+    },
+    "portos-aeroportos": {
+      "tem": 300,
+      "meta": 800,
+      "prioridade": 0
+    },
+    "ministerio-da-infraestrutura": {
+      "tem": null,
+      "meta": null,
+      "prioridade": 1
+    },
+    "anvisa": {
+      "tem": 25255,
+      "meta": 3100,
+      "prioridade": 2
+    },
+    "ms": {
+      "tem": 14559,
+      "meta": 30000,
+      "prioridade": 0
+    },
+    "cns": {
+      "tem": 147,
+      "meta": 700,
+      "prioridade": 0
+    },
+    "ans": {
+      "tem": 720,
+      "meta": 600,
+      "prioridade": 2
+    },
+    "mte": {
+      "tem": 629,
+      "meta": 3038,
+      "prioridade": 0
+    },
+    "inss": {
+      "tem": 495,
+      "meta": 160,
+      "prioridade": 2
+    },
+    "sprev": {
+      "tem": 214,
+      "meta": 900,
+      "prioridade": 0
+    },
+    "previc": {
+      "tem": 1036,
+      "meta": 400,
+      "prioridade": 2
+    },
+    "conama": {
+      "tem": 7,
+      "meta": 520,
+      "prioridade": 0
+    },
+    "ibama": {
+      "tem": 279,
+      "meta": 1500,
+      "prioridade": 0
+    },
+    "icmbio": {
+      "tem": 629,
+      "meta": 400,
+      "prioridade": 2
+    },
+    "ana": {
+      "tem": 159,
+      "meta": 3000,
+      "prioridade": 0
+    },
+    "sfb": {
+      "tem": 20,
+      "meta": 200,
+      "prioridade": 0
+    },
+    "mapa": {
+      "tem": 11946,
+      "meta": 3000,
+      "prioridade": 2
+    },
+    "mma": {
+      "tem": 476,
+      "meta": 1500,
+      "prioridade": 0
+    },
+    "pesca": {
+      "tem": 920,
+      "meta": 600,
+      "prioridade": 2
+    },
+    "bcb": {
+      "tem": 1333,
+      "meta": 10200,
+      "prioridade": 0
+    },
+    "cvm": {
+      "tem": 319,
+      "meta": 500,
+      "prioridade": 0
+    },
+    "susep": {
+      "tem": 2336,
+      "meta": 1200,
+      "prioridade": 2
+    },
+    "cade": {
+      "tem": 90,
+      "meta": 300,
+      "prioridade": 0
+    },
+    "coaf": {
+      "tem": 58,
+      "meta": 150,
+      "prioridade": 0
+    },
+    "cfc": {
+      "tem": 198,
+      "meta": 1800,
+      "prioridade": 0
+    },
+    "inmetro": {
+      "tem": 1986,
+      "meta": 2000,
+      "prioridade": 0
+    },
+    "mdic": {
+      "tem": 1285,
+      "meta": 3000,
+      "prioridade": 0
+    },
+    "empreendedorismo": {
+      "tem": 138,
+      "meta": 400,
+      "prioridade": 0
+    },
+    "aneel": {
+      "tem": 1010,
+      "meta": 2000,
+      "prioridade": 0
+    },
+    "anp": {
+      "tem": 230,
+      "meta": 1000,
+      "prioridade": 0
+    },
+    "anatel": {
+      "tem": 117,
+      "meta": 800,
+      "prioridade": 0
+    },
+    "anm": {
+      "tem": 134,
+      "meta": 300,
+      "prioridade": 0
+    },
+    "mme": {
+      "tem": 1171,
+      "meta": 1500,
+      "prioridade": 0
+    },
+    "comunicacoes": {
+      "tem": 8117,
+      "meta": 800,
+      "prioridade": 2
+    },
+    "cidades": {
+      "tem": 734,
+      "meta": 800,
+      "prioridade": 0
+    },
+    "integracao": {
+      "tem": 7557,
+      "meta": 800,
+      "prioridade": 2
+    },
+    "ministerio-do-desenvolvimento-regional": {
+      "tem": null,
+      "meta": null,
+      "prioridade": 1
+    },
+    "cne": {
+      "tem": 234,
+      "meta": 1500,
+      "prioridade": 0
+    },
+    "mec": {
+      "tem": 8117,
+      "meta": 4000,
+      "prioridade": 2
+    },
+    "inep": {
+      "tem": 602,
+      "meta": 1200,
+      "prioridade": 0
+    },
+    "capes": {
+      "tem": 312,
+      "meta": 1000,
+      "prioridade": 0
+    },
+    "ancine": {
+      "tem": 165,
+      "meta": 500,
+      "prioridade": 0
+    },
+    "iphan": {
+      "tem": 527,
+      "meta": 400,
+      "prioridade": 2
+    },
+    "cultura": {
+      "tem": 3722,
+      "meta": 1200,
+      "prioridade": 2
+    },
+    "esporte": {
+      "tem": 410,
+      "meta": 400,
+      "prioridade": 2
+    },
+    "turismo": {
+      "tem": 779,
+      "meta": 600,
+      "prioridade": 2
+    },
+    "mcti": {
+      "tem": 2414,
+      "meta": 1500,
+      "prioridade": 2
+    },
+    "mj": {
+      "tem": 3062,
+      "meta": 3000,
+      "prioridade": 2
+    },
+    "cgu": {
+      "tem": 303,
+      "meta": 1200,
+      "prioridade": 0
+    },
+    "agu": {
+      "tem": 388,
+      "meta": 1500,
+      "prioridade": 0
+    },
+    "mpu": {
+      "tem": 1780,
+      "meta": 1200,
+      "prioridade": 2
+    },
+    "cnmp": {
+      "tem": 164,
+      "meta": 400,
+      "prioridade": 0
+    },
+    "dpu": {
+      "tem": 173,
+      "meta": 400,
+      "prioridade": 0
+    },
+    "tcu": {
+      "tem": 116,
+      "meta": 1500,
+      "prioridade": 0
+    },
+    "conselhos-profissionais": {
+      "tem": 5735,
+      "meta": 7000,
+      "prioridade": 0
+    },
+    "editais-e-avisos": {
+      "tem": null,
+      "meta": null,
+      "prioridade": 1
+    },
+    "entidades-de-fiscalizacao-dos-profission": {
+      "tem": null,
+      "meta": null,
+      "prioridade": 1
+    },
+    "presidencia": {
+      "tem": 991,
+      "meta": 2000,
+      "prioridade": 0
+    },
+    "gestao": {
+      "tem": 1842,
+      "meta": 2500,
+      "prioridade": 0
+    },
+    "planejamento": {
+      "tem": 1033,
+      "meta": 1200,
+      "prioridade": 0
+    },
+    "defesa": {
+      "tem": 4351,
+      "meta": 2500,
+      "prioridade": 2
+    },
+    "mre": {
+      "tem": 340,
+      "meta": 800,
+      "prioridade": 0
+    },
+    "poder-judiciario": {
+      "tem": 1334,
+      "meta": 1500,
+      "prioridade": 0
+    },
+    "poder-legislativo": {
+      "tem": 243,
+      "meta": 600,
+      "prioridade": 0
+    },
+    "bndes": {
+      "tem": 5,
+      "meta": 400,
+      "prioridade": 0
+    },
+    "mds": {
+      "tem": 666,
+      "meta": 2500,
+      "prioridade": 0
+    },
+    "mdh": {
+      "tem": 906,
+      "meta": 800,
+      "prioridade": 2
+    },
+    "mulheres": {
+      "tem": 65,
+      "meta": 300,
+      "prioridade": 0
+    },
+    "ministerio-da-mulher-da-familia-e-dos-di": {
+      "tem": null,
+      "meta": null,
+      "prioridade": 1
+    },
+    "igualdade-racial": {
+      "tem": 61,
+      "meta": 300,
+      "prioridade": 0
+    },
+    "mpi": {
+      "tem": 239,
+      "meta": 300,
+      "prioridade": 0
+    },
+    "mda": {
+      "tem": 2411,
+      "meta": 1200,
+      "prioridade": 2
+    }
+  },
+  "distribuicao_candidatos": {
+    "0": 1641,
+    "1": 8636,
+    "2": 12479
+  },
+  "criterio": "Reordena estavelmente os mesmos caminhos restantes, sem excluir nem adicionar nenhum. Primeiro series com meta ainda aberta, depois universo desconhecido, depois series cuja meta ja foi atingida. Nao altera metas, nomes, fontes, documentos ou provas; nao presume aceite futuro. Todos continuam sujeitos aos mesmos gates."
+}

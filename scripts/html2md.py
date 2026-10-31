@@ -292,7 +292,7 @@ def table_md(rows):
     return "\n".join(lines)
 
 
-def convert(html_text, *, exclude_struck=False):
+def convert(html_text, *, exclude_struck=False, preserve_heading_punctuation=False):
     """Converte preservando o histórico por padrão.
 
     exclude_struck omite apenas texto marcado como tachado no HTML (tags e
@@ -339,12 +339,13 @@ def convert(html_text, *, exclude_struck=False):
         lvl = heading_level(plain)
         if lvl and len(plain) < 250:
             # "CAPÍTULO I<br>DAS DISPOSIÇÕES" -> "CAPÍTULO I — DAS DISPOSIÇÕES"
-            plain = re.sub(r"\s*\n\s*", " — ", plain)
+            separator = " " if preserve_heading_punctuation else " — "
+            plain = re.sub(r"\s*\n\s*", separator, plain)
             title = plain
             if re.fullmatch(r"\S+( \S+)? [IVXLC]+(-[A-Z])?|PARTE (GERAL|ESPECIAL)", plain, re.I) and i + 1 < len(blocks):
                 nk, nc, _ = blocks[i + 1]
                 if nk != "table" and looks_like_name(strip_md(nc)):
-                    title = f"{plain} — {strip_md(nc)}"
+                    title = f"{plain}{separator}{strip_md(nc)}"
                     i += 1
             out.append(f"{'#' * lvl} {title}")
         else:

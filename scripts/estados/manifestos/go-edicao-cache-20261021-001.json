@@ -1,0 +1,42 @@
+{
+  "auditado_em": "2026-10-21T05:46:08.079373-03:00",
+  "total_MD": 52278,
+  "total_ID_indice": 52275,
+  "MD_sem_ID_indice": [
+    "estaduais/GO/leis-ordinarias/2026/lei-24566-2026-id118270.md",
+    "estaduais/GO/leis-ordinarias/2026/lei-24565-2026-id118269.md",
+    "estaduais/GO/decretos/2026/dec-10998-2026-id118358.md"
+  ],
+  "fonte_indice": "estaduais/GO/_indice/legislacoes.json",
+  "sha256_indice": "76faaa85c55454ee0132bdd60f660b10d72730a469817d927f81709856b66c93",
+  "inventario_integral": "estaduais/GO/_fonte/auditorias/edicao-cache-20261021-001/inventario-completo.jsonl.gz",
+  "sha256_inventario_gzip": "fcfbe9c10d721ee2b7b9adb75534d21a8b2b498d770587c91617ad6942423276",
+  "sha256_inventario_JSONL": "9f8a04e0f13b5d4924553eba1ca73048b385a0c7554ca319f4c48c0888f96f01",
+  "fontes_tachadas": 4313,
+  "trechos_exclusivamente_tachados_presentes_no_MD": 0,
+  "situacoes_sem_suporte_booleano": 64,
+  "visuais_a_revisar": 37071,
+  "regras_CSS_potenciais_a_revisar": 66,
+  "limites": [
+    "Inventário de edição/status; não é gate de integralidade nem liberação dos 52 mil textos.",
+    "Trechos longos >=70 caracteres: ausência não prova todos os tachados excluídos, nem vigência. CSS externo e herança por seletores não certificados.",
+    "Fontes históricas são campos conteudo HTML, não respostas JSON integrais. Nenhuma rede GO.",
+    "Zero máscara textual proposta. Candidatos privados alteram exclusivamente revogada false para null nos 64 casos literais.",
+    "Corpos, datas, tabelas e arquivos canônicos intactos."
+  ],
+  "execucao": [
+    "Primeiros2000 replay003; demais38326 prefixo004; atributo style sem valor encerrou antiga execução, prefixo preservado; sufixo11952 processado005 com parser robusto.",
+    "Sete testes: tachado herdado, repetição atual, CSS sinal apenas, nós segmentados, atributo sem valor, sinais decimais e estados conservadores."
+  ],
+  "pacotes_status": [
+    "scripts/estados/manifestos/go-status-conservador-20261021-001.json",
+    "scripts/estados/manifestos/go-status-conservador-20261021-002.json"
+  ],
+  "codigo": {
+    "scripts/estados/auditar_go_cache_edicao.py": "4d3a564198fc745d9089b3b291aab52673499a76d15ab742c48d7c657baeb59c",
+    "scripts/estados/test_go_cache_edicao.py": "7ea51c17b66ee548c2104acc9b75489f9454274918f5a0e7824d455f2a836593",
+    "scripts/estados/go.py": "8b64104ab42dcdb4432c2834de60a86fec3a916d60193b8a84caf80844651c88",
+    "scripts/estados/snapshots/go_20261021_001.py": "b0a2e2e4516611bd5a30a8de719a010849ae3795c035da183597234095ca73a3",
+    "scripts/estados/snapshots/auditar_go_cache_edicao_20261021_001.py": "45b27e05a8ea45f56be686b3972e717e24fd5c7e294ad391c30e3dc4e64412b3"
+  }
+}

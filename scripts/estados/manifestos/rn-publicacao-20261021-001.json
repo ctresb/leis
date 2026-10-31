@@ -1,0 +1,860 @@
+{
+  "preparado_em": "2026-10-21T05:55:25.881517-03:00",
+  "total": 17,
+  "total_LO": 16,
+  "total_LC": 1,
+  "duplicatas_internas": 0,
+  "duplicatas_disco_por_fonte_e_tipo_numero_ano": 0,
+  "git_nao_consultado": true,
+  "metas_inalteradas": true,
+  "fontes_visuais": [
+    {
+      "path": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/QA/1/img-000.png",
+      "sha256": "fa8f45cbee563a8d2b2cd9e7cabff21672bc5e88a6c8e4715a5eb5308e305268"
+    },
+    {
+      "path": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/QA/14/img-000.png",
+      "sha256": "b73976f9c0333613f04710b41544c76a09ee78671eefdbc58694f95e17fa6034"
+    },
+    {
+      "path": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/QA/14/img-001.png",
+      "sha256": "c8b0ad00468157a4879b6b452ece4f4407b8c8b90576f9d309350bcb9ee2faa5"
+    },
+    {
+      "path": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/QA/contato-1.png",
+      "sha256": "24e46dde5518fecc65ed02cfd1c05d5cdaf6275b11a6b97fe1cef214470531b4"
+    },
+    {
+      "path": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/QA/contato-2.png",
+      "sha256": "2babf6cb6cbbdd6fc3c7393808b630a0d51b4e77fe229ac614ad44aedf24c8f3"
+    },
+    {
+      "path": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/QA/contato-3.png",
+      "sha256": "7e25fbdbc5e008d87a61dfd4e83b2135df1d141d0474ee0c74f33867b2cd8d00"
+    }
+  ],
+  "documentos": [
+    {
+      "path": "estaduais/RN/leis-ordinarias/2026/lei-12931-2026-10-19-bv7qzpqno9.md",
+      "sha256_md": "7d5f6d0ebc53062c78c078f368b2e2b9cb7bfc1c6a6daf94f2fdd554af26b25f",
+      "cache": "estaduais/RN/_fonte/leis-ordinarias/2026/lei-12931-2026-10-19-bv7qzpqno9.html.gz",
+      "sha256_cache": "4f24cf6f4ebd37086847c5cfffc3b5d90fef58380103a0d7b13b8c96fc7b15c5",
+      "captura": {
+        "item": {
+          "lista": "leis-ordinarias",
+          "url": "https://www.al.rn.leg.br/storage/legislacao/2026/wej7nn0zbuv62xoqcu11bv7qzpqno9.pdf",
+          "titulo": "Lei Ordinária 12.931 de 19.10.2026",
+          "ementa": "Institui a Política Estadual “Cidade Segura” e estabelece diretrizes para a promoção de ações integradas de prevenção à violência e fortalecimento da segurança pública no âmbito do Estado."
+        },
+        "iniciado_em": "2026-10-21T05:49:33.770667-03:00",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/wej7nn0zbuv62xoqcu11bv7qzpqno9.pdf",
+        "http": 200,
+        "headers": {
+          "Server": "nginx",
+          "Date": "Wed, 21 Oct 2026 08:49:34 GMT",
+          "Content-Type": "application/pdf",
+          "Content-Length": "200497",
+          "Connection": "close",
+          "Last-Modified": "Tue, 20 Oct 2026 12:27:14 GMT",
+          "Accept-Ranges": "bytes",
+          "ETag": "\"242f8a568e60dd1:0\"",
+          "Content-Security-Policy": "upgrade-insecure-requests"
+        },
+        "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/wej7nn0zbuv62xoqcu11bv7qzpqno9.pdf",
+        "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/cc6da703a1c32747088190e71eb93fcdb23a40081b29d3428effb74f9541a084.bin.gz",
+        "sha256_fonte": "cc6da703a1c32747088190e71eb93fcdb23a40081b29d3428effb74f9541a084",
+        "sha256_cache": "4f24cf6f4ebd37086847c5cfffc3b5d90fef58380103a0d7b13b8c96fc7b15c5",
+        "PDF": true,
+        "finalizado_em": "2026-10-21T05:49:34.479668-03:00"
+      },
+      "QA": {
+        "numero": "12931",
+        "data": "2026-10-19",
+        "tipo": "Lei Ordinária",
+        "epigrafe": "LEI Nº 12.931, DE 19 DE OUTUBRO DE 2026.",
+        "sha256_fonte": "cc6da703a1c32747088190e71eb93fcdb23a40081b29d3428effb74f9541a084",
+        "sha256_camada": "b91a8b7c3aa4e1e3033e3f4c13891bcc4c2287453554f4e9240300706ae0d761",
+        "sha256_corpo": "83e51d987b0c28bca3cc33830b740ab702fc954575ca6caf90d0d35abb83d9f3",
+        "pdfimages": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     211   220  rgb     3   8  jpeg   yes        5  0   220   220 15.9K  12%\n",
+        "fonte_sem_remocao_de_linhas": true,
+        "total_paginas": 2
+      },
+      "CommonMark_paginas_cercadas_iguais": true,
+      "contexto_integralidade": "PDF contém um único ato e suas assinaturas; todas as páginas visualizadas. Nenhum anexo/objeto aprovado omitido identificado. LC815 apresenta reticências próprias dentro de citações (NR) dos seis dispositivos alterados, não aviso de ausência. Brasões e máscara identificados por hash exato; nenhum gráfico normativo raster restante."
+    },
+    {
+      "path": "estaduais/RN/leis-ordinarias/2026/lei-12930-2026-10-19-mwwfmmt21c.md",
+      "sha256_md": "b140f83190c3c9ad734189322a44ebbb3e2e7e8366497e95c35b12b159ae84b0",
+      "cache": "estaduais/RN/_fonte/leis-ordinarias/2026/lei-12930-2026-10-19-mwwfmmt21c.html.gz",
+      "sha256_cache": "c21227032bec8cd41ede30f932d83370bb2ef3faa2a23584cfad3aa1048226ce",
+      "captura": {
+        "item": {
+          "lista": "leis-ordinarias",
+          "url": "https://www.al.rn.leg.br/storage/legislacao/2026/9l6uizlc6vye0rdn9idrmwwfmmt21c.pdf",
+          "titulo": "Lei Ordinária 12.930 de 19.10.2026",
+          "ementa": "Institui o Programa Estadual de Fomento à Empregabilidade de Jovens LGBTQIAPN+ em Situação de Vulnerabilidade, a ser denominado Programa Jacqueline Brasil de Empregabilidade."
+        },
+        "iniciado_em": "2026-10-21T05:49:35.684635-03:00",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/9l6uizlc6vye0rdn9idrmwwfmmt21c.pdf",
+        "http": 200,
+        "headers": {
+          "Server": "nginx",
+          "Date": "Wed, 21 Oct 2026 08:49:36 GMT",
+          "Content-Type": "application/pdf",
+          "Content-Length": "138680",
+          "Connection": "close",
+          "Last-Modified": "Tue, 20 Oct 2026 12:26:48 GMT",
+          "Accept-Ranges": "bytes",
+          "ETag": "\"504927478e60dd1:0\"",
+          "Content-Security-Policy": "upgrade-insecure-requests"
+        },
+        "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/9l6uizlc6vye0rdn9idrmwwfmmt21c.pdf",
+        "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/c276d59414bf84aa6a28c1699edb8f10f4eded0edb184ee667063bff5ffafc22.bin.gz",
+        "sha256_fonte": "c276d59414bf84aa6a28c1699edb8f10f4eded0edb184ee667063bff5ffafc22",
+        "sha256_cache": "c21227032bec8cd41ede30f932d83370bb2ef3faa2a23584cfad3aa1048226ce",
+        "PDF": true,
+        "finalizado_em": "2026-10-21T05:49:36.344485-03:00"
+      },
+      "QA": {
+        "numero": "12930",
+        "data": "2026-10-19",
+        "tipo": "Lei Ordinária",
+        "epigrafe": "LEI Nº 12.930, DE 19 DE OUTUBRO DE 2026.",
+        "sha256_fonte": "c276d59414bf84aa6a28c1699edb8f10f4eded0edb184ee667063bff5ffafc22",
+        "sha256_camada": "452f63e691101723690042e068cfa81a5f9dfe9b580acd3621bf12ae19c3305f",
+        "sha256_corpo": "eced0a26291054b49c282f1382da86b194f6fab5427d6f7be9cc522653d46c5a",
+        "pdfimages": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     211   220  rgb     3   8  jpeg   yes        5  0   220   220 15.9K  12%\n",
+        "fonte_sem_remocao_de_linhas": true,
+        "total_paginas": 2
+      },
+      "CommonMark_paginas_cercadas_iguais": true,
+      "contexto_integralidade": "PDF contém um único ato e suas assinaturas; todas as páginas visualizadas. Nenhum anexo/objeto aprovado omitido identificado. LC815 apresenta reticências próprias dentro de citações (NR) dos seis dispositivos alterados, não aviso de ausência. Brasões e máscara identificados por hash exato; nenhum gráfico normativo raster restante."
+    },
+    {
+      "path": "estaduais/RN/leis-ordinarias/2026/lei-12929-2026-10-15-dugbkhhc84.md",
+      "sha256_md": "e506ae0fa7ca228f3eaa66f08c489fa24e3fade071b4ffb696966e25d69f8745",
+      "cache": "estaduais/RN/_fonte/leis-ordinarias/2026/lei-12929-2026-10-15-dugbkhhc84.html.gz",
+      "sha256_cache": "1253659ff9ebf280ddb41c5c51c36097b1e6520227ac93d3f725f39d91aca3f0",
+      "captura": {
+        "item": {
+          "lista": "leis-ordinarias",
+          "url": "https://www.al.rn.leg.br/storage/legislacao/2026/03urj8mfbt8f3qevklj3dugbkhhc84.pdf",
+          "titulo": "Lei Ordinária 12.929 de 15.10.2026",
+          "ementa": "Institui o Protocolo de Atuação Antirracista e de Combate à Intolerância Religiosa na rede pública e privada de ensino do Estado do Rio Grande do Norte."
+        },
+        "iniciado_em": "2026-10-21T05:49:37.545166-03:00",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/03urj8mfbt8f3qevklj3dugbkhhc84.pdf",
+        "http": 200,
+        "headers": {
+          "Server": "nginx",
+          "Date": "Wed, 21 Oct 2026 08:49:37 GMT",
+          "Content-Type": "application/pdf",
+          "Content-Length": "230298",
+          "Connection": "close",
+          "Last-Modified": "Mon, 19 Oct 2026 13:48:46 GMT",
+          "Accept-Ranges": "bytes",
+          "ETag": "\"9e91e68fd05fdd1:0\"",
+          "Content-Security-Policy": "upgrade-insecure-requests"
+        },
+        "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/03urj8mfbt8f3qevklj3dugbkhhc84.pdf",
+        "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/991ef39c927b6570caf7b4b1580d6a3c949ab1564761bdacaf7ad684b200a27f.bin.gz",
+        "sha256_fonte": "991ef39c927b6570caf7b4b1580d6a3c949ab1564761bdacaf7ad684b200a27f",
+        "sha256_cache": "1253659ff9ebf280ddb41c5c51c36097b1e6520227ac93d3f725f39d91aca3f0",
+        "PDF": true,
+        "finalizado_em": "2026-10-21T05:49:38.479260-03:00"
+      },
+      "QA": {
+        "numero": "12929",
+        "data": "2026-10-15",
+        "tipo": "Lei Ordinária",
+        "epigrafe": "LEI Nº 12.929, DE 15 DE OUTUBRO DE 2026.",
+        "sha256_fonte": "991ef39c927b6570caf7b4b1580d6a3c949ab1564761bdacaf7ad684b200a27f",
+        "sha256_camada": "a24f5dc20a4e81a2c93f0796e8c9a24602c82c875f3be5e785a08425634371e6",
+        "sha256_corpo": "82c7b51021497c2d4ae992d86d7ec95890f3a39c292475e45484774382bf20c8",
+        "pdfimages": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     211   220  rgb     3   8  jpeg   yes       15  0   220   220 15.9K  12%\n",
+        "fonte_sem_remocao_de_linhas": true,
+        "total_paginas": 3
+      },
+      "CommonMark_paginas_cercadas_iguais": true,
+      "contexto_integralidade": "PDF contém um único ato e suas assinaturas; todas as páginas visualizadas. Nenhum anexo/objeto aprovado omitido identificado. LC815 apresenta reticências próprias dentro de citações (NR) dos seis dispositivos alterados, não aviso de ausência. Brasões e máscara identificados por hash exato; nenhum gráfico normativo raster restante."
+    },
+    {
+      "path": "estaduais/RN/leis-ordinarias/2026/lei-12928-2026-10-15-tc7dvvo9fx.md",
+      "sha256_md": "80f86fe648983747ecfe5ef072a611d109064e5df9aa04913ce64c6578bcf808",
+      "cache": "estaduais/RN/_fonte/leis-ordinarias/2026/lei-12928-2026-10-15-tc7dvvo9fx.html.gz",
+      "sha256_cache": "73a46086dc94a4fbe5bef4cfe8a914672462f35fc00519e62782659cdb919123",
+      "captura": {
+        "item": {
+          "lista": "leis-ordinarias",
+          "url": "https://www.al.rn.leg.br/storage/legislacao/2026/9vfzsnjhbpjozapf5nkrtc7dvvo9fx.pdf",
+          "titulo": "Lei Ordinária 12.928 de 15.10.2026",
+          "ementa": "Reconhece como Patrimônio Natural, Paisagístico, Turístico e Cultural o Cânions dos Apertados, localizado no Município de Currais Novos."
+        },
+        "iniciado_em": "2026-10-21T05:49:39.684368-03:00",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/9vfzsnjhbpjozapf5nkrtc7dvvo9fx.pdf",
+        "http": 200,
+        "headers": {
+          "Server": "nginx",
+          "Date": "Wed, 21 Oct 2026 08:49:40 GMT",
+          "Content-Type": "application/pdf",
+          "Content-Length": "122712",
+          "Connection": "close",
+          "Last-Modified": "Mon, 19 Oct 2026 13:48:27 GMT",
+          "Accept-Ranges": "bytes",
+          "ETag": "\"7a19f384d05fdd1:0\"",
+          "Content-Security-Policy": "upgrade-insecure-requests"
+        },
+        "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/9vfzsnjhbpjozapf5nkrtc7dvvo9fx.pdf",
+        "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/3c388c778891ab43f0c6e398800d01e7ee89947bae4dbb977f6d64c630a655df.bin.gz",
+        "sha256_fonte": "3c388c778891ab43f0c6e398800d01e7ee89947bae4dbb977f6d64c630a655df",
+        "sha256_cache": "73a46086dc94a4fbe5bef4cfe8a914672462f35fc00519e62782659cdb919123",
+        "PDF": true,
+        "finalizado_em": "2026-10-21T05:49:40.424608-03:00"
+      },
+      "QA": {
+        "numero": "12928",
+        "data": "2026-10-15",
+        "tipo": "Lei Ordinária",
+        "epigrafe": "LEI Nº 12.928, DE 15 DE OUTUBRO DE 2026.",
+        "sha256_fonte": "3c388c778891ab43f0c6e398800d01e7ee89947bae4dbb977f6d64c630a655df",
+        "sha256_camada": "a0b097410be1be6bd61b98eb46f276ab08522a17b9999bc40a7e61148139b78b",
+        "sha256_corpo": "99698cbe9220596ae21e9ee2c8ea7eaefe426200035419526cadf7e2aaf07aa6",
+        "pdfimages": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     211   220  rgb     3   8  jpeg   yes        5  0   220   220 15.9K  12%\n",
+        "fonte_sem_remocao_de_linhas": true,
+        "total_paginas": 1
+      },
+      "CommonMark_paginas_cercadas_iguais": true,
+      "contexto_integralidade": "PDF contém um único ato e suas assinaturas; todas as páginas visualizadas. Nenhum anexo/objeto aprovado omitido identificado. LC815 apresenta reticências próprias dentro de citações (NR) dos seis dispositivos alterados, não aviso de ausência. Brasões e máscara identificados por hash exato; nenhum gráfico normativo raster restante."
+    },
+    {
+      "path": "estaduais/RN/leis-ordinarias/2026/lei-12927-2026-10-15-0osya7v6o2.md",
+      "sha256_md": "9736defe6eb6d70955d3c1fa44ab164a26e956cab8efcace5d9622e8797e0f28",
+      "cache": "estaduais/RN/_fonte/leis-ordinarias/2026/lei-12927-2026-10-15-0osya7v6o2.html.gz",
+      "sha256_cache": "4095b87d3a15cd442a22a35a9d0a3f95dec5a03d56c89f8a471314dc72860e13",
+      "captura": {
+        "item": {
+          "lista": "leis-ordinarias",
+          "url": "https://www.al.rn.leg.br/storage/legislacao/2026/tb8d1w3im8om0fdfjnjc0osya7v6o2.pdf",
+          "titulo": "Lei Ordinária 12.927 de 15.10.2026",
+          "ementa": "Reconhece como Patrimônio Cultural e Imaterial do Estado do Rio Grande do Norte o Carnaval da Cobra."
+        },
+        "iniciado_em": "2026-10-21T05:49:41.625156-03:00",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/tb8d1w3im8om0fdfjnjc0osya7v6o2.pdf",
+        "http": 200,
+        "headers": {
+          "Server": "nginx",
+          "Date": "Wed, 21 Oct 2026 08:49:42 GMT",
+          "Content-Type": "application/pdf",
+          "Content-Length": "121097",
+          "Connection": "close",
+          "Last-Modified": "Mon, 19 Oct 2026 13:48:10 GMT",
+          "Accept-Ranges": "bytes",
+          "ETag": "\"586fca7ad05fdd1:0\"",
+          "Content-Security-Policy": "upgrade-insecure-requests"
+        },
+        "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/tb8d1w3im8om0fdfjnjc0osya7v6o2.pdf",
+        "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/6cca155e5f316bb94ed70af628b729ba8c8c6c2db22e6ca99f111d96a3067f8c.bin.gz",
+        "sha256_fonte": "6cca155e5f316bb94ed70af628b729ba8c8c6c2db22e6ca99f111d96a3067f8c",
+        "sha256_cache": "4095b87d3a15cd442a22a35a9d0a3f95dec5a03d56c89f8a471314dc72860e13",
+        "PDF": true,
+        "finalizado_em": "2026-10-21T05:49:42.277866-03:00"
+      },
+      "QA": {
+        "numero": "12927",
+        "data": "2026-10-15",
+        "tipo": "Lei Ordinária",
+        "epigrafe": "LEI Nº 12.927, DE 15 DE OUTUBRO DE 2026.",
+        "sha256_fonte": "6cca155e5f316bb94ed70af628b729ba8c8c6c2db22e6ca99f111d96a3067f8c",
+        "sha256_camada": "c5cd9cd04fbe95ef61a22ed247baec874696cc663ac4e04eb4017752ce5dc798",
+        "sha256_corpo": "e7cdf72519d3e4a26431d5fe423bae585dc55babc0794bca92051a9cb2f68811",
+        "pdfimages": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     211   220  rgb     3   8  jpeg   yes        5  0   220   220 15.9K  12%\n",
+        "fonte_sem_remocao_de_linhas": true,
+        "total_paginas": 1
+      },
+      "CommonMark_paginas_cercadas_iguais": true,
+      "contexto_integralidade": "PDF contém um único ato e suas assinaturas; todas as páginas visualizadas. Nenhum anexo/objeto aprovado omitido identificado. LC815 apresenta reticências próprias dentro de citações (NR) dos seis dispositivos alterados, não aviso de ausência. Brasões e máscara identificados por hash exato; nenhum gráfico normativo raster restante."
+    },
+    {
+      "path": "estaduais/RN/leis-ordinarias/2026/lei-12926-2026-10-15-rpe3xuqqed.md",
+      "sha256_md": "f5f33c5afdb09f47277a03720f0f5fc691dbd7e00d70bb81e0ae55c1f494ab3e",
+      "cache": "estaduais/RN/_fonte/leis-ordinarias/2026/lei-12926-2026-10-15-rpe3xuqqed.html.gz",
+      "sha256_cache": "1b24634e5a41a6101fd63a3bf8fbc87059556f5126099de3b2a573fddd6794a5",
+      "captura": {
+        "item": {
+          "lista": "leis-ordinarias",
+          "url": "https://www.al.rn.leg.br/storage/legislacao/2026/rkha793stfea3jmsewivrpe3xuqqed.pdf",
+          "titulo": "Lei Ordinária 12.926 de 15.10.2026",
+          "ementa": "Institui a Política Estadual de Conscientização, Prevenção e Incentivo ao Diagnóstico Precoce do Câncer de Ovário no âmbito do Estado do Rio Grande do Norte e dá outras providências."
+        },
+        "iniciado_em": "2026-10-21T05:49:43.481992-03:00",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/rkha793stfea3jmsewivrpe3xuqqed.pdf",
+        "http": 200,
+        "headers": {
+          "Server": "nginx",
+          "Date": "Wed, 21 Oct 2026 08:49:43 GMT",
+          "Content-Type": "application/pdf",
+          "Content-Length": "198924",
+          "Connection": "close",
+          "Last-Modified": "Mon, 19 Oct 2026 13:47:51 GMT",
+          "Accept-Ranges": "bytes",
+          "ETag": "\"6862436fd05fdd1:0\"",
+          "Content-Security-Policy": "upgrade-insecure-requests"
+        },
+        "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/rkha793stfea3jmsewivrpe3xuqqed.pdf",
+        "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/7fe722311cb4eb0bdbfb53a17b5fa9c03c98ab42c1f2bb8fc9e8c7bf32ee568d.bin.gz",
+        "sha256_fonte": "7fe722311cb4eb0bdbfb53a17b5fa9c03c98ab42c1f2bb8fc9e8c7bf32ee568d",
+        "sha256_cache": "1b24634e5a41a6101fd63a3bf8fbc87059556f5126099de3b2a573fddd6794a5",
+        "PDF": true,
+        "finalizado_em": "2026-10-21T05:49:44.174777-03:00"
+      },
+      "QA": {
+        "numero": "12926",
+        "data": "2026-10-15",
+        "tipo": "Lei Ordinária",
+        "epigrafe": "LEI Nº 12.926, DE 15 DE OUTUBRO DE 2026.",
+        "sha256_fonte": "7fe722311cb4eb0bdbfb53a17b5fa9c03c98ab42c1f2bb8fc9e8c7bf32ee568d",
+        "sha256_camada": "744f83c35160dd4b18de0af2af93b8412f6556f2a71e430527f96b8759b94827",
+        "sha256_corpo": "da4f43a70f6f036c107cd38f4cce1bbfe2a18d25e01085fac754ad0027992d31",
+        "pdfimages": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     211   220  rgb     3   8  jpeg   yes        5  0   220   220 15.9K  12%\n",
+        "fonte_sem_remocao_de_linhas": true,
+        "total_paginas": 2
+      },
+      "CommonMark_paginas_cercadas_iguais": true,
+      "contexto_integralidade": "PDF contém um único ato e suas assinaturas; todas as páginas visualizadas. Nenhum anexo/objeto aprovado omitido identificado. LC815 apresenta reticências próprias dentro de citações (NR) dos seis dispositivos alterados, não aviso de ausência. Brasões e máscara identificados por hash exato; nenhum gráfico normativo raster restante."
+    },
+    {
+      "path": "estaduais/RN/leis-ordinarias/2026/lei-12925-2026-10-15-eobxfq532c.md",
+      "sha256_md": "14de74c6a5e606af6aec4ee0b5cd55a4c40b43bd7841434d7bc5daee83c07ca6",
+      "cache": "estaduais/RN/_fonte/leis-ordinarias/2026/lei-12925-2026-10-15-eobxfq532c.html.gz",
+      "sha256_cache": "fbcaa9a828162efc4431f64cddde5195fe7a6d1a958eff7dfb4a73d489107231",
+      "captura": {
+        "item": {
+          "lista": "leis-ordinarias",
+          "url": "https://www.al.rn.leg.br/storage/legislacao/2026/f6p752c78g0lgha57ctheobxfq532c.pdf",
+          "titulo": "Lei Ordinária 12.925 de 15.10.2026",
+          "ementa": "Altera a Lei nº 11.908, de 12 de setembro de 2024, que Institui a Rota da Fé e das Tradições Religiosas do Estado do Rio Grande do Norte, para incluir o Município de Riachuelo."
+        },
+        "iniciado_em": "2026-10-21T05:49:45.377126-03:00",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/f6p752c78g0lgha57ctheobxfq532c.pdf",
+        "http": 200,
+        "headers": {
+          "Server": "nginx",
+          "Date": "Wed, 21 Oct 2026 08:49:45 GMT",
+          "Content-Type": "application/pdf",
+          "Content-Length": "160213",
+          "Connection": "close",
+          "Last-Modified": "Mon, 19 Oct 2026 13:47:32 GMT",
+          "Accept-Ranges": "bytes",
+          "ETag": "\"1fd4df63d05fdd1:0\"",
+          "Content-Security-Policy": "upgrade-insecure-requests"
+        },
+        "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/f6p752c78g0lgha57ctheobxfq532c.pdf",
+        "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/9d18c4abc9f683a09b5e66ba988d71c7afefd3bb523beff3c109a5f50eea8d8d.bin.gz",
+        "sha256_fonte": "9d18c4abc9f683a09b5e66ba988d71c7afefd3bb523beff3c109a5f50eea8d8d",
+        "sha256_cache": "fbcaa9a828162efc4431f64cddde5195fe7a6d1a958eff7dfb4a73d489107231",
+        "PDF": true,
+        "finalizado_em": "2026-10-21T05:49:46.008032-03:00"
+      },
+      "QA": {
+        "numero": "12925",
+        "data": "2026-10-15",
+        "tipo": "Lei Ordinária",
+        "epigrafe": "LEI Nº 12.925, DE 15 DE OUTUBRO DE 2026.",
+        "sha256_fonte": "9d18c4abc9f683a09b5e66ba988d71c7afefd3bb523beff3c109a5f50eea8d8d",
+        "sha256_camada": "4e4f7aaa9a1230d36ff36571a2e9d96ffcd8a23f8a2638838893db2309a03851",
+        "sha256_corpo": "75bb10ebd23df82742469fa975b9207f26058d644d861f8e3df568204b34ef99",
+        "pdfimages": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     211   220  rgb     3   8  jpeg   yes        5  0   220   220 15.9K  12%\n",
+        "fonte_sem_remocao_de_linhas": true,
+        "total_paginas": 1
+      },
+      "CommonMark_paginas_cercadas_iguais": true,
+      "contexto_integralidade": "PDF contém um único ato e suas assinaturas; todas as páginas visualizadas. Nenhum anexo/objeto aprovado omitido identificado. LC815 apresenta reticências próprias dentro de citações (NR) dos seis dispositivos alterados, não aviso de ausência. Brasões e máscara identificados por hash exato; nenhum gráfico normativo raster restante."
+    },
+    {
+      "path": "estaduais/RN/leis-ordinarias/2026/lei-12924-2026-10-15-g79mel11ot.md",
+      "sha256_md": "b9cf72580cd2dc41a50acabfbcee6f897ef3d98f8544be45286ec609a06f6650",
+      "cache": "estaduais/RN/_fonte/leis-ordinarias/2026/lei-12924-2026-10-15-g79mel11ot.html.gz",
+      "sha256_cache": "1ea48f6b99753f66789249b8bebfe50e6febe4babaad174a3fd69732dd31b807",
+      "captura": {
+        "item": {
+          "lista": "leis-ordinarias",
+          "url": "https://www.al.rn.leg.br/storage/legislacao/2026/o86bsti3ci2qqwksa1yrg79mel11ot.pdf",
+          "titulo": "Lei Ordinária 12.924 de 15.10.2026",
+          "ementa": "Denomina Ulisses de Oliveira Silva a Quadra de Esportes da Escola Estadual Doutor Mauro Medeiros, localizada no Município de Parelhas."
+        },
+        "iniciado_em": "2026-10-21T05:49:47.213163-03:00",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/o86bsti3ci2qqwksa1yrg79mel11ot.pdf",
+        "http": 200,
+        "headers": {
+          "Server": "nginx",
+          "Date": "Wed, 21 Oct 2026 08:49:47 GMT",
+          "Content-Type": "application/pdf",
+          "Content-Length": "118103",
+          "Connection": "close",
+          "Last-Modified": "Mon, 19 Oct 2026 13:47:12 GMT",
+          "Accept-Ranges": "bytes",
+          "ETag": "\"4b951758d05fdd1:0\"",
+          "Content-Security-Policy": "upgrade-insecure-requests"
+        },
+        "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/o86bsti3ci2qqwksa1yrg79mel11ot.pdf",
+        "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/075056a66738eaf44e662d81136a8128ccc1d6c152fc3861bfddcac9f5a558e2.bin.gz",
+        "sha256_fonte": "075056a66738eaf44e662d81136a8128ccc1d6c152fc3861bfddcac9f5a558e2",
+        "sha256_cache": "1ea48f6b99753f66789249b8bebfe50e6febe4babaad174a3fd69732dd31b807",
+        "PDF": true,
+        "finalizado_em": "2026-10-21T05:49:48.045718-03:00"
+      },
+      "QA": {
+        "numero": "12924",
+        "data": "2026-10-15",
+        "tipo": "Lei Ordinária",
+        "epigrafe": "LEI Nº 12.924, DE 15 DE OUTUBRO DE 2026.",
+        "sha256_fonte": "075056a66738eaf44e662d81136a8128ccc1d6c152fc3861bfddcac9f5a558e2",
+        "sha256_camada": "8a5913456d5101ecfb7b6a73ee6581b082cc9f74c4585fa2cb9d84b05c4fc17f",
+        "sha256_corpo": "fa0e03e57ed450dee934c7e5a3fe000c96f142064e1569a5ed22d989c7532df9",
+        "pdfimages": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     211   220  rgb     3   8  jpeg   yes        5  0   220   220 15.9K  12%\n",
+        "fonte_sem_remocao_de_linhas": true,
+        "total_paginas": 1
+      },
+      "CommonMark_paginas_cercadas_iguais": true,
+      "contexto_integralidade": "PDF contém um único ato e suas assinaturas; todas as páginas visualizadas. Nenhum anexo/objeto aprovado omitido identificado. LC815 apresenta reticências próprias dentro de citações (NR) dos seis dispositivos alterados, não aviso de ausência. Brasões e máscara identificados por hash exato; nenhum gráfico normativo raster restante."
+    },
+    {
+      "path": "estaduais/RN/leis-ordinarias/2026/lei-12923-2026-10-15-s2e15ps5aq.md",
+      "sha256_md": "b3fe8c687ac93243e208e73deefea9e35c764c78a1186ec5fc59ebc31232f783",
+      "cache": "estaduais/RN/_fonte/leis-ordinarias/2026/lei-12923-2026-10-15-s2e15ps5aq.html.gz",
+      "sha256_cache": "ad924bd2dba8094cba6203939d8b03a95bd991263e7e117d08b7201e1e2fc279",
+      "captura": {
+        "item": {
+          "lista": "leis-ordinarias",
+          "url": "https://www.al.rn.leg.br/storage/legislacao/2026/vg007c2ossweb98o0t4fs2e15ps5aq.pdf",
+          "titulo": "Lei Ordinária 12.923 de 15.10.2026",
+          "ementa": "Institui, no Calendário Oficial do Estado do Rio Grande do Norte, o “Dia Estadual da Cultura Popular”."
+        },
+        "iniciado_em": "2026-10-21T05:49:49.246479-03:00",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/vg007c2ossweb98o0t4fs2e15ps5aq.pdf",
+        "http": 200,
+        "headers": {
+          "Server": "nginx",
+          "Date": "Wed, 21 Oct 2026 08:49:49 GMT",
+          "Content-Type": "application/pdf",
+          "Content-Length": "124697",
+          "Connection": "close",
+          "Last-Modified": "Mon, 19 Oct 2026 13:46:55 GMT",
+          "Accept-Ranges": "bytes",
+          "ETag": "\"e848cd4dd05fdd1:0\"",
+          "Content-Security-Policy": "upgrade-insecure-requests"
+        },
+        "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/vg007c2ossweb98o0t4fs2e15ps5aq.pdf",
+        "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/aeb13ba1a1caf44ab44424ca8207398d69ca2f284d6342a86cf0d7c3bbdbcda5.bin.gz",
+        "sha256_fonte": "aeb13ba1a1caf44ab44424ca8207398d69ca2f284d6342a86cf0d7c3bbdbcda5",
+        "sha256_cache": "ad924bd2dba8094cba6203939d8b03a95bd991263e7e117d08b7201e1e2fc279",
+        "PDF": true,
+        "finalizado_em": "2026-10-21T05:49:49.896473-03:00"
+      },
+      "QA": {
+        "numero": "12923",
+        "data": "2026-10-15",
+        "tipo": "Lei Ordinária",
+        "epigrafe": "LEI Nº 12.923, DE 15 DE OUTUBRO DE 2026.",
+        "sha256_fonte": "aeb13ba1a1caf44ab44424ca8207398d69ca2f284d6342a86cf0d7c3bbdbcda5",
+        "sha256_camada": "f0a08e146dc26f2f03618e7fadc7ce01f4e959cc6c61869ab4af211561b05061",
+        "sha256_corpo": "58a94e1f3c7fc2604f341d5915e29edb9aa13f6c2fc5869fa7b342ae226c1d61",
+        "pdfimages": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     211   220  rgb     3   8  jpeg   yes        5  0   220   220 15.9K  12%\n",
+        "fonte_sem_remocao_de_linhas": true,
+        "total_paginas": 1
+      },
+      "CommonMark_paginas_cercadas_iguais": true,
+      "contexto_integralidade": "PDF contém um único ato e suas assinaturas; todas as páginas visualizadas. Nenhum anexo/objeto aprovado omitido identificado. LC815 apresenta reticências próprias dentro de citações (NR) dos seis dispositivos alterados, não aviso de ausência. Brasões e máscara identificados por hash exato; nenhum gráfico normativo raster restante."
+    },
+    {
+      "path": "estaduais/RN/leis-ordinarias/2026/lei-12922-2026-10-15-y5nufa162p.md",
+      "sha256_md": "b9d67e6cabb6044d10344189769e229b6e613792356ee63ce79b48c487e19392",
+      "cache": "estaduais/RN/_fonte/leis-ordinarias/2026/lei-12922-2026-10-15-y5nufa162p.html.gz",
+      "sha256_cache": "e6e5123b9713400f7fb7c55f2668004ee59fe9ab40e3ced60e9918729b1cedb7",
+      "captura": {
+        "item": {
+          "lista": "leis-ordinarias",
+          "url": "https://www.al.rn.leg.br/storage/legislacao/2026/niawmc5asl3eknzgmcxty5nufa162p.pdf",
+          "titulo": "Lei Ordinária 12.922 de 15.10.2026",
+          "ementa": "Cria o Programa de Inclusão Social da Diversidade no Estado do Rio Grande do Norte e dá outras disposições."
+        },
+        "iniciado_em": "2026-10-21T05:49:51.101559-03:00",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/niawmc5asl3eknzgmcxty5nufa162p.pdf",
+        "http": 200,
+        "headers": {
+          "Server": "nginx",
+          "Date": "Wed, 21 Oct 2026 08:49:51 GMT",
+          "Content-Type": "application/pdf",
+          "Content-Length": "140910",
+          "Connection": "close",
+          "Last-Modified": "Mon, 19 Oct 2026 13:04:20 GMT",
+          "Accept-Ranges": "bytes",
+          "ETag": "\"e8e9d5bca5fdd1:0\"",
+          "Content-Security-Policy": "upgrade-insecure-requests"
+        },
+        "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/niawmc5asl3eknzgmcxty5nufa162p.pdf",
+        "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/4ab66555e0de55d894d8f834f83af8217ef5759203f16462d241e9db8bce84a8.bin.gz",
+        "sha256_fonte": "4ab66555e0de55d894d8f834f83af8217ef5759203f16462d241e9db8bce84a8",
+        "sha256_cache": "e6e5123b9713400f7fb7c55f2668004ee59fe9ab40e3ced60e9918729b1cedb7",
+        "PDF": true,
+        "finalizado_em": "2026-10-21T05:49:51.734550-03:00"
+      },
+      "QA": {
+        "numero": "12922",
+        "data": "2026-10-15",
+        "tipo": "Lei Ordinária",
+        "epigrafe": "LEI Nº 12.922, DE 15 DE OUTUBRO DE 2026.",
+        "sha256_fonte": "4ab66555e0de55d894d8f834f83af8217ef5759203f16462d241e9db8bce84a8",
+        "sha256_camada": "d04204c12d1aa518e5ea9e06b8d96af24dcc04efa4261796bb518a177cd3b938",
+        "sha256_corpo": "57b2c51c8140ce77a3350f696f9eb4798c53afac25de51af1d89fdb4b52b21a9",
+        "pdfimages": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     211   220  rgb     3   8  jpeg   yes        5  0   220   220 15.9K  12%\n",
+        "fonte_sem_remocao_de_linhas": true,
+        "total_paginas": 2
+      },
+      "CommonMark_paginas_cercadas_iguais": true,
+      "contexto_integralidade": "PDF contém um único ato e suas assinaturas; todas as páginas visualizadas. Nenhum anexo/objeto aprovado omitido identificado. LC815 apresenta reticências próprias dentro de citações (NR) dos seis dispositivos alterados, não aviso de ausência. Brasões e máscara identificados por hash exato; nenhum gráfico normativo raster restante."
+    },
+    {
+      "path": "estaduais/RN/leis-ordinarias/2026/lei-12921-2026-10-15-9nyo0uqf2u.md",
+      "sha256_md": "492253220519bbad46d0ad4e5f1dca430d031fc926a00d664b0f37e756827a58",
+      "cache": "estaduais/RN/_fonte/leis-ordinarias/2026/lei-12921-2026-10-15-9nyo0uqf2u.html.gz",
+      "sha256_cache": "60fa012c3fffeaaee00b54bc3f88129f7dccd2fc27ec30e883d795bb75435eea",
+      "captura": {
+        "item": {
+          "lista": "leis-ordinarias",
+          "url": "https://www.al.rn.leg.br/storage/legislacao/2026/a4tchnbbwq1iycp6kzf29nyo0uqf2u.pdf",
+          "titulo": "Lei Ordinária 12.921 de 15.10.2026",
+          "ementa": "Institui, no Calendário Oficial de Eventos do Estado do Rio Grande do Norte, o “Dia das Associações Comunitárias Rurais, das Cooperativas e dos Sindicatos da Agricultura Familiar”."
+        },
+        "iniciado_em": "2026-10-21T05:49:52.939632-03:00",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/a4tchnbbwq1iycp6kzf29nyo0uqf2u.pdf",
+        "http": 200,
+        "headers": {
+          "Server": "nginx",
+          "Date": "Wed, 21 Oct 2026 08:49:53 GMT",
+          "Content-Type": "application/pdf",
+          "Content-Length": "133240",
+          "Connection": "close",
+          "Last-Modified": "Mon, 19 Oct 2026 12:44:50 GMT",
+          "Accept-Ranges": "bytes",
+          "ETag": "\"a7864da1c75fdd1:0\"",
+          "Content-Security-Policy": "upgrade-insecure-requests"
+        },
+        "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/a4tchnbbwq1iycp6kzf29nyo0uqf2u.pdf",
+        "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/2d6bf7a3f565ef0a7e0dc0f57e25e440f2d84f3667c2e8ac799b3c0777b2573b.bin.gz",
+        "sha256_fonte": "2d6bf7a3f565ef0a7e0dc0f57e25e440f2d84f3667c2e8ac799b3c0777b2573b",
+        "sha256_cache": "60fa012c3fffeaaee00b54bc3f88129f7dccd2fc27ec30e883d795bb75435eea",
+        "PDF": true,
+        "finalizado_em": "2026-10-21T05:49:53.568383-03:00"
+      },
+      "QA": {
+        "numero": "12921",
+        "data": "2026-10-15",
+        "tipo": "Lei Ordinária",
+        "epigrafe": "LEI Nº 12.921, DE 15 DE OUTUBRO DE 2026.",
+        "sha256_fonte": "2d6bf7a3f565ef0a7e0dc0f57e25e440f2d84f3667c2e8ac799b3c0777b2573b",
+        "sha256_camada": "3c8bec6b99bf56051808471ead7ed3c19e0459d046256576a1df3b2c5fc5ec35",
+        "sha256_corpo": "cfcd5ff34638c6ccac812e2ac0f6dab2e520f2e3e563bad0697aa227c4ce1403",
+        "pdfimages": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     211   220  rgb     3   8  jpeg   yes        5  0   220   220 15.9K  12%\n",
+        "fonte_sem_remocao_de_linhas": true,
+        "total_paginas": 1
+      },
+      "CommonMark_paginas_cercadas_iguais": true,
+      "contexto_integralidade": "PDF contém um único ato e suas assinaturas; todas as páginas visualizadas. Nenhum anexo/objeto aprovado omitido identificado. LC815 apresenta reticências próprias dentro de citações (NR) dos seis dispositivos alterados, não aviso de ausência. Brasões e máscara identificados por hash exato; nenhum gráfico normativo raster restante."
+    },
+    {
+      "path": "estaduais/RN/leis-ordinarias/2026/lei-12920-2026-10-15-55mxthu8oy.md",
+      "sha256_md": "64ed84c9267a1b8a026cbe10268566ff629547d303751560a1b94d6bcbaa97ca",
+      "cache": "estaduais/RN/_fonte/leis-ordinarias/2026/lei-12920-2026-10-15-55mxthu8oy.html.gz",
+      "sha256_cache": "508aea0616ee172c4977b46cdbe792e4b25aadfc3cb96a862892e7ce9da83157",
+      "captura": {
+        "item": {
+          "lista": "leis-ordinarias",
+          "url": "https://www.al.rn.leg.br/storage/legislacao/2026/eqjqb02vnb0ft0hbu1gz55mxthu8oy.pdf",
+          "titulo": "Lei Ordinária 12.920 de 15.10.2026",
+          "ementa": "Reconhece como Patrimônio Cultural Imaterial do Estado do Rio Grande do Norte as “Rendeiras de Bilros da Vila de Ponta Negra”."
+        },
+        "iniciado_em": "2026-10-21T05:49:54.773457-03:00",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/eqjqb02vnb0ft0hbu1gz55mxthu8oy.pdf",
+        "http": 200,
+        "headers": {
+          "Server": "nginx",
+          "Date": "Wed, 21 Oct 2026 08:49:55 GMT",
+          "Content-Type": "application/pdf",
+          "Content-Length": "122237",
+          "Connection": "close",
+          "Last-Modified": "Mon, 19 Oct 2026 12:44:09 GMT",
+          "Accept-Ranges": "bytes",
+          "ETag": "\"21164c89c75fdd1:0\"",
+          "Content-Security-Policy": "upgrade-insecure-requests"
+        },
+        "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/eqjqb02vnb0ft0hbu1gz55mxthu8oy.pdf",
+        "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/2d399440e66d702d877eda52cdd4e5069452e32d1a127176c1944991c7919b0c.bin.gz",
+        "sha256_fonte": "2d399440e66d702d877eda52cdd4e5069452e32d1a127176c1944991c7919b0c",
+        "sha256_cache": "508aea0616ee172c4977b46cdbe792e4b25aadfc3cb96a862892e7ce9da83157",
+        "PDF": true,
+        "finalizado_em": "2026-10-21T05:49:55.420444-03:00"
+      },
+      "QA": {
+        "numero": "12920",
+        "data": "2026-10-15",
+        "tipo": "Lei Ordinária",
+        "epigrafe": "LEI Nº 12.920, DE 15 DE OUTUBRO DE 2026.",
+        "sha256_fonte": "2d399440e66d702d877eda52cdd4e5069452e32d1a127176c1944991c7919b0c",
+        "sha256_camada": "2023d89343f8f154db527c86dd3839e65dc49e9253fd1fc3a9e479ccc53f59d5",
+        "sha256_corpo": "258ead38129fa3a4a034f9d32d183709a93b2574252100146b77d91305886f01",
+        "pdfimages": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     211   220  rgb     3   8  jpeg   yes        5  0   220   220 15.9K  12%\n",
+        "fonte_sem_remocao_de_linhas": true,
+        "total_paginas": 1
+      },
+      "CommonMark_paginas_cercadas_iguais": true,
+      "contexto_integralidade": "PDF contém um único ato e suas assinaturas; todas as páginas visualizadas. Nenhum anexo/objeto aprovado omitido identificado. LC815 apresenta reticências próprias dentro de citações (NR) dos seis dispositivos alterados, não aviso de ausência. Brasões e máscara identificados por hash exato; nenhum gráfico normativo raster restante."
+    },
+    {
+      "path": "estaduais/RN/leis-ordinarias/2026/lei-12919-2026-10-15-skw7ne14p8.md",
+      "sha256_md": "70ca16d5e19b3f8becfeb012d14ffebec3d24a05a1803c00f1a246e81e83fe18",
+      "cache": "estaduais/RN/_fonte/leis-ordinarias/2026/lei-12919-2026-10-15-skw7ne14p8.html.gz",
+      "sha256_cache": "b0cc1cd34d964e72a7b3dbc76bb7f6dfb688f6b360c08d54839eefea3ac6245c",
+      "captura": {
+        "item": {
+          "lista": "leis-ordinarias",
+          "url": "https://www.al.rn.leg.br/storage/legislacao/2026/lptysr6mt0u2odgct24xskw7ne14p8.pdf",
+          "titulo": "Lei Ordinária 12.919 de 15.10.2026",
+          "ementa": "Reconhece como Patrimônio Natural, Turístico Cultural do Estado do Rio Grande do Norte a Barra do Cunhaú, localizada no município de Canguaretama."
+        },
+        "iniciado_em": "2026-10-21T05:49:56.622461-03:00",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/lptysr6mt0u2odgct24xskw7ne14p8.pdf",
+        "http": 200,
+        "headers": {
+          "Server": "nginx",
+          "Date": "Wed, 21 Oct 2026 08:49:57 GMT",
+          "Content-Type": "application/pdf",
+          "Content-Length": "123598",
+          "Connection": "close",
+          "Last-Modified": "Mon, 19 Oct 2026 12:43:52 GMT",
+          "Accept-Ranges": "bytes",
+          "ETag": "\"8a82157fc75fdd1:0\"",
+          "Content-Security-Policy": "upgrade-insecure-requests"
+        },
+        "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/lptysr6mt0u2odgct24xskw7ne14p8.pdf",
+        "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/890c6e33c0911994f19831a411e5d2ca52f570c75d1f8606654e49ebf257a189.bin.gz",
+        "sha256_fonte": "890c6e33c0911994f19831a411e5d2ca52f570c75d1f8606654e49ebf257a189",
+        "sha256_cache": "b0cc1cd34d964e72a7b3dbc76bb7f6dfb688f6b360c08d54839eefea3ac6245c",
+        "PDF": true,
+        "finalizado_em": "2026-10-21T05:49:57.261937-03:00"
+      },
+      "QA": {
+        "numero": "12919",
+        "data": "2026-10-15",
+        "tipo": "Lei Ordinária",
+        "epigrafe": "LEI Nº 12.919, DE 15 DE OUTUBRO DE 2026.",
+        "sha256_fonte": "890c6e33c0911994f19831a411e5d2ca52f570c75d1f8606654e49ebf257a189",
+        "sha256_camada": "6d1e4f8b1f025e88d1fb36b0dfb0da2b667f18a9aabb45a4c778064bd607be61",
+        "sha256_corpo": "2b4bbe863947fd178a8d2c0d47cddd6cd10a502fe68e33d8052a4be555addab6",
+        "pdfimages": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     211   220  rgb     3   8  jpeg   yes        5  0   220   220 15.9K  12%\n",
+        "fonte_sem_remocao_de_linhas": true,
+        "total_paginas": 1
+      },
+      "CommonMark_paginas_cercadas_iguais": true,
+      "contexto_integralidade": "PDF contém um único ato e suas assinaturas; todas as páginas visualizadas. Nenhum anexo/objeto aprovado omitido identificado. LC815 apresenta reticências próprias dentro de citações (NR) dos seis dispositivos alterados, não aviso de ausência. Brasões e máscara identificados por hash exato; nenhum gráfico normativo raster restante."
+    },
+    {
+      "path": "estaduais/RN/leis-ordinarias/2026/lei-12918-2026-10-15-mm38t1ooa2.md",
+      "sha256_md": "d2df2b171cf6bf3e2ba9d2638a1848d8934261115b5f273e352ed907ba1e2b82",
+      "cache": "estaduais/RN/_fonte/leis-ordinarias/2026/lei-12918-2026-10-15-mm38t1ooa2.html.gz",
+      "sha256_cache": "718df186714494a093f504e5782367a33d98a16ced82e1fee79e84939d8064f8",
+      "captura": {
+        "item": {
+          "lista": "leis-ordinarias",
+          "url": "https://www.al.rn.leg.br/storage/legislacao/2026/32syqm4bim6wbix3v2l7mm38t1ooa2.pdf",
+          "titulo": "Lei Ordinária 12.918 de 15.10.2026",
+          "ementa": "Institui a Carteira de Identificação da Pessoa com Doença Rara no âmbito do Estado do Rio Grande do Norte e dá outras providências."
+        },
+        "iniciado_em": "2026-10-21T05:49:58.465414-03:00",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/32syqm4bim6wbix3v2l7mm38t1ooa2.pdf",
+        "http": 200,
+        "headers": {
+          "Server": "nginx",
+          "Date": "Wed, 21 Oct 2026 08:49:58 GMT",
+          "Content-Type": "application/pdf",
+          "Content-Length": "208067",
+          "Connection": "close",
+          "Last-Modified": "Mon, 19 Oct 2026 12:43:30 GMT",
+          "Accept-Ranges": "bytes",
+          "ETag": "\"b340a771c75fdd1:0\"",
+          "Content-Security-Policy": "upgrade-insecure-requests"
+        },
+        "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/32syqm4bim6wbix3v2l7mm38t1ooa2.pdf",
+        "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/4788e1356de70597545ccecf6d5c0c2e0cfbc506e650795f9c364a609a9303fa.bin.gz",
+        "sha256_fonte": "4788e1356de70597545ccecf6d5c0c2e0cfbc506e650795f9c364a609a9303fa",
+        "sha256_cache": "718df186714494a093f504e5782367a33d98a16ced82e1fee79e84939d8064f8",
+        "PDF": true,
+        "finalizado_em": "2026-10-21T05:49:59.126593-03:00"
+      },
+      "QA": {
+        "numero": "12918",
+        "data": "2026-10-15",
+        "tipo": "Lei Ordinária",
+        "epigrafe": "LEI Nº 12.918, DE 15 DE OUTUBRO DE 2026.",
+        "sha256_fonte": "4788e1356de70597545ccecf6d5c0c2e0cfbc506e650795f9c364a609a9303fa",
+        "sha256_camada": "6b01bf6c986cc6a65bfc4ebb70b2770231590b55684fa2652856fa6dbf942d97",
+        "sha256_corpo": "203bb92101e9d714f7f4023cdf6b257241f9d4212ac618019bb689d161d63c56",
+        "pdfimages": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     215   225  rgb     3   8  jpeg   yes        5  0   220   220 11.3K 8.0%\n   1     1 smask     215   225  gray    1   8  image  no         5  0   220   220 14.8K  31%\n",
+        "fonte_sem_remocao_de_linhas": true,
+        "total_paginas": 2
+      },
+      "CommonMark_paginas_cercadas_iguais": true,
+      "contexto_integralidade": "PDF contém um único ato e suas assinaturas; todas as páginas visualizadas. Nenhum anexo/objeto aprovado omitido identificado. LC815 apresenta reticências próprias dentro de citações (NR) dos seis dispositivos alterados, não aviso de ausência. Brasões e máscara identificados por hash exato; nenhum gráfico normativo raster restante."
+    },
+    {
+      "path": "estaduais/RN/leis-ordinarias/2026/lei-12917-2026-10-15-tyr7kpgqvj.md",
+      "sha256_md": "5e13f39ec7e49a59cbe2080742f4330b37f575cb6034c58aa81826d84becb273",
+      "cache": "estaduais/RN/_fonte/leis-ordinarias/2026/lei-12917-2026-10-15-tyr7kpgqvj.html.gz",
+      "sha256_cache": "f8a85368c7eaffa66a35d0f0ed2a1fcefeda346b53c994b7e788e8aea67b763a",
+      "captura": {
+        "item": {
+          "lista": "leis-ordinarias",
+          "url": "https://www.al.rn.leg.br/storage/legislacao/2026/t2kyqyuhc6x1v575zdq2tyr7kpgqvj.pdf",
+          "titulo": "Lei Ordinária 12.917 de 15.10.2026",
+          "ementa": "Institui o espetáculo “A Paixão de Cristo do Município de Janduís”, no Calendário Oficial de Eventos do Estado do Rio Grande do Norte, realizado no Município de Janduís."
+        },
+        "iniciado_em": "2026-10-21T05:50:00.331227-03:00",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/t2kyqyuhc6x1v575zdq2tyr7kpgqvj.pdf",
+        "http": 200,
+        "headers": {
+          "Server": "nginx",
+          "Date": "Wed, 21 Oct 2026 08:50:00 GMT",
+          "Content-Type": "application/pdf",
+          "Content-Length": "133649",
+          "Connection": "close",
+          "Last-Modified": "Mon, 19 Oct 2026 12:43:03 GMT",
+          "Accept-Ranges": "bytes",
+          "ETag": "\"59c8cc61c75fdd1:0\"",
+          "Content-Security-Policy": "upgrade-insecure-requests"
+        },
+        "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/t2kyqyuhc6x1v575zdq2tyr7kpgqvj.pdf",
+        "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/8936f0216bc3460dc91ff137879da38387e48c3a2b814da6af0917c262a4ee88.bin.gz",
+        "sha256_fonte": "8936f0216bc3460dc91ff137879da38387e48c3a2b814da6af0917c262a4ee88",
+        "sha256_cache": "f8a85368c7eaffa66a35d0f0ed2a1fcefeda346b53c994b7e788e8aea67b763a",
+        "PDF": true,
+        "finalizado_em": "2026-10-21T05:50:01.101221-03:00"
+      },
+      "QA": {
+        "numero": "12917",
+        "data": "2026-10-15",
+        "tipo": "Lei Ordinária",
+        "epigrafe": "LEI Nº 12.917, DE 15 DE OUTUBRO DE 2026.",
+        "sha256_fonte": "8936f0216bc3460dc91ff137879da38387e48c3a2b814da6af0917c262a4ee88",
+        "sha256_camada": "1d4144fe1bcc671d2ca0b092bf3cc163f4c0ca8139cc09e2c65a4589fe133a33",
+        "sha256_corpo": "245a71d1378e55ca470bbedba75e45d28c62ba44711e31800921ce8f35efffd4",
+        "pdfimages": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     211   220  rgb     3   8  jpeg   yes        5  0   220   220 15.9K  12%\n",
+        "fonte_sem_remocao_de_linhas": true,
+        "total_paginas": 1
+      },
+      "CommonMark_paginas_cercadas_iguais": true,
+      "contexto_integralidade": "PDF contém um único ato e suas assinaturas; todas as páginas visualizadas. Nenhum anexo/objeto aprovado omitido identificado. LC815 apresenta reticências próprias dentro de citações (NR) dos seis dispositivos alterados, não aviso de ausência. Brasões e máscara identificados por hash exato; nenhum gráfico normativo raster restante."
+    },
+    {
+      "path": "estaduais/RN/leis-ordinarias/2026/lei-12916-2026-10-15-wpm4zjnczi.md",
+      "sha256_md": "6cb5b55037ab4ab703578c7f5997e7a3dad9db8389fc87b19361cdb7e7b1688d",
+      "cache": "estaduais/RN/_fonte/leis-ordinarias/2026/lei-12916-2026-10-15-wpm4zjnczi.html.gz",
+      "sha256_cache": "ba71be638b0c0c3dad579b1e5400bae8aaf2dc4dc77faa6bc540eca0631769d3",
+      "captura": {
+        "item": {
+          "lista": "leis-ordinarias",
+          "url": "https://www.al.rn.leg.br/storage/legislacao/2026/430e14mdibs5q8fnbqtfwpm4zjnczi.pdf",
+          "titulo": "Lei Ordinária 12.916 de 15.10.2026",
+          "ementa": "Institui diretrizes para o incentivo à oferta gratuita do serviço de aferição de pressão arterial por farmácias e drogarias, como ação complementar de promoção e prevenção em saúde."
+        },
+        "iniciado_em": "2026-10-21T05:50:02.303898-03:00",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/430e14mdibs5q8fnbqtfwpm4zjnczi.pdf",
+        "http": 200,
+        "headers": {
+          "Server": "nginx",
+          "Date": "Wed, 21 Oct 2026 08:50:02 GMT",
+          "Content-Type": "application/pdf",
+          "Content-Length": "137118",
+          "Connection": "close",
+          "Last-Modified": "Mon, 19 Oct 2026 12:42:38 GMT",
+          "Accept-Ranges": "bytes",
+          "ETag": "\"d261fa52c75fdd1:0\"",
+          "Content-Security-Policy": "upgrade-insecure-requests"
+        },
+        "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/430e14mdibs5q8fnbqtfwpm4zjnczi.pdf",
+        "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/1a8d1815315487143856e688835188bda7b29521e5d8c50d81e7cabae11580dd.bin.gz",
+        "sha256_fonte": "1a8d1815315487143856e688835188bda7b29521e5d8c50d81e7cabae11580dd",
+        "sha256_cache": "ba71be638b0c0c3dad579b1e5400bae8aaf2dc4dc77faa6bc540eca0631769d3",
+        "PDF": true,
+        "finalizado_em": "2026-10-21T05:50:02.940242-03:00"
+      },
+      "QA": {
+        "numero": "12916",
+        "data": "2026-10-15",
+        "tipo": "Lei Ordinária",
+        "epigrafe": "LEI Nº 12.916, DE 15 DE OUTUBRO DE 2026.",
+        "sha256_fonte": "1a8d1815315487143856e688835188bda7b29521e5d8c50d81e7cabae11580dd",
+        "sha256_camada": "da6929d288170bd0032fa45e0e9f91c5e77bf122ef61ab350425882440711c88",
+        "sha256_corpo": "09b6b8319440d19e804189419b1f4c684edd5153b103d00e9f92c38a0ca7a71c",
+        "pdfimages": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     215   225  rgb     3   8  jpeg   yes        5  0   220   220 11.3K 8.0%\n   1     1 smask     215   225  gray    1   8  image  no         5  0   220   220 14.8K  31%\n",
+        "fonte_sem_remocao_de_linhas": true,
+        "total_paginas": 2
+      },
+      "CommonMark_paginas_cercadas_iguais": true,
+      "contexto_integralidade": "PDF contém um único ato e suas assinaturas; todas as páginas visualizadas. Nenhum anexo/objeto aprovado omitido identificado. LC815 apresenta reticências próprias dentro de citações (NR) dos seis dispositivos alterados, não aviso de ausência. Brasões e máscara identificados por hash exato; nenhum gráfico normativo raster restante."
+    },
+    {
+      "path": "estaduais/RN/leis-complementares/2026/lc-815-2026-10-14-8m2a7fpjzj.md",
+      "sha256_md": "18b0fef1ba0eea29d4d6b0a3d0117e81d9cac1e4fb2f3eb4f0f0385402b81855",
+      "cache": "estaduais/RN/_fonte/leis-complementares/2026/lc-815-2026-10-14-8m2a7fpjzj.html.gz",
+      "sha256_cache": "587c2d61deb96b3208a584185077fc35989ba6c9bdb141e1f9573e80097c9371",
+      "captura": {
+        "item": {
+          "lista": "leis-complementares",
+          "url": "https://www.al.rn.leg.br/storage/legislacao/2026/wbypdo0tlyl0qk3h9h3q8m2a7fpjzj.pdf",
+          "titulo": "Lei Complementar nº 815 de 14.10.2026",
+          "ementa": "Altera a redação do caput e § 1º, do artigo 24, e o caput dos artigos 28, 33, 34, 35 e 36, da Lei Complementar nº 643, regula a Divisão e a Organização Judiciárias do Estado do Rio Grande do Norte."
+        },
+        "iniciado_em": "2026-10-21T05:50:04.145327-03:00",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/wbypdo0tlyl0qk3h9h3q8m2a7fpjzj.pdf",
+        "http": 200,
+        "headers": {
+          "Server": "nginx",
+          "Date": "Wed, 21 Oct 2026 08:50:04 GMT",
+          "Content-Type": "application/pdf",
+          "Content-Length": "189541",
+          "Connection": "close",
+          "Last-Modified": "Mon, 19 Oct 2026 13:50:35 GMT",
+          "Accept-Ranges": "bytes",
+          "ETag": "\"e573ced0d05fdd1:0\"",
+          "Content-Security-Policy": "upgrade-insecure-requests"
+        },
+        "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/wbypdo0tlyl0qk3h9h3q8m2a7fpjzj.pdf",
+        "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/ef0a9d66be39c70af4f090fe7e2cedb087c986327fbbee1fac5f3c49942f9650.bin.gz",
+        "sha256_fonte": "ef0a9d66be39c70af4f090fe7e2cedb087c986327fbbee1fac5f3c49942f9650",
+        "sha256_cache": "587c2d61deb96b3208a584185077fc35989ba6c9bdb141e1f9573e80097c9371",
+        "PDF": true,
+        "finalizado_em": "2026-10-21T05:50:04.781582-03:00"
+      },
+      "QA": {
+        "numero": "815",
+        "data": "2026-10-14",
+        "tipo": "Lei Complementar",
+        "epigrafe": "LEI COMPLEMENTAR Nº 815, DE 14 DE OUTUBRO DE 2026.",
+        "sha256_fonte": "ef0a9d66be39c70af4f090fe7e2cedb087c986327fbbee1fac5f3c49942f9650",
+        "sha256_camada": "bec24a443e625ce70527742dcce62e51ad595523336530c286f71f74a9ce74f5",
+        "sha256_corpo": "c13264cf4f76714afaa02e1861a7dbcfcc69433b288a59abfe2495fd96163810",
+        "pdfimages": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     211   220  rgb     3   8  jpeg   yes        5  0   220   220 15.9K  12%\n",
+        "fonte_sem_remocao_de_linhas": true,
+        "total_paginas": 2
+      },
+      "CommonMark_paginas_cercadas_iguais": true,
+      "contexto_integralidade": "PDF contém um único ato e suas assinaturas; todas as páginas visualizadas. Nenhum anexo/objeto aprovado omitido identificado. LC815 apresenta reticências próprias dentro de citações (NR) dos seis dispositivos alterados, não aviso de ausência. Brasões e máscara identificados por hash exato; nenhum gráfico normativo raster restante."
+    }
+  ],
+  "dependencias": {
+    "scripts/estados/manifestos/rn-indice-retomada-20261021-001.json": "82ce6e05efb64d767472e37b81f08c1129af4112c77293e85f0cd3d6e1194c6e",
+    "scripts/estados/manifestos/rn-fontes-retomada-20261021-001.json": "88798af38a3cd7f05e2f7577191d4c22301eb069e550a5bcb8731648faa75471",
+    "scripts/estados/manifestos/rn-fontes-retomada-20261021-001-selecao.json": "e6da3ab115e0bd8a8ad8714d3bbaca9118d8746761bf057ff68581d6ccf583fa"
+  },
+  "coleta_snapshot": "coletar_rn_fontes_20261021_001.py capturou os17 HTTP200 integralmente. Tratamento HTTPError corrigido depois, com dois testes; os três históricos sem resultado na captura001 não entram no pacote, sondagem002 os registra separadamente."
+}

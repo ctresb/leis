@@ -1,0 +1,20 @@
+{
+  "arquivos": {
+    "scripts/estados/auditar_pe_cache.py": "6b01a14236cddf0fd7d2a744a4bafc97e251a25282c7be5ba49e075d4b6486bc",
+    "scripts/estados/test_pe_auditoria_cache.py": "9d3f8174d6a0d9ce382d59978946dd4395a5cf3cc1717afa86074ab71dabc6cc"
+  },
+  "efeito": "Auditor somente leitura, lista explícita de MD canônicos PE, saída JSONL exclusiva sem sobrescrever arquivos. Nenhuma nova rede nem escrita de MD. Exclui buffers e traversal. Limite por documento de 20 segundos, falha retém com diagnóstico.",
+  "verificacoes": [
+    "cinco testes do auditor aprovados",
+    "suíte estadual completa: 71 testes aprovados",
+    "replay independente com hashes atuais dos 11.900 aceitos: 11.900 aceitos, zero alertas"
+  ],
+  "replay": {
+    "saida_integral_local": "/tmp/pe-cache-replay-11900-20261020-001.jsonl",
+    "sha256_jsonl": "6d419867ac11d4f367f227e30d2b4f19bfa1ceddce42a775115ecf8ed90339cc",
+    "lista": "/tmp/pe-cache-11900-md-20261020.txt",
+    "sha256_lista": "ca8f0a8c068eaf118331915d84f85e1fcc15c099b2fbb3a32e47315355d7f2e4",
+    "nota": "Reprodução concluída antes da posterior inserção de backticks para os 30 separadores oficiais; essa mudança apenas visual preserva corpo alfanumérico e não modifica gates."
+  },
+  "coletor_pe_origem": "scripts/estados/pe.py já no HEAD contém limite divTexto comprovado; não alterado por esta entrega."
+}

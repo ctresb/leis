@@ -1,0 +1,3656 @@
+{
+  "total_examinado": 10678,
+  "total_retido": 100,
+  "retidos": [
+    {
+      "path": "estaduais/SP/decretos/2008/dec-53313-2008-08-08-id122293.md",
+      "sha256_md": "7c7b679c181a365770a0595e7c6afab50e0b5063ac52656ce28eb1eccbc3dc7d",
+      "cache": "estaduais/SP/_fonte/decretos/2008/dec-53313-2008-08-08-id122293.html.gz",
+      "sha256_cache": "4daf79ee98fa89781715aa9278cc0c550eb36b77b794788425fa0c8252d6ad76",
+      "remissoes_proprias": [
+        "anexo ao presente decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "<img src=\"http://www.al.sp.gov.br/web/images/logoNorma.jpg\" border=0>"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo ao presente decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2008/dec-53312-2008-08-08-id122292.md",
+      "sha256_md": "3cbc998a39cd146a9be61018052206293c08ce378512072b3d3d2dab037ebda6",
+      "cache": "estaduais/SP/_fonte/decretos/2008/dec-53312-2008-08-08-id122292.html.gz",
+      "sha256_cache": "cc6a2dee525fdb9aac7c39506478655175c50127ff6ababbefb851fd40448007",
+      "remissoes_proprias": [
+        "anexo ao presente decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "<img src=\"http://www.al.sp.gov.br/web/images/logoNorma.jpg\" border=0>"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo ao presente decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2008/dec-53311-2008-08-08-id122291.md",
+      "sha256_md": "77de961eefaab2523deec72971fc0520d1ecc58c9649e222f9ea6088df815e07",
+      "cache": "estaduais/SP/_fonte/decretos/2008/dec-53311-2008-08-08-id122291.html.gz",
+      "sha256_cache": "07a56b455d4b2a4eb3c061a11d55490e6d7471e5ce073bfee470adad352fcf8c",
+      "remissoes_proprias": [
+        "anexo ao presente decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "<img src=\"http://www.al.sp.gov.br/web/images/logoNorma.jpg\" border=0>"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo ao presente decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2008/dec-53310-2008-08-08-id122290.md",
+      "sha256_md": "69863ad7a50738074277036d2fd0b7457c0d5b34bef78071f3c858f0742e742e",
+      "cache": "estaduais/SP/_fonte/decretos/2008/dec-53310-2008-08-08-id122290.html.gz",
+      "sha256_cache": "32afdc4f585c36f5d773d5065f0884a30541139a1838c8d908d1eb27b7e1672c",
+      "remissoes_proprias": [
+        "anexo ao presente decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "<img src=\"http://www.al.sp.gov.br/web/images/logoNorma.jpg\" border=0>"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo ao presente decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2008/dec-53309-2008-08-08-id122289.md",
+      "sha256_md": "bbc3c4c7c479a07f3db171caf729dd5e34fad62e3906bce726e574557e660cf4",
+      "cache": "estaduais/SP/_fonte/decretos/2008/dec-53309-2008-08-08-id122289.html.gz",
+      "sha256_cache": "89176e73a0e3a6e836920c46722ebce1ee6d8c34eedfd0eec7166bcfb52dcd02",
+      "remissoes_proprias": [
+        "anexo ao presente decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "<img src=\"http://www.al.sp.gov.br/web/images/logoNorma.jpg\" border=0>"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo ao presente decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2008/dec-52781-2008-03-06-id76509.md",
+      "sha256_md": "aab035c90e9e375d4e85679d47c3be341885e8185c612ee0b32f0593ce46ecab",
+      "cache": "estaduais/SP/_fonte/decretos/2008/dec-52781-2008-03-06-id76509.html.gz",
+      "sha256_cache": "3c84e5d016294f0f4c46b6dc800feaa4aae56835d858f8c7b75c57642f1c9ae6",
+      "remissoes_proprias": [
+        "Anexo que faz parte integrante deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "<img src=\"http://www.al.sp.gov.br/web/images/logoNorma.jpg\" border=0>"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexo que faz parte integrante deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2008/dec-52732-2008-02-20-id76409.md",
+      "sha256_md": "815ad60efdce3bdfcf24e63071cbe7f9443089a99913fc2dcf5d5d98cb4d21bd",
+      "cache": "estaduais/SP/_fonte/decretos/2008/dec-52732-2008-02-20-id76409.html.gz",
+      "sha256_cache": "0c2a0df64c748ee8a6d4c0fde17c9967ad9686f1beaf61d9e1fbf9126519b67a",
+      "remissoes_proprias": [
+        "Anexo, que faz parte integrante deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "<img src=\"http://www.al.sp.gov.br/web/images/logoNorma.jpg\" border=0>"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexo, que faz parte integrante deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2008/dec-52719-2008-02-14-id76319.md",
+      "sha256_md": "b7213a415688a7bf28f2477fcaddaa8c23d2bb4351ae740780c51ae1f88b7559",
+      "cache": "estaduais/SP/_fonte/decretos/2008/dec-52719-2008-02-14-id76319.html.gz",
+      "sha256_cache": "d26e8438dd3074562024117e6e34f12e014a9dad76c3e1d721585396cd8a018b",
+      "remissoes_proprias": [
+        "Anexo deste decreto",
+        "Anexo deste decreto",
+        "Anexo deste decreto",
+        "Anexo deste decreto",
+        "Anexo deste decreto",
+        "Anexo deste decreto",
+        "Anexo deste decreto",
+        "Anexo deste decreto",
+        "Anexo deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "<img src=\"http://www.al.sp.gov.br/web/images/logoNorma.jpg\" border=0>"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexo deste decreto",
+        "Anexo deste decreto",
+        "Anexo deste decreto",
+        "Anexo deste decreto",
+        "Anexo deste decreto",
+        "Anexo deste decreto",
+        "Anexo deste decreto",
+        "Anexo deste decreto",
+        "Anexo deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2008/dec-52717-2008-02-13-id76314.md",
+      "sha256_md": "c231c613fc714b2f61f9ee1b901f0466abe2e0e6ffaac77c771c2ccc40e44226",
+      "cache": "estaduais/SP/_fonte/decretos/2008/dec-52717-2008-02-13-id76314.html.gz",
+      "sha256_cache": "5c98e9401e3b658f111531bdf896d0f7ab0c70232eafdc56ad9ee648348e4038",
+      "remissoes_proprias": [
+        "Anexo I, que faz parte integrante deste decreto",
+        "Anexo II, que faz parte integrante deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "<img src=\"http://www.al.sp.gov.br/web/images/logoNorma.jpg\" border=0>"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexo I, que faz parte integrante deste decreto",
+        "Anexo II, que faz parte integrante deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2008/dec-52697-2008-02-07-id76247.md",
+      "sha256_md": "866469226535f08ba3c721deec4b658bef689c58afe6d978ca90fe6653c2f7a5",
+      "cache": "estaduais/SP/_fonte/decretos/2008/dec-52697-2008-02-07-id76247.html.gz",
+      "sha256_cache": "decc6b981dafcd11cc3ffc53c315a48510be04e5f6bc891c96639ceddcabed59",
+      "remissoes_proprias": [
+        "Anexos I e II deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "<img src=\"http://www.al.sp.gov.br/web/images/logoNorma.jpg\" border=0>"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexos I e II deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2008/dec-52690-2008-02-01-id76130.md",
+      "sha256_md": "5910f1207261f8c87a134d29bbb998d6079321c91b1e85569f2396e126ddedcc",
+      "cache": "estaduais/SP/_fonte/decretos/2008/dec-52690-2008-02-01-id76130.html.gz",
+      "sha256_cache": "9d39648d48596248504526481eb0b43877afb9e0148104039d77be6e653d25bb",
+      "remissoes_proprias": [
+        "Anexos que fazem parte deste decreto",
+        "Anexo I que faz parte integrante deste decreto",
+        "Anexo II, que faz parte integrante deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "<img src=\"http://www.al.sp.gov.br/web/images/logoNorma.jpg\" border=0>"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexos que fazem parte deste decreto",
+        "Anexo I que faz parte integrante deste decreto",
+        "Anexo II, que faz parte integrante deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2006/dec-51450-2006-12-29-id69451.md",
+      "sha256_md": "2c131cf78ef362291d76d7c585a143a194aa356c1df60a44f570ba5dc98a2379",
+      "cache": "estaduais/SP/_fonte/decretos/2006/dec-51450-2006-12-29-id69451.html.gz",
+      "sha256_cache": "2251fcb9fb61a91a1073f771024851b1807a867f5642ec07ee6873c220a290d7",
+      "remissoes_proprias": [
+        "anexo deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=69451",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/59744",
+          "Lei n&ordm; 12.183, de 29 de dezembro de 2005"
+        ],
+        [
+          "/norma/59744",
+          "Lei n&ordm; 12.183, de 29 de dezembro de 2005"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2006/dec-51449-2006-12-29-id69450.md",
+      "sha256_md": "cdbd4c5767c61f14c2a0461e5765df843b2bad7f031a2fedd2af99a577b6ba52",
+      "cache": "estaduais/SP/_fonte/decretos/2006/dec-51449-2006-12-29-id69450.html.gz",
+      "sha256_cache": "aa8ca6eaeaaccdf9b084faa019c058b5170db5bd66047e5e426f9a8000449a21",
+      "remissoes_proprias": [
+        "anexo deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=69450",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/59744",
+          "Lei n&ordm; 12.183, de 29 de dezembro de 2005"
+        ],
+        [
+          "/norma/59744",
+          "Lei n&ordm; 12.183, de 29 de dezembro de 2005"
+        ],
+        [
+          "/norma/18836",
+          "Lei Estadual (SP) n&deg; 7.663/91"
+        ],
+        [
+          "/norma/61978",
+          "Decreto n&ordm; 50.667/06"
+        ],
+        [
+          "/norma/61978",
+          "Decreto n&ordm; 50.667, de 30 de mar&ccedil;o de 2006"
+        ],
+        [
+          "/norma/61978",
+          "Decreto n&ordm; 50.667/06"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2006/dec-51431-2006-12-27-id69424.md",
+      "sha256_md": "cf2716e4ad24f55ca2cf672c6a6bb895515f99a8f8a815ac70537bac3022ff17",
+      "cache": "estaduais/SP/_fonte/decretos/2006/dec-51431-2006-12-27-id69424.html.gz",
+      "sha256_cache": "32d10cf624e7c18aa873dda64c59ef460cb8ee86c5ed8423a743659cc0730029",
+      "remissoes_proprias": [
+        "Anexo, que faz parte integrante deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=69424",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/62261",
+          "Decreto n&ordm; 50.824, de 25 de maio de 2006"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexo, que faz parte integrante deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2006/dec-50549-2006-02-17-id61333.md",
+      "sha256_md": "90e5e105dfdec8cd5f06e22175763046b84c6820af324ecebf71f3b250c0c517",
+      "cache": "estaduais/SP/_fonte/decretos/2006/dec-50549-2006-02-17-id61333.html.gz",
+      "sha256_cache": "deea6cd61b82f9375296767d376143266f14315729c1d00a9888eaace2309df9",
+      "remissoes_proprias": [
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=61333",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/59739",
+          "Lei Complementar n&deg; 984, de 29 de dezembro de 2005"
+        ],
+        [
+          "/norma/59739",
+          "Lei Complementar n&deg; 984, de 29 de dezembro de 2005"
+        ],
+        [
+          "/norma/59739",
+          "Lei Complementar n&ordm; 984, de 29 de dezembro de 2005"
+        ],
+        [
+          "/norma/28593",
+          "Lei n&ordm; 10.261, de 28 de outubro de 1968"
+        ],
+        [
+          "/norma/27786",
+          "Lei Complementar n&ordm; 367, de 14 de dezembro de 1984"
+        ],
+        [
+          "/norma/5211",
+          "Lei Complementar n&ordm; 883, de 17 de outubro de 2000"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto",
+        "Anexo que integra este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2005/dec-50343-2005-12-13-id59320.md",
+      "sha256_md": "cd5310fce1512af496bbd209ede268a6997772ec21d96f184fa396ce59ce8037",
+      "cache": "estaduais/SP/_fonte/decretos/2005/dec-50343-2005-12-13-id59320.html.gz",
+      "sha256_cache": "0ffea88c2a2875553594a27eac4ac3763c22f7fd0c5bece167b945d79cdeae2b",
+      "remissoes_proprias": [
+        "Anexo I, que faz parte integrante deste decreto",
+        "Anexo II, que faz parte integrante deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=59320",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/30762",
+          "Lei Complementar n&ordm; 180, de 12 de maio de 1978"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexo I, que faz parte integrante deste decreto",
+        "Anexo II, que faz parte integrante deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2005/dec-50171-2005-11-04-id58729.md",
+      "sha256_md": "868f7166135a4abaa1904bae614ed588b96aab8f39db7012df69bc30f2ac30a1",
+      "cache": "estaduais/SP/_fonte/decretos/2005/dec-50171-2005-11-04-id58729.html.gz",
+      "sha256_cache": "f0c8bb3bb44ef2e2ddf2a8dc4a9667442874f91da6fac22e8efd5317aa7e0556",
+      "remissoes_proprias": [
+        "Anexo XVII do citado regulamento, na redação dada por este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=58729",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/58510",
+          "Decreto n&ordm; 50.110, de 14 de outubro de 2005"
+        ],
+        [
+          "/norma/5072",
+          "Decreto n&ordm; 45.490, de 30 de novembro de 2000"
+        ],
+        [
+          "/norma/5072",
+          "Decreto n&ordm; 45.490, de 30 de novembro de 2000"
+        ],
+        [
+          "/norma/5072",
+          "Decreto n&ordm; 45.490, de 30 de novembro de 2000"
+        ],
+        [
+          "/norma/5072",
+          "Decreto n&ordm; 45.490, de 30 de novembro de 2000"
+        ],
+        [
+          "/norma/58510",
+          "Decreto 50.110, de 14 de outubro de 2005"
+        ],
+        [
+          "/norma/5072",
+          "Decreto n&ordm; 45.490, de 30 de novembro de 2000"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexo XVII do citado regulamento, na redação dada por este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2005/dec-50170-2005-11-04-id58728.md",
+      "sha256_md": "d174974f1e0acdd5b54cf26215a51a28c11b9b338e52ea1ee47fdd8d3cd9da43",
+      "cache": "estaduais/SP/_fonte/decretos/2005/dec-50170-2005-11-04-id58728.html.gz",
+      "sha256_cache": "b3f3059b71a2761a5bffd7d8076cacc265c06d40f3d3f30b397a77ca50b2470f",
+      "remissoes_proprias": [
+        "anexo deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=58728",
+          "Ficha informativa"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2005/dec-50089-2005-10-06-id58285.md",
+      "sha256_md": "4b9c8e588ebf630a711ce869912086b56c7f9a3f498363ba14d77459faa330e9",
+      "cache": "estaduais/SP/_fonte/decretos/2005/dec-50089-2005-10-06-id58285.html.gz",
+      "sha256_cache": "14ce0b2e33547a7470e7b04aa9194d78c41029a4acd488e74231035948d1a32e",
+      "remissoes_proprias": [
+        "Anexos I a III que fazem parte integrante deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=58285",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/4434",
+          "Decreto n&ordm; 44.847, de 25 de abril de 2000"
+        ],
+        [
+          "/norma/16084",
+          "Lei Complementar n&ordm; 712, de 12 de abril de 1993"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexos I a III que fazem parte integrante deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2005/dec-49457-2005-03-10-id52889.md",
+      "sha256_md": "26f6e58e76e023773be18bd6dad8c5c8295dafff337b79c364db62786b55e520",
+      "cache": "estaduais/SP/_fonte/decretos/2005/dec-49457-2005-03-10-id52889.html.gz",
+      "sha256_cache": "3f99f13b86cbf40acbf8f26a7c5afa29db82064ff5e78c85309af478c6682a3f",
+      "remissoes_proprias": [
+        "anexos ao Processo SS-3.449/04, que ficam fazendo parte integrante deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=52889",
+          "Ficha informativa"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexos ao Processo SS-3.449/04, que ficam fazendo parte integrante deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2003/dec-48129-2003-10-06-id2449.md",
+      "sha256_md": "aee5b59addba7faf45582378bc2e8782136fd03cfc75ac8202122b73e44b1847",
+      "cache": "estaduais/SP/_fonte/decretos/2003/dec-48129-2003-10-06-id2449.html.gz",
+      "sha256_cache": "356c7e7dce3a2f9ab0ed61f28b432e11ae0346f4297235b5306887afe9757883",
+      "remissoes_proprias": [
+        "anexos ao processo SMA-41.283/2000, que ficam fazendo parte integrante deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=2449",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/3070",
+          "Decreto n&ordm; 45.673, de 19 de fevereiro de 2001"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexos ao processo SMA-41.283/2000, que ficam fazendo parte integrante deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2003/dec-48047-2003-08-22-id2258.md",
+      "sha256_md": "575742cf71583a07972800078c7e1a06ccf694b7ede3ada1e4b023615a08c37f",
+      "cache": "estaduais/SP/_fonte/decretos/2003/dec-48047-2003-08-22-id2258.html.gz",
+      "sha256_cache": "57be44c632ac0efb60a4c656d3ef5cd5439cea5ed5da81f8d162badb4c37c17e",
+      "remissoes_proprias": [
+        "Anexo I, que faz parte integrante deste decreto",
+        "Anexo II, que faz parte integrante deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=2258",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/30762",
+          "Lei Complementar n&ordm; 180, de 12 de maio de 1978"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexo I, que faz parte integrante deste decreto",
+        "Anexo II, que faz parte integrante deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2003/dec-48034-2003-08-19-id2238.md",
+      "sha256_md": "05e479524a1cf5be9afbd0b596bcd667c3042d4fa85852f5c5fbb10ded79cb75",
+      "cache": "estaduais/SP/_fonte/decretos/2003/dec-48034-2003-08-19-id2238.html.gz",
+      "sha256_cache": "c01818adcc08d8acb283fcd211ed1211a0ef6e854a090420dc4ce33f5460768c",
+      "remissoes_proprias": [
+        "Anexo, na redação dada pelo inciso III do artigo 1º deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=2238",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/1648",
+          "Decreto n&ordm; 47.649, de 14 de fevereiro de 2003"
+        ],
+        [
+          "/norma/1862",
+          "Decreto n&ordm; 47.785, de 23 de abril de 2003"
+        ],
+        [
+          "/norma/2181",
+          "Decreto n&ordm; 47.981, de 23 de julho de 2003"
+        ],
+        [
+          "/norma/2186",
+          "Decreto n&ordm; 47.986, de 30 de julho de 2003"
+        ],
+        [
+          "/norma/5072",
+          "Decreto n&ordm; 45.490, de 30 de novembro de 2000"
+        ],
+        [
+          "/norma/5072",
+          "Decreto n&ordm; 45.490, de 30 de novembro de 2000"
+        ],
+        [
+          "/norma/5072",
+          "Decreto n&ordm; 45.490, de 30 de novembro de 2000"
+        ],
+        [
+          "/norma/5072",
+          "Decreto n&ordm; 45.490, de 30 de novembro de 2000"
+        ],
+        [
+          "/norma/1862",
+          "Decreto n&ordm; 47.785, de 23 de abril de 2003"
+        ],
+        [
+          "/norma/2181",
+          "Decreto n&ordm; 47.981, de 23 de julho de 2003"
+        ],
+        [
+          "/norma/2186",
+          "Decreto n&ordm; 47.986, de 30 de julho de 2003"
+        ],
+        [
+          "/norma/5072",
+          "Decreto n&ordm; 45.490, de 30 de novembro de 2000"
+        ],
+        [
+          "/norma/5072",
+          "Decreto n&ordm; 45.490, de 30 de novembro de 2000"
+        ],
+        [
+          "/norma/1488",
+          "Lei n&ordm; 11.332, de 27 de dezembro de 2002"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexo, na redação dada pelo inciso III do artigo 1º deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2003/dec-47784-2003-04-23-id1861.md",
+      "sha256_md": "5b2c203667edd47ecc3e7978f6d9523ec81d0c3b0e54ebc44db40380b98ad78b",
+      "cache": "estaduais/SP/_fonte/decretos/2003/dec-47784-2003-04-23-id1861.html.gz",
+      "sha256_cache": "a6693cced26c92517571258078fed2702bfd2edbc877f8d4a0428352a23d7ac9",
+      "remissoes_proprias": [
+        "Anexo I, no período de 1º/01/03 até a data de publicação deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=1861",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/5072",
+          "Decreto n&ordm; 45.490, de 30 de novembro de 2000"
+        ],
+        [
+          "/norma/25030",
+          "Lei 6.374/89"
+        ],
+        [
+          "/norma/5489",
+          "Lei 9.794/97"
+        ],
+        [
+          "/norma/5072",
+          "Decreto n&ordm; 45.490, de 30 de novembro de 2000"
+        ],
+        [
+          "/norma/5072",
+          "Decreto n&ordm; 45.490, de 30 de novembro de 2000"
+        ],
+        [
+          "/norma/5072",
+          "Decreto n&ordm; 45.490, de 30 de novembro de 2000"
+        ],
+        [
+          "/norma/1622",
+          "Decreto 47.626, de 5 de fevereiro de 2003"
+        ],
+        [
+          "/norma/5072",
+          "Decreto n&ordm; 45.490, de 30 de novembro de 2000"
+        ],
+        [
+          "/norma/1622",
+          "Decreto 47.626, de 5 de fevereiro de 2003"
+        ],
+        [
+          "/norma/5072",
+          "Decreto n&ordm; 45.490, de 30 de novembro de 2000"
+        ],
+        [
+          "/norma/1622",
+          "Decreto n&ordm; 47.626, de 5 de fevereiro de 2003"
+        ],
+        [
+          "/norma/1622",
+          "Decreto n&ordm; 47.626, de 5 de fevereiro de 2003"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexo I, no período de 1º/01/03 até a data de publicação deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2003/dec-47626-2003-02-05-id1622.md",
+      "sha256_md": "dc8757ec67b7444551e4ab8024e92635997c5a362fdd851fbaf80a32336c5140",
+      "cache": "estaduais/SP/_fonte/decretos/2003/dec-47626-2003-02-05-id1622.html.gz",
+      "sha256_cache": "dd8a377804b50013aa7df6908701a23e92ad9a56fdc460b0358cd2bd55150475",
+      "remissoes_proprias": [
+        "Anexo II, introduzido por este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=1622",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/1503",
+          "Decreto n.&ordm; 47.534, de 27 de dezembro de 2002"
+        ],
+        [
+          "/norma/5072",
+          "Decreto n.&ordm; 45.490, de 30 de novembro de 2000"
+        ],
+        [
+          "/norma/5072",
+          "Decreto n.&ordm; 45.490, de 30 de novembro de 2000"
+        ],
+        [
+          "/norma/5072",
+          "Decreto n.&ordm; 45.490, de 30 de novembro de 2000"
+        ],
+        [
+          "/norma/5072",
+          "Decreto n&ordm; 45.490, de 30 de novembro de 2000"
+        ],
+        [
+          "/norma/5072",
+          "Decreto n.&ordm; 45.490, de 30 de novembro de 2000"
+        ],
+        [
+          "/norma/1503",
+          "Decreto n.&ordm; 47.534, de 27 de dezembro de 2002"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexo II, introduzido por este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2002/dec-46655-2002-04-01-id431.md",
+      "sha256_md": "d95b6ef970de4bc2fa46b1ff3d05433891fc026ef6432a02d1ed895012c32d23",
+      "cache": "estaduais/SP/_fonte/decretos/2002/dec-46655-2002-04-01-id431.html.gz",
+      "sha256_cache": "d44fa787b9468bfa63601296dd78960e19d8188464a396b17b6544d8e7d05656",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=431",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/3234",
+          "Decreto n&ordm; 45.837, de 4 de junho de 2001"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/2880",
+          "Lei 10.992/01"
+        ],
+        [
+          "/norma/4368",
+          "Lei n&ordm; 10.705/00"
+        ],
+        [
+          "/norma/2880",
+          "Lei n&ordm; 10.992/01"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/2880",
+          "Lei 10.992/01"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/2880",
+          "Lei 10.992/01"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/2880",
+          "Lei 10.992/01"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/2880",
+          "Lei 10.992/01"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/2880",
+          "Lei 10.992/01"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/2880",
+          "Lei 10.992/01"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/2880",
+          "Lei 10.992/01"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/2880",
+          "Lei 10.992/01"
+        ],
+        [
+          "/norma/4368",
+          "Lei  10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei n&ordm; 10.705, de 28 de dezembro de 2000"
+        ],
+        [
+          "/norma/2880",
+          "Lei n&ordm; 10.992, de 21 de dezembro de 2001"
+        ],
+        [
+          "/norma/8716",
+          "Lei Complementar estadual n&ordm; 863/99"
+        ],
+        [
+          "/norma/4368",
+          "Lei n&ordm; 10.705/00"
+        ],
+        [
+          "/norma/2880",
+          "Lei n&ordm; 10.992/01"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2001/dec-45837-2001-06-04-id3234.md",
+      "sha256_md": "3f3f9228fb13156ee13faafd349cfb1bb40f7dc803307db7db527faf5950ed4a",
+      "cache": "estaduais/SP/_fonte/decretos/2001/dec-45837-2001-06-04-id3234.html.gz",
+      "sha256_cache": "2effcb10aa041160d32d52445f1d0732a264f504151a92e76bfb4d58a742d2cd",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=3234",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/4368",
+          "Lei n.&ordm; 10.705, de 28 de dezembro de 2000"
+        ],
+        [
+          "/norma/4368",
+          "Lei n&ordm; 10.705, de 28 de dezembro de 2000"
+        ],
+        [
+          "/norma/3234",
+          "Decreto n.&ordm; 45.837, de 4 de junho de 2001"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei n.&ordm; 10.705, de 28 de dezembro de 2000"
+        ],
+        [
+          "/norma/4368",
+          "Lei n.&ordm; 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei n.&ordm; 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei 10.705/00"
+        ],
+        [
+          "/norma/4368",
+          "Lei n.&ordm; 10.705/00"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2001/dec-45616-2001-01-04-id3013.md",
+      "sha256_md": "c0208eb97086594bb483b25083b6825f51be1369365f8bb992db6b0366211bf0",
+      "cache": "estaduais/SP/_fonte/decretos/2001/dec-45616-2001-01-04-id3013.html.gz",
+      "sha256_cache": "e7e568393d4029ba360bcd254665e5855135a9b5ee84ee358a2b70084a6ea53d",
+      "remissoes_proprias": [
+        "Anexo que faz parte integrante deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=3013",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/8717",
+          "Lei n.&ordm; 10.479, de 29 de dezembro de 1999"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexo que faz parte integrante deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2000/dec-45014-2000-06-28-id4601.md",
+      "sha256_md": "c1c263d4d3b7f02f71844c0d5cd4448d66fa18a9ed9c1220182cfad676f51df2",
+      "cache": "estaduais/SP/_fonte/decretos/2000/dec-45014-2000-06-28-id4601.html.gz",
+      "sha256_cache": "8d6f7711139b86aff7c6970ca7fcffcb83be712d8cef48ae4010a42a109472ff",
+      "remissoes_proprias": [
+        "Anexo deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=4601",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/8688",
+          "Decreto n.&ordm; 44.569, de 22 de dezembro de 1999"
+        ],
+        [
+          "/norma/8688",
+          "Decreto n&ordm; 44.569, de 22 de dezembro de 1999"
+        ],
+        [
+          "/norma/8688",
+          "Decreto n&ordm; 44.569, de 22 de dezembro de 1999"
+        ],
+        [
+          "/norma/4601",
+          "Decreto n.&ordm; 45.014, de 28 de junho de 2000"
+        ],
+        [
+          "/norma/8688",
+          "Decreto 44.569, de 22 de dezembro de 1999"
+        ],
+        [
+          "/norma/4601",
+          "Decreto n.&ordm; 45.014, de 28 de junho de 2000"
+        ],
+        [
+          "/norma/8688",
+          "Decreto n.&ordm; 44.569, de 22 de dezembro de 1999"
+        ],
+        [
+          "/norma/4601",
+          "Decreto n&ordm; 45.014, de 28 de junho de 2000"
+        ],
+        [
+          "/norma/23984",
+          "Lei Estadual n&ordm; 6.544, de 22 de novembro de 1989"
+        ],
+        [
+          "/norma/8688",
+          "Decreto n.&ordm; 44.569, de 22 de dezembro de 1999"
+        ],
+        [
+          "/norma/4601",
+          "Decreto n.&ordm; 45.014, de 28 de junho de 2000"
+        ],
+        [
+          "/norma/8688",
+          "Decreto n.&ordm; 44.569, de 22 de dezembro de 1999"
+        ],
+        [
+          "/norma/4601",
+          "Decreto n.&ordm; 45.014, de 28 de junho de 2000"
+        ],
+        [
+          "/norma/8688",
+          "Decreto 44.569, de 22 de dezembro de 1999"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexo deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2000/dec-44990-2000-06-23-id4577.md",
+      "sha256_md": "b93bf82accd634c930fe7eab8c230a075ff889ea12859b30d62df8fb82fb4c51",
+      "cache": "estaduais/SP/_fonte/decretos/2000/dec-44990-2000-06-23-id4577.html.gz",
+      "sha256_cache": "98d4d87eeac0d6af1ada8661b2f500c141c18c1427336dc447ef532068eac62c",
+      "remissoes_proprias": [
+        "Anexo I deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=4577",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/6772",
+          "Decreto n.&ordm; 43.259, de 29 de junho de 1998"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexo I deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/2000/dec-44642-2000-01-06-id3949.md",
+      "sha256_md": "8464e47f106f1c1167f66f89e4008f50e9da7ca2f1c2e074268e1ba543102f77",
+      "cache": "estaduais/SP/_fonte/decretos/2000/dec-44642-2000-01-06-id3949.html.gz",
+      "sha256_cache": "c7c050dcd47f2a2c44053bc5735541cabc87cb442799482efd0d39fe615abf46",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=3949",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/11463",
+          "Decreto n.&deg; 40.103, de 25 de maio de 1995"
+        ],
+        [
+          "/norma/11463",
+          "Decreto n.&deg; 40.103, de 25 de maio de 1995"
+        ],
+        [
+          "/norma/11463",
+          "Decreto n.&deg; 40.103, de 25 de maio de 1995"
+        ],
+        [
+          "/norma/11463",
+          "Decreto n.&deg; 40.103, de 25 de maio de 1995"
+        ],
+        [
+          "/norma/23984",
+          "Lei Estadual n.&deg; 6.544, de 22 de novembro de 1989"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1998/dec-43034-1998-04-13-id6469.md",
+      "sha256_md": "65615d678a720b259a26b83fd952b4351cf901cc5ce55ab1c635bf8c4569d0c7",
+      "cache": "estaduais/SP/_fonte/decretos/1998/dec-43034-1998-04-13-id6469.html.gz",
+      "sha256_cache": "f905ae20cf967cbb395d34ec0cee00c70d538acdcdeba0cb16ce8b69a8383d5e",
+      "remissoes_proprias": [
+        "Anexo 1, que faz parte integrante deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=6469",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/25474",
+          "Lei Complementar n.&ordm; 547, de 24 de junho de 1988"
+        ],
+        [
+          "/norma/25474",
+          "Lei Complementar n.&ordm; 547, de 24 de junho de 1988"
+        ],
+        [
+          "/norma/34365",
+          "Decreto n.&ordm; 28.970, de 4 de outubro de 1988"
+        ],
+        [
+          "/norma/5550",
+          "Decreto n.&ordm; 42.255, de 24 de setembro de 1997"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexo 1, que faz parte integrante deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1998/dec-42948-1998-03-19-id6367.md",
+      "sha256_md": "36dca829fb4e14790061f96b23e2f0f0ab6fbd528fc1dc7e5b24140526fb841c",
+      "cache": "estaduais/SP/_fonte/decretos/1998/dec-42948-1998-03-19-id6367.html.gz",
+      "sha256_cache": "e589863a607b4a2f8291b9ea8585a7166dbf86ea639cb383f5af3ebeea49fa8f",
+      "remissoes_proprias": [
+        "anexo ao presente decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=6367",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/10243",
+          "Lei n.&ordm; 9.361, de 5 de julho de 1996"
+        ],
+        [
+          "/norma/11633",
+          "Decreto n.&ordm; 40.000, de 16 de mar&ccedil;o de 1995"
+        ],
+        [
+          "/norma/10234",
+          "Decreto n.&ordm; 41.048, de 26 de julho de 1996"
+        ],
+        [
+          "/norma/10234",
+          "Decreto n&ordm; 41.048, de 26 de julho de 1996"
+        ],
+        [
+          "/norma/43375",
+          "Lei n.&ordm; 7.835, de 8 de maio de 1992"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo ao presente decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1998/dec-42911-1998-03-06-id6330.md",
+      "sha256_md": "227cf52cc152bd1f16b2a6ccdc38bf0af2b700bad2339fa1f4c680c9cd0f84a2",
+      "cache": "estaduais/SP/_fonte/decretos/1998/dec-42911-1998-03-06-id6330.html.gz",
+      "sha256_cache": "fc08d762ae83992c648ee0ee0a83e3cab0d443a5358d14df909bbdf7f408869b",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=6330",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/5639",
+          "Lei n.&ordm; 9.797, de 7 de outubro de 1997"
+        ],
+        [
+          "/norma/23984",
+          "Lei n.&ordm; 6.544, de 22 de novembro de 1989"
+        ],
+        [
+          "/norma/5639",
+          "Lei n.&ordm; 9.797, de 7 de outubro de 1997"
+        ],
+        [
+          "/norma/23984",
+          "Lei n.&ordm; 6.544, de 22 de novembro de 1989"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1998/dec-42859-1998-02-11-id6309.md",
+      "sha256_md": "096f288a77450bd53a922504a7cc1bf60eb7b6ad93a009fa3405f14ca339823f",
+      "cache": "estaduais/SP/_fonte/decretos/1998/dec-42859-1998-02-11-id6309.html.gz",
+      "sha256_cache": "30b6dec7a3c8d978e1d4ae06ae7c6066d369b575a348cb63c565a020847cdfed",
+      "remissoes_proprias": [
+        "anexo ao presente decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=6309",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/10243",
+          "Lei n.&deg; 9.361, de 5 de julho de 1996"
+        ],
+        [
+          "/norma/11633",
+          "Decreto n.&deg; 40.000, de 16 de mar&ccedil;o de 1995"
+        ],
+        [
+          "/norma/6345",
+          "Decreto n.&deg; 42.858, de 11 de fevereiro de 1998"
+        ],
+        [
+          "/norma/6345",
+          "Decreto n.&deg; 42.858, de 11 de fevereiro de 1998"
+        ],
+        [
+          "/norma/53022",
+          "Decreto n.&deg; 24.675, de 30 de janeiro de 1986"
+        ],
+        [
+          "/norma/43375",
+          "Lei Estadual n&deg; 7.835, de 8 de maio de 1992"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo ao presente decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1998/dec-42840-1998-02-04-id6251.md",
+      "sha256_md": "8f44c9dba4495725cc20778457ae21d8d6cff45cb79e5fe384273e5f116e8808",
+      "cache": "estaduais/SP/_fonte/decretos/1998/dec-42840-1998-02-04-id6251.html.gz",
+      "sha256_cache": "122a060115a2a905576444a2cb0af31b6262a88afef4b4d6b00af0e5cb6d289a",
+      "remissoes_proprias": [
+        "anexo ao presente decreto"
+      ],
+      "links_fonte": [
+        [
+          "https://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=6251",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/10243",
+          "Lei n.&ordm; 9.361, de 5 de julho de 1996"
+        ],
+        [
+          "/norma/11633",
+          "Decreto n.&ordm; 40.000, de 16 de mar&ccedil;o de 1995"
+        ],
+        [
+          "/norma/9293",
+          "Decreto n.&ordm; 41.706, de 14 de abril de 1997"
+        ],
+        [
+          "/norma/6183",
+          "Decreto n.&ordm; 42.782, de 5 de Janeiro de 1998"
+        ],
+        [
+          "/norma/9293",
+          "Decreto n.&ordm; 41.706, de 14 de abril de 1997"
+        ],
+        [
+          "/norma/6183",
+          "Decreto n.&ordm; 42.782, de 5 de janeiro de 1998"
+        ],
+        [
+          "/norma/43375",
+          "Lei n.&ordm; 7.835, de 8 de maio de 1992"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo ao presente decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1998/dec-42837-1998-02-03-id6248.md",
+      "sha256_md": "10f6519d45352d8a329888b411cb5f2195d0e519aff1a5ca564822e493094785",
+      "cache": "estaduais/SP/_fonte/decretos/1998/dec-42837-1998-02-03-id6248.html.gz",
+      "sha256_cache": "fad0c4d2e4dc79ce43d8159fbd7dcba0a6f099b7db2a4a59a8aeff0515875d60",
+      "remissoes_proprias": [
+        "Anexo deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=6248",
+          "Ficha informativa"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexo deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1998/dec-42822-1998-01-20-id6305.md",
+      "sha256_md": "f6d8f006215c61503050001e454ebfc4355565136222e0d14a32e2dd2fd65634",
+      "cache": "estaduais/SP/_fonte/decretos/1998/dec-42822-1998-01-20-id6305.html.gz",
+      "sha256_cache": "72ec56ad7ffeb0aa1c8d6ee5ffaa3ae058f36a588cb6f9474759f5764969f113",
+      "remissoes_proprias": [
+        "Anexo I que faz parte integrante deste decreto",
+        "Anexo II que faz parte integrante deste decreto",
+        "Anexo III, que faz parte integrante deste decreto",
+        "Anexo IV, que faz parte integrante deste decreto",
+        "Anexo III, classificadas nos termos dos artigos 12 e 13 deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=6305",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/28593",
+          "Lei n.&ordm; 10.261, de 28 de outubro de 1968"
+        ],
+        [
+          "/norma/28479",
+          "Lei n.&ordm; 10.168, de 10 de julho de 1968"
+        ],
+        [
+          "/norma/11550",
+          "Decreto n.&ordm; 40.039, de 6 de abril de 1995"
+        ],
+        [
+          "/norma/11550",
+          "Decreto n.&ordm; 40.039, de 6 de abril de 1995"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexo I que faz parte integrante deste decreto",
+        "Anexo II que faz parte integrante deste decreto",
+        "Anexo III, que faz parte integrante deste decreto",
+        "Anexo IV, que faz parte integrante deste decreto",
+        "Anexo III, classificadas nos termos dos artigos 12 e 13 deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1997/dec-42779-1997-12-31-id7553.md",
+      "sha256_md": "5fbc255f7945f167def3846e56dd6faac6c8175f0fce06bc1a684ad3eb53dfd2",
+      "cache": "estaduais/SP/_fonte/decretos/1997/dec-42779-1997-12-31-id7553.html.gz",
+      "sha256_cache": "8b2f4b29ce466443e60061429670a60917e95eec7d96e29ae4412ec300ee54f0",
+      "remissoes_proprias": [
+        "Anexo II, ambos deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=7553",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/8804",
+          "Lei n.&ordm; 9.717, de 17 de julho de 1997"
+        ],
+        [
+          "/norma/10792",
+          "Decreto n.&ordm; 40.566, de 21 de dezembro de 1995"
+        ],
+        [
+          "/norma/6193",
+          "Lei n.&ordm; 9.902, de 30 de dezembro de 1997"
+        ],
+        [
+          "/norma/6193",
+          "Lei n.&ordm; 9.902, de 30 de dezembro de 1997"
+        ],
+        [
+          "/norma/10092",
+          "Decreto n.&deg; 41.165, de 20 de setembro de 1996"
+        ],
+        [
+          "/norma/53250",
+          "Decreto n.&ordm; 21.984, de 2 de mar&ccedil;o de 1984"
+        ],
+        [
+          "/norma/6193",
+          "Lei n.&ordm; 9.902, de 30 de dezembro de 1997"
+        ],
+        [
+          "/norma/16963",
+          "Decreto n.&ordm; 35.946, de 30 de outubro de 1992"
+        ],
+        [
+          "/norma/11370",
+          "Decreto n.&ordm; 40.177, de 7 de julho de 1995"
+        ],
+        [
+          "/norma/6193",
+          "Lei n.&ordm; 9.902, de 30 de dezembro de 1997"
+        ],
+        [
+          "/norma/6193",
+          "Lei n.&ordm; 9.902, de 30 de dezembro de 1997"
+        ],
+        [
+          "/norma/53250",
+          "Decreto n.&ordm; 21.984, de 2 de mar&ccedil;o de 1984"
+        ],
+        [
+          "/norma/6022",
+          "Decreto n.&ordm; 42.643, de 18 de dezembro de 1997"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexo II, ambos deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1997/dec-42646-1997-12-18-id6025.md",
+      "sha256_md": "8996fee75fb938991a7b4c2aa77a354e29bfa7bbeeddba612a8c6ab6fedeb004",
+      "cache": "estaduais/SP/_fonte/decretos/1997/dec-42646-1997-12-18-id6025.html.gz",
+      "sha256_cache": "5973aec9410adaa5dcbed32ace3595d1ef7dcdee91c78e2847219c29bea0f59a",
+      "remissoes_proprias": [
+        "anexo ao presente decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=6025",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/11633",
+          "Decreto n.&ordm; 40.000, de 16 de mar&ccedil;o de 1995"
+        ],
+        [
+          "/norma/10664",
+          "Decreto n.&ordm; 40.637, de 18 de Janeiro de 1996"
+        ],
+        [
+          "/norma/9294",
+          "Decreto n.&ordm; 41.707, de 14 de abril de 1997"
+        ],
+        [
+          "/norma/6024",
+          "Decreto n.&ordm; 42.645, de 18 de dezembro de 1997"
+        ],
+        [
+          "/norma/10664",
+          "Decreto n.&ordm; 40.637, de 18 de janeiro de 1996"
+        ],
+        [
+          "/norma/43375",
+          "Lei n.&ordm; 7.835, de 8 de maio de 1992"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo ao presente decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1997/dec-42110-1997-08-19-id5357.md",
+      "sha256_md": "362e6506f5efd21ac3d0756da865c39b96c7d74232dca21468bbcd2f55dcd96e",
+      "cache": "estaduais/SP/_fonte/decretos/1997/dec-42110-1997-08-19-id5357.html.gz",
+      "sha256_cache": "761010fd997cc907e9934e18a22d80b04e668eb8f26100ab9607f40f624ade2d",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=5357",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/49463",
+          "Decreto-Lei n.&ordm; 237, de 30 de abril de 1970"
+        ],
+        [
+          "/norma/39664",
+          "Lei n.&deg; 501, de 13 de novembro de 1974"
+        ],
+        [
+          "/norma/47473",
+          "Decreto-Lei Complementar n.&deg; 7, de 6 de novembro de 1969"
+        ],
+        [
+          "/norma/76643",
+          "Decreto n.&deg; 13.242, de 12 de fevereiro de 1979"
+        ],
+        [
+          "/norma/76643",
+          "Decreto n.&deg; 13.242, de 12 de fevereiro de 1979"
+        ],
+        [
+          "/norma/51408",
+          "Decreto n.&ordm; 25.367, de 12 de junho de 1986"
+        ],
+        [
+          "/norma/76643",
+          "Decreto n.&ordm; 13.242, de 12 de fevereiro de 1979"
+        ],
+        [
+          "/norma/49433",
+          "Decreto-Lei n.&ordm; 233, de 28 de abril de 1970"
+        ],
+        [
+          "/norma/23984",
+          "Lei n.&ordm; 6.544, de 22 de novembro de 1989"
+        ],
+        [
+          "/norma/23490",
+          "Decreto n.&ordm; 31.138, de 09 de janeiro de 1990"
+        ],
+        [
+          "/norma/76643",
+          "Decreto n.&ordm; 13.242, de 12 de fevereiro de 1979"
+        ],
+        [
+          "/norma/76643",
+          "Decreto n.&ordm; 13.242, de 12 de fevereiro de 1979"
+        ],
+        [
+          "/norma/76643",
+          "Decreto n.&ordm; 13.242, de 12 de fevereiro de 1979"
+        ],
+        [
+          "/norma/49433",
+          "Decreto-Lei n.&ordm; 233, de 28 de abril de 1970"
+        ],
+        [
+          "/norma/76643",
+          "Decreto n.&ordm; 13.242, de 12 de fevereiro de 1979"
+        ],
+        [
+          "/norma/76643",
+          "Decreto n.&ordm; 13.242, de 12 de fevereiro de 1979"
+        ],
+        [
+          "/norma/76643",
+          "Decreto n.&ordm; 13.242, de 12 de fevereiro de 1979"
+        ],
+        [
+          "/norma/76643",
+          "Decreto n.&ordm; 13.242, de 12 de fevereiro de 1979"
+        ],
+        [
+          "/norma/18412",
+          "Lei Complementar n.&ordm; 674, de 8 de abril de 1992"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1997/dec-41881-1997-06-25-id8925.md",
+      "sha256_md": "caf075982bdb028dd8a6e6485b667dd8eef5a4c150c6062a377eb065f3408235",
+      "cache": "estaduais/SP/_fonte/decretos/1997/dec-41881-1997-06-25-id8925.html.gz",
+      "sha256_cache": "86a2fc9b660b927ca658d30536f1fe4b197514ebd6d53c4a101d225ece5aa0bb",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=8925",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/10800",
+          "Lei n.&ordm; 9.286, de 22 de dezembro de 1995"
+        ],
+        [
+          "/norma/10800",
+          "Lei n.&deg; 9.286/95"
+        ],
+        [
+          "/norma/76643",
+          "Decreto n.&deg; 13.242, de 12 de fevereiro de 1979"
+        ],
+        [
+          "/norma/23984",
+          "Lei n.&deg; 6.544, de 22 de novembro de 1989"
+        ],
+        [
+          "/norma/23490",
+          "Decreto n.&deg; 31.138, de 9 de janeiro de 1990"
+        ],
+        [
+          "/norma/15129",
+          "Decreto n.&deg; 37.410, de 9 de setembro de 1993"
+        ],
+        [
+          "/norma/10800",
+          "Lei n.&deg; 9.286, de 22 de dezembro de 1995"
+        ],
+        [
+          "/norma/76643",
+          "Decreto n.&ordm; 13.242, de 12 de fevereiro de 1979"
+        ],
+        [
+          "/norma/76643",
+          "Decreto n.&ordm; 13.242, de 12 de fevereiro de 1979"
+        ],
+        [
+          "/norma/76643",
+          "Decreto n.&ordm; 13.242, de 12 de fevereiro de 1979"
+        ],
+        [
+          "/norma/76643",
+          "Decreto n.&ordm; 13.242, de 12 de fevereiro de 1979"
+        ],
+        [
+          "/norma/76643",
+          "Decreto n.&ordm; 13.242, de 12 de fevereiro de 1979"
+        ],
+        [
+          "/norma/76643",
+          "Decreto n.&ordm; 13.242, de 12 de fevereiro de 1979"
+        ],
+        [
+          "/norma/76643",
+          "Decreto n.&deg; 13.242, de 12 de fevereiro de 1979"
+        ],
+        [
+          "/norma/76643",
+          "Decreto n.&deg; 13.242, de 12 de fevereiro de 1979"
+        ],
+        [
+          "/norma/76643",
+          "Decreto n.&deg; 13.242, de 12 de fevereiro de 1979"
+        ],
+        [
+          "/norma/10800",
+          "Lei n.&deg; 9.286, de 22 de dezembro de 1995"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1997/dec-41863-1997-06-13-id8975.md",
+      "sha256_md": "5c4697231c9c0393b15894606265f8e7f5de7483aa300ebde142f51a40ebffa6",
+      "cache": "estaduais/SP/_fonte/decretos/1997/dec-41863-1997-06-13-id8975.html.gz",
+      "sha256_cache": "9a5cbc13d9fbd69fe1d19c3d3fef5310e8c327594dc0cdb79a6e44413a64a298",
+      "remissoes_proprias": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=8975",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/20986",
+          "Decreto n. 33.118, de 14 de mar&ccedil;o de 1991"
+        ],
+        [
+          "/norma/20986",
+          "Decreto n.&ordm; 33.118, de 14 de mar&ccedil;o de 1991"
+        ],
+        [
+          "/norma/20986",
+          "Decreto n.&ordm; 33.118, de 14 de mar&ccedil;o de 1991"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1997/dec-41773-1997-05-12-id9132.md",
+      "sha256_md": "328d07246eff2bb3b9aa2fdbca05dd0aebaa101da31a9312a779ace28770e0c6",
+      "cache": "estaduais/SP/_fonte/decretos/1997/dec-41773-1997-05-12-id9132.html.gz",
+      "sha256_cache": "d0e4ce392853d13a3c190e5f67e856f9aedd6717f30451f0573f375185dfde5f",
+      "remissoes_proprias": [
+        "anexo ao presente decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=9132",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/11633",
+          "Decreto n.&deg; 40.000, de 16 de mar&ccedil;o de 1995"
+        ],
+        [
+          "/norma/10688",
+          "Decreto n.&deg; 40.633, de 16 de janeiro de 1996"
+        ],
+        [
+          "/norma/9131",
+          "Decreto n.&deg; 41.772, de 12 de maio de 1997"
+        ],
+        [
+          "/norma/10688",
+          "Decreto n.&deg; 40.633, de 16 de Janeiro de 1996"
+        ],
+        [
+          "/norma/9131",
+          "Decreto n.&deg; 41.772, de 12 de maio de 1997"
+        ],
+        [
+          "/norma/43375",
+          "Lei n.&ordm; 7.835, de 8 de maio de 1992"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo ao presente decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1997/dec-41749-1997-04-29-id9247.md",
+      "sha256_md": "d2df7a0cd4e959f0e498f3b05ee1b78420bfb70ac0e0753f2841244b246dc272",
+      "cache": "estaduais/SP/_fonte/decretos/1997/dec-41749-1997-04-29-id9247.html.gz",
+      "sha256_cache": "68e293e77609bb6a8f9f856f52e04f1a69ae27bddf450ac7ae276bf34b6aaefd",
+      "remissoes_proprias": [
+        "anexo ao presente decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=9247",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/11633",
+          "Decreto n.&ordm; 40.000, de 16 de mar&ccedil;o de 1995"
+        ],
+        [
+          "/norma/10225",
+          "Decreto n.&ordm; 41.040, de 24 de julho de 1996"
+        ],
+        [
+          "/norma/9284",
+          "Decreto n.&ordm; 41.748, de 29 de abril de 1997"
+        ],
+        [
+          "/norma/43375",
+          "Lei n.&ordm; 7.835, de 8 de maio de 1992"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo ao presente decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1997/dec-41737-1997-04-24-id9269.md",
+      "sha256_md": "97ed22df343f92c447cb03c68147bae5e879ea7a96f91b537cdb75fc2f0bea2b",
+      "cache": "estaduais/SP/_fonte/decretos/1997/dec-41737-1997-04-24-id9269.html.gz",
+      "sha256_cache": "04508fc5fcc6eaef01a675be455bec7cbbc76e2182530135f87d66111e864c5c",
+      "remissoes_proprias": [
+        "anexo ao presente decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=9269",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/11633",
+          "Decreto n.&ordm; 40.000, de 16 de mar&ccedil;o de 1995"
+        ],
+        [
+          "/norma/11133",
+          "Decreto n.&ordm; 40.365, de 9 de outubro de 1995"
+        ],
+        [
+          "/norma/9268",
+          "Decreto n.&ordm; 41.736, de 24 de abril de 1997"
+        ],
+        [
+          "/norma/11133",
+          "Decreto n.&deg; 40.365, de 9 de outubro de 1995"
+        ],
+        [
+          "/norma/9268",
+          "Decreto n.&deg; 41.736, de 24 de abril de 1997"
+        ],
+        [
+          "/norma/43375",
+          "Lei n.&ordm; 7.835, de 8 de maio de 1992"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo ao presente decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1997/dec-41700-1997-04-10-id9357.md",
+      "sha256_md": "91acbea9aaeb086f132fa642369177035afd3313c3d626e439d2a7d88b2717a5",
+      "cache": "estaduais/SP/_fonte/decretos/1997/dec-41700-1997-04-10-id9357.html.gz",
+      "sha256_cache": "f3aaaf610e85692288302f1108ba5bc27bdf31926933f9f670ee23ba7810b1d0",
+      "remissoes_proprias": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=9357",
+          "Ficha informativa"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1997/dec-41557-1997-01-21-id9527.md",
+      "sha256_md": "9157145d227c6270d02308641289cc3a6e79149e0735e3be040d848f0ed1fed1",
+      "cache": "estaduais/SP/_fonte/decretos/1997/dec-41557-1997-01-21-id9527.html.gz",
+      "sha256_cache": "73414c77fbf26803a08c0218923cc60658a85a4fa0c86046fda1d93aa8c8d645",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=9527",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/20986",
+          "Decreto n. 33.118, de 14 de mar&ccedil;o de 1991"
+        ],
+        [
+          "/norma/25030",
+          "Lei 6.374/89"
+        ],
+        [
+          "/norma/25030",
+          "Lei 6.374/89"
+        ],
+        [
+          "/norma/25030",
+          "Lei 6.374/89"
+        ],
+        [
+          "/norma/25030",
+          "Lei 6.374/89"
+        ],
+        [
+          "/norma/20986",
+          "Decreto n. 33.118, de 14 de mar&ccedil;o de 1991"
+        ],
+        [
+          "/norma/20986",
+          "Decreto n. 33.118, de 14 de mar&ccedil;o de 1991"
+        ],
+        [
+          "/norma/20986",
+          "Decreto n. 33.118, de 14 de mar&ccedil;o de 1991"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1997/dec-41543-1997-01-06-id9512.md",
+      "sha256_md": "e6cd3b935acd11626d85141736540d407e2d06b9b1907674fd77cbf09c03c414",
+      "cache": "estaduais/SP/_fonte/decretos/1997/dec-41543-1997-01-06-id9512.html.gz",
+      "sha256_cache": "d7df861099030623f0f115f8ef88e25fd44814d47a16536de4f148f75bb9d7c6",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=9512",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/25030",
+          "Lei n. 6.374/89"
+        ],
+        [
+          "/norma/20986",
+          "Decreto n. 33.118, de 14 de mar&ccedil;o de 1991"
+        ],
+        [
+          "/norma/20986",
+          "Decreto n. 33.118. de 14 de mar&ccedil;o de 1991"
+        ],
+        [
+          "/norma/20986",
+          "Decreto n.&ordm; 33.118, de 14 de mar&ccedil;o de 1991"
+        ],
+        [
+          "/norma/9612",
+          "Decreto n.&ordm; 41.498, de 26 de dezembro de 1996"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1996/dec-41521-1996-12-27-id9560.md",
+      "sha256_md": "36e48785fe160cf4a08283f55ff75665a3590fa48d583f1dea3604b0975f3dba",
+      "cache": "estaduais/SP/_fonte/decretos/1996/dec-41521-1996-12-27-id9560.html.gz",
+      "sha256_cache": "83350a72b0b09758dd4ca4c055caec962c39fed861202f75416603d1b541a085",
+      "remissoes_proprias": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=9560",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/20986",
+          "Decreto 33.118, de 14 de mar&ccedil;o de 1991"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1996/dec-41498-1996-12-26-id9612.md",
+      "sha256_md": "b0f98eeaff43fbef8a7b089f2f8c3151b27ad0c48ca9a81b19257b84ea3d2df5",
+      "cache": "estaduais/SP/_fonte/decretos/1996/dec-41498-1996-12-26-id9612.html.gz",
+      "sha256_cache": "55bf5fa6f5d9094136a63920a803ba1ee2e7718e5ac02596ae695d87a89527b2",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=9612",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/25030",
+          "Lei n.&ordm; 6.374/89"
+        ],
+        [
+          "/norma/20986",
+          "Decreto n.&ordm; 33.118, de 14 de mar&ccedil;o de 1991"
+        ],
+        [
+          "/norma/25030",
+          "Lei n.&ordm; 6.374/89"
+        ],
+        [
+          "/norma/25030",
+          "Lei n.&ordm; 6.374/89"
+        ],
+        [
+          "/norma/25030",
+          "Lei n.&ordm; 6.374/89"
+        ],
+        [
+          "/norma/25030",
+          "Lei n.&ordm; 6.374/89"
+        ],
+        [
+          "/norma/20986",
+          "Decreto n.&ordm; 33.118, de 14 de mar&ccedil;o de 1991"
+        ],
+        [
+          "/norma/9844",
+          "Lei n.&ordm; 9.399, de 21 de novembro de 1996"
+        ],
+        [
+          "/norma/10118",
+          "Decreto n.&ordm; 41.129, de 30 de agosto de 1996"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1996/dec-41371-1996-11-28-id9784.md",
+      "sha256_md": "c8ecd2c0b52a68cc833b0910d1cfa277c5e158fa5d73011cb36ae0780eb5fad2",
+      "cache": "estaduais/SP/_fonte/decretos/1996/dec-41371-1996-11-28-id9784.html.gz",
+      "sha256_cache": "011249c78c7521c7948683396d1c0b697ab2af0eab4e31c4f21cb8c485478b37",
+      "remissoes_proprias": [
+        "anexo ao presente decreto",
+        "anexo ao presente decreto",
+        "anexo ao presente decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=9784",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/10243",
+          "Lei n.&ordm; 9.361, de 5 de julho de 1996"
+        ],
+        [
+          "/norma/9783",
+          "Decreto n.&ordm; 41.370 de 28 de novembro de 1996"
+        ],
+        [
+          "/norma/9783",
+          "Decreto n.&ordm; 41.370, de 28 de novembro de 1996"
+        ],
+        [
+          "/norma/43375",
+          "Lei n.&ordm; 7.835, de 8 de maio de 1992"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo ao presente decreto",
+        "anexo ao presente decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1996/dec-41192-1996-09-30-id10046.md",
+      "sha256_md": "2c34c436b3d878ce53a0c44d807cb2f18ee50236f3b1474f04253b09ad56a948",
+      "cache": "estaduais/SP/_fonte/decretos/1996/dec-41192-1996-09-30-id10046.html.gz",
+      "sha256_cache": "e1c754d2e89f1f5737bad1cf55e8463629d7330e9860ba57176ad3c7b74343c7",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=10046",
+          "Ficha informativa"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1996/dec-40877-1996-06-04-id10377.md",
+      "sha256_md": "af0c0d1a068270104523516d59085461b3f8cc36e82b4826f35595d733dc9448",
+      "cache": "estaduais/SP/_fonte/decretos/1996/dec-40877-1996-06-04-id10377.html.gz",
+      "sha256_cache": "8c333a5c52b4a7f6d4638df05452de61a7c97f724cff4a506cd5700c2fe6ba6e",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=10377",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/10429",
+          "Lei n.&ordm; 9.355, de 30 de maio de 1996"
+        ],
+        [
+          "/norma/20986",
+          "Decreto n.&ordm; 33.118, de 14 de mar&ccedil;o de 1991"
+        ],
+        [
+          "/norma/25030",
+          "Lei 6.374/89"
+        ],
+        [
+          "/norma/10429",
+          "Lei n.&ordm; 9.355/96"
+        ],
+        [
+          "/norma/25030",
+          "Lei 6.374/89"
+        ],
+        [
+          "/norma/10429",
+          "Lei n.&ordm; 9.355/96"
+        ],
+        [
+          "/norma/25030",
+          "Lei n.&ordm; 6.374/89"
+        ],
+        [
+          "/norma/10429",
+          "Lei n.&ordm; 9.355/96"
+        ],
+        [
+          "/norma/10429",
+          "Lei n.&ordm; 9.355/96"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1996/dec-40856-1996-05-23-id10416.md",
+      "sha256_md": "47e806888d01f1a3ea7bbe57d6904048b70139675cfdb27094ee74a22a7ce38a",
+      "cache": "estaduais/SP/_fonte/decretos/1996/dec-40856-1996-05-23-id10416.html.gz",
+      "sha256_cache": "83c6e82ebd5401dfa9136237f2f4fb2cfaaee0f198935dcdb3862aed2d8ed1cb",
+      "remissoes_proprias": [
+        "Anexo I deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=10416",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/10578",
+          "Decreto n.&deg; 40.722, de 20 de mar&ccedil;o de 1996"
+        ],
+        [
+          "/norma/23984",
+          "Lei n.&deg; 6.544. de 22 de novembro de 1989"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexo I deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1996/dec-40803-1996-05-02-id10480.md",
+      "sha256_md": "1e2857219453c615a3482420e749741054a457626bddcd6b285d2b3a11895e75",
+      "cache": "estaduais/SP/_fonte/decretos/1996/dec-40803-1996-05-02-id10480.html.gz",
+      "sha256_cache": "4024e659119106b7dc00b3e0802e90216d93eadf982e39b7975837c0f2d55a4a",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=10480",
+          "Ficha informativa"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1996/dec-40783-1996-04-18-id10520.md",
+      "sha256_md": "2636a5d4c47466606bab44a3a0a2cfc94e70b92baef2180dadfd649e79738a95",
+      "cache": "estaduais/SP/_fonte/decretos/1996/dec-40783-1996-04-18-id10520.html.gz",
+      "sha256_cache": "10b377f79479090d2968c5bb56f18f5814a3fdf7472f7339691c8005b4e24aee",
+      "remissoes_proprias": [
+        "anexo ao presente decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=10520",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/11633",
+          "Decreto n.&deg; 40.000, de 16 de mar&ccedil;o de 1995"
+        ],
+        [
+          "/norma/11015",
+          "Decreto n.&deg; 40.488, de 28 de novembro de 1995"
+        ],
+        [
+          "/norma/11015",
+          "Decreto n.&deg; 40.488, de 28 de novembro de 1995"
+        ],
+        [
+          "/norma/43375",
+          "Lei n.&deg; 7.835, de 8 de maio de 1992"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo ao presente decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1996/dec-40782-1996-04-18-id10519.md",
+      "sha256_md": "cf0837e4931c1486bc7c049f1d3cda6207fb5b420a2eecdd96f0bc3bbf189b21",
+      "cache": "estaduais/SP/_fonte/decretos/1996/dec-40782-1996-04-18-id10519.html.gz",
+      "sha256_cache": "0a58b023d60ee60ff95a90a3038f5a93a0f3129ed9446b4c63828a02623c4f78",
+      "remissoes_proprias": [
+        "anexo ao presente decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=10519",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/11633",
+          "Decreto n.&deg; 40.000, de 16 de mar&ccedil;o de 1995"
+        ],
+        [
+          "/norma/10662",
+          "Decreto n.&deg; 40.635, de 18 de janeiro de 1996"
+        ],
+        [
+          "/norma/10662",
+          "Decreto n.&deg; 40.635, de 18 de janeiro de 1996"
+        ],
+        [
+          "/norma/43375",
+          "Lei n.&ordm; 7.835, de 8 de maio de 1992"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo ao presente decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1996/dec-40781-1996-04-18-id10518.md",
+      "sha256_md": "17a06915689c0531a4312ffe0331bb5650fe32f8bbe75b91e4e234209d13aa78",
+      "cache": "estaduais/SP/_fonte/decretos/1996/dec-40781-1996-04-18-id10518.html.gz",
+      "sha256_cache": "6ac3f977d1e507d6ff3aee532a24b34af4e5659dd3418a862ba17dfbad3515a4",
+      "remissoes_proprias": [
+        "anexo ao presente decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=10518",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/11633",
+          "Decreto n.&deg; 40.000, de 16 de mar&ccedil;o de 1995"
+        ],
+        [
+          "/norma/10758",
+          "Decreto n.&deg; 40.606, de 29 de dezembro de 1995"
+        ],
+        [
+          "/norma/10758",
+          "Decreto n.&deg; 40.606. de 29 de dezembro de 1995"
+        ],
+        [
+          "/norma/53022",
+          "Decreto n.&deg; 24.675, de 30 de janeiro de 1986"
+        ],
+        [
+          "/norma/43375",
+          "Lei Estadual n.&deg; 7.835, de 8 de maio de 1992"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo ao presente decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1996/dec-40756-1996-04-03-id10554.md",
+      "sha256_md": "8208642f3413d49d3ca43da4c13d632ab24803e6dd0f587af51267236d589948",
+      "cache": "estaduais/SP/_fonte/decretos/1996/dec-40756-1996-04-03-id10554.html.gz",
+      "sha256_cache": "4ca21f13c62f91ff5df94ad2250f753e475e2cb072674bd1df33a70788b1ae9e",
+      "remissoes_proprias": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1996/dec-40641-1996-01-26-id10668.md",
+      "sha256_md": "4ea1376da8ac2908174b4529ceddea9ea4b02c99a14d17e3be000204aee95ed1",
+      "cache": "estaduais/SP/_fonte/decretos/1996/dec-40641-1996-01-26-id10668.html.gz",
+      "sha256_cache": "928ba22085563e25afb79ff49550feb1191a5c7c2f6c073fc104d2b305f7ff32",
+      "remissoes_proprias": [
+        "anexo ao presente decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo ao presente decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1996/dec-40640-1996-01-26-id10667.md",
+      "sha256_md": "00159354c216f1487fe30fd4de28552113cc469ffedd14e8907b979601ec843c",
+      "cache": "estaduais/SP/_fonte/decretos/1996/dec-40640-1996-01-26-id10667.html.gz",
+      "sha256_cache": "5cba91477c2ecbb2c728c50e362ad9da143a17b0815db231fec02f3a58a4e833",
+      "remissoes_proprias": [
+        "anexo ao presente decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo ao presente decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1996/dec-40639-1996-01-26-id10666.md",
+      "sha256_md": "11e28ffcf2d260e9c01b365e6b644c5c56866487259eee5131aabb0f01aa98f6",
+      "cache": "estaduais/SP/_fonte/decretos/1996/dec-40639-1996-01-26-id10666.html.gz",
+      "sha256_cache": "7d35d5c9d61b24ce58f7416444bb348812162dfabe17ca20560f9a3f56c7440b",
+      "remissoes_proprias": [
+        "anexo ao presente decreto",
+        "anexo ao presente decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo ao presente decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1995/dec-40474-1995-11-22-id10996.md",
+      "sha256_md": "b97ac63ef6ed08b2f95f5e5c0d84f946cf16816abcc9af8bc334984af1900406",
+      "cache": "estaduais/SP/_fonte/decretos/1995/dec-40474-1995-11-22-id10996.html.gz",
+      "sha256_cache": "4e3c7999222f9965bb45fa47adb868356009b1cf21d43db317684da258497894",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1995/dec-40198-1995-07-18-id11335.md",
+      "sha256_md": "269a172bedbda0c14d8a167ff96eac18a31dc07806092e9fa27217f1155c8488",
+      "cache": "estaduais/SP/_fonte/decretos/1995/dec-40198-1995-07-18-id11335.html.gz",
+      "sha256_cache": "4cae9102d51881d01a8e96aab854be82754579ecc6a2dec0e445dae8f75f4891",
+      "remissoes_proprias": [
+        "Anexos III, IV e VI deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexos III, IV e VI deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1995/dec-40165-1995-06-29-id11358.md",
+      "sha256_md": "4ca9e352eec111594051acc3e388c15a133f79bfc7ee0b7db954016b742a4592",
+      "cache": "estaduais/SP/_fonte/decretos/1995/dec-40165-1995-06-29-id11358.html.gz",
+      "sha256_cache": "dc3aa11954330d0f4d610dd461ddf52f3f6bbc926a8fce0e84d3a01d4acda567",
+      "remissoes_proprias": [
+        "anexos a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexos a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1995/dec-40077-1995-05-10-id11475.md",
+      "sha256_md": "d4aeba8fb9b5271cde816cb5616b9f8f27f6c8d3000c79abd9d6220d6392af50",
+      "cache": "estaduais/SP/_fonte/decretos/1995/dec-40077-1995-05-10-id11475.html.gz",
+      "sha256_cache": "4cae56fe534e16d73bd651d90b5a749dcfe8a242983f115a0ea8a3e140191378",
+      "remissoes_proprias": [
+        "anexo ao presente decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=11475",
+          "Ficha informativa"
+        ],
+        [
+          "https://www.al.sp.gov.br/norma/11633",
+          "Decreto n.&ordm; 40.000, de 16 de mar&ccedil;o de 1995"
+        ],
+        [
+          "https://www.al.sp.gov.br/norma/11598",
+          "Decreto n.&ordm; 40.028, de 30 de mar&ccedil;o de 1995"
+        ],
+        [
+          "https://www.al.sp.gov.br/norma/11598",
+          "Decreto n.&ordm;40.028, de 30 de mar&ccedil;o de 1995"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo ao presente decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1994/dec-39740-1994-12-23-id12054.md",
+      "sha256_md": "ddf86715743bf2b6673f757cb537a336f09269a7d25d88b1e0ffa268c17f0cfd",
+      "cache": "estaduais/SP/_fonte/decretos/1994/dec-39740-1994-12-23-id12054.html.gz",
+      "sha256_cache": "3c8429210b4b94e92684796e066930a64f367ecb0f744bf41bca8ae868712c16",
+      "remissoes_proprias": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1994/dec-39125-1994-08-30-id12830.md",
+      "sha256_md": "74c5d88e5fbda35789b957bc7b9558b97320758836b00b389c530a30276b6f91",
+      "cache": "estaduais/SP/_fonte/decretos/1994/dec-39125-1994-08-30-id12830.html.gz",
+      "sha256_cache": "a4b334dd1ef40e1e6ee6744cda7fd2dd3be8dae44248e4f810964b7f51d525bd",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1994/dec-39038-1994-08-11-id12922.md",
+      "sha256_md": "c477e156782653d1120c205ee9927da324d4bc8984976d5af8f0690d2ae6899a",
+      "cache": "estaduais/SP/_fonte/decretos/1994/dec-39038-1994-08-11-id12922.html.gz",
+      "sha256_cache": "e0aab2630401dfe7e1f245c35bd85419bebdcbf2d9a24c264c5541dfaad3bd26",
+      "remissoes_proprias": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1994/dec-38688-1994-05-27-id13364.md",
+      "sha256_md": "fe3a79b7614ae41a253c65982d09f55ef2c602c70697a824977bfd8b0adfb40a",
+      "cache": "estaduais/SP/_fonte/decretos/1994/dec-38688-1994-05-27-id13364.html.gz",
+      "sha256_cache": "e493034078291acfe1d5666eb00ea8cfaa29c1ea98b03264e0f3cba85b7766c6",
+      "remissoes_proprias": [
+        "anexo, que faz parte integrante deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo, que faz parte integrante deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1994/dec-38599-1994-05-03-id13431.md",
+      "sha256_md": "c1d3c1767fd9191fbc2454a1cd4f79b7db599806d681b16341965b10deb9c1ec",
+      "cache": "estaduais/SP/_fonte/decretos/1994/dec-38599-1994-05-03-id13431.html.gz",
+      "sha256_cache": "c8e7fef18367be9a409ba049332e66741dfc8c08ab57924f120d1f01e141279a",
+      "remissoes_proprias": [
+        "Tabela 1 em anexo",
+        "Tabela 1, deste decreto",
+        "Tabela 2, deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Tabela 1 em anexo",
+        "Tabela 1, deste decreto",
+        "Tabela 2, deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1994/dec-38569-1994-04-27-id13474.md",
+      "sha256_md": "b236ad8d50a084a22ae6a7becf5790b87d256ae9c75a07c1d340d93467aefe91",
+      "cache": "estaduais/SP/_fonte/decretos/1994/dec-38569-1994-04-27-id13474.html.gz",
+      "sha256_cache": "53bed23ed78471c7ce9231df92401e7ba2c01086a51d37a72366d84722e721ff",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1994/dec-38535-1994-04-18-id13509.md",
+      "sha256_md": "235d9a93688d4b8c2915f5a770a4ace9612bdf578ab17dd5e533511643dd74d4",
+      "cache": "estaduais/SP/_fonte/decretos/1994/dec-38535-1994-04-18-id13509.html.gz",
+      "sha256_cache": "7b199b3e4ab3de2ca5fba6e53aee2cf9902eda70ce61bcc3a3c11866f294aa27",
+      "remissoes_proprias": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1993/dec-38253-1993-12-29-id14055.md",
+      "sha256_md": "c8435104ce2c4ea0d092a4f49aab72f1d6a06935297f632595ce309eda1cfa68",
+      "cache": "estaduais/SP/_fonte/decretos/1993/dec-38253-1993-12-29-id14055.html.gz",
+      "sha256_cache": "392661ae038226a98f1da8ec4a878c370516618f0b1af3dc4f30be4d18b25ff9",
+      "remissoes_proprias": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1993/dec-37878-1993-11-22-id14601.md",
+      "sha256_md": "f6ee43c0e17eb3ebadb345940f57b81c186e64bf5313586441964e4c1b8b296c",
+      "cache": "estaduais/SP/_fonte/decretos/1993/dec-37878-1993-11-22-id14601.html.gz",
+      "sha256_cache": "b97b8883e4529bbc924a22e093e00db6baca8655fd2051e9fb3cd4275f05ef11",
+      "remissoes_proprias": [
+        "anexo que faz parte integrante deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo que faz parte integrante deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1993/dec-37820-1993-11-12-id14625.md",
+      "sha256_md": "49e53588a1b8e3dcf0e85a836ca037ec0614b901c234d56b7e6642776bd72d4d",
+      "cache": "estaduais/SP/_fonte/decretos/1993/dec-37820-1993-11-12-id14625.html.gz",
+      "sha256_cache": "ff3f39f9a03a8257c4d7c82b6f0e3edfe8e9f7f4fe58f10afbb4601c01553ce2",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1993/dec-36946-1993-06-22-id15655.md",
+      "sha256_md": "9e9932ff11e61e5fb578f9daeb122d4881dc1d8cb7ce685057e56a4e85580fc2",
+      "cache": "estaduais/SP/_fonte/decretos/1993/dec-36946-1993-06-22-id15655.html.gz",
+      "sha256_cache": "52f4a471ab0270c43489cf5a9451136b6df5e6d4352f0cd0a91fcbf1fd0bb37a",
+      "remissoes_proprias": [
+        "Tabela 1 em anexo",
+        "Tabela 1, deste decreto",
+        "Tabela 2, deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Tabela 1 em anexo",
+        "Tabela 1, deste decreto",
+        "Tabela 2, deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1993/dec-36836-1993-06-01-id15818.md",
+      "sha256_md": "dfcc2edd17462e3022005e17bca54e44dd1afcb34eb69f18d7720aa33cf7cdab",
+      "cache": "estaduais/SP/_fonte/decretos/1993/dec-36836-1993-06-01-id15818.html.gz",
+      "sha256_cache": "b149c32aa21628aa8bf21a27a8503cb1ba7f907d9a4c8abda4bb4bf8a94d4045",
+      "remissoes_proprias": [
+        "anexo ao presente decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo ao presente decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1993/dec-36777-1993-05-17-id15897.md",
+      "sha256_md": "cc13d468bd1c4b0d628c929499f2640c54b1b368b23447498741e8b08c1cf3aa",
+      "cache": "estaduais/SP/_fonte/decretos/1993/dec-36777-1993-05-17-id15897.html.gz",
+      "sha256_cache": "decff3950290f6e5f38834c46ed109d2849104a22edcb6d9cfadf9fd2a113f97",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1993/dec-36776-1993-05-17-id15896.md",
+      "sha256_md": "4c1dfebccdb912428d3138b7a247e1cd7b211795da4f1f8f5604caba88d26a1c",
+      "cache": "estaduais/SP/_fonte/decretos/1993/dec-36776-1993-05-17-id15896.html.gz",
+      "sha256_cache": "da2d5ea01ff8e374e98d788ddc59567ef5eb4a37ef131a20e01c4f8940ef41eb",
+      "remissoes_proprias": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1993/dec-36640-1993-04-07-id16082.md",
+      "sha256_md": "5ec16df76e391632352b5c4eed885543e3d222cbc5e744bad6af39ec25bc4a38",
+      "cache": "estaduais/SP/_fonte/decretos/1993/dec-36640-1993-04-07-id16082.html.gz",
+      "sha256_cache": "29a254f5bd6dd3fa8e9a0b7182b88aba8e89e44c92b96301ff69c0768e28037d",
+      "remissoes_proprias": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1993/dec-36637-1993-04-07-id16079.md",
+      "sha256_md": "600254001aab76747a9e4899cd61c7caafa37fb3c0abd3cd0f7e8da00eb14146",
+      "cache": "estaduais/SP/_fonte/decretos/1993/dec-36637-1993-04-07-id16079.html.gz",
+      "sha256_cache": "470103feb99dc8d670655e233951dbc0ad69ff9d0ea1b1552e533c6f4c3f9e67",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1993/dec-36553-1993-03-15-id16157.md",
+      "sha256_md": "6fa1fbb627b65db7372e32b834f3f96dfeaa66293f24018164f4819ba5e2d954",
+      "cache": "estaduais/SP/_fonte/decretos/1993/dec-36553-1993-03-15-id16157.html.gz",
+      "sha256_cache": "0b0469ac8c5d62ade5bf31eca1424e6b3b12324d25f8a331a3037ebbb22ece27",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=16157",
+          "Ficha informativa"
+        ],
+        [
+          "/norma/18432",
+          "Decreto n.&ordm; 34.785, de 8 de abril de 1992"
+        ],
+        [
+          "/norma/16157",
+          "Decreto n&deg; 36.553, de 15 de mar&ccedil;o de 1993"
+        ],
+        [
+          "/norma/47473",
+          "Decreto-lei Complementar n&deg; 7, de 6 de novembro de 1969"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1993/dec-36546-1993-03-15-id16231.md",
+      "sha256_md": "f0027c4cbec5ef3fedcb59e53b0d900c3819bef0b4ee467095599f99763a72da",
+      "cache": "estaduais/SP/_fonte/decretos/1993/dec-36546-1993-03-15-id16231.html.gz",
+      "sha256_cache": "b5eaf166533127a4f94a17cc8c832130f214f53e0ad5a9054f48fed0bb443db3",
+      "remissoes_proprias": [
+        "anexo ao presente decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo ao presente decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1993/dec-36483-1993-02-03-id16240.md",
+      "sha256_md": "a7701dd124213adb4bfc20c4c4f7cf65f1e3909615649a047cc642080c1a2a61",
+      "cache": "estaduais/SP/_fonte/decretos/1993/dec-36483-1993-02-03-id16240.html.gz",
+      "sha256_cache": "7639a7c0e738d7ab5e52d6828bfc492f05bbc4e3f53b88a776988cdea12b31ac",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "Assembleia Legislativa do Estado de S&atilde;o Paulo"
+        ],
+        [
+          "/norma/?id=16240",
+          "Ficha informativa"
+        ],
+        [
+          "http://www.al.sp.gov.br/norma?id=25030",
+          "Lei n. 6.374, de 19 de mar&ccedil;o de 1989"
+        ],
+        [
+          "http://www.al.sp.gov.br/norma?id=20986",
+          "Decreto n. 33.118, de 14 de mar&ccedil;o de 1991"
+        ],
+        [
+          "http://www.al.sp.gov.br/norma?id=25030",
+          "Lei n. 6.374/89"
+        ],
+        [
+          "http://www.al.sp.gov.br/norma?id=16566",
+          "Decreto n. 36.252, de 15 de dezembro de 1992"
+        ],
+        [
+          "http://www.al.sp.gov.br/norma?id=16388",
+          "Decreto n. 36.433, de 30 de dezembro de 1992"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1992/dec-36191-1992-12-07-id16663.md",
+      "sha256_md": "e44c1445dc58d720add65dd29f44a1e00eeecb02ece65eef38fc764adf9fc19a",
+      "cache": "estaduais/SP/_fonte/decretos/1992/dec-36191-1992-12-07-id16663.html.gz",
+      "sha256_cache": "4714aa611a6b7355ad9cff70934daadb55498821a25637b769d0d2886da75161",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1992/dec-35982-1992-11-04-id16913.md",
+      "sha256_md": "2a9c58e9ec50564ccf9f7c88cb8d09a6635be355a95e96d9aa4060b84a097c9f",
+      "cache": "estaduais/SP/_fonte/decretos/1992/dec-35982-1992-11-04-id16913.html.gz",
+      "sha256_cache": "f3d13708fb644a2a36a179b1fe2232e054fa531c26bafc797d33686e61ea32f5",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1992/dec-35890-1992-10-26-id17060.md",
+      "sha256_md": "0c0e598f31a68d5db43065ce6d3b77078632000db25a7621cbbff228b7ca957f",
+      "cache": "estaduais/SP/_fonte/decretos/1992/dec-35890-1992-10-26-id17060.html.gz",
+      "sha256_cache": "f138c7a1484ce96e64b1ab9774389e236abcdbd87f47766e2a6334c50e804127",
+      "remissoes_proprias": [
+        "Tabelas em anexo",
+        "Tabela 2, deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Tabelas em anexo",
+        "Tabela 2, deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1992/dec-35798-1992-10-02-id17162.md",
+      "sha256_md": "de0e69cc66eeaa4e502f599f4001713c9bac5162e000a9e16f01e7e4f8539677",
+      "cache": "estaduais/SP/_fonte/decretos/1992/dec-35798-1992-10-02-id17162.html.gz",
+      "sha256_cache": "fca8183ac07c160ecba40c0227817129e642b51a5a7a89b20733aa86c2930522",
+      "remissoes_proprias": [
+        "Tabelas em anexo",
+        "Tabela 2, deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Tabelas em anexo",
+        "Tabela 2, deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1992/dec-35745-1992-09-23-id17266.md",
+      "sha256_md": "9394844d35cccef685dc1420299a947660a14c0e10363fc00e17a992f928aad0",
+      "cache": "estaduais/SP/_fonte/decretos/1992/dec-35745-1992-09-23-id17266.html.gz",
+      "sha256_cache": "14e3751d2ea9705c6e749a493c8996c0df0cca639d7f4e8a6e7b2136ca8b656a",
+      "remissoes_proprias": [
+        "Tabelas em anexo",
+        "Tabela 2, deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Tabelas em anexo",
+        "Tabela 2, deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1992/dec-35503-1992-08-18-id17539.md",
+      "sha256_md": "10d16a03bf2bdbbabfc0d7c0c987776a3c6be094abd7b8c21ae6f38eb2b08dbf",
+      "cache": "estaduais/SP/_fonte/decretos/1992/dec-35503-1992-08-18-id17539.html.gz",
+      "sha256_cache": "f7c4d76823551ed1433c1b69b965aacc040e123b9fd2b6d343029ef3bff509e2",
+      "remissoes_proprias": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1992/dec-35321-1992-07-16-id17756.md",
+      "sha256_md": "582762e9101b0d0470ed4321b6feeda6e1e51b8fc64ad8ea28f4a36bc0e356bd",
+      "cache": "estaduais/SP/_fonte/decretos/1992/dec-35321-1992-07-16-id17756.html.gz",
+      "sha256_cache": "5689218b5e1c916497fed9290e0071f291dee9c0745433e47dae07e9d37aaace",
+      "remissoes_proprias": [
+        "Tabelas em Anexo",
+        "tabela 2, deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Tabelas em Anexo",
+        "tabela 2, deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1992/dec-34931-1992-05-08-id18241.md",
+      "sha256_md": "c1bbc8113294d31fc8cbf3d384c39535b713b15a71e5d4626cf1cb1458a2b81d",
+      "cache": "estaduais/SP/_fonte/decretos/1992/dec-34931-1992-05-08-id18241.html.gz",
+      "sha256_cache": "2c7fbab7d653a7d3d76fab4240afbaa047c38a01e3ab116d86af733e0f305945",
+      "remissoes_proprias": [
+        "Tabelas em anexo",
+        "Tabela 2, deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Tabelas em anexo",
+        "Tabela 2, deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1992/dec-34730-1992-03-24-id18538.md",
+      "sha256_md": "99ffba869ec5c238687eece7329b5969f9c2e1e6a2dbdcb6740ac6322c297464",
+      "cache": "estaduais/SP/_fonte/decretos/1992/dec-34730-1992-03-24-id18538.html.gz",
+      "sha256_cache": "7ac0c0274cb24bb0c88ac1f267c9508c62f4d7697dd28557292154bd15967488",
+      "remissoes_proprias": [
+        "Tabela em anexo"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Tabela em anexo"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1992/dec-34690-1992-03-11-id18569.md",
+      "sha256_md": "2e16417c265bcd8b0b35b956007bc15ec40fcd30b93019d41b626a9198198f33",
+      "cache": "estaduais/SP/_fonte/decretos/1992/dec-34690-1992-03-11-id18569.html.gz",
+      "sha256_cache": "55efeb978ebf2060678809c9eea5f39b843af3ea8a48ebe2ce6cd3395d14d661",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1991/dec-34423-1991-12-20-id18949.md",
+      "sha256_md": "5f432967875e52fc044592409d6a1c6965e119dc02cccc074fe1f4363728e5c2",
+      "cache": "estaduais/SP/_fonte/decretos/1991/dec-34423-1991-12-20-id18949.html.gz",
+      "sha256_cache": "0569b0f8b2beeebf5eb8e764343c7717dd05791fea350a9cff017135857fa240",
+      "remissoes_proprias": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1991/dec-34161-1991-11-11-id19330.md",
+      "sha256_md": "4b8c99b527182b12b34d2e5e7692ac8dfddfffaf9482947ef5d16c8ee68d40ff",
+      "cache": "estaduais/SP/_fonte/decretos/1991/dec-34161-1991-11-11-id19330.html.gz",
+      "sha256_cache": "f591360122254a54e6477e3e638c4223645c0f1e80470b0615a5674de674be7e",
+      "remissoes_proprias": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto",
+        "anexo a este decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1991/dec-34015-1991-10-16-id19475.md",
+      "sha256_md": "305a436c4510d303df123f7a8ac3ba376dd4684770fd1e5d1f50c26f8761a92e",
+      "cache": "estaduais/SP/_fonte/decretos/1991/dec-34015-1991-10-16-id19475.html.gz",
+      "sha256_cache": "12fdd4596afe496afa1ca8cf20a7fd6ea13a73ada5c98454be7dd87d8b9d0e54",
+      "remissoes_proprias": [
+        "Tabelas em anexo",
+        "Tabela 2, deste decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Tabelas em anexo",
+        "Tabela 2, deste decreto"
+      ]
+    },
+    {
+      "path": "estaduais/SP/decretos/1991/dec-33905-1991-10-02-id19593.md",
+      "sha256_md": "4454147921a40a3f3d3e0a782f7785373cab01ae1f5913574647d496a6210c40",
+      "cache": "estaduais/SP/_fonte/decretos/1991/dec-33905-1991-10-02-id19593.html.gz",
+      "sha256_cache": "9ad22097302843b98547f828e39d102de6f3dc0f8a67ac1bce9289ed1ad5a0a9",
+      "remissoes_proprias": [
+        "anexo a este decreto"
+      ],
+      "links_fonte": [
+        [
+          "http://www.al.sp.gov.br",
+          "\n<img src=\"http://www.al.sp.gov.br/web/images/logoNorma3.gif\" border=\"0\">\n"
+        ]
+      ],
+      "motivo": "remissão explícita ao próprio anexo/tabela sem seção, tabela ou visual correspondente; reter para análise contextual",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "anexo a este decreto"
+      ]
+    }
+  ],
+  "overlay_anterior": "scripts/estados/manifestos/overlay-sp-anexos-prioritario-20261020-001.json",
+  "sha256_overlay_anterior": "ea9d5ffad9fe572b3b596cf0ceb6cd02652dd6764326b26132fe1d4749e87fe4",
+  "readmitidos": [
+    "estaduais/SP/decretos/2002/dec-47278-2002-10-29-id988.md"
+  ],
+  "refinamento": "Excluídas remissões intermediadas por anexo de outra lei/decreto/regulamento, incluindo RICMS; SINJ só dois ícones de interface comprovados excluídos."
+}

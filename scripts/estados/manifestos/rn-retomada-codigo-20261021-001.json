@@ -1,0 +1,18 @@
+{
+  "congelado_em": "2026-10-21T05:57:07.903484-03:00",
+  "codigo": {
+    "scripts/estados/coletar_rn_fontes.py": "19b8d707d94f58e39a9bc3a4a777268db369f5a1919b54cc37007e17840484a8",
+    "scripts/estados/test_rn_fontes.py": "e273ce12bcc12f5792df3466f9040df3e85139d8375173353c75f4ce887e3897",
+    "scripts/estados/auditar_rn_retomada_pdf.py": "c1406988f8bc81964d9499ed4261930306a3a54276f273bc847385a4261a49ce",
+    "scripts/estados/test_rn_retomada_pdf.py": "f3092d046300bfce3ad5599417dd4acef902ffa2d894d791bf309a83b9396530",
+    "scripts/estados/reexecutar_rn_pdf.py": "3444bddf30de2afa011087b0d643a681f227d0888d75c4590e9d36961dea8a05",
+    "scripts/estados/snapshots/coletar_rn_fontes_20261021_001.py": "4c472bd06af67fa29dd008692df53e0786dbf69eb5d33cc41c3c1e7851d6bc3d"
+  },
+  "dependencias": {
+    "scripts/estados/pdf_texto_fiel.py": "8a7488a99a1b8b3661093f67263df586f9502ccf9758ca7c4c0a1184a602ed7a"
+  },
+  "testes": "Cinco testes RN (HTTPError 404/429/500, timeout, identidade própria e divergências tipo/número/data, ausência de dispositivo); replay17/17 incluindo todos pdfimages e cercas CommonMark. Sete testes GO separados.",
+  "replay_sha256": "577c98a012e37d2dc0c4a0162b3e7ea3e87881d7459c648f49cd24939e630a33",
+  "comando": "PYTHONPATH=/tmp/constituicao-markdown-qa-20261020:scripts:scripts/estados /Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/estados/reexecutar_rn_pdf.py --manifesto scripts/estados/manifestos/rn-publicacao-20261021-001.json --saida NOVO.jsonl",
+  "limite": "Snapshot001 captura17 PDFs HTTP200 correta. Três sondagens HTTPError ficaram sem campos e foram refeitas002; nenhuma entra na publicação. Parser corrigido conserva qualquer HTTPError com status/body/headers e para após três falhas ou uma recusa."
+}

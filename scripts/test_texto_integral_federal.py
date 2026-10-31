@@ -12,6 +12,19 @@ import baixar_federal as f
 
 
 class TextoIntegral(unittest.TestCase):
+    def test_partes_vetadas_nao_substituem_lei(self):
+        for tipo in ['LEI-n', 'LCP', 'LDL']:
+            self.assertIsNotNone(f.motivo_texto_parcial_norma(tipo, 'LEI Nº 1\n\nPromulgo as seguintes partes vetadas:\n\nArt. 37 Texto.'))
+
+    def test_retificacao_que_cita_artigo_inicial_nao_e_integra(self):
+        self.assertIsNotNone(f.motivo_texto_parcial_norma('LCP', 'RETIFICAÇÃO\n\nArt. 1º Onde se lê A, leia-se B.'))
+
+    def test_lei_integral_com_historico_depois_preservada(self):
+        self.assertIsNone(f.motivo_texto_parcial_norma('LEI-n', 'LEI Nº 1\n\nArt. 1º Fica instituído.\n\nRETIFICAÇÃO\n\nOnde se lê A, leia-se B.'))
+
+    def test_lei_com_artigo_unico(self):
+        self.assertIsNone(f.motivo_texto_parcial_norma('LEI-n', 'LEI Nº 1\n\nArtigo único. Fica instituído.'))
+
     def test_recusa_http_nao_e_retentada(self):
         error = HTTPError('https://normas.leg.br/', 403, 'Forbidden', {}, None)
         with patch.object(f, 'LIMITE', Mock()), patch.object(f.urllib.request, 'urlopen', side_effect=error) as request:

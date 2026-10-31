@@ -1,0 +1,32 @@
+{
+  "iniciado_em": "2026-10-21T03:34:45.050643-03:00",
+  "finalizado_em": "2026-10-21T03:35:06.549442-03:00",
+  "tipos": [
+    "4",
+    "5",
+    "8"
+  ],
+  "total_ids": 0,
+  "contagens": {},
+  "completo": false,
+  "erros": [
+    {
+      "tipo": "4",
+      "erro": "AssertionError: seletor de anos ausente",
+      "em": "2026-10-21T03:35:06.549030-03:00"
+    }
+  ],
+  "lista": "estaduais/PE/_indice/infralegal-20261021-001/lista.json",
+  "sha256_lista": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  "requisicoes": [
+    {
+      "em": "2026-10-21T03:35:06.098399-03:00",
+      "url": "https://legis.alepe.pe.gov.br/lista.aspx?tiponorma=4",
+      "metodo": "GET",
+      "http": 200,
+      "bytes": 8398575,
+      "sha256": "b28cbc457a5271aa61b68a319171c657e257054332a1d2fc43898c291f78f5a7"
+    }
+  ],
+  "criterio": "Três categorias oficiais previstas no plano. Uma requisição serial a cada 1,1 s no mínimo, postback normal dos anos declarados; ano selecionado da resposta conferido. Cache anterior de cinco tipos e fontes não alterados. Índice não equivale a publicação."
+}

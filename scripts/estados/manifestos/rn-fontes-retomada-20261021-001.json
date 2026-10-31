@@ -1,0 +1,518 @@
+{
+  "selecao": "scripts/estados/manifestos/rn-fontes-retomada-20261021-001-selecao.json",
+  "sha256_selecao": "e6da3ab115e0bd8a8ad8714d3bbaca9118d8746761bf057ff68581d6ccf583fa",
+  "total_selecionado": 20,
+  "total_capturado": 20,
+  "capturas": [
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/wej7nn0zbuv62xoqcu11bv7qzpqno9.pdf",
+        "titulo": "Lei Ordinária 12.931 de 19.10.2026",
+        "ementa": "Institui a Política Estadual “Cidade Segura” e estabelece diretrizes para a promoção de ações integradas de prevenção à violência e fortalecimento da segurança pública no âmbito do Estado."
+      },
+      "iniciado_em": "2026-10-21T05:49:33.770667-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao/2026/wej7nn0zbuv62xoqcu11bv7qzpqno9.pdf",
+      "http": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:49:34 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "200497",
+        "Connection": "close",
+        "Last-Modified": "Tue, 20 Oct 2026 12:27:14 GMT",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"242f8a568e60dd1:0\"",
+        "Content-Security-Policy": "upgrade-insecure-requests"
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/wej7nn0zbuv62xoqcu11bv7qzpqno9.pdf",
+      "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/cc6da703a1c32747088190e71eb93fcdb23a40081b29d3428effb74f9541a084.bin.gz",
+      "sha256_fonte": "cc6da703a1c32747088190e71eb93fcdb23a40081b29d3428effb74f9541a084",
+      "sha256_cache": "4f24cf6f4ebd37086847c5cfffc3b5d90fef58380103a0d7b13b8c96fc7b15c5",
+      "PDF": true,
+      "finalizado_em": "2026-10-21T05:49:34.479668-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/9l6uizlc6vye0rdn9idrmwwfmmt21c.pdf",
+        "titulo": "Lei Ordinária 12.930 de 19.10.2026",
+        "ementa": "Institui o Programa Estadual de Fomento à Empregabilidade de Jovens LGBTQIAPN+ em Situação de Vulnerabilidade, a ser denominado Programa Jacqueline Brasil de Empregabilidade."
+      },
+      "iniciado_em": "2026-10-21T05:49:35.684635-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao/2026/9l6uizlc6vye0rdn9idrmwwfmmt21c.pdf",
+      "http": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:49:36 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "138680",
+        "Connection": "close",
+        "Last-Modified": "Tue, 20 Oct 2026 12:26:48 GMT",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"504927478e60dd1:0\"",
+        "Content-Security-Policy": "upgrade-insecure-requests"
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/9l6uizlc6vye0rdn9idrmwwfmmt21c.pdf",
+      "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/c276d59414bf84aa6a28c1699edb8f10f4eded0edb184ee667063bff5ffafc22.bin.gz",
+      "sha256_fonte": "c276d59414bf84aa6a28c1699edb8f10f4eded0edb184ee667063bff5ffafc22",
+      "sha256_cache": "c21227032bec8cd41ede30f932d83370bb2ef3faa2a23584cfad3aa1048226ce",
+      "PDF": true,
+      "finalizado_em": "2026-10-21T05:49:36.344485-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/03urj8mfbt8f3qevklj3dugbkhhc84.pdf",
+        "titulo": "Lei Ordinária 12.929 de 15.10.2026",
+        "ementa": "Institui o Protocolo de Atuação Antirracista e de Combate à Intolerância Religiosa na rede pública e privada de ensino do Estado do Rio Grande do Norte."
+      },
+      "iniciado_em": "2026-10-21T05:49:37.545166-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao/2026/03urj8mfbt8f3qevklj3dugbkhhc84.pdf",
+      "http": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:49:37 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "230298",
+        "Connection": "close",
+        "Last-Modified": "Mon, 19 Oct 2026 13:48:46 GMT",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"9e91e68fd05fdd1:0\"",
+        "Content-Security-Policy": "upgrade-insecure-requests"
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/03urj8mfbt8f3qevklj3dugbkhhc84.pdf",
+      "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/991ef39c927b6570caf7b4b1580d6a3c949ab1564761bdacaf7ad684b200a27f.bin.gz",
+      "sha256_fonte": "991ef39c927b6570caf7b4b1580d6a3c949ab1564761bdacaf7ad684b200a27f",
+      "sha256_cache": "1253659ff9ebf280ddb41c5c51c36097b1e6520227ac93d3f725f39d91aca3f0",
+      "PDF": true,
+      "finalizado_em": "2026-10-21T05:49:38.479260-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/9vfzsnjhbpjozapf5nkrtc7dvvo9fx.pdf",
+        "titulo": "Lei Ordinária 12.928 de 15.10.2026",
+        "ementa": "Reconhece como Patrimônio Natural, Paisagístico, Turístico e Cultural o Cânions dos Apertados, localizado no Município de Currais Novos."
+      },
+      "iniciado_em": "2026-10-21T05:49:39.684368-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao/2026/9vfzsnjhbpjozapf5nkrtc7dvvo9fx.pdf",
+      "http": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:49:40 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "122712",
+        "Connection": "close",
+        "Last-Modified": "Mon, 19 Oct 2026 13:48:27 GMT",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"7a19f384d05fdd1:0\"",
+        "Content-Security-Policy": "upgrade-insecure-requests"
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/9vfzsnjhbpjozapf5nkrtc7dvvo9fx.pdf",
+      "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/3c388c778891ab43f0c6e398800d01e7ee89947bae4dbb977f6d64c630a655df.bin.gz",
+      "sha256_fonte": "3c388c778891ab43f0c6e398800d01e7ee89947bae4dbb977f6d64c630a655df",
+      "sha256_cache": "73a46086dc94a4fbe5bef4cfe8a914672462f35fc00519e62782659cdb919123",
+      "PDF": true,
+      "finalizado_em": "2026-10-21T05:49:40.424608-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/tb8d1w3im8om0fdfjnjc0osya7v6o2.pdf",
+        "titulo": "Lei Ordinária 12.927 de 15.10.2026",
+        "ementa": "Reconhece como Patrimônio Cultural e Imaterial do Estado do Rio Grande do Norte o Carnaval da Cobra."
+      },
+      "iniciado_em": "2026-10-21T05:49:41.625156-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao/2026/tb8d1w3im8om0fdfjnjc0osya7v6o2.pdf",
+      "http": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:49:42 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "121097",
+        "Connection": "close",
+        "Last-Modified": "Mon, 19 Oct 2026 13:48:10 GMT",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"586fca7ad05fdd1:0\"",
+        "Content-Security-Policy": "upgrade-insecure-requests"
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/tb8d1w3im8om0fdfjnjc0osya7v6o2.pdf",
+      "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/6cca155e5f316bb94ed70af628b729ba8c8c6c2db22e6ca99f111d96a3067f8c.bin.gz",
+      "sha256_fonte": "6cca155e5f316bb94ed70af628b729ba8c8c6c2db22e6ca99f111d96a3067f8c",
+      "sha256_cache": "4095b87d3a15cd442a22a35a9d0a3f95dec5a03d56c89f8a471314dc72860e13",
+      "PDF": true,
+      "finalizado_em": "2026-10-21T05:49:42.277866-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/rkha793stfea3jmsewivrpe3xuqqed.pdf",
+        "titulo": "Lei Ordinária 12.926 de 15.10.2026",
+        "ementa": "Institui a Política Estadual de Conscientização, Prevenção e Incentivo ao Diagnóstico Precoce do Câncer de Ovário no âmbito do Estado do Rio Grande do Norte e dá outras providências."
+      },
+      "iniciado_em": "2026-10-21T05:49:43.481992-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao/2026/rkha793stfea3jmsewivrpe3xuqqed.pdf",
+      "http": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:49:43 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "198924",
+        "Connection": "close",
+        "Last-Modified": "Mon, 19 Oct 2026 13:47:51 GMT",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"6862436fd05fdd1:0\"",
+        "Content-Security-Policy": "upgrade-insecure-requests"
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/rkha793stfea3jmsewivrpe3xuqqed.pdf",
+      "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/7fe722311cb4eb0bdbfb53a17b5fa9c03c98ab42c1f2bb8fc9e8c7bf32ee568d.bin.gz",
+      "sha256_fonte": "7fe722311cb4eb0bdbfb53a17b5fa9c03c98ab42c1f2bb8fc9e8c7bf32ee568d",
+      "sha256_cache": "1b24634e5a41a6101fd63a3bf8fbc87059556f5126099de3b2a573fddd6794a5",
+      "PDF": true,
+      "finalizado_em": "2026-10-21T05:49:44.174777-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/f6p752c78g0lgha57ctheobxfq532c.pdf",
+        "titulo": "Lei Ordinária 12.925 de 15.10.2026",
+        "ementa": "Altera a Lei nº 11.908, de 12 de setembro de 2024, que Institui a Rota da Fé e das Tradições Religiosas do Estado do Rio Grande do Norte, para incluir o Município de Riachuelo."
+      },
+      "iniciado_em": "2026-10-21T05:49:45.377126-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao/2026/f6p752c78g0lgha57ctheobxfq532c.pdf",
+      "http": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:49:45 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "160213",
+        "Connection": "close",
+        "Last-Modified": "Mon, 19 Oct 2026 13:47:32 GMT",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"1fd4df63d05fdd1:0\"",
+        "Content-Security-Policy": "upgrade-insecure-requests"
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/f6p752c78g0lgha57ctheobxfq532c.pdf",
+      "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/9d18c4abc9f683a09b5e66ba988d71c7afefd3bb523beff3c109a5f50eea8d8d.bin.gz",
+      "sha256_fonte": "9d18c4abc9f683a09b5e66ba988d71c7afefd3bb523beff3c109a5f50eea8d8d",
+      "sha256_cache": "fbcaa9a828162efc4431f64cddde5195fe7a6d1a958eff7dfb4a73d489107231",
+      "PDF": true,
+      "finalizado_em": "2026-10-21T05:49:46.008032-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/o86bsti3ci2qqwksa1yrg79mel11ot.pdf",
+        "titulo": "Lei Ordinária 12.924 de 15.10.2026",
+        "ementa": "Denomina Ulisses de Oliveira Silva a Quadra de Esportes da Escola Estadual Doutor Mauro Medeiros, localizada no Município de Parelhas."
+      },
+      "iniciado_em": "2026-10-21T05:49:47.213163-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao/2026/o86bsti3ci2qqwksa1yrg79mel11ot.pdf",
+      "http": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:49:47 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "118103",
+        "Connection": "close",
+        "Last-Modified": "Mon, 19 Oct 2026 13:47:12 GMT",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"4b951758d05fdd1:0\"",
+        "Content-Security-Policy": "upgrade-insecure-requests"
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/o86bsti3ci2qqwksa1yrg79mel11ot.pdf",
+      "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/075056a66738eaf44e662d81136a8128ccc1d6c152fc3861bfddcac9f5a558e2.bin.gz",
+      "sha256_fonte": "075056a66738eaf44e662d81136a8128ccc1d6c152fc3861bfddcac9f5a558e2",
+      "sha256_cache": "1ea48f6b99753f66789249b8bebfe50e6febe4babaad174a3fd69732dd31b807",
+      "PDF": true,
+      "finalizado_em": "2026-10-21T05:49:48.045718-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/vg007c2ossweb98o0t4fs2e15ps5aq.pdf",
+        "titulo": "Lei Ordinária 12.923 de 15.10.2026",
+        "ementa": "Institui, no Calendário Oficial do Estado do Rio Grande do Norte, o “Dia Estadual da Cultura Popular”."
+      },
+      "iniciado_em": "2026-10-21T05:49:49.246479-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao/2026/vg007c2ossweb98o0t4fs2e15ps5aq.pdf",
+      "http": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:49:49 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "124697",
+        "Connection": "close",
+        "Last-Modified": "Mon, 19 Oct 2026 13:46:55 GMT",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"e848cd4dd05fdd1:0\"",
+        "Content-Security-Policy": "upgrade-insecure-requests"
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/vg007c2ossweb98o0t4fs2e15ps5aq.pdf",
+      "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/aeb13ba1a1caf44ab44424ca8207398d69ca2f284d6342a86cf0d7c3bbdbcda5.bin.gz",
+      "sha256_fonte": "aeb13ba1a1caf44ab44424ca8207398d69ca2f284d6342a86cf0d7c3bbdbcda5",
+      "sha256_cache": "ad924bd2dba8094cba6203939d8b03a95bd991263e7e117d08b7201e1e2fc279",
+      "PDF": true,
+      "finalizado_em": "2026-10-21T05:49:49.896473-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/niawmc5asl3eknzgmcxty5nufa162p.pdf",
+        "titulo": "Lei Ordinária 12.922 de 15.10.2026",
+        "ementa": "Cria o Programa de Inclusão Social da Diversidade no Estado do Rio Grande do Norte e dá outras disposições."
+      },
+      "iniciado_em": "2026-10-21T05:49:51.101559-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao/2026/niawmc5asl3eknzgmcxty5nufa162p.pdf",
+      "http": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:49:51 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "140910",
+        "Connection": "close",
+        "Last-Modified": "Mon, 19 Oct 2026 13:04:20 GMT",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"e8e9d5bca5fdd1:0\"",
+        "Content-Security-Policy": "upgrade-insecure-requests"
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/niawmc5asl3eknzgmcxty5nufa162p.pdf",
+      "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/4ab66555e0de55d894d8f834f83af8217ef5759203f16462d241e9db8bce84a8.bin.gz",
+      "sha256_fonte": "4ab66555e0de55d894d8f834f83af8217ef5759203f16462d241e9db8bce84a8",
+      "sha256_cache": "e6e5123b9713400f7fb7c55f2668004ee59fe9ab40e3ced60e9918729b1cedb7",
+      "PDF": true,
+      "finalizado_em": "2026-10-21T05:49:51.734550-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/a4tchnbbwq1iycp6kzf29nyo0uqf2u.pdf",
+        "titulo": "Lei Ordinária 12.921 de 15.10.2026",
+        "ementa": "Institui, no Calendário Oficial de Eventos do Estado do Rio Grande do Norte, o “Dia das Associações Comunitárias Rurais, das Cooperativas e dos Sindicatos da Agricultura Familiar”."
+      },
+      "iniciado_em": "2026-10-21T05:49:52.939632-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao/2026/a4tchnbbwq1iycp6kzf29nyo0uqf2u.pdf",
+      "http": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:49:53 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "133240",
+        "Connection": "close",
+        "Last-Modified": "Mon, 19 Oct 2026 12:44:50 GMT",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"a7864da1c75fdd1:0\"",
+        "Content-Security-Policy": "upgrade-insecure-requests"
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/a4tchnbbwq1iycp6kzf29nyo0uqf2u.pdf",
+      "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/2d6bf7a3f565ef0a7e0dc0f57e25e440f2d84f3667c2e8ac799b3c0777b2573b.bin.gz",
+      "sha256_fonte": "2d6bf7a3f565ef0a7e0dc0f57e25e440f2d84f3667c2e8ac799b3c0777b2573b",
+      "sha256_cache": "60fa012c3fffeaaee00b54bc3f88129f7dccd2fc27ec30e883d795bb75435eea",
+      "PDF": true,
+      "finalizado_em": "2026-10-21T05:49:53.568383-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/eqjqb02vnb0ft0hbu1gz55mxthu8oy.pdf",
+        "titulo": "Lei Ordinária 12.920 de 15.10.2026",
+        "ementa": "Reconhece como Patrimônio Cultural Imaterial do Estado do Rio Grande do Norte as “Rendeiras de Bilros da Vila de Ponta Negra”."
+      },
+      "iniciado_em": "2026-10-21T05:49:54.773457-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao/2026/eqjqb02vnb0ft0hbu1gz55mxthu8oy.pdf",
+      "http": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:49:55 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "122237",
+        "Connection": "close",
+        "Last-Modified": "Mon, 19 Oct 2026 12:44:09 GMT",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"21164c89c75fdd1:0\"",
+        "Content-Security-Policy": "upgrade-insecure-requests"
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/eqjqb02vnb0ft0hbu1gz55mxthu8oy.pdf",
+      "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/2d399440e66d702d877eda52cdd4e5069452e32d1a127176c1944991c7919b0c.bin.gz",
+      "sha256_fonte": "2d399440e66d702d877eda52cdd4e5069452e32d1a127176c1944991c7919b0c",
+      "sha256_cache": "508aea0616ee172c4977b46cdbe792e4b25aadfc3cb96a862892e7ce9da83157",
+      "PDF": true,
+      "finalizado_em": "2026-10-21T05:49:55.420444-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/lptysr6mt0u2odgct24xskw7ne14p8.pdf",
+        "titulo": "Lei Ordinária 12.919 de 15.10.2026",
+        "ementa": "Reconhece como Patrimônio Natural, Turístico Cultural do Estado do Rio Grande do Norte a Barra do Cunhaú, localizada no município de Canguaretama."
+      },
+      "iniciado_em": "2026-10-21T05:49:56.622461-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao/2026/lptysr6mt0u2odgct24xskw7ne14p8.pdf",
+      "http": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:49:57 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "123598",
+        "Connection": "close",
+        "Last-Modified": "Mon, 19 Oct 2026 12:43:52 GMT",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"8a82157fc75fdd1:0\"",
+        "Content-Security-Policy": "upgrade-insecure-requests"
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/lptysr6mt0u2odgct24xskw7ne14p8.pdf",
+      "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/890c6e33c0911994f19831a411e5d2ca52f570c75d1f8606654e49ebf257a189.bin.gz",
+      "sha256_fonte": "890c6e33c0911994f19831a411e5d2ca52f570c75d1f8606654e49ebf257a189",
+      "sha256_cache": "b0cc1cd34d964e72a7b3dbc76bb7f6dfb688f6b360c08d54839eefea3ac6245c",
+      "PDF": true,
+      "finalizado_em": "2026-10-21T05:49:57.261937-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/32syqm4bim6wbix3v2l7mm38t1ooa2.pdf",
+        "titulo": "Lei Ordinária 12.918 de 15.10.2026",
+        "ementa": "Institui a Carteira de Identificação da Pessoa com Doença Rara no âmbito do Estado do Rio Grande do Norte e dá outras providências."
+      },
+      "iniciado_em": "2026-10-21T05:49:58.465414-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao/2026/32syqm4bim6wbix3v2l7mm38t1ooa2.pdf",
+      "http": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:49:58 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "208067",
+        "Connection": "close",
+        "Last-Modified": "Mon, 19 Oct 2026 12:43:30 GMT",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"b340a771c75fdd1:0\"",
+        "Content-Security-Policy": "upgrade-insecure-requests"
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/32syqm4bim6wbix3v2l7mm38t1ooa2.pdf",
+      "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/4788e1356de70597545ccecf6d5c0c2e0cfbc506e650795f9c364a609a9303fa.bin.gz",
+      "sha256_fonte": "4788e1356de70597545ccecf6d5c0c2e0cfbc506e650795f9c364a609a9303fa",
+      "sha256_cache": "718df186714494a093f504e5782367a33d98a16ced82e1fee79e84939d8064f8",
+      "PDF": true,
+      "finalizado_em": "2026-10-21T05:49:59.126593-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/t2kyqyuhc6x1v575zdq2tyr7kpgqvj.pdf",
+        "titulo": "Lei Ordinária 12.917 de 15.10.2026",
+        "ementa": "Institui o espetáculo “A Paixão de Cristo do Município de Janduís”, no Calendário Oficial de Eventos do Estado do Rio Grande do Norte, realizado no Município de Janduís."
+      },
+      "iniciado_em": "2026-10-21T05:50:00.331227-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao/2026/t2kyqyuhc6x1v575zdq2tyr7kpgqvj.pdf",
+      "http": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:50:00 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "133649",
+        "Connection": "close",
+        "Last-Modified": "Mon, 19 Oct 2026 12:43:03 GMT",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"59c8cc61c75fdd1:0\"",
+        "Content-Security-Policy": "upgrade-insecure-requests"
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/t2kyqyuhc6x1v575zdq2tyr7kpgqvj.pdf",
+      "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/8936f0216bc3460dc91ff137879da38387e48c3a2b814da6af0917c262a4ee88.bin.gz",
+      "sha256_fonte": "8936f0216bc3460dc91ff137879da38387e48c3a2b814da6af0917c262a4ee88",
+      "sha256_cache": "f8a85368c7eaffa66a35d0f0ed2a1fcefeda346b53c994b7e788e8aea67b763a",
+      "PDF": true,
+      "finalizado_em": "2026-10-21T05:50:01.101221-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/430e14mdibs5q8fnbqtfwpm4zjnczi.pdf",
+        "titulo": "Lei Ordinária 12.916 de 15.10.2026",
+        "ementa": "Institui diretrizes para o incentivo à oferta gratuita do serviço de aferição de pressão arterial por farmácias e drogarias, como ação complementar de promoção e prevenção em saúde."
+      },
+      "iniciado_em": "2026-10-21T05:50:02.303898-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao/2026/430e14mdibs5q8fnbqtfwpm4zjnczi.pdf",
+      "http": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:50:02 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "137118",
+        "Connection": "close",
+        "Last-Modified": "Mon, 19 Oct 2026 12:42:38 GMT",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"d261fa52c75fdd1:0\"",
+        "Content-Security-Policy": "upgrade-insecure-requests"
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/430e14mdibs5q8fnbqtfwpm4zjnczi.pdf",
+      "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/1a8d1815315487143856e688835188bda7b29521e5d8c50d81e7cabae11580dd.bin.gz",
+      "sha256_fonte": "1a8d1815315487143856e688835188bda7b29521e5d8c50d81e7cabae11580dd",
+      "sha256_cache": "ba71be638b0c0c3dad579b1e5400bae8aaf2dc4dc77faa6bc540eca0631769d3",
+      "PDF": true,
+      "finalizado_em": "2026-10-21T05:50:02.940242-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-complementares",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2026/wbypdo0tlyl0qk3h9h3q8m2a7fpjzj.pdf",
+        "titulo": "Lei Complementar nº 815 de 14.10.2026",
+        "ementa": "Altera a redação do caput e § 1º, do artigo 24, e o caput dos artigos 28, 33, 34, 35 e 36, da Lei Complementar nº 643, regula a Divisão e a Organização Judiciárias do Estado do Rio Grande do Norte."
+      },
+      "iniciado_em": "2026-10-21T05:50:04.145327-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao/2026/wbypdo0tlyl0qk3h9h3q8m2a7fpjzj.pdf",
+      "http": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:50:04 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "189541",
+        "Connection": "close",
+        "Last-Modified": "Mon, 19 Oct 2026 13:50:35 GMT",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"e573ced0d05fdd1:0\"",
+        "Content-Security-Policy": "upgrade-insecure-requests"
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao/2026/wbypdo0tlyl0qk3h9h3q8m2a7fpjzj.pdf",
+      "cache": "estaduais/RN/_fonte/auditorias/rn-fontes-retomada-20261021-001/ef0a9d66be39c70af4f090fe7e2cedb087c986327fbbee1fac5f3c49942f9650.bin.gz",
+      "sha256_fonte": "ef0a9d66be39c70af4f090fe7e2cedb087c986327fbbee1fac5f3c49942f9650",
+      "sha256_cache": "587c2d61deb96b3208a584185077fc35989ba6c9bdb141e1f9573e80097c9371",
+      "PDF": true,
+      "finalizado_em": "2026-10-21T05:50:04.781582-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2016/06/01/7fca64f04ccdf7deae9441440b3c08d3.pdf",
+        "titulo": "Lei Ord. nº 10.065, de 24/05/2016",
+        "ementa": "RECONHECE A ASSOCIAÇÃO DE MULHERES QUILOMBOLAS DE CAPOEIRAS – AMQC, COMO ENTIDADE DE UTILIDADE PÚBLICA DO RIO GRANDE DO NORTE E DÁ OUTRAS PROVIDÊNCIAS."
+      },
+      "iniciado_em": "2026-10-21T05:50:05.986660-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao/2016/06/01/7fca64f04ccdf7deae9441440b3c08d3.pdf",
+      "finalizado_em": "2026-10-21T05:50:06.588850-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2016/03/07/7dd9bc3f40db6474f580ac3684800e08.pdf",
+        "titulo": "Lei Ord. nº 10.052, de 24/02/2016",
+        "ementa": "Altera a Lei Estadual nº 9.936, de 12 de fevereiro de 2015, que autoriza o Estado do Rio Grande do Norte a quitar débitos com o Regime Próprio de Previdência dos seus Servidores."
+      },
+      "iniciado_em": "2026-10-21T05:50:07.793936-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao/2016/03/07/7dd9bc3f40db6474f580ac3684800e08.pdf",
+      "finalizado_em": "2026-10-21T05:50:08.319950-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao//arq52b17e450d0b2.pdf",
+        "titulo": "Lei Ord. nº 9.823, de 17/12/2013",
+        "ementa": "Denomina a Rodovia Estadual \"Avenida Litorânea\" de \"Avenida Bugueiro Marcelo Correia de Oliveira\"."
+      },
+      "iniciado_em": "2026-10-21T05:50:09.523834-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao//arq52b17e450d0b2.pdf",
+      "finalizado_em": "2026-10-21T05:50:10.124176-03:00"
+    }
+  ],
+  "sem_MD": true
+}

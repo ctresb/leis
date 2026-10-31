@@ -1,0 +1,85 @@
+{
+  "auditado_em": "2026-10-21T04:05:14.809939-03:00",
+  "total": 2,
+  "MD_reais_modificados": 0,
+  "rede": 0,
+  "criterio": "Diagnóstico de baseline e candidatos privados; fontes antigas preservadas, não implica liberação de íntegra.",
+  "documentos": [
+    {
+      "path": "estaduais/PE/leis-ordinarias/1966/lei-5791-1966-id74626.md",
+      "sha256_md": "30acbef55f7d6826108463339c9d30e9909432ae9dc34b24270f22b19df517ff",
+      "HEAD_commit": "293ffd9fd1e68a6f05f176de54f35f4af29630d6",
+      "sha256_HEAD": "30acbef55f7d6826108463339c9d30e9909432ae9dc34b24270f22b19df517ff",
+      "backup": "estaduais/PE/_fonte/auditorias/leis-sufixo-20261021-001/preimagem/leis-ordinarias/1966/lei-5791-1966-id74626.md.gz",
+      "sha256_backup": "cc305d59e498a27731f7deb75074da5aebd0ea9e3acd54c71071adbbe1f6f0dc",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=74626&tipo=TEXTOORIGINAL",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1966/lei-5791-1966-id74626.html.gz",
+      "sha256_cache": "16ca3306cb7a49ec3ed47fb2d5a796b0dd07d47f7f6ca1c501d34e039356b2a6",
+      "sha256_fonte": "0c7fa7948539402fb3386a42c4fe50bef0b18835023bd39c5521e5a26960cd93",
+      "codificacao_comprovada": "Bytes da fonte são UTF-8 estrito; declaração interna Word windows-1252 não corresponde aos bytes. MD publicado contém dupla interpretação de UTF-8 como cp1252.",
+      "epigrafe_literal": "LEI Nº 5.791-A, DE 13 DE MAIO DE 1966.",
+      "numero_indice": "5.791-A",
+      "numero_meta_preexistente": "\"5.791\"",
+      "data_epigrafe": "1966-05-13",
+      "sinais_literalmente_elipticos": [
+        "er Legislativo decreta e eu promulgo a seguinte Lei: Art.1º ................................................................................................................................... Art. 4º ...................................................",
+        "............................................................................... § 2º Os cargos de Diretor do Instituto de Identificação e D",
+        "a, entretanto, a situação de seus atuais ocupantes. Art. 5º .................................................................................................................................. V - .......................................................",
+        "................................................................................ b) Corregedoria de Polícia. X - ...........................",
+        "............................................................................................................ b) Divisão de Identificação Civil; c) Divisão de Identifica",
+        "d) Divisão de Fotografia; e) Divisão de Estrangeiros. XIV - ................................................................................................................................... d) Divisão de Segurança Noturna. Art. 7º ..................",
+        "................................................................................................................ ............................ ressalvados os direitos adquir",
+        " disposto no Artigo 192, da Constituição Estadual. Art. 10. ................................................................................................................................ Parágrafo único. ..........................................",
+        "........................................................................ ...........................................................",
+        "............................................................................................ ...........................entre os Inspetores e Sub-Inspet",
+        "cupados, especialmente na direção da Guarda Civil. Art. 11. ................................................................................................................................ Parágrafo único. ..........................................",
+        "........................................................................ ....................entre servidores especializados do Depa",
+        "funções técnicas e de direção na atual Delegacia de Trânsito......................................................................................................................................... Art. 14º ..................................................",
+        ".............................................................................. Assembléia Legislativa do Estado de Pernambuco, em 13 de ma"
+      ],
+      "classificacao": "Pendência conservadora: metadado perdeu sufixo e corpo apresenta mojibake. Elipses já estão na fonte; integralidade/alcance da promulgação requer contexto. Não afirmar ausência confirmada nem publicar candidato como íntegra.",
+      "candidato_privado": "estaduais/PE/_fonte/auditorias/leis-sufixo-20261021-001/candidatos-privados/leis-ordinarias/1966/lei-5791-1966-id74626.md.gz",
+      "sha256_candidato": "f83780fea6d2b6046b8236060c9eb378f04b0037b2e5079fc528b7079b35c20f",
+      "sha256_candidato_gz": "8c370a1f5166e2f4014ee5438243ddd16db33240eacdf0fa5fd38f981c698ac7",
+      "correcoes_privadas": "Somente numero/data comprovados e reconstrução do corpo a partir dos bytes UTF-8 preservados; nenhuma interpretação de nomes/erros gráficos. Elipses preservadas.",
+      "QA_commonmark": {
+        "igualdade_visivel": true,
+        "assinatura_numerica_confere": true,
+        "normalizacoes_heading": []
+      }
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1965/lei-5534-1965-id76757.md",
+      "sha256_md": "79b1c15ae9d15f5db30e092f4ad262aed48223bf236638429a149c9bfeb79ebe",
+      "HEAD_commit": "293ffd9fd1e68a6f05f176de54f35f4af29630d6",
+      "sha256_HEAD": "79b1c15ae9d15f5db30e092f4ad262aed48223bf236638429a149c9bfeb79ebe",
+      "backup": "estaduais/PE/_fonte/auditorias/leis-sufixo-20261021-001/preimagem/leis-ordinarias/1965/lei-5534-1965-id76757.md.gz",
+      "sha256_backup": "cd6dd23acd9b4ab2f98772dca080c7e4cb8fc09cf2e39d8213f61c2335cf3e8f",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=76757&tipo=TEXTOORIGINAL",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1965/lei-5534-1965-id76757.html.gz",
+      "sha256_cache": "7587d3169aac14df1c55ae2aa43c89963018129e16828831631a1fe5dca5c72a",
+      "sha256_fonte": "c540941ea76784545152a98113c455b9e0537cd5618106eec7433797761c8fed",
+      "codificacao_comprovada": "Bytes da fonte são UTF-8 estrito; declaração interna Word windows-1252 não corresponde aos bytes. MD publicado contém dupla interpretação de UTF-8 como cp1252.",
+      "epigrafe_literal": "LEI Nº 5.534- A, DE 11 DE MAIO DE 1965.",
+      "numero_indice": "5.534-A",
+      "numero_meta_preexistente": "\"5.534\"",
+      "data_epigrafe": "1965-05-11",
+      "sinais_literalmente_elipticos": [
+        " Legislativa decretou e eu promulgo a seguinte Lei: Art. 1º .................................................................................................................................. ...........................................................",
+        "............................................................................................ Art. 11º O Departamento de Rendas do Interior remeterá, obr",
+        "o de indústria e profissões devido aos Municípios. Art. 12. ................................................................................................................................ ...........................................................",
+        "............................................................................................ Palácio do Governo do Estado de Pernambuco, em 11 de maio d"
+      ],
+      "classificacao": "Pendência conservadora: metadado perdeu sufixo e corpo apresenta mojibake. Elipses já estão na fonte; integralidade/alcance da promulgação requer contexto. Não afirmar ausência confirmada nem publicar candidato como íntegra.",
+      "candidato_privado": "estaduais/PE/_fonte/auditorias/leis-sufixo-20261021-001/candidatos-privados/leis-ordinarias/1965/lei-5534-1965-id76757.md.gz",
+      "sha256_candidato": "d068d44c6ec988426a26b97d58685b08fffc7df8755cf6bf876c1e9c37fb7de2",
+      "sha256_candidato_gz": "de5dd05cc9fa079b52aa7d63134614e9d6de12f7363e38e190a1e226831b6b42",
+      "correcoes_privadas": "Somente numero/data comprovados e reconstrução do corpo a partir dos bytes UTF-8 preservados; nenhuma interpretação de nomes/erros gráficos. Elipses preservadas.",
+      "QA_commonmark": {
+        "igualdade_visivel": true,
+        "assinatura_numerica_confere": true,
+        "normalizacoes_heading": []
+      }
+    }
+  ]
+}

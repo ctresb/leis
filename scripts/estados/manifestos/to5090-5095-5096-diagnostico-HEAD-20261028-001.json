@@ -1,0 +1,137 @@
+{
+  "preparado_em": "2026-10-28T09:26:49.285117-03:00",
+  "HEAD": "70a8c21e29b50fa2aed60e1bbc4a1f0a0a93c846",
+  "inventario": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-008/HEAD/HEAD-inventario.jsonl.gz",
+  "sha256_inventario": "c9f5d8c43e8facb681b7f033647c4333cb6b193e352e5666a89d24a0ef99b27b",
+  "total_documentos": 4,
+  "documentos": [
+    {
+      "path": "estaduais/TO/leis-ordinarias/2026/lei-ordinaria-5095-2026-id1572.md",
+      "oid": "1216837740cdf177157e427b6e485182586e9a4d",
+      "sha256_md": "5fe2783c84e24dd0991c8f3d1188344872c1a3c2c765cc27cbd83df905531af8",
+      "meta": {
+        "titulo": "Lei Ordinária-ALTO nº 5.095, de 27 de julho de 2026",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "5095",
+        "data": "2026-07-27",
+        "ementa": "Dispõe sobre instituição do Programa Estadual de Apoio à Oncologia Infantil e Enfermidades Correlacionadas - PRO-ONCOLOGIA INFANTIL e dá outras providências.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "DOE 7.111",
+        "fonte": "https://sapl.al.to.leg.br/norma/1572",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2026/1572/lei_5095-2026_81649_pl_878-2024.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "preimagem": "estaduais/TO/_fonte/auditorias/TO5090-5095-5096-HEAD-contexto-20261028-001/preimagens/estaduais/TO/leis-ordinarias/2026/lei-ordinaria-5095-2026-id1572.md",
+      "sha256_corpo_apos_H1": "b42bd21ee52c772f0a692a6b7ffb38614f3ff983d5d7e773a4b944ffc4cf204e",
+      "fonte_cache": "estaduais/TO/_fonte/lei-ordinaria/2026/lei-ordinaria-5095-2026-id1572.html.gz",
+      "sha256_cache": "7972d4b040d652e80aeb91eb27ee119299b74ddad957432146e476b0111aabe3",
+      "sha256_HTML": "a0d6a72c3a28b272f6137df87aea4bb81ff61997622d0a26c252643232da6909",
+      "trecho_normativo": "LEI Nº 5.095, DE 27 DE JULHO DE 2026 Publicado no Diário Oficial nº 7.111, de 29/07/2026\n\nInstitui a Política Estadual de Humanização do Atendimento à Pessoa com Deficiência em Tratamento Oncológico no Estado do Tocantins e dá outras providências.\n\nO GOVERNADOR DO ESTADO DO TOCANTINS\n\nFaço saber que a ASSEMBLEIA LEGISLATIVA DO ESTADO DO TOCANTINS decreta e eu sanciono a seguinte Lei:\n\n**Art. 1º** Fica instituída, no âmbito do Estado do Tocantins, a Política Estadual de Humanização do Atendimento à Pessoa com Deficiência em Tratamento Oncológico, com o objetivo de garantir atendimento digno, acessível, inclusivo e integral aos pacientes oncológicos com deficiência nos serviços de saúde públicos e conveniados ao Sistema Único de Saúde - SUS.\n\n**Art. 2º** A política estadual terá as seguintes diretrizes fundamentais:\n\nI - assegurar igualdade",
+      "trecho_fecho": "adaptado e transporte adequado;\n\nIV - estabelecer protocolos de atendimento prioritário e simplificado para pessoas com deficiência;\n\nV - assegurar suporte contínuo e assistência psicossocial ao paciente e a seus familiares.\n\n**Art. 5º** Esta Lei entra em vigor na data de sua publicação.\n\nPalácio Araguaia Governador José Wilson Siqueira Campos, em Palmas, aos 27 dias do mês de julho de 2026, 205º da Independência, 138º da República e 38° do Estado.\n\nWANDERLEI BARBOSA CASTRO Governador do Estado\n",
+      "limite_fonte": "Cache HTML da captura preexistente; PDF bruto não recapturado neste diagnóstico. Evidência interna dos blobs e fonte preservada, sem certificar equivalência ao PDF atual."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2026/lei-ordinaria-5095-2026-id1611.md",
+      "oid": "914552aeb989a7c442a7c6c0c34e6297277f5f01",
+      "sha256_md": "6b4d0517e65d62939494b21244af83149d2e964c6a27faa3aa1a656bba3383b2",
+      "meta": {
+        "titulo": "Lei Ordinária nº 5.095, de 27 de julho de 2026",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "5095",
+        "data": "2026-07-27",
+        "ementa": "Institui a Política Estadual de Humanização do Atendimento à Pessoa com Deficiência em Tratamento Oncológico no Estado do Tocantins e dá outras providências.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "D.O.E nº 7111",
+        "fonte": "https://sapl.al.to.leg.br/norma/1611",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2026/1611/lei_5095-2026.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "preimagem": "estaduais/TO/_fonte/auditorias/TO5090-5095-5096-HEAD-contexto-20261028-001/preimagens/estaduais/TO/leis-ordinarias/2026/lei-ordinaria-5095-2026-id1611.md",
+      "sha256_corpo_apos_H1": "b42bd21ee52c772f0a692a6b7ffb38614f3ff983d5d7e773a4b944ffc4cf204e",
+      "fonte_cache": "estaduais/TO/_fonte/lei-ordinaria/2026/lei-ordinaria-5095-2026-id1611.html.gz",
+      "sha256_cache": "93cd1ff4dc81b00629acd873886a68c2a6bd6f6bccdb42bc3c6922d3c41b452c",
+      "sha256_HTML": "a0d6a72c3a28b272f6137df87aea4bb81ff61997622d0a26c252643232da6909",
+      "trecho_normativo": "LEI Nº 5.095, DE 27 DE JULHO DE 2026 Publicado no Diário Oficial nº 7.111, de 29/07/2026\n\nInstitui a Política Estadual de Humanização do Atendimento à Pessoa com Deficiência em Tratamento Oncológico no Estado do Tocantins e dá outras providências.\n\nO GOVERNADOR DO ESTADO DO TOCANTINS\n\nFaço saber que a ASSEMBLEIA LEGISLATIVA DO ESTADO DO TOCANTINS decreta e eu sanciono a seguinte Lei:\n\n**Art. 1º** Fica instituída, no âmbito do Estado do Tocantins, a Política Estadual de Humanização do Atendimento à Pessoa com Deficiência em Tratamento Oncológico, com o objetivo de garantir atendimento digno, acessível, inclusivo e integral aos pacientes oncológicos com deficiência nos serviços de saúde públicos e conveniados ao Sistema Único de Saúde - SUS.\n\n**Art. 2º** A política estadual terá as seguintes diretrizes fundamentais:\n\nI - assegurar igualdade",
+      "trecho_fecho": "adaptado e transporte adequado;\n\nIV - estabelecer protocolos de atendimento prioritário e simplificado para pessoas com deficiência;\n\nV - assegurar suporte contínuo e assistência psicossocial ao paciente e a seus familiares.\n\n**Art. 5º** Esta Lei entra em vigor na data de sua publicação.\n\nPalácio Araguaia Governador José Wilson Siqueira Campos, em Palmas, aos 27 dias do mês de julho de 2026, 205º da Independência, 138º da República e 38° do Estado.\n\nWANDERLEI BARBOSA CASTRO Governador do Estado\n",
+      "limite_fonte": "Cache HTML da captura preexistente; PDF bruto não recapturado neste diagnóstico. Evidência interna dos blobs e fonte preservada, sem certificar equivalência ao PDF atual."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2026/lei-ordinaria-5096-2026-id1600.md",
+      "oid": "3790bce2c33d79063910eae71130e7da7d4fbecf",
+      "sha256_md": "988ef1339b10e0d0e685c492d030f098d177bbbbae74870516811826614af793",
+      "meta": {
+        "titulo": "Lei Ordinária nº 5.096, de 27 de julho de 2026",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "5096",
+        "data": "2026-07-27",
+        "ementa": "Dispõe sobre o Reconhecimento e a Relevância da Pesca Esportiva como modalidade esportista e atividade de lazer no Estado do Tocantins",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "D.O.E nº 7111",
+        "fonte": "https://sapl.al.to.leg.br/norma/1600",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2026/1600/lei_5096-2026.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "preimagem": "estaduais/TO/_fonte/auditorias/TO5090-5095-5096-HEAD-contexto-20261028-001/preimagens/estaduais/TO/leis-ordinarias/2026/lei-ordinaria-5096-2026-id1600.md",
+      "sha256_corpo_apos_H1": "409ebdf0306d9d72a3bcf3229e07399e9e3dcda91171f0de69401ac9fe55aa41",
+      "fonte_cache": "estaduais/TO/_fonte/lei-ordinaria/2026/lei-ordinaria-5096-2026-id1600.html.gz",
+      "sha256_cache": "19ab102dd5cfdb06e23b24b2444d239294aba775a2929bf85f01c0b5f974d563",
+      "sha256_HTML": "299cbaaec78f4f23a82ae93a15d34f9094b541d5240cdce32a4dc38badf847d0",
+      "trecho_normativo": "LEI Nº 5.096, DE 27 DE JULHO DE 2026 Publicado no Diário Oficial nº 7.111, de 29/07/2026\n\nDispõe sobre o reconhecimento da Pesca Esportiva como modalidade esportiva e atividade de lazer relevante no Estado do Tocantins e dá outras providências.\n\nO GOVERNADOR DO ESTADO DO TOCANTINS\n\nFaço saber que a ASSEMBLEIA LEGISLATIVA DO ESTADO DO TOCANTINS decreta e eu sanciono a seguinte Lei:\n\n**Art. 1º** Fica reconhecida a relevância da pesca esportiva como modalidade esportiva e atividade de lazer no Estado do Tocantins.\n\n**Art. 2º** O reconhecimento de que trata esta Lei tem por objetivo valorizar a prática da pesca esportiva, incentivando seu desenvolvimento de forma sustentável, recreativa e competitiva.\n\n**Art. 3º** Para os fins desta Lei, entende-se por pesca esportiva a atividade praticada com equipamentos adequados, com finalidade recreativa",
+      "trecho_fecho": "r a educação ambiental e a conscientização sobre a importância da preservação da fauna aquática e dos recursos hídricos; e\n\nIII – incentivar a realização de torneios, competições e encontros relacionados à prática no Estado.\n\n**Art. 6º** Esta Lei entra em vigor na data de sua publicação.\n\nPalácio Araguaia Governador José Wilson Siqueira Campos, em Palmas, aos 27 dias do mês de julho de 2026, 205º da Independência, 138º da República e 38° do Estado.\n\nWANDERLEI BARBOSA CASTRO Governador do Estado\n",
+      "limite_fonte": "Cache HTML da captura preexistente; PDF bruto não recapturado neste diagnóstico. Evidência interna dos blobs e fonte preservada, sem certificar equivalência ao PDF atual."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2026/lei-ordinaria-5096-2026-id1620.md",
+      "oid": "f4a9f936c1d0a48d3bc3a40c7e3b0d4589e85dff",
+      "sha256_md": "111912fde20bb6f8d52483e84db5cb519a3b85b05112825c1f7bed05cb334dc0",
+      "meta": {
+        "titulo": "Lei Ordinária-ALTO nº 5.096, de 27 de julho de 2026",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "5096",
+        "data": "2026-07-27",
+        "ementa": "Dispõe sobre o incentivo à utilização da Musicoterapia como tratamento terapêutico complementar de pessoas com deficiência, síndromes e/ou Transtorno do Espectro Autista (TEA), no âmbito do Estado do Tocantins",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "DOE 7.111",
+        "fonte": "https://sapl.al.to.leg.br/norma/1620",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2026/1620/lei_5090.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "preimagem": "estaduais/TO/_fonte/auditorias/TO5090-5095-5096-HEAD-contexto-20261028-001/preimagens/estaduais/TO/leis-ordinarias/2026/lei-ordinaria-5096-2026-id1620.md",
+      "sha256_corpo_apos_H1": "afd07a7530e36e6614484997a804cc1cab72b2821e73155e984518d2b8a00ea5",
+      "fonte_cache": "estaduais/TO/_fonte/lei-ordinaria/2026/lei-ordinaria-5096-2026-id1620.html.gz",
+      "sha256_cache": "33bcb6dfdc86da86a85cd72e14772d0539e72aa5d0beba8755cbf9b966ee99a0",
+      "sha256_HTML": "e384764dabe45527902e8ba55b1fe957fa1bbd770347c691f40895a5b6867679",
+      "trecho_normativo": "LEI Nº 5.090, DE 27 DE JULHO DE 2026 Publicado no Diário Oficial nº 7.111, de 29/07/2026\n\nDispõe sobre o incentivo à utilização da Musicoterapia como tratamento terapêutico complementar de pessoas com deficiência, síndromes e/ou Transtorno do Espectro Autista (TEA), no âmbito do Estado do Tocantins.\n\nO GOVERNADOR DO ESTADO DO TOCANTINS\n\nFaço saber que a ASSEMBLEIA LEGISLATIVA DO ESTADO DO TOCANTINS decreta e eu sanciono a seguinte Lei:\n\n**Art. 1º** Fica incentivada a utilização da Musicoterapia como procedimento terapêutico complementar, em equipe multidisciplinar, no tratamento de pessoas com deficiência, síndromes e/ou Transtorno do Espectro Autista (TEA), a ser oferecida por clínicas de reabilitação e outras instituições, públicas ou privadas, conveniadas ou não, que ofereçam o tratamento, no âmbito do Estado do Tocantins.\n\n**§1º** O t",
+      "trecho_fecho": "avaliações qualitativas periódicas, a fim de aferir o acompanhamento do paciente, com objetivos terapêuticos individualizados, que serão traçados pelo terapeuta durante a avaliação inicial e/ou atendimento musicoterapêutico.\n\n**Art. 3º** Esta Lei entra em vigor na data de sua publicação.\n\nPalácio Araguaia Governador José Wilson Siqueira Campos, em Palmas, aos 27 dias do mês de julho de 2026, 205º da Independência, 138º da República e 38° do Estado.\n\nWANDERLEI BARBOSA CASTRO Governador do Estado\n",
+      "limite_fonte": "Cache HTML da captura preexistente; PDF bruto não recapturado neste diagnóstico. Evidência interna dos blobs e fonte preservada, sem certificar equivalência ao PDF atual."
+    }
+  ],
+  "achados": [
+    {
+      "caso": "5095/2026",
+      "ids": [
+        "1572",
+        "1611"
+      ],
+      "conclusao": "Corpos após H1 byte a byte iguais e epígrafe própria5095. Ementa do cadastro1572 trata oncologia infantil, enquanto próprio corpo e cadastro1611 tratam humanização do atendimento à pessoa com deficiência em tratamento oncológico. Indício comprovado de dois registros do mesmo texto; manter fontes/versões para reconciliação ROOT.",
+      "tipo": "alias com mesma epígrafe e corpo literal"
+    },
+    {
+      "caso": "5096/2026 cadastro1620",
+      "ids": [
+        "1620"
+      ],
+      "conclusao": "Número5096 no cabeçalho/H1 confronta epígrafe própria5090 no corpo e arquivo oficial lei_5090.pdf. Não há outra Lei5090/2026 nesse inventário HEAD. Não é a mesma norma5096 do cadastro1600: esta versa pesca esportiva;1620 versa musicoterapia. Não renomear nem eliminar como duplicata por número do cadastro.",
+      "tipo": "divergência individual literal de identidade"
+    }
+  ],
+  "nenhuma_mascara": true,
+  "nenhuma_correcao": true,
+  "sem_rede": true,
+  "sem_novas_normas": true,
+  "metas_inalteradas": true
+}

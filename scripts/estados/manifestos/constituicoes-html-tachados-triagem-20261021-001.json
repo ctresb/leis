@@ -1,0 +1,881 @@
+{
+  "revalidacao_hashes_em": "2026-10-21T03:30:19.762385-03:00",
+  "total_constituicoes_pasta_principal": 26,
+  "total_com_fontes_tachadas_HTML_examinadas": 10,
+  "suspeitas_na_triagem": 0,
+  "criterio": "Triagem somente leitura de tags s/strike/del, line-through inline e regras CSS locais simples comprovadas, com herança nos descendentes. Grupos textuais de 20+ caracteres procurados no Markdown renderizado CommonMark e confrontados também com trechos não tachados da própria fonte. Coincidências existentes em redações não tachadas não são tratadas como vazamento de texto revogado.",
+  "limites": "Não certifica vigência nem integralidade. Não resolve CSS externo, seletores CSS complexos ou estilos gráficos em PDF. DF foi tratado em seus recibos específicos e não integra esta pasta principal. Ausência de cache no padrão de nome não afirma falta de fonte oficial.",
+  "documentos": [
+    {
+      "path": "estaduais/AC/constituicao/1989/constituicao-ac-casa-civil.md",
+      "sha256_md": "92b724ca911da806dcc8b86c8570ebbd1c5b857de522d7b83eca1d836b7e3c69",
+      "metadata": {
+        "titulo": "Constituição do Estado do Acre",
+        "uf": "AC",
+        "tipo": "Constituição Estadual",
+        "numero": "",
+        "data": "1989-10-03",
+        "ementa": "",
+        "versao_texto": "Compilação da Casa Civil; anotações identificadas até EC 76/2024; data-limite global não declarada",
+        "fonte": "https://www.legis.ac.gov.br/detalhar_constituicao",
+        "baixado_em": "2026-10-15"
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/AC/_fonte/constituicao/1989/constituicao-ac-casa-civil.html.gz",
+          "formato": "texto",
+          "bytes": 1375867,
+          "sha256": "580366337fece783de95ee97df39d78e2e20ce07fef0c421efc5e2e0e8cb1848",
+          "tags_tachado": 324,
+          "sinais_CSS": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/AL/constituicao/1989/constituicao-al-pmal-ec50-2022.md",
+      "sha256_md": "3a9a74e7095cca5973a32b8c036eaa20fd6bf7ecf2fbe6905964709ba76cf8e0",
+      "metadata": {
+        "titulo": "Constituição do Estado de Alagoas",
+        "uf": "AL",
+        "tipo": "Constituição Estadual",
+        "numero": "",
+        "data": "1989-10-05",
+        "ementa": "",
+        "versao_texto": "Atualizada até EC 50/2022, conforme capa do PDF disponibilizado pela PMAL; data da edição não declarada; atualização vigente em 2026 não verificada",
+        "observacao_fonte": "A capa informa EC 50/2022 e uma anotação interna traz EC 50/2021; divergência preservada no corpo.",
+        "fonte": "https://central.pm.al.gov.br/sistemas/public/sislegis/publico/download/id/1816/param/2/set/10/get/bb0e73cc/dist/",
+        "catalogo_fonte": "https://central.pm.al.gov.br/sistemas/public/sislegis/publico/index/id/10/ordergrid/link_externo_DESC",
+        "baixado_em": "2026-10-15",
+        "limitacao_compilacao": "Edição até EC 50/2022; há EC 52, de 15/10/2024, no acervo oficial, cuja incorporação não foi verificada."
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/AL/_fonte/constituicao/1989/constituicao-al-pmal-ec50-2022.html.gz",
+          "formato": "PDF",
+          "bytes": 747595,
+          "sha256": "df2a71070696472c15b8479c5e1be8fa41862d264a6d9b79b2671d3810fcd0d3",
+          "tags_tachado": 0,
+          "sinais_CSS": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/AM/constituicao/2018/constituicao-do-estado-1-2018-id10048.md",
+      "sha256_md": "4c4218fe805ed8e2c6a26dd24ba46c2311abcb9e1c1663ab73424f65677050bd",
+      "metadata": {
+        "titulo": "Constituição do Estado nº 1, de 05 de outubro de 1989",
+        "uf": "AM",
+        "tipo": "Constituição Estadual",
+        "numero": "1",
+        "data": "1989-10-05",
+        "ementa": "NÓS, REPRESENTANTES DO POVO AMAZONENSE, ELEITOS POR SUA VONTADE SOBERANA E INVESTIDO DE PODERES CONSTITUINTES, COM O PROPÓSITO DE ASSEGURAR A TRANSPARÊNCIA DOS PODERES, A ORDEM JURÍDICA E SOCIAL JUSTA, A LIBERDADE, O DIREITO DE TODOS À PLENA CIDADANIA E À PARTICIPAR POPULAR NA DEFESA INTRANSIGENTE DESSES PRINCÍPIOS E OBJETIVOS, CONSUBSTANCIANDO AS ASPIRAÇÕES DE UM ESTADO FIEL A SUA VOCAÇÃO HISTÓRICA DE GRANDEZA, INTERAÇÃO HUMANA E VALORES MORAIS, PROMULGAMOS, SOB A ÉGIDE DA JUSTIÇA E A PROTEÇÃO DE DEUS, A CONSTITUIÇÃO DO ESTADO DO AMAZONAS",
+        "versao_texto": "10ª edição, 2024; texto compilado até EC 137, de 26/06/2024",
+        "publicacao": "",
+        "fonte": "https://sapl.al.am.leg.br/norma/10048",
+        "arquivo": "https://sapl.al.am.leg.br/media/sapl/public/normajuridica/2018/10048/constituicao_atualizada_-_compilada_ate_a_ec_137.pdf",
+        "baixado_em": "2026-10-13",
+        "limitacao_compilacao": "Edição compilada até EC 137/2024; há EC 144/2026 no acervo oficial, cuja incorporação não foi verificada."
+      },
+      "fontes_cache": []
+    },
+    {
+      "path": "estaduais/AP/constituicao/1991/constituicao-ap.md",
+      "sha256_md": "0c7bca53a8d275515f4e1b00fe4dabefe36135fb491f0b314d860ecc25fce96f",
+      "metadata": {
+        "titulo": "Constituição do Estado do Amapá",
+        "uf": "AP",
+        "tipo": "Constituição Estadual",
+        "numero": "",
+        "data": "1991-12-20",
+        "ementa": "",
+        "versao_texto": "Edição de 2025; atualizada até EC 71, de 17/06/2025",
+        "publicacao": "",
+        "fonte": "http://silegis.al.ap.leg.br/proposicaopdf/2CEatualizadaeconsolidadaateEC071comSumario.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/AP/_fonte/constituicao/1991/constituicao-ap.html.gz",
+          "formato": "PDF",
+          "bytes": 2142179,
+          "sha256": "653e0e3fd73f516ae936d7f27b8cbb09f1d7d91e70bc11f578b203ceda6e3777",
+          "tags_tachado": 0,
+          "sinais_CSS": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/constituicao/1989/constituicao-do-estado-da-bahia-de-05-de-outubro-de-1989.md",
+      "sha256_md": "647a70694def26428b8a421c06f5f93588879e34708173345c5d97070d9d45a1",
+      "metadata": {
+        "titulo": "Constituição do Estado da Bahia (1989)",
+        "uf": "BA",
+        "tipo": "Constituição Estadual",
+        "numero": "",
+        "data": "1989-10-05",
+        "ementa": "",
+        "versao_texto": "Texto do Portal de Legislação da Bahia; anotações identificadas até EC 33, de 20/03/2024; data-limite global não declarada",
+        "publicacao": "",
+        "fonte": "https://www.legislabahia.ba.gov.br/documentos/constituicao-do-estado-da-bahia-de-05-de-outubro-de-1989",
+        "baixado_em": "2026-10-13"
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/BA/_fonte/constituicao/1989/constituicao-do-estado-da-bahia-de-05-de-outubro-de-1989.html.gz",
+          "formato": "texto",
+          "bytes": 556474,
+          "sha256": "1d3cc8a6b83fc8fd1c846eec62e972b0d7a37abff27b4036acbedadd8a946c35",
+          "tags_tachado": 0,
+          "sinais_CSS": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/CE/constituicao/1989/constituicao-ce-ec136-2026.md",
+      "sha256_md": "11b3746269842e0affd1b66bd223cda381e46594ba1c1804ec8d7b0f538f1049",
+      "metadata": {
+        "titulo": "Constituição do Estado do Ceará",
+        "uf": "CE",
+        "tipo": "Constituição Estadual",
+        "numero": "",
+        "data": "1989-10-05",
+        "ementa": "",
+        "versao_texto": "Atualizada até a Emenda Constitucional nº 136, edição de 2026",
+        "fonte": "https://www.al.ce.gov.br/download-file/404590",
+        "baixado_em": "2026-10-15"
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/CE/_fonte/constituicao/1989/constituicao-ce-ec136-2026.html.gz",
+          "formato": "PDF",
+          "bytes": 28369678,
+          "sha256": "f0e84e410d6a07bf076497ba55c56b9d0685ccc3e6eb6e7029fda0598c3740aa",
+          "tags_tachado": 0,
+          "sinais_CSS": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/ES/constituicao/1989/con-1-1989-id33122.md",
+      "sha256_md": "231f2181e03f8285c7e27767582f2c0e7e64fe8a5feadb230df46550a517b559",
+      "metadata": {
+        "titulo": "Constituição Estadual nº 1/1989",
+        "uf": "ES",
+        "tipo": "Constituição Estadual",
+        "numero": "1",
+        "data": "1989-10-05",
+        "ementa": "Nós, os representantes do povo espírito-santense, reunido sob a proteção de DEUS, em Assembléia Estadual Constituinte, por força do Art.11 do Ato das Disposições Constitucionais Transitórias, da Constituição Federal, baseados nos princípios nela contidos, promulgamos a Constituição Estadual, assegurando o bem-estar de todo cidadão mediante a participação do povo no processo político, econômico e social do Estado, repudiando, assim, toda a forma autoritária de governo.",
+        "situacao": "Em Vigor",
+        "revogada": false,
+        "versao_texto": "Compilação da Assembleia; anotações identificadas até EC 119, de 14/07/2026; data-limite global não declarada",
+        "fonte": "https://www3.al.es.gov.br/legislacao/norma.aspx?id=33122",
+        "arquivo": "https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/COE11989.html",
+        "baixado_em": "2026-10-13"
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/ES/_fonte/constituicao/1989/con-1-1989-id33122.html.gz",
+          "formato": "texto",
+          "bytes": 2804444,
+          "sha256": "99169a17235f09de9989eb3e973f6ef4a017614062ba7524743031154e0b35fc",
+          "tags_tachado": 898,
+          "sinais_CSS": 37
+        }
+      ]
+    },
+    {
+      "path": "estaduais/GO/constituicao/1989/ce-sn-1989-id103152.md",
+      "sha256_md": "d8f57dd9fab87cfcf7c822c2bb71f0343e03fb463512f40d769f4e8a84a95625",
+      "metadata": {
+        "titulo": "Constituição do Estado de Goiás",
+        "uf": "GO",
+        "tipo": "Constituição Estadual",
+        "numero": "",
+        "data": "1989-10-05",
+        "ementa": "Sob a proteção de Deus e em nome do povo goiano, nós, Deputados Estaduais, investidos de Poder Constituinte, fiéis às tradições históricas e aos anseios de nosso povo, comprometidos com os ideais democráticos, respeitando os direitos fundamentais da pessoa humana, buscando definir e limitar a ação do Estado em seu papel de construir uma sociedade livre, justa e pluralista, aprovamos e promulgamos a presente Constituição do Estado de Goiás.",
+        "situacao": "Em Vigor",
+        "revogada": false,
+        "versao_texto": "Compilação Legisla Goiás; anotações estaduais identificadas até EC 88, de 16/12/2025; data-limite global não declarada",
+        "publicacao": "",
+        "fonte": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152",
+        "baixado_em": "2026-10-13"
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/GO/_fonte/constituicao/1989/ce-sn-1989-id103152.html.gz",
+          "formato": "texto",
+          "bytes": 2545870,
+          "sha256": "7a843f4018c451b99bfa888013a0a6968ef68bd4f89f93aebfb7e9ccb9566aea",
+          "tags_tachado": 332,
+          "sinais_CSS": 536
+        }
+      ]
+    },
+    {
+      "path": "estaduais/MA/constituicao/1989/constituicao-ma-uema-ec81-2019.md",
+      "sha256_md": "80d0539bc586fdacc19eb001b57500cb0c93650879c803791bfedae5193f7c86",
+      "metadata": {
+        "titulo": "Constituição do Estado do Maranhão",
+        "uf": "MA",
+        "tipo": "Constituição Estadual",
+        "numero": "",
+        "data": "1989-10-05",
+        "ementa": "",
+        "edicao_texto": "São Luís, ALEMA, 2019",
+        "versao_texto": "Edição ALEMA de 2019, com alterações até EC 81/2019, conforme capa; cópia disponibilizada pela Universidade Estadual do Maranhão",
+        "limitacao_compilacao": "Edição antiga: alterações posteriores a EC 81/2019 e atualização vigente em 2026 não verificadas. Não foi obtida compilação oficial mais recente nas fontes acessíveis.",
+        "fonte": "https://dados.uema.br/wp-content/uploads/2023/11/Constituicao_Estado_Maranhao_.pdf",
+        "catalogo_fonte": "https://dados.uema.br/estatuto-regimentos/",
+        "baixado_em": "2026-10-15"
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/MA/_fonte/constituicao/1989/constituicao-ma-uema-ec81-2019.html.gz",
+          "formato": "PDF",
+          "bytes": 1216852,
+          "sha256": "373760b30a533304b4236aea938cf7141fdb59d9caffff070ff8279ad444ee4b",
+          "tags_tachado": 0,
+          "sinais_CSS": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/MG/constituicao/1989/con-1989-1989.md",
+      "sha256_md": "0a2b8e83ab461b73485e27bd7b0e9a27f4692c09de4a71d727a1ef04e59a18cd",
+      "metadata": {
+        "titulo": "Constituição do Estado de Minas Gerais (1989)",
+        "uf": "MG",
+        "tipo": "Constituição Estadual",
+        "numero": "1989",
+        "data": "1989-09-21",
+        "ementa": "CONSTITUIÇÃO DO ESTADO DE MINAS GERAIS.",
+        "situacao": "Vigente",
+        "revogada": false,
+        "versao_texto": "Texto atualizado da ALMG; anotações identificadas até Emenda à Constituição 122, de 15/04/2026; data-limite global não declarada",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/CON/1989/1989/documento?tipoDoc=572",
+        "baixado_em": "2026-10-13"
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/MG/_fonte/constituicao/1989/con-1989-1989.html.gz",
+          "formato": "texto",
+          "bytes": 416299,
+          "sha256": "b72105f8448d0d4e5e5f97276c5c4d4f63a900a65ac14693821638af0685fcfb",
+          "tags_tachado": 0,
+          "sinais_CSS": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/MS/constituicao/1989/ce-sn-1989-dfde24a4767d.md",
+      "sha256_md": "ee214c3d068a3debc020a73d0e1b8c748e69042bcf8df78770359ca5dec393c6",
+      "metadata": {
+        "titulo": "CONSTITUIÇÃO ESTADUAL Nº , DE 5 DE OUTUBRO DE 1989",
+        "uf": "MS",
+        "tipo": "Constituição Estadual",
+        "numero": "",
+        "data": "1989-10-05",
+        "ementa": "Constituição do Estado de Mato Grosso do Sul de 1989.",
+        "versao_texto": "Compilação da Governadoria; anotações estaduais identificadas até EC 97, de 16/12/2025; data-limite global não declarada",
+        "fonte": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/0/DFDE24A4767DDCBF04257E4B006C0233?OpenDocument",
+        "baixado_em": "2026-10-13"
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/MS/_fonte/constituicao/1989/ce-sn-1989-dfde24a4767d.html.gz",
+          "formato": "texto",
+          "bytes": 465163,
+          "sha256": "865bae29c6ae1c7c0bbce11b38491d08815c99225a4992dcad7d0465825e4e9d",
+          "tags_tachado": 202,
+          "sinais_CSS": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/MT/constituicao/1989/constituicao-mt.md",
+      "sha256_md": "1d0c4fcdbb59b64c78afede907234aaf0e885956982c47b87eb639a2db9b7a89",
+      "metadata": {
+        "titulo": "Constituição do Estado de Mato Grosso",
+        "uf": "MT",
+        "tipo": "Constituição Estadual",
+        "numero": "",
+        "data": "1989-10-05",
+        "ementa": "",
+        "versao_texto": "Texto compilado da ALMT, atualizado até EC 122, D.O. de 08/04/2026",
+        "urn": "",
+        "fonte": "https://storage.al.mt.gov.br/api/v1/download/default/958660",
+        "baixado_em": "2026-10-13"
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/MT/_fonte/constituicao/1989/constituicao-mt.html.gz",
+          "formato": "PDF",
+          "bytes": 1846089,
+          "sha256": "c9c1b6daa2e0d836d7f8b63529059d45e2484cfde3316ec4bacdd67a353cbfee",
+          "tags_tachado": 0,
+          "sinais_CSS": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/PA/constituicao/1989/constituicao-pa.md",
+      "sha256_md": "cde1c5046ec6d3d4913fd353365075a3e09d89c51bd8d107b271f38ca731cc69",
+      "metadata": {
+        "titulo": "Constituição do Estado do Pará",
+        "uf": "PA",
+        "tipo": "Constituição Estadual",
+        "numero": "",
+        "data": "1989-10-05",
+        "ementa": "",
+        "versao_texto": "Atualizada até a Emenda Constitucional nº 101/2026",
+        "fonte": "https://www.alepa.pa.gov.br/Servicos/Download?Id=28",
+        "baixado_em": "2026-10-15"
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/PA/_fonte/constituicao/1989/constituicao-pa.html.gz",
+          "formato": "PDF",
+          "bytes": 944706,
+          "sha256": "acb4b3d3d28504651961e6f372ce82458140b14995effcb9410a3001de1c0a0f",
+          "tags_tachado": 0,
+          "sinais_CSS": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/PB/constituicao/1989/constituicao-pb-alpb-ec61-2025.md",
+      "sha256_md": "7bcacc0c48d7623d2c93ea3d77cbc720210912c048af8f78867bde2b0343b8fa",
+      "metadata": {
+        "titulo": "Constituição do Estado da Paraíba",
+        "uf": "PB",
+        "tipo": "Constituição Estadual",
+        "numero": "",
+        "data": "1989-10-05",
+        "ementa": "",
+        "versao_texto": "Texto com alterações até EC 61/2025, conforme capa; a capa indica 2023, metadados do PDF indicam criação em 17/09/2025 e URL de março de 2026",
+        "fonte": "https://www.al.pb.leg.br/elegispb/wp-content/uploads/2026/03/Constituicao-Estadual-EC-61-completa.pdf",
+        "baixado_em": "2026-10-15",
+        "limitacao_compilacao": "Incorporação da EC 62, de 15/09/2026, e da ADI 7868 registrada pela ALPB com DJe de 01/07/2026 não verificada.",
+        "produtor_pdf": "ABBYY FineReader 12 Sprint"
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/PB/_fonte/constituicao/1989/constituicao-pb-alpb-ec61-2025.html.gz",
+          "formato": "PDF",
+          "bytes": 59586056,
+          "sha256": "3922d878bb2e4757e1f1dca4027180604a1cdb954a239487a3915682b0347bb6",
+          "tags_tachado": 0,
+          "sinais_CSS": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/PE/constituicao/1989/constituicao-pe-alepe-anotada.md",
+      "sha256_md": "eca936de3854b5b69508a0fa16ec372dba17232f89a6c372b283bf2104f6d874",
+      "metadata": {
+        "titulo": "Constituição do Estado de Pernambuco",
+        "uf": "PE",
+        "tipo": "Constituição Estadual",
+        "numero": "",
+        "data": "1989-10-05",
+        "ementa": "",
+        "versao_texto": "Texto anotado da ALEPE; anotações identificadas até EC 71, de 17/06/2026; data da edição e limite global de atualização não declarados",
+        "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=4937",
+        "baixado_em": "2026-10-15"
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/PE/_fonte/constituicao/1989/constituicao-pe-alepe-anotada.html.gz",
+          "formato": "texto",
+          "bytes": 2563888,
+          "sha256": "318212eb86e89a77b2a4005f9b783b5877f412d34ba768ca4ebbe4e5d873edc9",
+          "tags_tachado": 1041,
+          "sinais_CSS": 2
+        }
+      ]
+    },
+    {
+      "path": "estaduais/PI/constituicao/1989/constituicao-pi-sapl-compilada.md",
+      "sha256_md": "cdd57da004911454bee65208cf4f25456f3acaf4c321a928b9255beaf04998e7",
+      "metadata": {
+        "titulo": "Constituição do Estado do Piauí",
+        "uf": "PI",
+        "tipo": "Constituição Estadual",
+        "numero": "",
+        "data": "1989-10-05",
+        "ementa": "",
+        "versao_texto": "Texto articulado SAPL; vigência da versão indicada a partir de 16/12/2025; anotações identificadas até EC 72, de 16/12/2025",
+        "vigencia_versao": "2025-12-16",
+        "limitacao_compilacao": "EC 72/2025 incorporada no art. 179-B, caput e § 2º, com anotações expressas da fonte; atualizações posteriores não certificadas.",
+        "fonte": "https://sapl.al.pi.leg.br/ta/42/text",
+        "baixado_em": "2026-10-15",
+        "revogada": null
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/PI/_fonte/constituicao/1989/constituicao-pi-sapl-compilada.html.gz",
+          "formato": "texto",
+          "bytes": 1795560,
+          "sha256": "69216c86b28e3ffbbde62bf2c2a59f01ef99dbc24b561e624702692c89eaefe4",
+          "tags_tachado": 0,
+          "sinais_CSS": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/PR/constituicao/1989/constituicao-pr-seti-2025.md",
+      "sha256_md": "efc40da49d3494cca03db17ef9c869e58ca241f554638f41c945deedb5b8c293",
+      "metadata": {
+        "titulo": "Constituição do Estado do Paraná",
+        "uf": "PR",
+        "tipo": "Constituição Estadual",
+        "numero": "",
+        "data": "1989-10-05",
+        "ementa": "",
+        "versao_texto": "PDF disponibilizado pela SETI em 26/06/2025; anotações identificadas até EC 54, de 08/07/2024; data-limite global não declarada e atualização vigente em 2026 não verificada",
+        "fonte": "https://www.seti.pr.gov.br/sites/default/arquivos_restritos/files/documento/2025-06/Contitui%C3%A7%C3%A3oParan%C3%A1.pdf",
+        "baixado_em": "2026-10-15",
+        "limitacao_compilacao": "A edição contém anotações até EC 54/2024; a fonte oficial do Paraná publica EC 61, de 30/06/2026, cuja incorporação não foi verificada."
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/PR/_fonte/constituicao/1989/constituicao-pr-seti-2025.html.gz",
+          "formato": "PDF",
+          "bytes": 2634360,
+          "sha256": "e92659449ad36853527c5422ad6cf97f94e2eab6a8d3c81bede17b45c718f2ac",
+          "tags_tachado": 0,
+          "sinais_CSS": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RJ/constituicao/1989/constituicao-rj-alerj.md",
+      "sha256_md": "ebaf9e9eaf62a3c99e2046cd19432596f686ec5b3cc9209d0385498850c0ab96",
+      "metadata": {
+        "titulo": "Constituição do Estado do Rio de Janeiro",
+        "uf": "RJ",
+        "tipo": "Constituição Estadual",
+        "numero": "",
+        "data": "1989-10-05",
+        "ementa": "",
+        "versao_texto": "Compilação ALERJ reunida em 84 seções e ADCT; anotações identificadas até EC 99/2025; data da edição e limite global de atualização não declarados",
+        "fonte": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=73",
+        "baixado_em": "2026-10-15"
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/RJ/_fonte/constituicao/1989/constituicao-rj-alerj.html.gz",
+          "formato": "texto",
+          "bytes": 10214728,
+          "sha256": "ef0144b97f6da94aa06c04932508a9b3252dc65ed3205fef302526bfc0098bda",
+          "tags_tachado": 510,
+          "sinais_CSS": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RN/constituicao/1989/constituicao-rn.md",
+      "sha256_md": "e12bbec424f46f3ed4d434cc20625d0580b36daff3523bbfbb4e2603d2069007",
+      "metadata": {
+        "titulo": "Constituição do Estado do Rio Grande do Norte",
+        "uf": "RN",
+        "tipo": "Constituição Estadual",
+        "numero": "",
+        "data": "1989-10-03",
+        "ementa": "",
+        "versao_texto": "Edição de 2024 da Assembleia Legislativa, atualizada até EC 24, de 06/03/2024; atualização vigente em 2026 não verificada",
+        "fonte": "https://www.al.rn.leg.br/documentos/Constituicao_Estadual-2023%20-%202024.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/RN/_fonte/constituicao/1989/constituicao-rn.html.gz",
+          "formato": "PDF",
+          "bytes": 832815,
+          "sha256": "7e9ea65f28044c114d96b6efbaa26c5813730ed7fa6c5a6051e11c4434e0e808",
+          "tags_tachado": 0,
+          "sinais_CSS": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RO/constituicao/1989/constituicao-estadual-2-1989-id7419.md",
+      "sha256_md": "59d4ee36526b3759a2d63a3de98652ad07c00d859cf1f9a355542ce1f5ea9ca0",
+      "metadata": {
+        "titulo": "Constituição Estadual nº 2, de 28 de setembro de 1989",
+        "uf": "RO",
+        "tipo": "Constituição Estadual",
+        "numero": "2",
+        "data": "1989-09-28",
+        "ementa": "ATUALIZADA ATÉ A EMENDA CONSTITUCIONAL Nº 179/2026.",
+        "versao_texto": "Texto atualizado até EC 179/2026, conforme capa da Assembleia Legislativa",
+        "publicacao": "",
+        "fonte": "https://sapl.al.ro.leg.br/norma/7419",
+        "arquivo": "https://sapl.al.ro.leg.br/media/sapl/public/normajuridica/1989/7419/ce1989_-_atualizada_ate_ec179.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "fontes_cache": []
+    },
+    {
+      "path": "estaduais/RR/constituicao/1991/constituicao-rr-sapl-compilada.md",
+      "sha256_md": "aa3b19d85d878b749d25d448a01b2f87db952aa0aac205dc7104bb24f28a376d",
+      "metadata": {
+        "titulo": "Constituição do Estado de Roraima",
+        "uf": "RR",
+        "tipo": "Constituição Estadual",
+        "numero": "",
+        "data": "1991-12-31",
+        "ementa": "",
+        "versao_texto": "Texto articulado SAPL; vigência da versão indicada a partir de 22/12/2025; anotações identificadas até EC 105, de 22/12/2025",
+        "vigencia_versao": "2025-12-22",
+        "limitacao_compilacao": "Incorporação das emendas de 2026, incluindo EC 107, de 23/06/2026, não verificada.",
+        "fonte": "https://sapl.al.rr.leg.br/ta/564/text",
+        "baixado_em": "2026-10-15"
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/RR/_fonte/constituicao/1991/constituicao-rr-sapl-compilada.html.gz",
+          "formato": "texto",
+          "bytes": 1217063,
+          "sha256": "e5fc027bb6590d439dffe2d33b2d4ba12daca40aae6dda11cb8f5f1e1b556fb3",
+          "tags_tachado": 0,
+          "sinais_CSS": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/constituicao/1989/constituicao-rs.md",
+      "sha256_md": "e186f8127d4705de45f5a5bf112432ff63dfd4cf6208a7edf99dc52b7c959852",
+      "metadata": {
+        "numero": "",
+        "titulo": "Constituição do Estado do Rio Grande do Sul de 1989",
+        "uf": "RS",
+        "tipo": "Constituição Estadual",
+        "data": "1989-10-03",
+        "versao_texto": "Texto compilado com alterações até EC 86, de 12/06/2026, conforme capa da Assembleia Legislativa",
+        "fonte": "https://www2.al.rs.gov.br/dal/Legisla%C3%A7%C3%A3o/Constitui%C3%A7%C3%A3oEstadual/tabid/3683/Default.aspx",
+        "arquivo": "https://www2.al.rs.gov.br/dal/LinkClick.aspx?fileticket=WQdIfqNoXO4%3d&tabid=3683&mid=5359",
+        "baixado_em": "2026-10-13"
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/RS/_fonte/constituicao/1989/constituicao-rs.html.gz",
+          "formato": "texto",
+          "bytes": 1818239,
+          "sha256": "f8abf00ba09ac773af814eeb6e905257215fea9e84ed33d77924441de313b16b",
+          "tags_tachado": 520,
+          "sinais_CSS": 127
+        }
+      ]
+    },
+    {
+      "path": "estaduais/SC/constituicao/sem-ano/ce-sn-sem-ano-id52785.md",
+      "sha256_md": "989a220e13ff78cf5e130fabfaafc8ad07d3cc4502c0d41e42cc15bd900d5e7d",
+      "metadata": {
+        "titulo": "CONSTITUIÇÃO DO ESTADO DE SANTA CATARINA DE 1989",
+        "uf": "SC",
+        "tipo": "Constituição Estadual",
+        "numero": "",
+        "data": "1989-10-05",
+        "revogada": false,
+        "versao_texto": "Texto anotado da ALESC, atualizado até EC 101/2026, conforme declaração da fonte",
+        "fonte": "https://leis.alesc.sc.gov.br/ato-normativo/52785",
+        "baixado_em": "2026-10-15"
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/SC/_fonte/constituicao/sem-ano/ce-sn-sem-ano-id52785.html.gz",
+          "formato": "texto",
+          "bytes": 451609,
+          "sha256": "3ca0860ec368a52712bfb2c9ff456e1061986dbef0eb8b7cfabae1dc2a4a1f72",
+          "tags_tachado": 425,
+          "sinais_CSS": 7
+        }
+      ]
+    },
+    {
+      "path": "estaduais/SE/constituicao/1989/ce-1-1989-id6132.md",
+      "sha256_md": "dac40eb5ccba94b85b98e5b965fb03f8cdb1f91187d87dc039629bf15e7928a8",
+      "metadata": {
+        "titulo": "Constituição Estadual nº 1/1989",
+        "uf": "SE",
+        "tipo": "Constituição Estadual",
+        "numero": "1",
+        "data": "1989-10-05",
+        "ementa": "Dispõe sobre a Constituição do Estado de Sergipe.",
+        "situacao": "Em vigor",
+        "revogada": false,
+        "versao_texto": "Texto compilado da Assembleia; anotações identificadas até EC 60, de 17/12/2025; data-limite global não declarada",
+        "fonte": "https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=6132",
+        "arquivo": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/CE11989.html",
+        "baixado_em": "2026-10-13"
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/SE/_fonte/constituicao/1989/ce-1-1989-id6132.html.gz",
+          "formato": "texto",
+          "bytes": 898305,
+          "sha256": "b362acc580fa6526d31e369470e5eb6c74e92e632f3ddf43505b4fca585ca982",
+          "tags_tachado": 305,
+          "sinais_CSS": 1
+        }
+      ]
+    },
+    {
+      "path": "estaduais/SP/constituicao/1989/constituicao-sp.md",
+      "sha256_md": "db278b8368775f7616f8211fcc4872fe2a8118aa2e78cd269b52104d74676ad0",
+      "metadata": {
+        "titulo": "Constituição do Estado de São Paulo",
+        "uf": "SP",
+        "tipo": "Constituição Estadual",
+        "numero": "",
+        "data": "1989-10-05",
+        "ementa": "",
+        "versao_texto": "Texto anotado da ALESP; anotações identificadas até EC 55, de 27/11/2024; cabeçalho menciona ADI-STF 7436, de 23/08/2023; data-limite global de atualização não declarada",
+        "fonte": "https://www.al.sp.gov.br/repositorio/legislacao/constituicao/1989/constituicao-0-05.10.1989.html",
+        "baixado_em": "2026-10-15"
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/SP/_fonte/constituicao/1989/constituicao-sp.html.gz",
+          "formato": "texto",
+          "bytes": 597219,
+          "sha256": "079627ff8f98dab651f190cd516d79c1e5ffdb0c7c16e0fa63b0a441ca941245",
+          "tags_tachado": 873,
+          "sinais_CSS": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/TO/constituicao/1989/constituicao-to.md",
+      "sha256_md": "cee91940165ca1cf65222884c5670393cf8c6652d2c530299574324d8875faf8",
+      "metadata": {
+        "titulo": "Constituição do Estado do Tocantins",
+        "uf": "TO",
+        "tipo": "Constituição Estadual",
+        "numero": "",
+        "data": "1989-10-05",
+        "ementa": "",
+        "versao_texto": "Atualizada até a Emenda Constitucional nº 60/2026, conforme índice oficial",
+        "fonte": "https://al.to.leg.br/documento/visualizar?documento.codigo=66",
+        "baixado_em": "2026-10-15"
+      },
+      "fontes_cache": [
+        {
+          "path": "estaduais/TO/_fonte/constituicao/1989/constituicao-to.html.gz",
+          "formato": "PDF",
+          "bytes": 1751873,
+          "sha256": "14d928f5a4e381facd9a6daf1f7423d29745d98db3b20d3777f83916e52dd10b",
+          "tags_tachado": 0,
+          "sinais_CSS": 0
+        }
+      ]
+    }
+  ],
+  "diagnosticos_HTML": [
+    {
+      "path": "estaduais/AC/constituicao/1989/constituicao-ac-casa-civil.md",
+      "sha256_md": "92b724ca911da806dcc8b86c8570ebbd1c5b857de522d7b83eca1d836b7e3c69",
+      "cache": "estaduais/AC/_fonte/constituicao/1989/constituicao-ac-casa-civil.html.gz",
+      "sha256_fonte": "580366337fece783de95ee97df39d78e2e20ce07fef0c421efc5e2e0e8cb1848",
+      "regras_CSS_comprovadas": [],
+      "grupos_tachados_literais": 174,
+      "presentes_sem_marcacao": 14,
+      "exemplos": [
+        "(Incluído pela Emenda Constitucional nº 55, de 12/12/2019)",
+        "(Incluído pela Emenda Constitucional nº 59, de 21/12/2021)",
+        "(Incluído pela Emenda Constitucional nº 69, de 29/06/2023)",
+        "(Redação dada pela Emenda Constitucional nº 53, de 12/12/2019)",
+        "(Redação dada pela Emenda Constitucional nº 55, de 12/12/2019)"
+      ],
+      "suspeitos_sem_ocorrencia_literal_na_fonte_nao_tachada": [],
+      "ausentes_da_renderizacao": 160,
+      "limite": "Triagem literal de grupos com pelo menos 20 caracteres, sem resolver CSS externo ou decidir vigência. Presença pode exigir contexto de redações coincidentes."
+    },
+    {
+      "path": "estaduais/ES/constituicao/1989/con-1-1989-id33122.md",
+      "sha256_md": "231f2181e03f8285c7e27767582f2c0e7e64fe8a5feadb230df46550a517b559",
+      "cache": "estaduais/ES/_fonte/constituicao/1989/con-1-1989-id33122.html.gz",
+      "sha256_fonte": "99169a17235f09de9989eb3e973f6ef4a017614062ba7524743031154e0b35fc",
+      "regras_CSS_comprovadas": [
+        [
+          "span",
+          "msoDel"
+        ]
+      ],
+      "grupos_tachados_literais": 377,
+      "presentes_sem_marcacao": 4,
+      "exemplos": [
+        "Presidente do Tribunal de Contas",
+        "ao Presidente do Tribunal de Contas",
+        "eleger seu Presidente e elaborar seu regimento interno;",
+        "templos de qualquer culto"
+      ],
+      "suspeitos_sem_ocorrencia_literal_na_fonte_nao_tachada": [],
+      "ausentes_da_renderizacao": 373,
+      "limite": "Triagem literal de grupos com pelo menos 20 caracteres, sem resolver CSS externo ou decidir vigência. Presença pode exigir contexto de redações coincidentes."
+    },
+    {
+      "path": "estaduais/GO/constituicao/1989/ce-sn-1989-id103152.md",
+      "sha256_md": "d8f57dd9fab87cfcf7c822c2bb71f0343e03fb463512f40d769f4e8a84a95625",
+      "cache": "estaduais/GO/_fonte/constituicao/1989/ce-sn-1989-id103152.html.gz",
+      "sha256_fonte": "7a843f4018c451b99bfa888013a0a6968ef68bd4f89f93aebfb7e9ccb9566aea",
+      "regras_CSS_comprovadas": [],
+      "grupos_tachados_literais": 749,
+      "presentes_sem_marcacao": 24,
+      "exemplos": [
+        "Art. 46. Compete privativamente ao Tribunal de Justiça",
+        "Art. 71. Os Vereadores são invioláveis, no exercício do mandato e na circunscrição do Município, por suas opiniões, palavras e votos, aplicando-se",
+        "CAPÍTULO IV DAS REGIÕES METROPOLITANAS, DOS AGLOMERADOS URBANOS E DAS MICRORREGIÕES",
+        "I - o primeiro e o segundo mediante escolhas da Assembleia Legislativa;",
+        "I - quatro pela Assembleia Legislativa;"
+      ],
+      "suspeitos_sem_ocorrencia_literal_na_fonte_nao_tachada": [],
+      "ausentes_da_renderizacao": 725,
+      "limite": "Triagem literal de grupos com pelo menos 20 caracteres, sem resolver CSS externo ou decidir vigência. Presença pode exigir contexto de redações coincidentes."
+    },
+    {
+      "path": "estaduais/MS/constituicao/1989/ce-sn-1989-dfde24a4767d.md",
+      "sha256_md": "ee214c3d068a3debc020a73d0e1b8c748e69042bcf8df78770359ca5dec393c6",
+      "cache": "estaduais/MS/_fonte/constituicao/1989/ce-sn-1989-dfde24a4767d.html.gz",
+      "sha256_fonte": "865bae29c6ae1c7c0bbce11b38491d08815c99225a4992dcad7d0465825e4e9d",
+      "regras_CSS_comprovadas": [],
+      "grupos_tachados_literais": 148,
+      "presentes_sem_marcacao": 1,
+      "exemplos": [
+        "os Procuradores do Estado"
+      ],
+      "suspeitos_sem_ocorrencia_literal_na_fonte_nao_tachada": [],
+      "ausentes_da_renderizacao": 147,
+      "limite": "Triagem literal de grupos com pelo menos 20 caracteres, sem resolver CSS externo ou decidir vigência. Presença pode exigir contexto de redações coincidentes."
+    },
+    {
+      "path": "estaduais/PE/constituicao/1989/constituicao-pe-alepe-anotada.md",
+      "sha256_md": "eca936de3854b5b69508a0fa16ec372dba17232f89a6c372b283bf2104f6d874",
+      "cache": "estaduais/PE/_fonte/constituicao/1989/constituicao-pe-alepe-anotada.html.gz",
+      "sha256_fonte": "318212eb86e89a77b2a4005f9b783b5877f412d34ba768ca4ebbe4e5d873edc9",
+      "regras_CSS_comprovadas": [
+        [
+          "span",
+          "msoDel"
+        ]
+      ],
+      "grupos_tachados_literais": 471,
+      "presentes_sem_marcacao": 21,
+      "exemplos": [
+        "(Acrescido pelo art. 1º da",
+        "(Redação alterada pelo art. 1º da",
+        "(Redação alterada pelo art. 2º da",
+        "A sessão legislativa não será interrompida sem a aprovação do projeto de lei de diretrizes orçamentárias",
+        "As causas referidas no inciso I, à exceção das alíneas “c”, “g”, “i” e “p”, e no inciso II, à exceção das alíneas “a” e “d”, são da competência do Pleno, cabendo à Seção Cível o conhecimento das demais referidas no inciso I, enquanto que as mencionadas no inciso II, a e d, serão julgadas pelas Câmaras Cíveis e Criminais, de acordo com a natureza da matéria e em face do que dispuser a Lei da Organização Judiciária"
+      ],
+      "suspeitos_sem_ocorrencia_literal_na_fonte_nao_tachada": [],
+      "ausentes_da_renderizacao": 450,
+      "limite": "Triagem literal de grupos com pelo menos 20 caracteres, sem resolver CSS externo ou decidir vigência. Presença pode exigir contexto de redações coincidentes."
+    },
+    {
+      "path": "estaduais/RJ/constituicao/1989/constituicao-rj-alerj.md",
+      "sha256_md": "ebaf9e9eaf62a3c99e2046cd19432596f686ec5b3cc9209d0385498850c0ab96",
+      "cache": "estaduais/RJ/_fonte/constituicao/1989/constituicao-rj-alerj.html.gz",
+      "sha256_fonte": "ef0144b97f6da94aa06c04932508a9b3252dc65ed3205fef302526bfc0098bda",
+      "regras_CSS_comprovadas": [],
+      "grupos_tachados_literais": 429,
+      "presentes_sem_marcacao": 43,
+      "exemplos": [
+        "- licença especial para os adotantes, nos termos fixados em lei;",
+        "A administração tem o dever de executar as programações orçamentárias, adotando os meios e as medidas necessários, com o propósito de garantir a efetiva entrega de bens e serviços à sociedade",
+        "As contas do Tribunal de Contas do Município do Rio de Janeiro serão submetidas, anualmente, à apreciação da Câmara Municipal do Rio de Janeiro.",
+        "Em cada comarca existirá, pelo menos, um Tribunal do Júri, presidido por Juiz de Direito e composto de Jurados, nos termos da lei processual penal.",
+        "Na apreciação e votação do orçamento anual o Poder Executivo colocará à disposição do Poder Legislativo todas as informações sobre a situação do endividamento do Estado, detalhadas para cada empréstimo existente, e acompanhadas das agregações e consolidações pertinentes."
+      ],
+      "suspeitos_sem_ocorrencia_literal_na_fonte_nao_tachada": [],
+      "ausentes_da_renderizacao": 386,
+      "limite": "Triagem literal de grupos com pelo menos 20 caracteres, sem resolver CSS externo ou decidir vigência. Presença pode exigir contexto de redações coincidentes."
+    },
+    {
+      "path": "estaduais/RS/constituicao/1989/constituicao-rs.md",
+      "sha256_md": "e186f8127d4705de45f5a5bf112432ff63dfd4cf6208a7edf99dc52b7c959852",
+      "cache": "estaduais/RS/_fonte/constituicao/1989/constituicao-rs.html.gz",
+      "sha256_fonte": "f8abf00ba09ac773af814eeb6e905257215fea9e84ed33d77924441de313b16b",
+      "regras_CSS_comprovadas": [
+        [
+          "span",
+          "CEFonteTachada"
+        ],
+        [
+          "span",
+          "msoDel"
+        ]
+      ],
+      "grupos_tachados_literais": 346,
+      "presentes_sem_marcacao": 4,
+      "exemplos": [
+        ".............................................",
+        "Assembleia Legislativa do Estado, em Porto Alegre, 16 de julho de 1997.",
+        "o Tribunal Militar do Estado",
+        "os Juizados Especiais e de Pequenas Causa"
+      ],
+      "suspeitos_sem_ocorrencia_literal_na_fonte_nao_tachada": [],
+      "ausentes_da_renderizacao": 342,
+      "limite": "Triagem literal de grupos com pelo menos 20 caracteres, sem resolver CSS externo ou decidir vigência. Presença pode exigir contexto de redações coincidentes."
+    },
+    {
+      "path": "estaduais/SC/constituicao/sem-ano/ce-sn-sem-ano-id52785.md",
+      "sha256_md": "989a220e13ff78cf5e130fabfaafc8ad07d3cc4502c0d41e42cc15bd900d5e7d",
+      "cache": "estaduais/SC/_fonte/constituicao/sem-ano/ce-sn-sem-ano-id52785.html.gz",
+      "sha256_fonte": "3ca0860ec368a52712bfb2c9ff456e1061986dbef0eb8b7cfabae1dc2a4a1f72",
+      "regras_CSS_comprovadas": [],
+      "grupos_tachados_literais": 400,
+      "presentes_sem_marcacao": 37,
+      "exemplos": [
+        "Art. 46. Nos exercícios fiscais de 1999, 2000 e 2001, os recursos relativos à assistência financeira que o Estado de Santa Catarina tem o dever de prestar na forma do art. 170 da Constituição do Estado, corresponderão respectivamente a dois por cento, três por cento e quatro por cento do mínimo constitucional que o Estado tem o dever de aplicar na manutenção e desenvolvimento do ensino.",
+        "Art. 77. São órgãos do Poder Judiciário do Estado:",
+        "I – a abertura de créditos suplementares, até o limite de um quarto do montante das respectivas dotações orçamentárias;",
+        "I – exercer a polícia ostensiva relacionada com:",
+        "I – no exercício fiscal de 1999, o Estado destinará dois por cento do mínimo constitucional que tem o dever de aplicar na manutenção e desenvolvimento do ensino, para a concessão de bolsas de estudo e bolsas de pesquisa destinadas ao pagamento das mensalidades dos alunos economicamente carentes das Fundações Educacionais de Ensino Superior, instituídas por lei municipal;"
+      ],
+      "suspeitos_sem_ocorrencia_literal_na_fonte_nao_tachada": [],
+      "ausentes_da_renderizacao": 363,
+      "limite": "Triagem literal de grupos com pelo menos 20 caracteres, sem resolver CSS externo ou decidir vigência. Presença pode exigir contexto de redações coincidentes."
+    },
+    {
+      "path": "estaduais/SE/constituicao/1989/ce-1-1989-id6132.md",
+      "sha256_md": "dac40eb5ccba94b85b98e5b965fb03f8cdb1f91187d87dc039629bf15e7928a8",
+      "cache": "estaduais/SE/_fonte/constituicao/1989/ce-1-1989-id6132.html.gz",
+      "sha256_fonte": "b362acc580fa6526d31e369470e5eb6c74e92e632f3ddf43505b4fca585ca982",
+      "regras_CSS_comprovadas": [
+        [
+          "span",
+          "msoDel"
+        ]
+      ],
+      "grupos_tachados_literais": 168,
+      "presentes_sem_marcacao": 1,
+      "exemplos": [
+        "nos crimes de responsabilidade"
+      ],
+      "suspeitos_sem_ocorrencia_literal_na_fonte_nao_tachada": [],
+      "ausentes_da_renderizacao": 167,
+      "limite": "Triagem literal de grupos com pelo menos 20 caracteres, sem resolver CSS externo ou decidir vigência. Presença pode exigir contexto de redações coincidentes."
+    },
+    {
+      "path": "estaduais/SP/constituicao/1989/constituicao-sp.md",
+      "sha256_md": "db278b8368775f7616f8211fcc4872fe2a8118aa2e78cd269b52104d74676ad0",
+      "cache": "estaduais/SP/_fonte/constituicao/1989/constituicao-sp.html.gz",
+      "sha256_fonte": "079627ff8f98dab651f190cd516d79c1e5ffdb0c7c16e0fa63b0a441ca941245",
+      "regras_CSS_comprovadas": [],
+      "grupos_tachados_literais": 416,
+      "presentes_sem_marcacao": 33,
+      "exemplos": [
+        ", com efeitos \"ex nunc\".",
+        ", com efeitos \"ex tunc\".",
+        "- \"Caput\" com redação dada pela Emenda Constitucional n° 21, de 14/02/2006.",
+        "- \"Caput\" com redação dada pela Emenda Constitucional n° 24, de 23/01/2008.",
+        "- \"Caput\" com redação dada pela Emenda Constitucional n° 8, de 20/05/1999."
+      ],
+      "suspeitos_sem_ocorrencia_literal_na_fonte_nao_tachada": [],
+      "ausentes_da_renderizacao": 383,
+      "limite": "Triagem literal de grupos com pelo menos 20 caracteres, sem resolver CSS externo ou decidir vigência. Presença pode exigir contexto de redações coincidentes."
+    }
+  ]
+}

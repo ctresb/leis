@@ -323,14 +323,14 @@ def texto_da_pagina(pagina, layout):
 
 def texto_colunas(pdf, paginas=None, metadados=None):
     try:
-        bruto=subprocess.check_output(["rtk", "proxy", sys.executable, __file__, "--layout-json", str(pdf)],stderr=subprocess.PIPE)
+        bruto=subprocess.check_output([sys.executable, __file__, "--layout-json", str(pdf)],stderr=subprocess.PIPE)
     except subprocess.CalledProcessError as erro:
         motivo=erro.stderr.decode("utf-8",errors="replace").strip().splitlines()
         raise RuntimeError(motivo[-1] if motivo else "inspeção vetorial recusada") from erro
     layout = json.loads(bruto)
     with tempfile.TemporaryDirectory() as pasta:
         xml = Path(pasta) / "texto.html"
-        subprocess.run(["rtk", "proxy", "pdftotext", "-bbox-layout", "-enc", "UTF-8", str(pdf), str(xml)],
+        subprocess.run(["pdftotext", "-bbox-layout", "-enc", "UTF-8", str(pdf), str(xml)],
                        check=True, stdout=subprocess.DEVNULL, stderr=subprocess.PIPE)
         textos = []
         numero = 0

@@ -1,0 +1,2116 @@
+{
+  "data": "2026-10-28",
+  "issues_avaliadas": {
+    "3": {
+      "resultado": "285 arquivos reparados; 27 pendentes explícitos; 23 falsos positivos sem alteração final",
+      "causa": "Arquivos Intermediate antigos eram pulados pelo coletor; preferência atual por Original não repara o acervo já gravado.",
+      "limite": "284 edições originais claramente identificadas, sem incorporar alterações posteriores; Lei14.133 com edição atualizada da Câmara."
+    },
+    "14": {
+      "resultado": "Lei14.133 substituída pela edição atualizada disponibilizada pela Câmara, 88 páginas",
+      "fonte": "https://www2.camara.leg.br/legin/fed/lei/2021/lei-14133-1-abril-2021-791222-normaatualizada-pl.pdf",
+      "decreto11462": "Arquivo é publicação original, como informa o cabeçalho. Não foi obtida compilação posterior; não se certifica atualização."
+    },
+    "19": {
+      "resultado": "Cinco leis de Taquaritinga recompostas; sete trechos tachados de Duas Barras identificados; ES com corpo de outra norma retirado e pendência explícita.",
+      "taquaritinga_codigos": {
+        "2261": "90499C4A",
+        "2262": "DEA552A0",
+        "2263": "E3C961FE",
+        "2264": "AAB5A080",
+        "2265": "B303433F"
+      },
+      "duas_barras": "Texto anterior recuperável exatamente ao remover apenas nota e rótulos inseridos.",
+      "es": "Texto correto da Lei Delegada4/1967 ainda não recuperado."
+    },
+    "4": {
+      "resultado": "Proposta de ampliação de Campinas e problemas do pipeline já tratados nos PRs5/6/17 abertos; requer avaliação própria desses PRs, não incorporados nesta correção."
+    },
+    "13": {
+      "resultado": "Proposta de novo coletor DOM/SC; mantida para decisão do responsável."
+    },
+    "1": {
+      "resultado": "Oferta de colaboração; sem ação."
+    },
+    "10": {
+      "resultado": "Oferta de GPU; sem ação."
+    },
+    "12": {
+      "resultado": "Oferta de PDFs; sem ação."
+    }
+  },
+  "resumo": {
+    "federais_reparados": 285,
+    "federais_pendentes": 27,
+    "falsos_positivos_sem_alteracao": 23,
+    "taquaritinga_reparadas": 5,
+    "duas_barras_trechos": 7,
+    "es_pendente": 1,
+    "testes_passando": 56
+  },
+  "fontes_e_backups": "federal/_fonte/auditorias/issues3-14-20261028-v3; municipais/_fonte/auditorias/issue19-20261028; estaduais/ES/_fonte/auditorias/issue19-20261028",
+  "testes": [
+    {
+      "suite": "test_reparar_republicacoes_federais.py",
+      "exit_code": 0,
+      "saida": "................\n----------------------------------------------------------------------\nRan 16 tests in 0.007s\n\nOK\n"
+    },
+    {
+      "suite": "test_texto_integral_federal.py",
+      "exit_code": 0,
+      "saida": "...............\n----------------------------------------------------------------------\nRan 15 tests in 0.023s\n\nOK\n"
+    },
+    {
+      "suite": "estados/test_spl_sufixos.py",
+      "exit_code": 0,
+      "saida": "..........\n----------------------------------------------------------------------\nRan 10 tests in 0.001s\n\nOK\n"
+    },
+    {
+      "suite": "test_html2md_posicoes.py",
+      "exit_code": 0,
+      "saida": "..\n----------------------------------------------------------------------\nRan 2 tests in 0.003s\n\nOK\n"
+    },
+    {
+      "suite": "test_marcar_tachados_sapl.py",
+      "exit_code": 0,
+      "saida": "...\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nOK\n"
+    },
+    {
+      "suite": "test_colunas_sapl.py",
+      "exit_code": 0,
+      "saida": "......\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nOK\n"
+    },
+    {
+      "suite": "test_pendencias_integralidade.py",
+      "exit_code": 0,
+      "saida": "..\n----------------------------------------------------------------------\nRan 2 tests in 0.067s\n\nOK\n"
+    },
+    {
+      "suite": "test_progresso_integralidade.py",
+      "exit_code": 0,
+      "saida": "..\n----------------------------------------------------------------------\nRan 2 tests in 0.056s\n\nOK\n"
+    }
+  ],
+  "federais": [
+    {
+      "arquivo": "federal/leis-complementares/1974/lcp-23-1974-12-19.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "75b29567f1755d7010bdb87b011fd5f1e98897c824146a52a6b46719d745d232"
+    },
+    {
+      "arquivo": "federal/leis-complementares/1975/lcp-25-1975-07-02.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "55980334601448b9e2400dbda440587c7adcf67ca5f7ddfa5f71d3efb1697a78"
+    },
+    {
+      "arquivo": "federal/leis-complementares/1977/lcp-32-1977-12-26.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "dad3026468ae1af67b90fe46b0ffd552f21ad431dd200d1a5ecf3890ea1e99b3"
+    },
+    {
+      "arquivo": "federal/leis-complementares/2005/lcp-120-2005-12-29.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "787429e459e08c58b9f5ed27828ff05a62a147d7db577b7fe6970efcac8a132d"
+    },
+    {
+      "arquivo": "federal/leis-complementares/2011/lcp-140-2011-12-08.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "93f8d4ee6309b38fc9c8469a2ad77bd3f666f9114c26d3f4ca66649a3c9887a9"
+    },
+    {
+      "arquivo": "federal/leis-complementares/2015/lcp-149-2015-01-12.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "b5c0c976a7ea50c82e8efa9f61a7b81da8a5e86fa37ba73874c29b5e159d8ea0"
+    },
+    {
+      "arquivo": "federal/leis-complementares/2021/lcp-182-2021-06-01.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "e04fa338fee73a61dd10b68621c2a5950c4cc040b28dfb0a69c4a4695cddbbff"
+    },
+    {
+      "arquivo": "federal/leis-complementares/2021/lcp-187-2021-12-16.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "636cb3c91d78d266fcc8b8ba1797ad4f193a3952df7e56211e6393a0d58c9e2a"
+    },
+    {
+      "arquivo": "federal/leis-complementares/2023/lcp-200-2023-08-30.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "40f59202707b39c814948331304295ab8a42eea9a972838fd783420810ce2029"
+    },
+    {
+      "arquivo": "federal/leis-complementares/2025/lcp-212-2025-01-13.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "sha256_final": "93195dda23375222bda28ea2b7ae9f037af5f51436ae5f80c169e5b743327704"
+    },
+    {
+      "arquivo": "federal/leis-complementares/2025/lcp-214-2025-01-16.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "abaeda810e315c8b103537a9b581921f9dbdb5e7ba3cf7c03231c6ead2c41d5b"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1935/lei-117-1935-11-14.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "cb1043a9fdb20a88145d5a969d668dd44e093495e32aab28232c2132e963a3a6"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1935/lei-124-1935-12-02.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "d930921316826a2dd01996eb141f9cc1176ade214ff60ec8b467feb76dc77bc8"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1935/lei-135-1935-12-13.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "6943e6f7689ce35a3483437484978afb679035a8348307c75d0c810c90fd466e"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1935/lei-144-1935-12-18.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "8ce2729b4db38f9fa167b03cf794c3cd699d3f49c78cf65b9db335d2df69971a"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1935/lei-63-1935-06-10.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "edd80b871a61e9faa539fb146d59a3881155c48d94386dbcf1e2cfc5806839e2"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1935/lei-93-1935-09-05.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "989dc307d4bbd118fe2b1e0002a0b8740390289331d3f5365f2e025110cf53bf"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1936/lei-176-1936-01-08.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "300c37b13ab711467cf95ddea89f7ddc5038905dfde6af496de785ac43eabb5d"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1936/lei-195-1936-01-17.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "9df4abb1f08237f218cebc621d1825c512459a3c11bacc8754e5b5bba2ff42fc"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1936/lei-209-1936-05-30.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "c09c2aeaddf03636a857a539f84937959a89f703b925c1fb97ba49f08734ed71"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1936/lei-212-1936-06-05.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "b68ad969d336299158f6975930c78254d76d83dfc417d12574d140ab41724bb2"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1936/lei-225-1936-07-17.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "9da96909548db13cd561bdde27eeff205b91e160e84ac219722fcd40dd182e24"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1936/lei-238-1936-08-21.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "bc6e43db30f80f9407da56ad734e5e14cf94c0499db8cb3ce200139c53ce2fd4"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1936/lei-241-1936-08-29.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "1c6ec7bdca63d633175a6ce10a7fe0c1adf79dd44b6f30edcd35f1d3bcb2d7ba"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1936/lei-260-1936-10-01.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "d5761918601ede059b6df6c788ba4a2877cde484a48d8c04448cc9080938c4f3"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1936/lei-263-1936-10-05.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "dc0d2fcc6f06ffb2421514abc8c6dc4ca2d5e48bd0702ff71e9eb41d1b263bf6"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1936/lei-266-1936-10-06.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "0eb8b36bf29d3454949f939b70d8605323c49798fa46bb7b7d8de075405ab6c9"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1936/lei-275-1936-10-15.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "da490ff88650b4c96ea76df337707e63608470c5927dcd4d9e91e3951252ab1c"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1936/lei-303-1936-11-13.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "1550b1216d3d69f8030b83cad650fab1e40e788d132cad75c038e2d210c817c4"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1936/lei-306-1936-11-16.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "4a0e5eadea7c263f597198f053514115a92c1e3d145770d2e8e5d1363c745c0a"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1936/lei-310-1936-11-18.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "0bb80785f5d771f6ec5ff2e3ee3fb411eead3390d67ef1339f8115ecb412525e"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1936/lei-311-1936-11-19.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "f0431f35d0ecd0eea6842193dbb08e6a4b298471e6c51b45ed7f4494295a9dfd"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1936/lei-320-1936-11-25.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "0bfaccfaf6fcd75756d2e5dbb25e6697a8753a451eadce592f2e237a88852d28"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1936/lei-338-1936-12-07.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "86ceff64120d98f76ab5d2323483323fb2ca7c46a768a40390383d19c0073132"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1936/lei-345-1936-12-17.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "801618b0d930b76df69cf23dc3c5465b8943e55ca912561486c9b0a361497363"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1937/lei-463-1937-07-22.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "0063ffb3a3ff137765636b75a7789b3a844a9ce752405c5098ff4f49d7614a7b"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1937/lei-464-1937-07-22.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "a6be15f5fde340bf3fa7eff05ad7ec10b25401cd1d513667c29e019175a32437"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1937/lei-560-1937-10-28.md",
+      "resultado": "sem alteração; artigo único próprio",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "d23c09e6de4a59fdabc0bac66fc185399b5da4fd1b4cc552dcd5f06212970738"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1972/lei-5836-1972-12-05.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "7616d97c61fab8eb9ca37fbf9fc79fa6c16308ba0e5649e9725f6b06e2b883ea"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1972/lei-5839-1972-12-05.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "22f1c26e1743a267b7063d676d92aabe380f94956688388b20e4bea2b1b71fb4"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1972/lei-5847-1972-12-06.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "sem artigo 1 próprio reconhecível",
+      "sha256_final": "2dec787f0c0f00696c6c56e4c7bdc5db45f8734be9beae6e054e0eee48552d3a"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1972/lei-5848-1972-12-07.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "2187eb10e75d431d7708665fb054bf54e1ff0d453b553a857f1b83d8490e1e62"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1972/lei-5849-1972-12-07.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "42c2b245b67f8c192ab77522be541352e1f3a8fde9282e7ce54e967d970e23c7"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1972/lei-5864-1972-12-12.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "6b2a598a264e57933629a5427784ff9271ba6909f706a66d251f96f5701e41d8"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1972/lei-5867-1972-12-12.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "2b2d86aed3c8250f84ccea229e66242d589d770613b1244fe639ea8afa49f92d"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1973/lei-5928-1973-10-29.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "4ccae7e6c76cdea8ce55cdb247ef75c2975cc047fa86d12010638fde46b9fa4b"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1974/lei-6076-1974-07-10.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "c4319bcaa3144f0f396b3e9235ab60b9a8b62233a87a3c67fc6d8eeadde5ea43"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1974/lei-6126-1974-11-06.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "71a6bfb90ae24ba5e45fd8d06ae2cd2abefad62975281e2f9c5e0be60d0f72b7"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1974/lei-6174-1974-12-09.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "7ed690abf2ec18e295e8495e561f60c0e2a79cff37704cd376f1dfcc381c7018"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1974/lei-6175-1974-12-10.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "26382df1fd753724916d2045db42384b2b417b4a7dbc2c07e6e654fa5754d64a"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1974/lei-6183-1974-12-11.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "13988111ac2b03fa1cce41dc086c537a2ee3e263a04ca848a0abd715448f9470"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1974/lei-6188-1974-12-16.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "2a5dddaee7df573a16bb768b4b4315d59ed1a52079673f2031c57c8d8c7ddd90"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1974/lei-6197-1974-12-23.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "64a68fa132a3bd5048f444e107df606e1b010888782b38c74b8132cc84010283"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1975/lei-6216-1975-06-30.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "sha256_final": "85bd90241a8cb39d8f38879c52bd0a21cf625ae3404c0c7d9b3ac0b978e17943"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1975/lei-6222-1975-07-10.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "d8e21e3c6f25a777adb4d3d0a32b691e7d7fca8398fb85d7a5d5cf3e7cc6dea8"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1976/lei-6333-1976-05-18.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "229fa519d81ab642c71b25a5aae10314db72bffe708be719d4104f6ccb651721"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1976/lei-6335-1976-05-31.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "4986307a4a7223574e2128c911d6c896d42bb752fb015877d6b7a16bcfb85921"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1977/lei-6435-1977-07-15.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "7436b99f65fa91ac329f680d9b9fbcb01f5613c739794d82fc4cbf2f6a5d846a"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1978/lei-6547-1978-07-04.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "81dcf9ef3055d8fad39ed8a49a5eda98f48d669168acf6cf1bc6fffdde79ff03"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1979/lei-6730-1979-12-03.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "fdd23e91777bd68e7290aa6156036ff64b7674432da318fd161bdd37cfd69452"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1979/lei-6736-1979-12-05.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "5a7155a992db19ad7fc05900af283a4dbb6bd49543dbc56a61978fb5405b92b8"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1980/lei-6822-1980-09-22.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "60fbe0939e70ee0ced9e86e8281791b101c84042ba1a168d4634f9e4d4ff9643"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1980/lei-6825-1980-09-22.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "1e4ebed740c59344e8caa3454058da6b0f87ed91739bc53130a09b467ba1d4b0"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1981/lei-6907-1981-05-21.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "989732d04bd5ab933fc07899fe304b950a0b276979907bd8566dac3822adfe3e"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1982/lei-7053-1982-12-06.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "ea02218989a836f7a4449f31ae5eb0ca3e5e69b8e60b3fa06206feb0a896dbbf"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1983/lei-7121-1983-09-08.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "6823df49a973ccb00897c118dca40780f4aedaf9f46b6eb8d5215ef46f681285"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1985/lei-7426-1985-12-17.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "sha256_final": "716a8b1752f0df8a6d28b37f96c3cfc52bb8b6f8e9a94b23095b28f6ca3a5c13"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1985/lei-7448-1985-12-20.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "sha256_final": "5f6598d8ebbe510038bd6c40bb316b44bfd7c9db30aaebccb34da3d7cf20eec1"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1986/lei-7462-1986-04-17.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "23f1bdadfcb0f28f4460c11fe3b4fbbccbfae0249cab2b4b34231dfd29e5000c"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7715-1989-01-03.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "1f7f905155ebea76e6fff918e0c1d54d2921889287bdf6f6792596e430ca0db3"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7718-1989-01-06.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "085cbcb603dd12a7cceb1bd74eee29e74a63d3cb2ef2bb88c7ba595dd224f7b6"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7746-1989-03-30.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "f7908169e4e31ef2bc915dd987be83a2c19333a8c4aed153f44c38d54147aef0"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7752-1989-04-14.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "8a74ebcd710011ceeae9d9b91664f44f446754ff3a3b6d14b22a46594b552d81"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7753-1989-04-14.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "e25d316adbdd9cd05f1443efb9894c118c075af83c78a7a69543c0c756a090fc"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7755-1989-04-20.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "99af1ce810e359ca20c7abf07b6e9148ce4cc0b3990dd85839bca27ed2be99d8"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7773-1989-06-08.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "c08757dccb8396d342db43cb2e3c074c369ad0ac9dbeb215ddd396f12035f7f2"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7784-1989-06-28.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "b93fbdca73c2e1a52e4085929af993082041221b5f9d40ee710e0d1d6b4b6245"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7793-1989-07-04.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "sha256_final": "ec072b90bc7fcb86ab5b25f58c23e950810e8df20589ad826224fef5e6a6b637"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7804-1989-07-18.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "aaba14af086580fd8bc3708ed636db1a5282bc40a737171ead13b5cb870f3e87"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7805-1989-07-18.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "8eb70fe645c1418be41cd87b7f77496f3a65b3c582f73de7ffd631831f8ed45b"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7829-1989-09-28.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "19e23d59360070624ce3bc6b0138d5c2ea3cc609e725afb8c09c434c64163bb3"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7830-1989-09-28.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "3a9e2b43e0db0ae110625f55b2261cb00c37c3138ed90b20c1fc04c2836dfa9e"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7836-1989-10-10.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "b7f4a92fef32e31a310e6be64cf7376bdfe9a2e45c06c1009b1e0e84b36c3146"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7837-1989-10-10.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "8444d8e86597f825941d9c44f6594ddfb1efa003a5afe5213dbc7bfe64cad702"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7839-1989-10-12.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "8a7ff7ed90980599944eb38658f43b88ff5e1044d8e0f0d2a73056b5bcc26458"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7858-1989-10-24.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "a87dd43ad5d0fd3ea2459fef0ced4eef287d298d8e06b8e867d8c496f199cea9"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7866-1989-11-07.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "4392b4d4413821c08af856b59771863fa1d8cd5ed33429ce91cd65024b45d455"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7874-1989-11-10.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "3ce00b0bc25acf225156307c615badeb76d5610dd71c12cb7c47f3367620c62e"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7888-1989-11-20.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "66956faa33797c183f6882cc5cc59cb74116d8a55d71ceb2c51ed1d2a5455478"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7959-1989-12-21.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "sha256_final": "81797ace60a6e007c1ba30ab46dd4409e5188af2aad23a4fbae21bf162b0ae2b"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7964-1989-12-22.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "dcc8061ab5194ad7a1f97de4a58e7724ed4ab28835e56bc8793ba05a9a6aed45"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7984-1989-12-27.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "60963a05addc5e6dcfa35ac7e20ad3ddd44d8a6a38b24dc5549daa8a9c79708d"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1989/lei-7988-1989-12-28.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "38b502c06d49720626d64c4634cf63c08a4f7f8a23ec1bd633f85b9ede1fe0fd"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1990/lei-8030-1990-04-12.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "0657a8ada01805f0acb1f8c7c99858a9b7b7bd7501b00a6e4d492cd79294a523"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1990/lei-8031-1990-04-12.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "38982b4440f89076534e3af549e94521c1519e2e415c24cfbf11768bda359d94"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1990/lei-8115-1990-12-12.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "bb18bbf4ccf68c29ad3667d22ab1fbc3bfcd61815020f9175fc3b0e64ffe9d60"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1990/lei-8118-1990-12-14.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "070a828867eef6e7faed83b645a1abb1a597c3a0f4dc87c1b9240d8edb033fef"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1991/lei-8202-1991-07-05.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "sha256_final": "fada13d35fab22f3ba38fb17d486b0e01ba4cfec7004940aa9e3db841724b8bd"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1991/lei-8282-1991-12-20.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "número da epígrafe própria diverge",
+      "sha256_final": "613b00a79238b0dc0f54ab835a1c9433a4d82c0b340872914315699cd53a1045"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1991/lei-8283-1991-12-20.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "número da epígrafe própria diverge",
+      "sha256_final": "8477341b3baef01fca2a4b31c4eb37d6373ed4e1dd5e1b6f564596d43cc1fa6a"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1991/lei-8311-1991-12-20.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "929cd7b1d8dc7907d03a372e46cb71316bbd7286e84299caf4fabde210e4c4e6"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1991/lei-8323-1991-12-26.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "b5c170a4637e31cffe9384e96abe53b2c04c2ff7b0990d495aa6e18104d04d8c"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1991/lei-8369-1991-12-30.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "bb8c8edb1511ab752f2cee1c8663ab51e3f7f20033b3d6ec44e18fd3cbcca8c4"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1991/lei-8382-1991-12-30.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "1b014266570c7ae3cc9e2aff8b51af2ba2de3e22f9e1d4499286fb01d189cc95"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1992/lei-8442-1992-07-14.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "f34c4bc9989f9c1ef4d1506a2f7f400c85c7e1b5afb6898af0527a386094eb4b"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1992/lei-8449-1992-07-23.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "d23dab9b6b3d284700e582633c4dbf69f6f948d6c89ce4a6c2d2761071e22988"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1992/lei-8497-1992-11-26.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "70c642832063acf965b0d7363b7a7121177b83abbfb9c4f87060d4256699b285"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1992/lei-8558-1992-12-28.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "736b44383970a6e304da0c41fc3f3d59bf8b69e4285467fe0ccaa007316a3184"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1992/lei-8559-1992-12-28.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "a442faa8862af914b61892aeb2b4fb8f9eeaca68b9c60e99f887df7a8a8a2f7f"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1992/lei-8564-1992-12-29.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "5e827304a8c6d7a2da9924ccb96540665e7603ecba2371ce0c7290f124c441e6"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1992/lei-8570-1992-12-29.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "f549aa401608caff26f8473d129f409dd0c432c5adc2c2e1f2ddb7358cff2322"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1992/lei-8611-1992-12-30.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "b3f49157513482ae5d3b61fbc6de0fb003995e73df7074751d32db9cad929007"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1993/lei-8679-1993-07-13.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "52a12dd9a981514683cb1472de86b8580c6505b5eaef9b5b1767c9cb5cd5f769"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1993/lei-8697-1993-08-27.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "33091d6d0ce6987405e8e5f36285b831710f4f7bf8afa358987cf39988c2a8cb"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1993/lei-8725-1993-11-05.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "925da27e52435d637de81554100c2402e3b5fdd00247d2d4517404bff20fbb7f"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1993/lei-8763-1993-12-14.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "485a3b0871952a4fffaafbfc02422ce08a828bd153ecf0bca4816cf4792b2e5b"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1993/lei-8813-1993-12-22.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "1c17e3043e9faacf1c8241bfbce73dcc96c8885bf63634ac27189082b1968445"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1994/lei-8862-1994-03-28.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "35355f0cccaead6a634752585a421fe9626c506206ffdc4e376c16ec9bb65b27"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1994/lei-8877-1994-05-11.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "672a64756b01de61adb9b30725b47eed96f1b79a9936c28b0440cf31551a7aa1"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1994/lei-8883-1994-06-08.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "cc3f0342febaa3d334a469cbd9f77df8f858734da1e5b164b4ffc074fe81ed21"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1994/lei-8924-1994-07-29.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "dda70c88fc21262496ccef8af4ec5ff2957781467fb10cc17a1f690388ed244a"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1995/lei-8983-1995-02-02.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "82015d1be6ce5d08a80fef2a915000cb356363c31453d0793e84365558090b6b"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1995/lei-9018-1995-03-30.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "sha256_final": "b82ccf261c0fe618b4721d16f5bf4f8184fc72760333b367fc90c641aac876f3"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1995/lei-9121-1995-10-30.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "4c62cfa18c0f683758c65f82b86afe099a8c3eb2c160debc306d3b881637e3be"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1995/lei-9245-1995-12-26.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "39a46446208a1510f7e17fea1cd83d645aba1d5462db05039e304d0b7dea26f7"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1996/lei-9275-1996-05-09.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "c1cc7dd3c7abe63503ab48758186a7e8c38fef0ab9b6e1feb9e17b0eb1cc0944"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1996/lei-9281-1996-06-04.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "171770084e78928a7aaffc312e0c31cc7c5e46edbee691fae566914218ee32da"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1996/lei-9286-1996-06-19.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "d0b6a86ea5dea990e830afac548c253c57642efab057798d38c9077ee96c1fc8"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1996/lei-9297-1996-07-25.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "44d9ee92f6c7a02afecc4806abc25dc8a4e18e104aedb8ef186644b96b7128f3"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1996/lei-9303-1996-09-05.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "1b5092cbcad94326469a3e5e98f8901c92642b3e20016b723bb8d0579a8f7807"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1996/lei-9317-1996-12-05.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "3bc7f9f78396d55baed4062ccf1330915ecac157bbc0ca405d6bf97c1055bf26"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1996/lei-9336-1996-12-11.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "27ab6d92dd054c4e9e9773e12bcde79174c4bb4af6df3e6db15612b4ce1114b7"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1996/lei-9391-1996-12-19.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "8cc4562ad12ee33ba9e2a9f3e902f6b6e93b5dee280102d9d6f16da36cca986a"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1996/lei-9426-1996-12-24.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "94498bc9b1d038fc44dcea2668f5f6817a05670d50e13042cdad034384d6f4dd"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1997/lei-9437-1997-02-20.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "f7bb633b81329ace383f312f89f2808fb252c14f29f045335d26ee65c17bf412"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1997/lei-9438-1997-02-26.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "sha256_final": "1cda308d741f39f64c3d7f88684624f7a73c36bec2ff644c3859d194343d2ab1"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1997/lei-9479-1997-08-12.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "sha256_final": "0ac9e3e7207739140787849d8612c386dd5fac8f1e34ad110894972a09bf8388"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1997/lei-9482-1997-08-13.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "sha256_final": "18e8a225156eaac994c40851d663d13a3ed6ea0522a2158ddde53ae29e8a4fff"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1997/lei-9552-1997-12-17.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "68f41e7b3511ee684d03a3d74fc3bea372ae99c7ced09b12e39f13b99614c999"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1997/lei-9596-1997-12-26.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "aef1f2858b13ef4ce323f01e00fe557d1ca7f033c77048a35b2c63946afe0266"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1997/lei-9598-1997-12-30.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "3fe6903d5ecd13b2cdabce51aa0e83c38a84bf70beffba0ff085d9e8b5c5f22e"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1998/lei-9609-1998-02-19.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "670b7e077a22df8b61af0c028993ef76c0ff55ff44776cbc2cff10121914974f"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1998/lei-9663-1998-06-19.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "4e7c9f0719635cb5aa346109d54934f9183384c51d756670edbee56e7c7fd0d4"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1998/lei-9691-1998-07-22.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "sha256_final": "c678cdd62d3440fb9dbb870ae45ce5e845caf12d3afb02780628cd4d7ee11467"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1998/lei-9694-1998-08-10.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "8a6a236a0bc4aeff44ce3da8c975c0f1f9043c812cc25a9530b906a49d96f56b"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1998/lei-9723-1998-11-30.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "b3b77bcd2d09437e4bb8fe2a1365489f0f562efad286ab516cf10b85d029dd56"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1998/lei-9756-1998-12-17.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "85c9b13118c6c1e49b08f10ad777fc32cb060e0591c4e8c1be1f0ff63f7457a5"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1998/lei-9763-1998-12-17.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "dc7eb9e357eef62fa6497cff8199a285aff75b47a0f902c60b43a9d7b06ceb19"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1999/lei-9785-1999-01-29.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "7ab15bbe7959c87349e3a32ad961e31c0dcfe366a155fc8466aa338247f3a210"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1999/lei-9789-1999-02-23.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "2938bf7fabe78375b0b9587e17f987262129f704ec38bbf17e9b5eedf865707e"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1999/lei-9809-1999-07-21.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "2e8a060c54513f0acef88dc3f3e2839b8192f2bc75a4bae789d7e4e384943dbe"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1999/lei-9810-1999-07-21.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "e4040a1772e24abdeb3a6b3613c8f4a9b7a351fe0baf04d310fa7a28a283e046"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1999/lei-9834-1999-09-22.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "1db8f8d1b61e5333c7f9fcce730b9a153a2215e69f388c5120b3336f6c5bbee4"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/1999/lei-9876-1999-11-26.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "2b0b1596776a5d61aba528b4a1e8d0553b72a2ece8a4e1289a84d0ab108a9b57"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2000/lei-10051-2000-11-14.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "63f36d0b09226b4e1ab5f5a4288dd2d3f985173f23511c4dc37ffad753c1fbbc"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2000/lei-10057-2000-12-13.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "923e988237cf5a6476b0fc0a9f54623fc3d3ecbc7c85d153a37b06e612ff16f0"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2000/lei-10086-2000-12-18.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "0773adc98f137832efae0ab2cc75b9efd2d2f7d10c9496711ceb5e045038bc8b"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2000/lei-10094-2000-12-19.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "6246c74d1c5dedd6368625ee91e5e9d56fb710c4531a3756dfd6e5d6f7d9f075"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2000/lei-10152-2000-12-22.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "50e98d931a8c2dee40b9eba0bc0ab66962fd47259f3ffd851e70e844d00ebcb7"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2000/lei-10161-2000-12-22.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "9dcac42597e50e5aadc09d7adb10953cee9bd665e32022ccef192698207ad753"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2000/lei-10165-2000-12-27.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "0da4c697abc90b4382ca073809040c74b1b6498e4f06918e562727d04eab68de"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2000/lei-9963-2000-03-23.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "sha256_final": "80635189ab53747eb79b11656e7b672bfc05f906764d79e0e15576f2854a1067"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2000/lei-9992-2000-07-24.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "903c52f41f5dc9298fe70eb40deee45921a6450ff1ae53809f3337d180e46547"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2001/lei-10171-2001-01-05.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "759fadb821bcabad08a176486eff114d77ad2255891322df7abd7ed3cc183ec8"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2001/lei-10203-2001-02-22.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "3ab716e4f5817ba696a750df4511f3ae23006614691a3b41908482de5e871ee9"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2001/lei-10226-2001-05-15.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "eaff1b1b911137661e3839731b8a48cbc8f2ba68154e7967dc3145d862846fcd"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2001/lei-10237-2001-06-11.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "ba126fa5a1248d6d3c619f2ca48b719cb8a57bc0fd5ebcaf4d8d9a0ba4545e2c"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2001/lei-10268-2001-08-28.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "8f1aeb5958fd3c7fd7d5553c38470a6a81a620b3f6ec8610703674628dd45dd8"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2001/lei-10360-2001-12-27.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "6987fff12b09fedf50df0272fac97a0a3e3012ee6d9bc13df20753cf6ddc86bd"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2001/lei-10397-2001-12-28.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "sha256_final": "5385f1535df9fddc18153c0344eb5b633ef1b884cb64af6c49af43da0a36a7bd"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2002/lei-10421-2002-04-15.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "4c50a78f3b8943321535ed8fe89345d45f08e34c3f46e7f32e55e034427b2cf1"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2002/lei-10458-2002-05-14.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "e0a841b6be28f05a9f65959288e87b0cddb2750a4a14dea1f68de800723e4511"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2002/lei-10595-2002-12-11.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "532c157b9df7fe269790eb006454ba43977e1a7f54fc43aba9faec45f9207709"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2002/lei-10600-2002-12-11.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "3ecdba156079611a57564a494ad74baa04160b622272c548d2f79ff63b2a8f88"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2003/lei-10640-2003-01-14.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "a5e4f1e308ce3c58127afa0c3cc471bb6be78690718fee39cb1d4d30d4dee3ed"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2003/lei-10650-2003-04-16.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "2b24920b3b6267653483a96d6a1980dd3c6cd602d6f85b4ede05ac660605a46b"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2003/lei-10694-2003-06-26.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "CSS com semântica exige revisão específica",
+      "sha256_final": "c82dea0c368a8b39a5043c19147663440a94c8692fdf210fb9599a7198f979d9"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2003/lei-10747-2003-10-15.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "adab9e92053024a278ba99eaac17af69359fdf4a02c00a8dbd2483333ecb80e9"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2003/lei-10748-2003-10-22.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "2507e26862fc2d2958cb64520fdd1113d1b9aaceb306b72a1463407cf8c765cb"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2003/lei-10769-2003-11-19.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "bdef257f2bf7e18854348205e0f8d63fa30baa8e592b38ec484fdff0e3b0a526"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2003/lei-10816-2003-12-16.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "fbd41d93a121a06b067b1e549c66265e64e34e4c59b18e4c8a0b3a06a0317d98"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2004/lei-10837-2004-01-16.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "2623df6338f0c90a4e75cf7ca1868956ef140d34f756aff1fc628a6a02570527"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2004/lei-10927-2004-07-30.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "eb7a0ae8dcb3f1a5985a95a3a68f75977c92e23370a051ce91f457d6db135eea"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2004/lei-10955-2004-10-06.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "0adc5eeef6f9c9746014fbdae456e629f0c4bb0af9c870c2c3e3c0315fc0e6aa"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2004/lei-11004-2004-12-16.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "ff27dc2a121e099641aed1307a74d536e9762701e28719155d32d87c7f79acb3"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2004/lei-11006-2004-12-16.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "677a875ce9793647a397c923c5b391c7aef978294113df08ca37f7a39964499f"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2004/lei-11007-2004-12-16.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "130491c265518970e1d23c8cf47e117657f8f1038e02a159ba526480c5cb2c0e"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2004/lei-11010-2004-12-17.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "c9035d8a892de233cfb5ca8c87aa9dfcda5c10724e35bf9143d98e988c4cbf33"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2004/lei-11037-2004-12-22.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "3e91c1a0030bf846dd43b8815f2b71882d90278b4340084d198fab8603ec613c"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2004/lei-11044-2004-12-24.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "794ce9baeee16f113f49ec39195be1840513f701c9210f08d679f07d344fbb34"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2004/lei-11047-2004-12-28.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "177a19315837d621683564332bec9b792f723b738075751b8881b0ad35fb2dbe"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2004/lei-11055-2004-12-30.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "66d92e5cc7cfc98a05c7011e446ac58165f53893463f49810c906cb69a1d23b9"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2004/lei-11056-2004-12-30.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "8206e312502dee225951d79bdbb1df2c7c9be0cd36181bc865d035948774b4c3"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2004/lei-11077-2004-12-30.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "fe615e34ae0f6e2f4b665c7c62ca11f7346d2a8c8b1a746ab4211320b45ab9a0"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2004/lei-11084-2004-12-31.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "d6b54ae5f5e0e2c7c6d39c39e2261386bb8ef1de636d611c2bed935582bdd001"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2004/lei-11085-2004-12-31.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "31b0418eb9df33d36e00d62058ada4aadac771f872504434201ade1aa57946fb"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2005/lei-11087-2005-01-04.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "1c807bd10f98794707d0f935622ff13652611eca3607f364119f98af602aa469"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2005/lei-11100-2005-01-25.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "b10de058cc15f1b752420c1737f38915e615b7ced69e2fd6768fd5f3f828ef84"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2005/lei-11232-2005-12-22.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "86015d51c0a5048a515c7253ba8b192ee40a543f6ca2f88b5524037ff925fdf4"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2005/lei-11246-2005-12-23.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "5f6c065a74e2a54f3cdfdcb82ed74eb1fc5ce0fa0e2e6c6fb46acd3bb93cf4de"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2005/lei-11255-2005-12-27.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "bbc7d219072eb7fc9232e5987faff7c6bff79e0729ea505f238bac0fabde8ad3"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2005/lei-11256-2005-12-27.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "c50141c13f669f5541bf0770f904cbf2d0182d2dcab93f108cad3690a35425cb"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2006/lei-11268-2006-01-19.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "330aec815eb37730e8ff8154d9f8b7ac74586e69a7ac5cb4bc29e2a291577d6c"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2006/lei-11288-2006-03-30.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "8a5ebdbec8eebab934bf01867431839d8bc060f17922c8833bd1cd74ea5db275"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2006/lei-11382-2006-12-06.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "c66e8dd8feec6f7eb5d72d9c25f2ac1683338f93c287d303365c8f21b3179bff"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2007/lei-11532-2007-10-25.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "64015f1cba9aa0c870264156edd3ee2786766e8994fc2ca7ebc4c9e13d9e674e"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2007/lei-11609-2007-12-11.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "f3f40e38c3f2dd9c6692ecf7e93e171c8a7c31060893a4cd02e25c7a16638649"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2007/lei-11617-2007-12-19.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "837516e3c1049a9524db2ca42826f304b72ed2a687682747b14fe1581a6dbb16"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2007/lei-11618-2007-12-19.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "f056441a5a0dca516d8e66bd3919114fc64bd83bb76a8d966c0e693a59fd2471"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2008/lei-11645-2008-03-10.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "dd0b73902c952576a12b855c8ec1617b49f5a93026542e4783f68663b3e6d6ed"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2008/lei-11647-2008-03-24.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "18ee2df0bc463483b0b89135fca8a7e810bf10a61f3de30fd008da78b190fcae"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2008/lei-11757-2008-07-28.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "917ecc99ab042171e5e4e72beef72714b866dc64948eca0eac642661d0bb92ae"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2008/lei-11761-2008-07-31.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "df2a0dfbad73925079ea34105b62910b6de8c64b97e22fea3a2f1d842b4b8e65"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2008/lei-11785-2008-09-22.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "7983561159d485a3836f552d9458e964dff0d6a3a7dcd403cf795c44106e6b67"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2008/lei-11855-2008-12-10.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "9309fdcaa445603f50d7a67472beb8436c4082a3a9fcdaffcc53b4c345ed4d1c"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2008/lei-11870-2008-12-19.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "df878f3df970fdda8d3c07dfc042ac9c012d7d09180cdf262d616e8bca4a838c"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2008/lei-11897-2008-12-30.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "a951e7317e00fb70ddeebfabbc6a0f48a31848a3d1faa7837afdbb97ad58e049"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2009/lei-11951-2009-06-24.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "9516d8eef76cee08de3580c29a680aa4508c4c57600ef277eb3f4caf9d969ee9"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2009/lei-11959-2009-06-29.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "92e3aab44b12c981b14d6371a8100f5cf0ce228bf773025d2190d66b033d034d"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2009/lei-11985-2009-07-27.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "d513cbfa622098154c85d0f84270a7670832a41e916222bb50282a2de12b682b"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2009/lei-12010-2009-08-03.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "c2b832aef62831e0c79b9133e13b799c5c3da5c595b8e3b8070988ee29cb92f5"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2009/lei-12017-2009-08-12.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "CSS com semântica exige revisão específica",
+      "sha256_final": "a2e2d6904b2cfa45c06e7775af6f5bcdc6f06efa1d4e3daacbbb4d8b67641287"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2009/lei-12018-2009-08-12.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "8f471d8caafca9953e845fb31f2df48e854c1352255f63246159ec67d67db6bc"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2009/lei-12043-2009-10-09.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "d655e6da277f46488f4282b65f072b32760241c363be25d550c954ff41251cd4"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2009/lei-12140-2009-12-21.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "152b2da2deb67a8ece683c965c475315bfa7f67eafd1a313ccf8238ae30da493"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2009/lei-12183-2009-12-29.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "56403cd8fc2ee8fd737792b6829147b252e7485a59389b99da684a0b58784629"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2010/lei-12297-2010-07-20.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "f9c93b286f80354e202630bf4d088b01b0898dc39c95bc40b8b7d9359d6c1240"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2010/lei-12320-2010-09-06.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "número da epígrafe própria diverge",
+      "sha256_final": "41e0fd7f1f72d542ad00b6d1574b5ca0f47c04b63e31017838f16ba87bd991ee"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2011/lei-12396-2011-03-21.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "fd88fccd77376069a06e93b30d309597d4d78d32d282870408bd34a5b1cf0f18"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2011/lei-12411-2011-05-27.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "ea1537446cdd5dbf0adc66e3dec27de2ef9386c7596bd43f1f915d1800b2577e"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2011/lei-12465-2011-08-12.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "cbf3b4bb4dc44d901e9a6fd72a9ed648f3ecd7f3dec0d3db29e98457153fecf6"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2011/lei-12483-2011-09-08.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "953754ae2b43076b15f7a4b7926a07ab5f2866a24acddf38a261066dd218e1e2"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2011/lei-12493-2011-09-20.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "15773deab8985ae0703cb232da831d30402308de4400373a5a0d490cb7b572d1"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2011/lei-12498-2011-09-20.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "b5197edd4d0e1083418e9225e50fea7a973398c801cf8c7b1fe78e09380cb43e"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2011/lei-12518-2011-11-10.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "5aabd013b539845e29fcb2ecd3f569ec9f7624543123ee18a7e592c96dc170c3"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2011/lei-12562-2011-12-23.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "7db3737851cb7d15f74c03dcf6f2d1aeef24ec998b67a05625eeed68f0f13ba5"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2012/lei-12591-2012-01-18.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "aaaefb2cdc4c4ee29962afde48a0847e20582e4fc4aabfbf81d95792773573f8"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2012/lei-12593-2012-01-18.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "bf70747d0d75c8e12f3976316548516b34105b4a74611fae587831da03a41ea9"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2012/lei-12594-2012-01-18.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "f0788014df68a4d6c680b89236c9848958fe2661c14e6955e134c07ac22ad3cd"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2012/lei-12595-2012-01-19.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "9dea90ee8287d99fe71515b80d1952f75d27691f1f04e42127aff6595c3dafb1"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2012/lei-12615-2012-04-30.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "3e984bfcfd5bd62c654d0e1de12cb5cabf34273de1f15d3cdd1a02ff2504cb31"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2012/lei-12678-2012-06-25.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "874220baeb664cf3171157a169cd899d154c2b5099d8c6d93e498edd1f59bd1d"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2012/lei-12692-2012-07-24.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "f878bb1c5281fc30fc3b283b507d1f8d2f35d205fed3649c8d4bc80e1e751e41"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2012/lei-12773-2012-12-28.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "número da epígrafe própria diverge",
+      "sha256_final": "9db17492f78253721f1b54d30a0964d7bb9fb3d9dabfc210b7f33cfbb55b6219"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2013/lei-12801-2013-04-24.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "564908753988d5358e26edbecb989ee724776c4657512d6bc91f60e91aaff51a"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2013/lei-12812-2013-05-16.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "c2e846c19cc4cc7770e800aec2423c5070817f299cf67548e99960c496e80720"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2013/lei-12888-2013-11-29.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "0a7bf26ee90d9a4721cef16472dc1cd33a4474ca90a778720c009dd6dfe89cff"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2013/lei-12903-2013-12-18.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "6e69d6b3e12e3f4d941142d86584f3b220f1df9cc38dcf7c9ca1a51bca51f5b7"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2014/lei-12960-2014-03-27.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "da98ef24d45e2297672dec1c8a666cbb66ff622a7bd065ae32d3673e0953bf89"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2014/lei-12998-2014-06-18.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "2eeda194a278b73f4929cfca1f1bcfb5a10915c8d1b207287a7100b3867c8159"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2014/lei-13010-2014-06-26.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "b78045649df87f5e6f056ffb6a13959ee3423544c8910c5a685dd06871ea1851"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2014/lei-13079-2014-12-30.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "41df4ff71c1a470155f551a5084d3f1751a2a754eaafa2bd2948f50a9de559f2"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2015/lei-13115-2015-04-20.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "73d9746972ccb32552937273832918e738cd18f0a99deb3e29f87da580df5ac3"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2016/lei-13297-2016-06-16.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "64a7ea986ff382c29f3db11babc6fe4b48a399ceaf75e0aa25d47dd009833625"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2016/lei-13317-2016-07-20.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "7809fcb4d3572f789ba20d6b3a5576da81d91fc008ab420bb73965bfc8b5980f"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2016/lei-13400-2016-12-21.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "6dab750f4818cbfd824afbbe23fdfe8239ca7452d1f5b963750494e87df6b3e8"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2018/lei-13740-2018-11-22.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "ae869edef037ca9ff1c83e2c7e0fec549f88c27a2d512a20461f734335036223"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2018/lei-13742-2018-11-22.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "8587c819a8d3abc02b9308be95f6a448612e67b3ca39338a0c1c09e42dfac5a7"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2018/lei-13754-2018-12-10.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "39aa86735826ef00e897349db890d404ce1e1a40d03f373ed3ccdede06e300c1"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2018/lei-13756-2018-12-12.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "1c6a8f049d8096f9c05ca492429095504193889fce666110da1088cc45dd3549"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2018/lei-13768-2018-12-18.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "86659c4d291df28a9f67897c7a607bb3b93aa61d8e6a4197e6feab7bce670f95"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2019/lei-13839-2019-06-04.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "2748cad1448377e908eab4eea31f33d35f9bf028fb0f767369ac0bd7efea11c9"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2020/lei-13978-2020-01-17.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "02d82db0bb07bf9b467885cb45e91ff298dc45db3810df217a3532beea8c2c6f"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2020/lei-14016-2020-06-23.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "521cbb7c80bef553010481e0344cab461a3d83020d3946ae438da01c908cc443"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2020/lei-14109-2020-12-16.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "d5ed0ea64613e61c140fdcf7dc910abfde7dd535e3db46c50a7e60830bf82962"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2021/lei-14119-2021-01-13.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "d51e4bf96d070e6ecaced837295232f440b7189c9d4e1f148edbbcbef0813a9d"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2021/lei-14133-2021-04-01.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "f2b488cdd37b189a739a19d2226a3dd2833c9f1a8f949aae9b9cbe88c2829968"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2021/lei-14139-2021-04-16.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "42c5e3e06ad558b9d2f650a61e3ed1e8c72ca3137df08917632302e94f46ec7f"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2021/lei-14148-2021-05-03.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "fcb68d2fe707fdb57838682320f80cc25436c45c7487f2b2476ebb6d971a12ae"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2021/lei-14150-2021-05-12.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "99a8fb632ece7654625f9f9702d608535bc69b5f4605f0fff6a69524e6aa9af4"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2021/lei-14162-2021-06-02.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "86abb940dab73efd7d6f6bf33eb8ea2af7a3f7ee4ed2facd4bfc81a54b9be62e"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2021/lei-14173-2021-06-15.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "577ff1a065cc72a2989df3d593c260b867a28e43ccaff08078522e0b24a46f50"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2021/lei-14193-2021-08-06.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "6851a00225f66dce8bba4acd0a4e220f55ab686ee7456623cdfbbb17758e13a3"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2021/lei-14194-2021-08-20.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "9d4bcde0873cdb2977f6a6f80ebc20c960afbc6feddb79d059a09e841c3cb490"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2021/lei-14220-2021-10-15.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "3dd56f03ed4d9cf5773c1bfdae65e2091addb939c4633b8fd2dd2842a0c69d75"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2021/lei-14223-2021-10-18.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "a0e0c2f772d9b8c01cd79b4975f002c76e3061e882729e0ce6c2b04e395f0777"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2021/lei-14232-2021-10-28.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "b165be8e4c27712f6a1665593be70a68112d77719de9af37b591d2dfd66fc123"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2021/lei-14260-2021-12-08.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "9389540f7b3dfdbc8a28ce341e87b067b0529fbebfb1506f4cf532a458ab1bac"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2022/lei-14293-2022-01-04.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "680e640bdb724bf3b2596a66afc81cc189947c2f15c4addfebb960506101b9ec"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2022/lei-14300-2022-01-06.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "5c1cf77b08388e90aedba095ec2b8a8a747eab05b5dd1674b317a9b66cb88e86"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2022/lei-14316-2022-03-29.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "5f598a7e34346c3f25393b7a60ee8736eaabc23b1af46dfd25ac54e3f11a9b11"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2022/lei-14323-2022-04-12.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "590d7851afdb5d13299ed0d191fb981b4f1ab6ab9b45f1b87634527821fccb55"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2022/lei-14365-2022-06-02.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "sha256_final": "02a15eb8174619cb3bedc55cbd4594944f74e9063c771527db4650436a30335d"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2022/lei-14366-2022-06-08.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "ea915ca3865a1ed5fcfd75ae93ac35d745ae1ecfd468729e0e22380bc7d2618f"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2022/lei-14466-2022-11-16.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "4fddc0823d56600c4ec6a2d0a22e5f3bd23d3099ba37707b1c2b54e1b93e5238"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2022/lei-14509-2022-12-27.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "8251d0e51dd0c374796db40f7478849377145d682f62a32e0a5e700e0f64a45c"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2022/lei-14515-2022-12-29.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "2bb09cf5de99e00c4957df03815e01c628adc421401a1c7c701f96de105f5929"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2023/lei-14531-2023-01-10.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "2279584b23a5816fce3fbdf138666b2fce046345c48b887acc28c17ffcf2fc1a"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2023/lei-14535-2023-01-17.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "a077f823d6fd551b763d170135d383fcedaf9d29fe3bf795de1ee21c5c685aa9"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2023/lei-14567-2023-05-04.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "31d86017e241aecd20b9e246f5e241f72125295ad356b4d158e74a2ddb243f04"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2023/lei-14583-2023-05-16.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "6b6db1cb9a8657095dc4385b5057c5c1673fb717c056afdb5410f6dc12a34a29"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2023/lei-14597-2023-06-14.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "85040e6d47f2f7f2b56e1481967c1a38a14199803d65388b043837e2f1f58132"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2023/lei-14639-2023-07-25.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "7cb3d402aeb2cfcb35e11d9df5f9813ff9f544f1d1b28bf3c8e8c35b542cb97f"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2023/lei-14651-2023-08-23.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "99ca7167082c8e310b4117ab7921e1000b451696335358647e6a6563e5fc77e4"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2023/lei-14652-2023-08-23.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "21abd0736bd1ab74041597a4cc56bad3757d9e1de98d3116bede9a01bb16f6cd"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2023/lei-14688-2023-09-20.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "2b883af5437b4198c419e9d1cf4c77e3df6b86ac37d010141ddcae89e21a0b36"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2023/lei-14691-2023-10-03.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "818a882c977f21b0f229039dbc305111d15c5f96d507da2ef4ac16a4776b4a85"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2023/lei-14735-2023-11-23.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "22562ff14db2eadb67dade2e639fbcb248c770936b4487780f8299222f95f216"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2023/lei-14740-2023-11-29.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "5f73a728326fccd403fb06b063e19a29b47e31a57eae91d7e55856ddaa9342c7"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2023/lei-14744-2023-11-30.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "9614a06a7b9db82309a028b8e298da56ecb53682fd4518f44df58c3bc09ce8d5"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2023/lei-14751-2023-12-12.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "45887b9778c5adfa42bbc599a7fa3659bc34c1fbe231534ce7bfb341d50cb8e8"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2023/lei-14759-2023-12-21.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "68dc5584323a2f34c266ff1306d4be5fa88f5cce6bb1cb880abb6a47a924ad86"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2023/lei-14785-2023-12-27.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "bb1bbe718330297b03960d571403642c29864d1de1aff207de2c777023f59148"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2023/lei-14786-2023-12-28.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "a2ba61baeaa1e98d2b61ff0617873622322aa04659fcad59a4c8089b217e751d"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2023/lei-14787-2023-12-28.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "4448b139c0d3721994a777ab3212f7dca9b9d446cc45cb9aeecdfed25b645aab"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2023/lei-14790-2023-12-29.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "ab7fcd285b88af6959f14ab444f41f9b66e77964eca39c0623ffa00ccee45b47"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2024/lei-14818-2024-01-16.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "26f650ab49772467bdf6efb674db9f239aac418e1f4452ed6a838f3dc2343105"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2024/lei-14859-2024-05-22.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "b33792243f557a5f8de235e0d6f16cb80d2457b5ae7d251b748359086a40f5f7"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2024/lei-14877-2024-06-04.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "9df6f8998fdce8f579fab399967104785eed33632e1d68c95e38625e6de59b2b"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2024/lei-14878-2024-06-04.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "d6cdc230a9e648c47247c240f643dae891d6c5f5f19d8b320e3593a061875bbd"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2024/lei-14902-2024-06-27.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "db968feeb9a94ab3f6f3b66b0f06622d0b36ee175464db9f8d3d1b66e4dc6a1d"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2024/lei-14924-2024-07-12.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "57bd68326f0e9a25305ec6da3779ea3510d5cf7c6c9baddb88a6b0da60b38073"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2024/lei-14935-2024-07-26.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "645be7ded028d4bdacb00bb895d861a651c3b0c157aa1562e85e10e95f4c53cf"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2024/lei-14940-2024-07-30.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "e5d08dcd8532956bf7958f6203eb7f307733e5b82896df7d0c3b45eb2fd32454"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2024/lei-14947-2024-08-02.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "a864bd2de48c798eb7079141a9cd0a547679431903d2ba3c6fea024fa6adc32e"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2024/lei-14974-2024-09-16.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "c1f879decc3bfdb2fce0e7c9812f84187c0b5b0922506e14c2384206adcf81b4"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2024/lei-14980-2024-09-18.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "ec59a70d0e5068b59facef28f75ef18942fb842514dbdd188ff01ee9c968131e"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2024/lei-14982-2024-09-20.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "fccec89c41ece07502476abee5e7fcc4bbef37c06a6eaa10a757e325147fcd7b"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2024/lei-15077-2024-12-27.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "491447f6fd4bc5abea214f04e592226d1a9df1da047f7a7426d43594dd4c3ea5"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2024/lei-15080-2024-12-30.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "2f10c77544bbd4be474af2edf96327489f19b54bebff044cbb4bcfd9c794c7f8"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2025/lei-15097-2025-01-10.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "c3b2f14285222be94e661cf14c513f36bf8e27ce4df11ef52eca6b5d69de9d76"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2025/lei-15103-2025-01-22.md",
+      "resultado": "pendente sinalizado",
+      "motivo": "sem versão Current ou Original",
+      "sha256_final": "0d6c4651cc695866fab9f2f13b67edd3b1df0bb2dc2ee84c0cbdf39d8b440ee9"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2025/lei-15153-2025-06-26.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "db430e3a85f6f03d5769a2cece66a320e6599c2cb3379052c6162de22fdc2d78"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2025/lei-15178-2025-07-23.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "02fc0a01593ef1dfb0f5ee84c37b89a45816dd7eae124c33d8f4aec725843d5a"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2025/lei-15183-2025-07-30.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "7bbafe3dfa0563d6cdc930bdf6939ccaf0d9ef27c744eaf1bdd134c455be075b"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2025/lei-15190-2025-08-08.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "be0c1b11b06e6a1b17e7d578ccefb57f5f3e0bc1d3c8cff61da7f1c4d02fc525"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2025/lei-15235-2025-10-08.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "ca47878c2d6bd9363adaef4e6acc5df3dcd22a4a4044e9a2bf1a094093aa222c"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2025/lei-15249-2025-11-03.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "a0edb8dcc113fe847ccdf1ae593df1909a9470a44da702c77e89c2207b5f5d71"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2025/lei-15251-2025-11-03.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "2bde1b47bdc995a1199a0010dbdd05dd481936296bb20d4f9365110b314a777c"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2025/lei-15252-2025-11-04.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "28584370b1692582c27ba653e476bcbf3e4856d08d60f9a111b5a36849b53386"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2025/lei-15253-2025-11-05.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "f75d392b6c1429dd7228fc98fb500a7bfe1d6e85303ae7efad0aa775abd60fb6"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2025/lei-15254-2025-11-06.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "7e7c6df73b2f776a59496c3391a85b87d9099d7c29f4f7e960d64756aac95c86"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2025/lei-15299-2025-12-22.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "78b9d462c45348d2bfcfb7fd92a8081cf34d82447be290fd144bc149a6f5681f"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2025/lei-15321-2025-12-31.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "f5ce4d07eef17a189f0875a78e60288a7a856b63fdf856517239a63d5335e4fa"
+    },
+    {
+      "arquivo": "federal/leis-ordinarias/2026/lei-15350-2026-02-17.md",
+      "resultado": "reparado",
+      "motivo": null,
+      "sha256_final": "1bfe1b66f9d82e128b537f9b1347bb5a900d487da1e1565ec193828f73978a3f"
+    }
+  ],
+  "validacao_final": {
+    "arquivos_auditados": 342,
+    "erros_formato": 0,
+    "avisos_formato": 0,
+    "documentos_municipais_auditados": 6,
+    "erros_municipais": 0,
+    "avisos_municipais": 0,
+    "lei14133_paginas_renderizadas_com_texto_identico": 88,
+    "diff_check_dados": "Verificação Git integral interrompida após lentidão; formato, conteúdo e renderização conferidos separadamente. Whitespace das fontes preservado."
+  }
+}

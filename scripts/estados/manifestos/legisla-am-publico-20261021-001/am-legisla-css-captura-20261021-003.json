@@ -1,0 +1,28 @@
+{
+  "capturas": [
+    {
+      "url": "https://p.typekit.net/p.css?s=1&k=zoa0ykv&ht=tk&f=9785.9786.9787.9788.9789.9790.9791.9792.9793.9794&a=6684004&app=typekit&e=css",
+      "url_final": "https://p.typekit.net/p.css?s=1&k=zoa0ykv&ht=tk&f=9785.9786.9787.9788.9789.9790.9791.9792.9793.9794&a=6684004&app=typekit&e=css",
+      "http": 200,
+      "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/f6df03c49df0caf779102ee9853fdadc8647bcb92c55bf67216351606abe94c1.gz",
+      "sha256_fonte": "1c0ff118a4290c99f39c90abb38703a866e47251b23cca20266c69c812ccafeb",
+      "sha256_cache": "f6df03c49df0caf779102ee9853fdadc8647bcb92c55bf67216351606abe94c1",
+      "capturado_em": "2026-10-21T07:02:20.324898-03:00",
+      "headers": {
+        "Server": "nginx",
+        "Content-Type": "text/css",
+        "Content-Length": "5",
+        "Last-Modified": "Fri, 25 Apr 2025 05:41:53 GMT",
+        "ETag": "\"680b20a1-5\"",
+        "Cache-Control": "public, max-age=604800",
+        "Access-Control-Allow-Origin": "*",
+        "Cross-Origin-Resource-Policy": "cross-origin",
+        "Accept-Ranges": "bytes",
+        "Date": "Wed, 21 Oct 2026 10:02:20 GMT",
+        "Connection": "close"
+      },
+      "dependencia_observada_em": "https://use.typekit.net/zoa0ykv.css"
+    }
+  ],
+  "origem_distinta_sem_cliente_concorrente": true
+}

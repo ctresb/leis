@@ -1,0 +1,88 @@
+{
+  "preparado_em": "2026-10-27T22:19:04.601192-03:00",
+  "caso": "Lei4.838/2026 LEGIS6898",
+  "manifesto": "scripts/estados/manifestos/ac440-proposta-privada-20261027-005.json",
+  "sha256_manifesto": "59444aa1d5222778a33168112e001fba355fd0cc3b93dce5a4ab000882a02655",
+  "candidato": "estaduais/AC/_fonte/auditorias/ac440-privado-20261027-001/candidatos/estaduais/AC/leis-ordinarias/2026/l-4838-2026-legis6898.md",
+  "sha256_md": "4a2ac9c3e0f94a6746f6638aaa1955449790f501a756351ec3026305c4463c7a",
+  "fonte_HTML": "estaduais/AC/_fonte/auditorias/legis-amostra-20261027-005/2172f325ac3b46685cd56482cda65d4a869cdaabcccbf8d406517e553db52a49.html.gz",
+  "sha256_HTML": "2172f325ac3b46685cd56482cda65d4a869cdaabcccbf8d406517e553db52a49",
+  "PDF_primario": {
+    "url": "https://diario.ac.gov.br/download.php?arquivo=KEQxQHI3IyEpRE8xNzg5MDQ2MDQ3MzMzOC5wZGY=",
+    "url_final": "https://diario.ac.gov.br/download.php?arquivo=KEQxQHI3IyEpRE8xNzg5MDQ2MDQ3MzMzOC5wZGY=",
+    "http": 200,
+    "edicao_literal": "Diário Oficial N° 14349 - Caderno Único",
+    "data_indice": "10/09/2026",
+    "indice": "estaduais/AC/_fonte/auditorias/DOE-sondagem-20261027-023/setembro2026-captura-publica.json",
+    "sha256_indice_HTML": "47dc1bd5b27d81db16298f82b751d8ac66a0c83e2e2003aae0daa9b15528ddf3",
+    "iniciado_em": "2026-10-27T22:14:54.747565-03:00",
+    "capturado_em": "2026-10-27T22:15:34.655828-03:00",
+    "cache": "estaduais/AC/_fonte/auditorias/DOE-sondagem-20261027-023/cedc8be84465b021742189236df5a2029cd8770a10de874a8e914b6382082591.pdf",
+    "sha256_fonte": "cedc8be84465b021742189236df5a2029cd8770a10de874a8e914b6382082591",
+    "bytes": 23081306,
+    "headers": {
+      "Date": "Wed, 28 Oct 2026 01:14:54 GMT",
+      "Server": "Apache/2.4.59 (Debian)",
+      "Content-Length": "23081306",
+      "Content-Disposition": "attachment; filename=DO17890460473338.pdf",
+      "Content-Type": "application/pdf"
+    },
+    "headers_sessao_omitidos": true
+  },
+  "PDF_paginas": 192,
+  "pagina_amostra": 1,
+  "bbox_pdf_pontos": [
+    15,
+    327,
+    293,
+    624
+  ],
+  "escopo": "Coluna esquerda: epígrafe até assinatura/cargo; nenhum ato vizinho incluído. Página integral e PDF192p preservados. Recorte geométrico validado visualmente contra a página.",
+  "resultado": "DispositivosArt1–5, preâmbulo, ementa, matrícula46.192, valorR$650.000,00, fecho/data e assinatura conferem. Não houve diferença de palavras ou cifras do articulado neste caso.",
+  "normalizacoes_explicitas": [
+    {
+      "ocorrencias": 1,
+      "tipo": "quebra tipográfica de linha",
+      "de": "Es-\\ntado",
+      "para": "Estado",
+      "prova": "Página1 PNG e linha do texto Poppler"
+    },
+    {
+      "ocorrencias": 1,
+      "tipo": "quebra tipográfica de linha",
+      "de": "Re-\\npartição",
+      "para": "Repartição",
+      "prova": "Página1 PNG"
+    },
+    {
+      "ocorrencias": 1,
+      "tipo": "formato do dia da epígrafe",
+      "PDF": "DE9DESETEMBRO",
+      "portal": "DE09DESETEMBRO"
+    },
+    {
+      "ocorrencias": 1,
+      "tipo": "separador gráfico literal",
+      "PDF": "Acre - RPPS",
+      "portal": "Acre – RPPS"
+    }
+  ],
+  "diferencas_editoriais": [
+    {
+      "PDF": "Projeto de Lei nº135/2026; Autoria:PoderExecutivo",
+      "portal": "não reproduz essas duas linhas editoriais",
+      "nota": "Registrar diferença de escopo; não é diferença de dispositivo, assinatura ou data. Candidatos são rotulados como transcrição do portal, não ediçãoDOE integral."
+    }
+  ],
+  "igualdade_apos_comparacao_explicita": true,
+  "sha256_visivel_portal": "787e139d61810c3a9afe45e02194554ba33fdc69bdf696f2d1bc09fe121bb259",
+  "sha256_visivel_PDF_apos_normalizacoes": "4095d2436bff277d2d0712fcffcb60403eb940c52831f76280d2396af17f1e31",
+  "limites": "Amostra individual não certifica o conjunto do portal, normas históricas ou outros candidatos. Sem editar fontes/canônicos. Extração pdfplumber diagnóstica apresentou U+FFFD em pontuações do PDF; a comparação usou Poppler e revisão visual, sem OCR.",
+  "provas": {
+    "estaduais/AC/_fonte/auditorias/DOE-sondagem-20261027-023/pagina1.png": "ffd6834c65897ca4858fb0de7dc5d3b3399ee93c8919d8191fc70a3b69f7fedc",
+    "estaduais/AC/_fonte/auditorias/DOE-sondagem-20261027-023/lei4838-poppler-crop.txt": "d6af5ea90a3e481e293a17fc6a8319ae883a33f826bf9009d1dfafef00db4f67",
+    "estaduais/AC/_fonte/auditorias/DOE-sondagem-20261027-023/lei4838-comparacao-textos.json": "2d44cf76ec96414b36792545a5a1c6135c9a2ed89f19f8f3f72ae0932d5f8ace",
+    "estaduais/AC/_fonte/auditorias/DOE-sondagem-20261027-023/edicao14349-captura-publica.json": "69f481a0a884bf55f4f9a504ed0909f683a71bd7cd3503a3548ff29a8f614be9",
+    "estaduais/AC/_fonte/auditorias/DOE-sondagem-20261027-023/setembro2026-captura-publica.json": "642a13085e1d91c2d934099fd2271331cbefd45e3a0c09b82383e5a6f575d579"
+  }
+}

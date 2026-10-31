@@ -1,0 +1,20 @@
+{
+  "preparado_em": "2026-10-27T18:55:08.856391-03:00",
+  "escopo": "Proteção contra regressão do reparo publicado 8494-A/2018 e de índice CSV com cod deslocado.",
+  "preimagem": "estaduais/SE/_fonte/auditorias/coletor-spl-sufixos-20261027-001/spl_agape.py.preimagem",
+  "sha256_preimagem": "c6a66737c58050cc35e059c5db0708c8efb1646cf9982138707b453521a705ef",
+  "delta_proprio": "estaduais/SE/_fonte/auditorias/coletor-spl-sufixos-20261027-001/delta-proprio.patch",
+  "sha256_delta": "eec1a5409c5d023624254e15cba6665bd8f5129885fd2bf621996f23905a183d",
+  "diff_preexistente_preservado": "estaduais/SE/_fonte/auditorias/coletor-spl-sufixos-20261027-001/diff-preexistente.patch",
+  "modificacoes_preexistentes": "documento_para_md, revogada conservador e rótulo Texto já estavam alterados; não atribuir esses hunks a este lote.",
+  "teste_total": 7,
+  "diff_check": "passou",
+  "codigo": {
+    "scripts/estados/snapshots/spl_sufixos_20261027_001/comum.py": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24",
+    "scripts/estados/snapshots/spl_sufixos_20261027_001/spl_agape.py": "6b68d389e9c9b4caffc0c01556f3c9c5e35fab9a91791057a3767bebc4010f61",
+    "scripts/estados/snapshots/spl_sufixos_20261027_001/html2md.py": "6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6",
+    "scripts/estados/snapshots/spl_sufixos_20261027_001/test_spl_sufixos.py": "eecf659f990aefccf3ba406a0e8460031dd6d5c0ac82e995d7a0a42361ed579b",
+    "scripts/estados/snapshots/spl_sufixos_20261027_001/datas.py": "0d6cdbc1113d5fe15a471aa8cde3eb1653d1e1484b0904a5a13b9ca10e1349fc"
+  },
+  "limites": "Não repara nem sobrescreve índices CSV antigos; fluxo novo usa índices HTML oficiais com snapshots. Nenhum coletor antigo foi iniciado. Divergência de número/sufixo é reportada por item e não gera MD."
+}

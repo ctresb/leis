@@ -1,0 +1,50 @@
+{
+  "capturas": [
+    {
+      "edicao_id": "17515",
+      "pagina": 7,
+      "url": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/pdf_diario/17515/7",
+      "url_final": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/pdf_diario/17515/7",
+      "http": 200,
+      "PDF": true,
+      "arquivo": "estaduais/AM/_fonte/auditorias/amostra12-continuacao-20261027-002/17515-7.pdf",
+      "sha256": "5cee2a2442e0c12bc20d6c880b24f6dadb651239e346c40aeba44b3953b7e626",
+      "headers": {
+        "Date": "Tue, 27 Oct 2026 20:56:25 GMT",
+        "Server": "Apache/2.4.25 (Debian)",
+        "Cache-Control": "public, max-age=3600, must-revalidate",
+        "Last-Modified": "Tue, 11 Jun 2024 01:31:25 GMT",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "264283",
+        "Access-Control-Allow-Origin": "*",
+        "Connection": "close",
+        "Content-Type": "application/pdf"
+      },
+      "capturado_em": "2026-10-27T17:56:26.210749-03:00"
+    },
+    {
+      "edicao_id": "17515",
+      "pagina": 8,
+      "url": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/pdf_diario/17515/8",
+      "url_final": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/pdf_diario/17515/8",
+      "http": 200,
+      "PDF": true,
+      "arquivo": "estaduais/AM/_fonte/auditorias/amostra12-continuacao-20261027-002/17515-8.pdf",
+      "sha256": "39d47266ea3a22f16f5799c415cb610e8111f2ab87d8c1ef494eadd630273648",
+      "headers": {
+        "Date": "Tue, 27 Oct 2026 20:56:29 GMT",
+        "Server": "Apache/2.4.25 (Debian)",
+        "Cache-Control": "public, max-age=3600, must-revalidate",
+        "Last-Modified": "Tue, 11 Jun 2024 01:31:25 GMT",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "283800",
+        "Access-Control-Allow-Origin": "*",
+        "Connection": "close",
+        "Content-Type": "application/pdf"
+      },
+      "capturado_em": "2026-10-27T17:56:29.747010-03:00"
+    }
+  ],
+  "origem_paginas": "índices oficiais capturados em am-amostra12-PDF-capturas-20261027-001.json; API PDF observada no JS oficial",
+  "omissao_headers_sessao": true
+}

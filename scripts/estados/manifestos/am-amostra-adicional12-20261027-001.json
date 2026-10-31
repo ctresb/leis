@@ -1,0 +1,825 @@
+{
+  "preparado_em": "2026-10-27T17:43:02.503593-03:00",
+  "plano": "scripts/estados/manifestos/am-combinado-1667-20261027-002.json",
+  "sha256_plano": "a64f869ca6d0102daf61a6e83bc5c3d128244738a8bdf053e78c0acf9e2bf851",
+  "metodo": "12 adicionais, sem repetir4 anteriores; quotas por década, quartis curto/longo nos estratos com2 vagas; sorteio determinístico seed20261027-adicional+decada+tamanho com preferência por natureza textual ainda não coberta. Sem inferência populacional.",
+  "tipo_formal_homogeneo": "Lei Ordinária; naturezas são rótulos descritivos por vocábulos literais, não reclassificação legal.",
+  "selecao": [
+    {
+      "id_legisla": "12713",
+      "destino": "estaduais/AM/leis-ordinarias/1957/lei-138-1957-legisla12713.md",
+      "decada": 1950,
+      "estrato_tamanho": "curto",
+      "caracteres": 1011,
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "financeiro/orçamentário",
+      "prova_assinatura": {
+        "status": "conferida",
+        "data_epigrafe": "1957-09-23",
+        "data_assinatura": "1957-09-23",
+        "trecho_literal": "Manaus, 23 de setembro de 1957",
+        "reter": false
+      },
+      "captura": {
+        "item": {
+          "id_legisla": "12713",
+          "titulo": "LEI N. º 138, DE 23 DE SETEMBRO DE 1957",
+          "numero": "138",
+          "tipo_indice": "Lei Ordinária",
+          "ano": "1957",
+          "mes": "9",
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1957/9/12713?modo=lista",
+          "publicacao_indice": "Publicada em 25 de setembro de 1957"
+        },
+        "indice": {
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12?modo=lista&page=430&sort=data&direction=desc",
+          "http": 200,
+          "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/75432ca03ed1504232597052733f74f3d3ac36a3771567bc0e2949e84988e779.gz",
+          "sha256_fonte": "f74a166dd9fefc6e699c645186b7b5ab81319f913a4f30b770e8a2d524b312bd",
+          "auditado_em": "2026-10-21T08:23:48.630256-03:00",
+          "origem": "captura HTTP atual",
+          "headers": {
+            "Date": "Wed, 21 Oct 2026 11:23:43 GMT",
+            "Server": "Apache/2.4.25 (Debian)",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Connection": "close",
+            "Transfer-Encoding": "chunked",
+            "Content-Type": "text/html; charset=UTF-8"
+          },
+          "capturado_em": "2026-10-21T08:23:48.630256-03:00"
+        },
+        "chaves_disco": [],
+        "status": "capturado",
+        "http": 200,
+        "headers": {
+          "Date": "Wed, 21 Oct 2026 11:23:58 GMT",
+          "Server": "Apache/2.4.25 (Debian)",
+          "Vary": "Accept-Encoding",
+          "Access-Control-Allow-Origin": "*",
+          "X-Frame-Options": "SAMEORIGIN",
+          "Connection": "close",
+          "Transfer-Encoding": "chunked",
+          "Content-Type": "text/html; charset=UTF-8"
+        },
+        "url_final": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1957/9/12713?modo=lista",
+        "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/feef74935a8632eb01bc2a0f8da380a7ff4adc43eb778eca2ac6cef5ea019cc5.gz",
+        "sha256_fonte": "ba0398094b505bf8d1e03f69f00f6440834c8215f5f3e23f23f431ec4bc8672d",
+        "sha256_cache": "feef74935a8632eb01bc2a0f8da380a7ff4adc43eb778eca2ac6cef5ea019cc5",
+        "capturado_em": "2026-10-21T08:23:58.584123-03:00"
+      },
+      "numero": "138",
+      "data": "1957-09-23",
+      "populacao_estrato": 512
+    },
+    {
+      "id_legisla": "12524",
+      "destino": "estaduais/AM/leis-ordinarias/1957/lei-9-1957-legisla12524.md",
+      "decada": 1950,
+      "estrato_tamanho": "longo",
+      "caracteres": 3251,
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "organização/regulação",
+      "prova_assinatura": {
+        "status": "conferida",
+        "data_epigrafe": "1957-03-08",
+        "data_assinatura": "1957-03-08",
+        "trecho_literal": "Manaus, 8 de março de 1957",
+        "reter": false
+      },
+      "captura": {
+        "item": {
+          "id_legisla": "12524",
+          "titulo": "LEI N. º 9, DE 8 DE MARÇO DE 1957",
+          "numero": "9",
+          "tipo_indice": "Lei Ordinária",
+          "ano": "1957",
+          "mes": "3",
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1957/3/12524?modo=lista",
+          "publicacao_indice": "Publicada em 13 de março de 1957"
+        },
+        "indice": {
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12?modo=lista&page=436&sort=data&direction=desc",
+          "http": 200,
+          "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/23a581fbe9425e45a7e4881b28cc4f17034882ea3e832b757865026e92bcb1ee.gz",
+          "sha256_fonte": "40367068c81a05f5d13ebbab678aa5a5a9bec59d74fffdd9e232855c307f1026",
+          "auditado_em": "2026-10-21T08:28:36.767542-03:00",
+          "origem": "captura HTTP atual",
+          "headers": {
+            "Date": "Wed, 21 Oct 2026 11:28:31 GMT",
+            "Server": "Apache/2.4.25 (Debian)",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Connection": "close",
+            "Transfer-Encoding": "chunked",
+            "Content-Type": "text/html; charset=UTF-8"
+          },
+          "capturado_em": "2026-10-21T08:28:36.767542-03:00"
+        },
+        "chaves_disco": [],
+        "status": "capturado",
+        "http": 200,
+        "headers": {
+          "Date": "Wed, 21 Oct 2026 11:28:53 GMT",
+          "Server": "Apache/2.4.25 (Debian)",
+          "Vary": "Accept-Encoding",
+          "Access-Control-Allow-Origin": "*",
+          "X-Frame-Options": "SAMEORIGIN",
+          "Connection": "close",
+          "Transfer-Encoding": "chunked",
+          "Content-Type": "text/html; charset=UTF-8"
+        },
+        "url_final": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1957/3/12524?modo=lista",
+        "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/24b16a5b4583fdc28bb99d331bad9e754b5234a5b3616acf16ab550e42777f8c.gz",
+        "sha256_fonte": "99f8398268282a02fdd1caeb00f9d048092c34090ce140b03fd60cf5d0f78ec4",
+        "sha256_cache": "24b16a5b4583fdc28bb99d331bad9e754b5234a5b3616acf16ab550e42777f8c",
+        "capturado_em": "2026-10-21T08:28:53.550554-03:00"
+      },
+      "numero": "9",
+      "data": "1957-03-08",
+      "populacao_estrato": 512
+    },
+    {
+      "id_legisla": "10073",
+      "destino": "estaduais/AM/leis-ordinarias/1965/lei-289-1965-legisla10073.md",
+      "decada": 1960,
+      "estrato_tamanho": "curto",
+      "caracteres": 594,
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "alteração/revogação",
+      "prova_assinatura": {
+        "status": "conferida",
+        "data_epigrafe": "1965-09-18",
+        "data_assinatura": "1965-09-18",
+        "trecho_literal": "Manaus, 18 de setembro de 1965",
+        "reter": false
+      },
+      "captura": {
+        "item": {
+          "id_legisla": "10073",
+          "titulo": "LEI N. º 289, DE 18 DE SETEMBRO DE 1965",
+          "numero": "289",
+          "tipo_indice": "Lei Ordinária",
+          "ano": "1965",
+          "mes": "9",
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1965/9/10073?modo=lista",
+          "publicacao_indice": "Publicada em 18 de setembro de 1965"
+        },
+        "indice": {
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12?modo=lista&page=399&sort=data&direction=desc",
+          "http": 200,
+          "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/eb0af5ffed95f8ae4d7ddb1b2fe80e4fa7737847854dc4061388e305a13c323a.gz",
+          "sha256_fonte": "fdf3f9f847f2abd59d0aab82508505f8c7c5f3bf44fe3a5bfe794b8e99f0a795",
+          "auditado_em": "2026-10-21T07:59:55.435379-03:00",
+          "origem": "captura HTTP atual",
+          "headers": {
+            "Date": "Wed, 21 Oct 2026 10:59:50 GMT",
+            "Server": "Apache/2.4.25 (Debian)",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Connection": "close",
+            "Transfer-Encoding": "chunked",
+            "Content-Type": "text/html; charset=UTF-8"
+          },
+          "capturado_em": "2026-10-21T07:59:55.435379-03:00"
+        },
+        "chaves_disco": [],
+        "status": "capturado",
+        "http": 200,
+        "headers": {
+          "Date": "Wed, 21 Oct 2026 11:00:05 GMT",
+          "Server": "Apache/2.4.25 (Debian)",
+          "Vary": "Accept-Encoding",
+          "Access-Control-Allow-Origin": "*",
+          "X-Frame-Options": "SAMEORIGIN",
+          "Connection": "close",
+          "Transfer-Encoding": "chunked",
+          "Content-Type": "text/html; charset=UTF-8"
+        },
+        "url_final": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1965/9/10073?modo=lista",
+        "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/b53ac08502a4963ccdc61fe07ff95008775bc3ae3ff8cec60df583c649ee4a87.gz",
+        "sha256_fonte": "6f66b11c519986cf58f69bd4cec2e925a7ae2b08949d1d0412aabb90370a3bb4",
+        "sha256_cache": "b53ac08502a4963ccdc61fe07ff95008775bc3ae3ff8cec60df583c649ee4a87",
+        "capturado_em": "2026-10-21T08:00:05.712219-03:00"
+      },
+      "numero": "289",
+      "data": "1965-09-18",
+      "populacao_estrato": 816
+    },
+    {
+      "id_legisla": "10850",
+      "destino": "estaduais/AM/leis-ordinarias/1968/lei-828-1968-legisla10850.md",
+      "decada": 1960,
+      "estrato_tamanho": "longo",
+      "caracteres": 2112,
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "declaratório/comemorativo",
+      "prova_assinatura": {
+        "status": "conferida",
+        "data_epigrafe": "1968-12-06",
+        "data_assinatura": "1968-12-06",
+        "trecho_literal": "Manaus, 6 de dezembro de 1968",
+        "reter": false
+      },
+      "captura": {
+        "item": {
+          "id_legisla": "10850",
+          "titulo": "LEI N. º 828, DE 6 DE DEZEMBRO DE 1968",
+          "numero": "828",
+          "tipo_indice": "Lei Ordinária",
+          "ano": "1968",
+          "mes": "12",
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1968/12/10850?modo=lista",
+          "publicacao_indice": "Publicada em 06 de dezembro de 1968"
+        },
+        "indice": {
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12?modo=lista&page=372&sort=data&direction=desc",
+          "http": 200,
+          "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/2fd28e89156a488da8ae9915ec29e3a5ab8b5a0adc2c1e92fa8710147128aba6.gz",
+          "sha256_fonte": "cc8916c47e9d855d5da1956f1b5b3f230661b4790cb488f850c41054ed54d624",
+          "auditado_em": "2026-10-21T07:30:51.733516-03:00",
+          "origem": "captura HTTP atual",
+          "headers": {
+            "Date": "Wed, 21 Oct 2026 10:30:47 GMT",
+            "Server": "Apache/2.4.25 (Debian)",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Connection": "close",
+            "Transfer-Encoding": "chunked",
+            "Content-Type": "text/html; charset=UTF-8"
+          },
+          "capturado_em": "2026-10-21T07:30:51.733516-03:00"
+        },
+        "chaves_disco": [],
+        "status": "capturado",
+        "http": 200,
+        "headers": {
+          "Date": "Wed, 21 Oct 2026 10:31:11 GMT",
+          "Server": "Apache/2.4.25 (Debian)",
+          "Vary": "Accept-Encoding",
+          "Access-Control-Allow-Origin": "*",
+          "X-Frame-Options": "SAMEORIGIN",
+          "Connection": "close",
+          "Transfer-Encoding": "chunked",
+          "Content-Type": "text/html; charset=UTF-8"
+        },
+        "url_final": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1968/12/10850?modo=lista",
+        "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/d3af94762b00a823607c3515a0cf931f6c01b46b3d16b6a88f1f20bbc6f0b55c.gz",
+        "sha256_fonte": "f83f6eb2c758684fba558a6262e5f8ef2f4822f4670f947fc0bb648597a71f1a",
+        "sha256_cache": "d3af94762b00a823607c3515a0cf931f6c01b46b3d16b6a88f1f20bbc6f0b55c",
+        "capturado_em": "2026-10-21T07:31:11.703259-03:00"
+      },
+      "numero": "828",
+      "data": "1968-12-06",
+      "populacao_estrato": 816
+    },
+    {
+      "id_legisla": "9115",
+      "destino": "estaduais/AM/leis-ordinarias/1972/lei-1052-1972-legisla9115.md",
+      "decada": 1970,
+      "estrato_tamanho": "curto",
+      "caracteres": 1267,
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "outra natureza textual",
+      "prova_assinatura": {
+        "status": "conferida",
+        "data_epigrafe": "1972-09-20",
+        "data_assinatura": "1972-09-20",
+        "trecho_literal": "Manaus, 20 de setembro de 1972",
+        "reter": false
+      },
+      "captura": {
+        "item": {
+          "id_legisla": "9115",
+          "titulo": "LEI N. ° 1.052 DE 20 DE SETEMBRO DE 1972",
+          "numero": "1052",
+          "tipo_indice": "Lei Ordinária",
+          "ano": "1972",
+          "mes": "9",
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1972/9/9115?modo=lista",
+          "publicacao_indice": "Publicada em 20 de setembro de 1972"
+        },
+        "indice": {
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12?modo=lista&page=361&sort=data&direction=desc",
+          "http": 200,
+          "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/46557244f04c9d9b429fbd42b077ea4f4918dd8ee00b96263299c7dbb97ea64c.gz",
+          "sha256_fonte": "89c9bb8fbd7276b8164549f72c96379e90bbe906a53bdc78f598f3ad9b1fde3a",
+          "auditado_em": "2026-10-21T07:22:41.885570-03:00",
+          "origem": "captura HTTP atual",
+          "headers": {
+            "Date": "Wed, 21 Oct 2026 10:22:37 GMT",
+            "Server": "Apache/2.4.25 (Debian)",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Connection": "close",
+            "Transfer-Encoding": "chunked",
+            "Content-Type": "text/html; charset=UTF-8"
+          },
+          "capturado_em": "2026-10-21T07:22:41.885570-03:00"
+        },
+        "chaves_disco": [],
+        "status": "capturado",
+        "http": 200,
+        "headers": {
+          "Date": "Wed, 21 Oct 2026 10:23:01 GMT",
+          "Server": "Apache/2.4.25 (Debian)",
+          "Vary": "Accept-Encoding",
+          "Access-Control-Allow-Origin": "*",
+          "X-Frame-Options": "SAMEORIGIN",
+          "Connection": "close",
+          "Transfer-Encoding": "chunked",
+          "Content-Type": "text/html; charset=UTF-8"
+        },
+        "url_final": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1972/9/9115?modo=lista",
+        "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/75ee17c73b8c701ce1619ffabfb1846b7a707931228d903ac47b09fe972d0a1b.gz",
+        "sha256_fonte": "a8543d969a9d58c04bc9f46e9dbedb23116b7725b3ec0a0cb90ab755de4bf77f",
+        "sha256_cache": "75ee17c73b8c701ce1619ffabfb1846b7a707931228d903ac47b09fe972d0a1b",
+        "capturado_em": "2026-10-21T07:23:01.984002-03:00"
+      },
+      "numero": "1052",
+      "data": "1972-09-20",
+      "populacao_estrato": 291
+    },
+    {
+      "id_legisla": "9345",
+      "destino": "estaduais/AM/leis-ordinarias/1978/lei-1263-1978-legisla9345.md",
+      "decada": 1970,
+      "estrato_tamanho": "longo",
+      "caracteres": 3714,
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "pessoal/previdenciário",
+      "prova_assinatura": {
+        "status": "conferida",
+        "data_epigrafe": "1978-06-14",
+        "data_assinatura": "1978-06-14",
+        "trecho_literal": "Manaus, 14 de junho de 1978",
+        "reter": false
+      },
+      "captura": {
+        "item": {
+          "id_legisla": "9345",
+          "titulo": "LEI Nº 1.263, DE 14 DE JUNHO DE 1978",
+          "numero": "1263",
+          "tipo_indice": "Lei Ordinária",
+          "ano": "1978",
+          "mes": "6",
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1978/6/9345?modo=lista",
+          "publicacao_indice": "Publicada em 14 de junho de 1978"
+        },
+        "indice": {
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12?modo=lista&page=351&sort=data&direction=desc",
+          "http": 200,
+          "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/e62c65b135791b7dc26ab17a2b2f94598f4f98023a91eab4aa970950f427c2d5.gz",
+          "sha256_fonte": "52af983d225995bd266c5c6057738e56770058bd4bd487330de0ad932623168d",
+          "auditado_em": "2026-10-21T07:15:07.277222-03:00",
+          "origem": "captura HTTP atual",
+          "headers": {
+            "Date": "Wed, 21 Oct 2026 10:15:02 GMT",
+            "Server": "Apache/2.4.25 (Debian)",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Connection": "close",
+            "Transfer-Encoding": "chunked",
+            "Content-Type": "text/html; charset=UTF-8"
+          },
+          "capturado_em": "2026-10-21T07:15:07.277222-03:00"
+        },
+        "chaves_disco": [],
+        "status": "capturado",
+        "http": 200,
+        "headers": {
+          "Date": "Wed, 21 Oct 2026 10:15:32 GMT",
+          "Server": "Apache/2.4.25 (Debian)",
+          "Vary": "Accept-Encoding",
+          "Access-Control-Allow-Origin": "*",
+          "X-Frame-Options": "SAMEORIGIN",
+          "Connection": "close",
+          "Transfer-Encoding": "chunked",
+          "Content-Type": "text/html; charset=UTF-8"
+        },
+        "url_final": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1978/6/9345?modo=lista",
+        "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/3871a5e97e14d5cee99cecfc9f3490418441e41c2a007252322739d871e691ef.gz",
+        "sha256_fonte": "b3568893a40f1b5b8c74dec49c8cafd866ca5c026df6bfcd8bb6cada8dd5a732",
+        "sha256_cache": "3871a5e97e14d5cee99cecfc9f3490418441e41c2a007252322739d871e691ef",
+        "capturado_em": "2026-10-21T07:15:33.127621-03:00"
+      },
+      "numero": "1263",
+      "data": "1978-06-14",
+      "populacao_estrato": 291
+    },
+    {
+      "id_legisla": "8680",
+      "destino": "estaduais/AM/leis-ordinarias/1985/lei-1736-A-1985-legisla8680.md",
+      "decada": 1980,
+      "estrato_tamanho": "intermediário",
+      "caracteres": 1949,
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "declaratório/comemorativo",
+      "prova_assinatura": {
+        "status": "conferida",
+        "data_epigrafe": "1985-12-27",
+        "data_assinatura": "1985-12-27",
+        "trecho_literal": "Manaus, 27 de dezembro de 1985",
+        "reter": false
+      },
+      "captura": {
+        "item": {
+          "id_legisla": "8680",
+          "titulo": "LEI Nº 1.736-A, DE 27 DE DEZEMBRO DE 1985",
+          "numero": "1736-A",
+          "tipo_indice": "Lei Ordinária",
+          "ano": "1985",
+          "mes": "12",
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1985/12/8680?modo=lista",
+          "publicacao_indice": "Publicada em 27 de dezembro de 1985"
+        },
+        "indice": {
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12?modo=lista&page=328&sort=data&direction=desc",
+          "http": 200,
+          "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/17c3c643aa7cf976d0b4968adc152b319cfa1cfbca45311eec1a85902a578083.gz",
+          "sha256_fonte": "e900b66d5972a21dd6358c3544ac52c8d7ef9a08b16d46a47585392ab9034a99",
+          "auditado_em": "2026-10-21T07:10:09.003834-03:00",
+          "origem": "captura HTTP atual",
+          "headers": {
+            "Date": "Wed, 21 Oct 2026 10:10:03 GMT",
+            "Server": "Apache/2.4.25 (Debian)",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Connection": "close",
+            "Transfer-Encoding": "chunked",
+            "Content-Type": "text/html; charset=UTF-8"
+          },
+          "capturado_em": "2026-10-21T07:10:09.003834-03:00"
+        },
+        "chaves_disco": [],
+        "status": "capturado",
+        "http": 200,
+        "headers": {
+          "Date": "Wed, 21 Oct 2026 10:10:10 GMT",
+          "Server": "Apache/2.4.25 (Debian)",
+          "Vary": "Accept-Encoding",
+          "Access-Control-Allow-Origin": "*",
+          "X-Frame-Options": "SAMEORIGIN",
+          "Connection": "close",
+          "Transfer-Encoding": "chunked",
+          "Content-Type": "text/html; charset=UTF-8"
+        },
+        "url_final": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1985/12/8680?modo=lista",
+        "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/c9d0dc98451a7f0cae218372d0b5d58929e3baf3d394d5666911b443d3ff3abf.gz",
+        "sha256_fonte": "4d1494cbbfdfff794f1e0b50e12316eeadcf6872781dafb1e7ef733bbf464b74",
+        "sha256_cache": "c9d0dc98451a7f0cae218372d0b5d58929e3baf3d394d5666911b443d3ff3abf",
+        "capturado_em": "2026-10-21T07:10:10.932027-03:00"
+      },
+      "numero": "1736-A",
+      "data": "1985-12-27",
+      "populacao_estrato": 1
+    },
+    {
+      "id_legisla": "13225",
+      "destino": "estaduais/AM/leis-ordinarias/1991/lei-2095-1991-legisla13225.md",
+      "decada": 1990,
+      "estrato_tamanho": "intermediário",
+      "caracteres": 1024,
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "declaratório/comemorativo",
+      "prova_assinatura": {
+        "status": "conferida",
+        "data_epigrafe": "1991-12-11",
+        "data_assinatura": "1991-12-11",
+        "trecho_literal": "Manaus, 11 de dezembro de 1991",
+        "reter": false
+      },
+      "captura": {
+        "item": {
+          "id_legisla": "13225",
+          "titulo": "LEI N. º 2.095, DE 11 DE DEZEMBRO DE 1991",
+          "numero": "2095",
+          "tipo_indice": "Lei Ordinária",
+          "ano": "1991",
+          "mes": "12",
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1991/12/13225?modo=lista",
+          "publicacao_indice": "Publicada em 12 de dezembro de 1991"
+        },
+        "indice": {
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12?modo=lista&page=310&sort=data&direction=desc",
+          "http": 200,
+          "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/480a23f1b0d3bb1f168fffcb4fdcdea5cf2e8a6851d62be09c7aed734e927746.gz",
+          "sha256_fonte": "308440a5712cdbd8c25cfc98b095d8b5576af228f9333024aa6d3fa32d1a1816",
+          "auditado_em": "2026-10-21T07:07:48.665382-03:00",
+          "origem": "captura HTTP atual",
+          "headers": {
+            "Date": "Wed, 21 Oct 2026 10:07:43 GMT",
+            "Server": "Apache/2.4.25 (Debian)",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Connection": "close",
+            "Transfer-Encoding": "chunked",
+            "Content-Type": "text/html; charset=UTF-8"
+          },
+          "capturado_em": "2026-10-21T07:07:48.665382-03:00"
+        },
+        "chaves_disco": [],
+        "status": "capturado",
+        "http": 200,
+        "headers": {
+          "Date": "Wed, 21 Oct 2026 10:07:55 GMT",
+          "Server": "Apache/2.4.25 (Debian)",
+          "Vary": "Accept-Encoding",
+          "Access-Control-Allow-Origin": "*",
+          "X-Frame-Options": "SAMEORIGIN",
+          "Connection": "close",
+          "Transfer-Encoding": "chunked",
+          "Content-Type": "text/html; charset=UTF-8"
+        },
+        "url_final": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1991/12/13225?modo=lista",
+        "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/22b5f7096d085a80d75403310b6cbc7940681560bcfe75edb60686af844dddec.gz",
+        "sha256_fonte": "a1430590032e6c55125bb05900fdd6ee2b7517f2d82cd7336e9693f7eb917a91",
+        "sha256_cache": "22b5f7096d085a80d75403310b6cbc7940681560bcfe75edb60686af844dddec",
+        "capturado_em": "2026-10-21T07:07:55.555105-03:00"
+      },
+      "numero": "2095",
+      "data": "1991-12-11",
+      "populacao_estrato": 5
+    },
+    {
+      "id_legisla": "1235",
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4286-2016-legisla1235.md",
+      "decada": 2010,
+      "estrato_tamanho": "curto",
+      "caracteres": 948,
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "declaratório/comemorativo",
+      "prova_assinatura": {
+        "status": "conferida",
+        "data_epigrafe": "2016-01-18",
+        "data_assinatura": "2016-01-18",
+        "trecho_literal": "Manaus, 18 de janeiro de 2016",
+        "reter": false
+      },
+      "captura": {
+        "item": {
+          "id_legisla": "1235",
+          "titulo": "LEI Nº 4.286 DE 18 DE JANEIRO DE 2016",
+          "numero": "4286",
+          "tipo_indice": "Lei Ordinária",
+          "ano": "2016",
+          "mes": "1",
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/2016/1/1235?modo=lista",
+          "publicacao_indice": "Publicada em 18 de janeiro de 2016"
+        },
+        "indice": {
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12?modo=lista&page=191&sort=data&direction=desc",
+          "http": 200,
+          "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/609fa8898164e305e60ef28853ba21837ca29e4785a897d15791c05c36ceb0b2.gz",
+          "sha256_fonte": "771b0cb8eb56fc9a77dc7fb3b128473f264cd1ce78ce43acf7b8d0cbdadd5ab7",
+          "auditado_em": "2026-10-21T06:53:37.205231-03:00",
+          "origem": "captura HTTP atual",
+          "headers": {
+            "Date": "Wed, 21 Oct 2026 09:53:32 GMT",
+            "Server": "Apache/2.4.25 (Debian)",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Connection": "close",
+            "Transfer-Encoding": "chunked",
+            "Content-Type": "text/html; charset=UTF-8"
+          },
+          "capturado_em": "2026-10-21T06:53:37.205231-03:00"
+        },
+        "chaves_disco": [],
+        "status": "capturado",
+        "http": 200,
+        "headers": {
+          "Date": "Wed, 21 Oct 2026 09:53:43 GMT",
+          "Server": "Apache/2.4.25 (Debian)",
+          "Vary": "Accept-Encoding",
+          "Access-Control-Allow-Origin": "*",
+          "X-Frame-Options": "SAMEORIGIN",
+          "Connection": "close",
+          "Transfer-Encoding": "chunked",
+          "Content-Type": "text/html; charset=UTF-8"
+        },
+        "url_final": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/2016/1/1235?modo=lista",
+        "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/f38b29ea6cdba60c8a85a78583bc930241cac8ffd6724799db3d3debe1bc2400.gz",
+        "sha256_fonte": "02365d77c722405e689a6fa335856bac0dc849c973b97e51809907fb6fcbe5b1",
+        "sha256_cache": "f38b29ea6cdba60c8a85a78583bc930241cac8ffd6724799db3d3debe1bc2400",
+        "capturado_em": "2026-10-21T06:53:43.514227-03:00"
+      },
+      "numero": "4286",
+      "data": "2016-01-18",
+      "populacao_estrato": 31
+    },
+    {
+      "id_legisla": "1237",
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4288-2016-legisla1237.md",
+      "decada": 2010,
+      "estrato_tamanho": "longo",
+      "caracteres": 2213,
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "outra natureza textual",
+      "prova_assinatura": {
+        "status": "conferida",
+        "data_epigrafe": "2016-01-18",
+        "data_assinatura": "2016-01-18",
+        "trecho_literal": "Manaus, 18 de janeiro de 2016",
+        "reter": false
+      },
+      "captura": {
+        "item": {
+          "id_legisla": "1237",
+          "titulo": "LEI Nº 4.288 DE 18 DE JANEIRO DE 2016",
+          "numero": "4288",
+          "tipo_indice": "Lei Ordinária",
+          "ano": "2016",
+          "mes": "1",
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/2016/1/1237?modo=lista",
+          "publicacao_indice": "Publicada em 18 de janeiro de 2016"
+        },
+        "indice": {
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12?modo=lista&page=191&sort=data&direction=desc",
+          "http": 200,
+          "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/609fa8898164e305e60ef28853ba21837ca29e4785a897d15791c05c36ceb0b2.gz",
+          "sha256_fonte": "771b0cb8eb56fc9a77dc7fb3b128473f264cd1ce78ce43acf7b8d0cbdadd5ab7",
+          "auditado_em": "2026-10-21T06:53:37.205231-03:00",
+          "origem": "captura HTTP atual",
+          "headers": {
+            "Date": "Wed, 21 Oct 2026 09:53:32 GMT",
+            "Server": "Apache/2.4.25 (Debian)",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Connection": "close",
+            "Transfer-Encoding": "chunked",
+            "Content-Type": "text/html; charset=UTF-8"
+          },
+          "capturado_em": "2026-10-21T06:53:37.205231-03:00"
+        },
+        "chaves_disco": [],
+        "status": "capturado",
+        "http": 200,
+        "headers": {
+          "Date": "Wed, 21 Oct 2026 09:53:46 GMT",
+          "Server": "Apache/2.4.25 (Debian)",
+          "Vary": "Accept-Encoding",
+          "Access-Control-Allow-Origin": "*",
+          "X-Frame-Options": "SAMEORIGIN",
+          "Connection": "close",
+          "Transfer-Encoding": "chunked",
+          "Content-Type": "text/html; charset=UTF-8"
+        },
+        "url_final": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/2016/1/1237?modo=lista",
+        "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/adf37b1bdd273d564fda11088a1ef47739ca3cb9ef72ad36bc99f8aa24f1158c.gz",
+        "sha256_fonte": "c30a1179670678cc1cf194bb901075cca07bf603d321e732e978cc05264591d6",
+        "sha256_cache": "adf37b1bdd273d564fda11088a1ef47739ca3cb9ef72ad36bc99f8aa24f1158c",
+        "capturado_em": "2026-10-21T06:53:47.263303-03:00"
+      },
+      "numero": "4288",
+      "data": "2016-01-18",
+      "populacao_estrato": 31
+    },
+    {
+      "id_legisla": "9988",
+      "destino": "estaduais/AM/leis-ordinarias/2023/lei-6343-2023-legisla9988.md",
+      "decada": 2020,
+      "estrato_tamanho": "curto",
+      "caracteres": 874,
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "declaratório/comemorativo",
+      "prova_assinatura": {
+        "status": "conferida",
+        "data_epigrafe": "2023-07-31",
+        "data_assinatura": "2023-07-31",
+        "trecho_literal": "Manaus, 31 de julho de 2023",
+        "reter": false
+      },
+      "captura": {
+        "item": {
+          "id_legisla": "9988",
+          "titulo": "LEI N.º 6.343, DE 31 DE JULHO DE 2023",
+          "numero": "6343",
+          "tipo_indice": "Lei Ordinária",
+          "ano": "2023",
+          "mes": "7",
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/2023/7/9988?modo=lista",
+          "publicacao_indice": "Publicada em 31 de julho de 2023"
+        },
+        "indice": {
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12?modo=lista&page=92&sort=data&direction=desc",
+          "http": 200,
+          "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/981aaa19646d9b4564f349013fdc09035b7d2cde280dde3ce437cedd077088a4.gz",
+          "sha256_fonte": "5ed9e37cc82a16e9710d055d476bdcbbbfa78f08ac039952c4dce8eb5383fc9b",
+          "auditado_em": "2026-10-21T06:43:21.574442-03:00",
+          "origem": "captura HTTP atual",
+          "headers": {
+            "Date": "Wed, 21 Oct 2026 09:43:17 GMT",
+            "Server": "Apache/2.4.25 (Debian)",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Connection": "close",
+            "Transfer-Encoding": "chunked",
+            "Content-Type": "text/html; charset=UTF-8"
+          },
+          "capturado_em": "2026-10-21T06:43:21.574442-03:00"
+        },
+        "chaves_disco": [],
+        "status": "capturado",
+        "http": 200,
+        "headers": {
+          "Date": "Wed, 21 Oct 2026 09:43:23 GMT",
+          "Server": "Apache/2.4.25 (Debian)",
+          "Vary": "Accept-Encoding",
+          "Access-Control-Allow-Origin": "*",
+          "X-Frame-Options": "SAMEORIGIN",
+          "Connection": "close",
+          "Transfer-Encoding": "chunked",
+          "Content-Type": "text/html; charset=UTF-8"
+        },
+        "url_final": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/2023/7/9988?modo=lista",
+        "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/730322ea6c5f4ecd7ebc08ec4068f0651992010b9107276f9db3592910d23e70.gz",
+        "sha256_fonte": "036e485e567a387b3d0246644be49328920f2355f669581308db06093284320c",
+        "sha256_cache": "730322ea6c5f4ecd7ebc08ec4068f0651992010b9107276f9db3592910d23e70",
+        "capturado_em": "2026-10-21T06:43:23.458997-03:00"
+      },
+      "numero": "6343",
+      "data": "2023-07-31",
+      "populacao_estrato": 9
+    },
+    {
+      "id_legisla": "12252",
+      "destino": "estaduais/AM/leis-ordinarias/2024/lei-6920-2024-legisla12252.md",
+      "decada": 2020,
+      "estrato_tamanho": "longo",
+      "caracteres": 1840,
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "outra natureza textual",
+      "prova_assinatura": {
+        "status": "conferida",
+        "data_epigrafe": "2024-06-06",
+        "data_assinatura": "2024-06-06",
+        "trecho_literal": "Manaus, 06 de junho de 2024",
+        "reter": false
+      },
+      "captura": {
+        "item": {
+          "id_legisla": "12252",
+          "titulo": "LEI N. º 6.920, DE 06 DE JUNHO DE 2024",
+          "numero": "6920",
+          "tipo_indice": "Lei Ordinária",
+          "ano": "2024",
+          "mes": "6",
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/2024/6/12252?modo=lista",
+          "publicacao_indice": "Publicada em 06 de junho de 2024"
+        },
+        "indice": {
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12?modo=lista&page=63&sort=data&direction=desc",
+          "http": 200,
+          "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/0598c33b2e28cb2615ff979a0fd895f6d55f7a4a55b382c46fae169955a62496.gz",
+          "sha256_fonte": "0d3eaf07af135ab9295c10a0158b10f1d04a18886a4afd7d502a11eda7c329f4",
+          "auditado_em": "2026-10-21T06:33:39.826671-03:00",
+          "origem": "captura HTTP atual",
+          "headers": {
+            "Date": "Wed, 21 Oct 2026 09:33:35 GMT",
+            "Server": "Apache/2.4.25 (Debian)",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Connection": "close",
+            "Transfer-Encoding": "chunked",
+            "Content-Type": "text/html; charset=UTF-8"
+          },
+          "capturado_em": "2026-10-21T06:33:39.826671-03:00"
+        },
+        "chaves_disco": [],
+        "status": "capturado",
+        "http": 200,
+        "headers": {
+          "Date": "Wed, 21 Oct 2026 09:33:41 GMT",
+          "Server": "Apache/2.4.25 (Debian)",
+          "Vary": "Accept-Encoding",
+          "Access-Control-Allow-Origin": "*",
+          "X-Frame-Options": "SAMEORIGIN",
+          "Connection": "close",
+          "Transfer-Encoding": "chunked",
+          "Content-Type": "text/html; charset=UTF-8"
+        },
+        "url_final": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/2024/6/12252?modo=lista",
+        "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/6c5171e463a78c916385b16b929660f81d16d91bc3cc1e22803c7d84d829fc1f.gz",
+        "sha256_fonte": "1db3121471ddaf8e6cd787a47f512d9f34ab924af7577e8908cda7166d1f616d",
+        "sha256_cache": "6c5171e463a78c916385b16b929660f81d16d91bc3cc1e22803c7d84d829fc1f",
+        "capturado_em": "2026-10-21T06:33:41.714029-03:00"
+      },
+      "numero": "6920",
+      "data": "2024-06-06",
+      "populacao_estrato": 9
+    }
+  ]
+}

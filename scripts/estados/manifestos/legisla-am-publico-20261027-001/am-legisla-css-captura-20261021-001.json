@@ -1,0 +1,99 @@
+{
+  "capturas": [
+    {
+      "url": "https://legisla.imprensaoficial.am.gov.br/a_m/css/vendors.bundle.css",
+      "url_final": "https://legisla.imprensaoficial.am.gov.br/a_m/css/vendors.bundle.css",
+      "http": 200,
+      "headers": {
+        "Date": "Wed, 21 Oct 2026 09:59:12 GMT",
+        "Server": "Apache/2.4.25 (Debian)",
+        "Last-Modified": "Thu, 18 Jun 2026 21:43:15 GMT",
+        "ETag": "\"6741c-6548e104042c0\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "422940",
+        "Vary": "Accept-Encoding",
+        "Access-Control-Allow-Origin": "*",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Connection": "close",
+        "Content-Type": "text/css"
+      },
+      "headers_sessao_omitidos": [],
+      "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/beefe86142763af93b8dac2fd2bf556067c08b64cfb29722743a92e7b883bf6b.gz",
+      "sha256_fonte": "c2b825a6f7e3e4eaead0eed4e36725c0ad2d89a16169416507e6ee10b51ac28a",
+      "sha256_cache": "beefe86142763af93b8dac2fd2bf556067c08b64cfb29722743a92e7b883bf6b",
+      "capturado_em": "2026-10-21T06:59:13.212690-03:00"
+    },
+    {
+      "url": "https://legisla.imprensaoficial.am.gov.br/a_m/css/style.bundle.css",
+      "url_final": "https://legisla.imprensaoficial.am.gov.br/a_m/css/style.bundle.css",
+      "http": 200,
+      "headers": {
+        "Date": "Wed, 21 Oct 2026 09:59:14 GMT",
+        "Server": "Apache/2.4.25 (Debian)",
+        "Last-Modified": "Thu, 18 Jun 2026 21:43:15 GMT",
+        "ETag": "\"1832a2-6548e104042c0\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "1585826",
+        "Vary": "Accept-Encoding",
+        "Access-Control-Allow-Origin": "*",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Connection": "close",
+        "Content-Type": "text/css"
+      },
+      "headers_sessao_omitidos": [],
+      "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/670a8837c0e76d0f1542495618477ab7903a951cf24564d2eeb5ba780a4db7fb.gz",
+      "sha256_fonte": "c10191bed9cec32549183580adc8dffff03290d41d2809a140e9feff5b10c0ad",
+      "sha256_cache": "670a8837c0e76d0f1542495618477ab7903a951cf24564d2eeb5ba780a4db7fb",
+      "capturado_em": "2026-10-21T06:59:15.658034-03:00"
+    },
+    {
+      "url": "https://legisla.imprensaoficial.am.gov.br/css/fa-svg-with-js.css",
+      "url_final": "https://legisla.imprensaoficial.am.gov.br/css/fa-svg-with-js.css",
+      "http": 200,
+      "headers": {
+        "Date": "Wed, 21 Oct 2026 09:59:17 GMT",
+        "Server": "Apache/2.4.25 (Debian)",
+        "Last-Modified": "Tue, 21 Jul 2026 22:35:18 GMT",
+        "ETag": "\"1c83-65726a328d580\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "7299",
+        "Vary": "Accept-Encoding",
+        "Access-Control-Allow-Origin": "*",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Connection": "close",
+        "Content-Type": "text/css"
+      },
+      "headers_sessao_omitidos": [],
+      "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/69155daf14252425b34bf8af45a0c23ad0c893adc3ac4ea2d1aceb27add16f14.gz",
+      "sha256_fonte": "39a17ef2b28f23e16c653128b72127a839caa7e820934f26172791dd9478a689",
+      "sha256_cache": "69155daf14252425b34bf8af45a0c23ad0c893adc3ac4ea2d1aceb27add16f14",
+      "capturado_em": "2026-10-21T06:59:17.270988-03:00"
+    },
+    {
+      "url": "https://legisla.imprensaoficial.am.gov.br/a_m/css/legislacao.css",
+      "url_final": "https://legisla.imprensaoficial.am.gov.br/a_m/css/legislacao.css",
+      "http": 200,
+      "headers": {
+        "Date": "Wed, 21 Oct 2026 09:59:18 GMT",
+        "Server": "Apache/2.4.25 (Debian)",
+        "Last-Modified": "Tue, 21 Jul 2026 13:52:46 GMT",
+        "ETag": "\"a3f6-6571f566f4780\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "41974",
+        "Vary": "Accept-Encoding",
+        "Access-Control-Allow-Origin": "*",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Connection": "close",
+        "Content-Type": "text/css"
+      },
+      "headers_sessao_omitidos": [],
+      "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/b0f65dac162c3e5818d5ebed9abf8df5a0acb617d37c1d0a7060c14632e8cb5b.gz",
+      "sha256_fonte": "bff6f170e679e81784254cc183d1b0e6461fdb6a8ed94dda5a2d3ff73a0fd6ac",
+      "sha256_cache": "b0f65dac162c3e5818d5ebed9abf8df5a0acb617d37c1d0a7060c14632e8cb5b",
+      "capturado_em": "2026-10-21T06:59:18.976004-03:00"
+    }
+  ],
+  "cliente_inventario_pausado_PID": 71399,
+  "mesmo_PID_retomado": true,
+  "sem_novo_coletor": true
+}

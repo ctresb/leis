@@ -1,0 +1,74 @@
+{
+  "sondagens": [
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/legislacao/2024/8eclbm3afnz1czguqlob11f3v1oal2.pdf",
+        "titulo": "Lei Ordinária 11.660 de 27.12.2023",
+        "ementa": "Reconhece como Patrimônio Material, Cultural, Histórico e Religioso do Rio Grande do Norte, o Santuário Arquidiocesano dos Santos Reis."
+      },
+      "http": 404,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:44:23 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "1407",
+        "Connection": "close",
+        "ETag": "\"6ac6451c-57f\""
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao/legislacao/2024/8eclbm3afnz1czguqlob11f3v1oal2.pdf",
+      "fonte": "estaduais/RN/_fonte/auditorias/sondagem-20261021-001/f5381c9846258c02a4120ffa38ccbc103083c2b1d09d5d85fc46067cf69b4381.bin.gz",
+      "sha256_fonte": "f5381c9846258c02a4120ffa38ccbc103083c2b1d09d5d85fc46067cf69b4381",
+      "sha256_cache": "2f9f57eab7287e17a4f2deec2148a80e05dbe7f8b0cd3315026390b6be5f4a67",
+      "iniciado_em": "2026-10-21T05:44:22.341811-03:00",
+      "finalizado_em": "2026-10-21T05:44:23.193381-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/legislacao/2024/rh7dfjkowlatxutdikusi5m6nn8ftr.pdf",
+        "titulo": "Lei Ordinária 11.659 de 27.12.2023",
+        "ementa": "Reconhece como Patrimônio Imaterial, Cultural, Histórico e Religioso do Estado do Rio Grande do Norte a “Festa de São Sebastião”, anualmente celebrada em Natal."
+      },
+      "http": 404,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:44:25 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "1407",
+        "Connection": "close",
+        "ETag": "\"6ac6451c-57f\""
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao/legislacao/2024/rh7dfjkowlatxutdikusi5m6nn8ftr.pdf",
+      "fonte": "estaduais/RN/_fonte/auditorias/sondagem-20261021-001/f5381c9846258c02a4120ffa38ccbc103083c2b1d09d5d85fc46067cf69b4381.bin.gz",
+      "sha256_fonte": "f5381c9846258c02a4120ffa38ccbc103083c2b1d09d5d85fc46067cf69b4381",
+      "sha256_cache": "1bb8706c63dd53120463a1749c35cbb88e006cc76c5e492e089d5017baaed4d2",
+      "iniciado_em": "2026-10-21T05:44:24.394644-03:00",
+      "finalizado_em": "2026-10-21T05:44:25.213896-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/legislacao/2024/uage2ou31jmydpibcp4ytg81uqzxo0.pdf",
+        "titulo": "Lei Ordinária 11.658 de 27.12.2023",
+        "ementa": "Dispõe sobre a gratuidade de inscrição em concursos públicos para cargos estaduais a candidatos com deficiência."
+      },
+      "http": 404,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:44:27 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "1407",
+        "Connection": "close",
+        "ETag": "\"6ac6451c-57f\""
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao/legislacao/2024/uage2ou31jmydpibcp4ytg81uqzxo0.pdf",
+      "fonte": "estaduais/RN/_fonte/auditorias/sondagem-20261021-001/f5381c9846258c02a4120ffa38ccbc103083c2b1d09d5d85fc46067cf69b4381.bin.gz",
+      "sha256_fonte": "f5381c9846258c02a4120ffa38ccbc103083c2b1d09d5d85fc46067cf69b4381",
+      "sha256_cache": "129a7fa163656e4ad395276d7733686d83f88945cb9e972c191c441d0afb4b77",
+      "iniciado_em": "2026-10-21T05:44:26.418409-03:00",
+      "finalizado_em": "2026-10-21T05:44:27.233815-03:00"
+    }
+  ],
+  "sem_alteracao_canonica": true
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/2026/5/19980?modo=lista",
+  "http": 200,
+  "headers": {
+    "Date": "Wed, 21 Oct 2026 09:14:58 GMT",
+    "Server": "Apache/2.4.25 (Debian)",
+    "Vary": "Accept-Encoding",
+    "Access-Control-Allow-Origin": "*",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Connection": "close",
+    "Transfer-Encoding": "chunked",
+    "Content-Type": "text/html; charset=UTF-8"
+  },
+  "capturado_em": "2026-10-21T06:14:59.265763-03:00",
+  "cache": "estaduais/AM/_indice/legisla-retomada-20261021-001/norma19980.html.gz",
+  "sha256_fonte": "0dbe54134ca15b88e051648abf5f07be65f2c31db568be837697bcf2195e2d45"
+}

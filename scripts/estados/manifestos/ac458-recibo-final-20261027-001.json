@@ -1,0 +1,80 @@
+{
+  "preparado_em": "2026-10-27T22:06:54.987313-03:00",
+  "total": 458,
+  "novas_segunda_captura": 424,
+  "recuperados_contextos_primeira": 34,
+  "retidos_segunda": 76,
+  "manifesto": "scripts/estados/manifestos/ac458-proposta-privada-20261027-001.json",
+  "sha256_manifesto": "50c8d2a3ee5032ad85f83e71a841c2bb3281db2941a46430f2799b2964572de6",
+  "mapa_replay": "estaduais/AC/_fonte/auditorias/ac458-privado-20261027-001/final002/hashes.json",
+  "sha256_mapa_replay": "d12b40adfc30fea342c41fe4a56b360d74c4894ffc28e63cdcae17d320545070",
+  "arquivos_mapa": 1512,
+  "bytes": 55205590,
+  "replay": {
+    "aprovados": 458,
+    "falhas": 0
+  },
+  "testes": {
+    "total": 70,
+    "falhas": 0,
+    "erros": 0
+  },
+  "diff_check": {
+    "arquivos": 481,
+    "diagnosticos": 0
+  },
+  "HEAD_dry_run": "b6e474f7f8b219d23343933b67f8d68579cfe2d3",
+  "blobs_HEAD_AC": 2868,
+  "promovidos": 0,
+  "exportacao_portatil": {
+    "arquivo_mapa_somente": true,
+    "Python": "-I -B",
+    "QA_externo": "scripts/bin/qa-20261027/python",
+    "bloqueios": 0,
+    "modulos": 110,
+    "prototipos_nao_reconstruidos": true
+  },
+  "codigo_ativo": {
+    "scripts/estados/snapshots/ac_legis_html_20261027_004/auditar_legis_ac.py": "489d39fedbefc511411893aa20a72c8f04d5152cef8fe9d7f25bb3203cf6934b",
+    "scripts/estados/snapshots/ac_legis_html_20261027_004/css_contexto_campo.py": "8787dd3702c159ea31d2703d3c84ea709348742a5f84b08b6916faefed01a626",
+    "scripts/estados/snapshots/ac_legis_html_20261027_004/reexecutar_legis_ac.py": "aa71e13012b05ded45fa8fa0727486408133d82cf247ec6978be276d4b92da71",
+    "scripts/estados/snapshots/ac_legis_html_20261027_004/comum.py": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24",
+    "scripts/estados/snapshots/ac_legis_html_20261027_004/avisos_fonte.py": "913429d61b37e338f9b292b54e0f9d81e9f9adae0e8d386f5b22ea8f128479cd",
+    "scripts/estados/snapshots/ac_legis_html_20261027_004/requirements.txt": "2f1f60e65d249ea7f7e94e5638f411ea9fa1b0668b1077f64c6db64e394dd20d",
+    "scripts/estados/snapshots/ac_legis_html_20261027_004/integridade_texto.py": "d882d0ca69b76c61b594561598634994ca25b350f67054eb08e8eecf97170a82",
+    "scripts/estados/snapshots/ac_legis_html_20261027_004/tabelas_estrutura.py": "d0dde502c2794626bb9848673f23b2992d1722653c15bbf3768737408f9b6df7",
+    "scripts/estados/snapshots/ac_legis_html_20261027_004/visuais_word_spl.py": "e218e4fd98f96f45eba496e9ecac54a6c4863ecdd2f798363c2cd616ef126d28",
+    "scripts/estados/snapshots/ac_legis_html_20261027_004/REPLAY.txt": "3b9214916ec962e99e3aadd5379369f99f90958f486dc5734f945bfc1808a6ef",
+    "scripts/estados/snapshots/ac_legis_html_20261027_004/test_reexecutar_legis_ac.py": "f15b90278ea78fcb58d2f46c5b1950bc27e54f4f3c4b5086621cc5d86977c974",
+    "scripts/estados/snapshots/ac_legis_html_20261027_004/html2md.py": "6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6",
+    "scripts/estados/snapshots/ac_legis_html_20261027_004/representacao_html_dou.py": "1ae5cecda55ddd32ab00fdb2598d50b7cd5aeadaad0e0e73d720e4727bf1732d",
+    "scripts/estados/snapshots/ac_legis_html_20261027_004/auditar_spl_html_recente.py": "274840b3ab948a1c55e2db79fd7edf51a8865d0fa936a361e5d2af85fd395a14",
+    "scripts/estados/snapshots/ac_legis_html_20261027_004/test_representacao_html_ac_legis.py": "8334f70c647192baa26b9d180dcb91e4cf49c0da6d3bc8713707fea073c427a5",
+    "scripts/estados/snapshots/ac_legis_html_20261027_004/identidade_legis_ac.py": "66ccb2c148dbfa769aeda1c59a2f2212aa783b76ab24fd80d1f7194808842a64",
+    "scripts/estados/snapshots/ac_legis_html_20261027_004/test_auditar_legis_ac.py": "542c6f2fc0af2a319c44e305f62136a8b22ca3f5fd3ed58f17a869812a7fe36c",
+    "scripts/estados/snapshots/ac_legis_html_20261027_004/test_css_contexto_campo.py": "dbdfa5a95f13d1a424ddaa92a3085b5b2ddf6cf6efa3528ef766a6837ca65739",
+    "scripts/estados/snapshots/ac_legis_html_20261027_004/test_identidade_legis_ac.py": "e8201763e1749241b901e7917d017d9d14e93ad96613503495111055399290d2",
+    "scripts/estados/snapshots/ac_legis_html_20261027_004/pe_fidelidade_visivel.py": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+    "scripts/estados/snapshots/ac_legis_html_20261027_004/representacao_html_ac_legis.py": "ef2a7a64265d2a54f7eb50e870a1ba214aa9896b54169857d5bf7e176a5b4e73",
+    "scripts/estados/snapshots/ac_legis_promocao_20261027_004/promover_legis_ac_privado.py": "2ca9e686808483b3e996d610b24d3748e5c82f8b884368987061ee081a665362",
+    "scripts/estados/snapshots/ac_legis_promocao_20261027_004/test_promover_legis_ac_privado.py": "435abe01864ab8561ee0510a55a36238303bb83d41e724942c063594e95c8fec"
+  },
+  "provas": {
+    "estaduais/AC/_fonte/auditorias/ac458-privado-20261027-001/final002/diff-check.json": "08b3a836a2885e06386c513c1ac160a7e1bdca947470770596f5611d7110e014",
+    "estaduais/AC/_fonte/auditorias/ac458-privado-20261027-001/final002/hashes.json": "d12b40adfc30fea342c41fe4a56b360d74c4894ffc28e63cdcae17d320545070",
+    "estaduais/AC/_fonte/auditorias/ac458-privado-20261027-001/final002/paths.txt": "a4e382868c98eee01ee419c4f188948cade961da3c90e26d486f16453c62b16f",
+    "estaduais/AC/_fonte/auditorias/ac458-privado-20261027-001/provas-portabilidade/prova-isolamento.json": "9ac064b6830d1cd462ee850f8568ceec27f24133f579ea506be7099ac00e78a2",
+    "estaduais/AC/_fonte/auditorias/ac458-privado-20261027-001/provas-portabilidade/replay.json": "9a696189224fd8b85681ef3e36a3c342b49f08aa79c7cbe3c23782ca79bf3a16",
+    "estaduais/AC/_fonte/auditorias/ac458-privado-20261027-001/provas-portabilidade/testes.txt": "21ea90d74026074ed078924518cad32338f970c34be999b1b11cb64118036478",
+    "estaduais/AC/_fonte/auditorias/ac458-promocao-dry-run-20261027-001/HEAD-inventario.jsonl.gz": "c9cf7e4e02e2315fc5963237ae65989cadd6897940bc386bc5b36a3d770d7661",
+    "estaduais/AC/_fonte/auditorias/ac458-promocao-dry-run-20261027-001/HEAD-ls-tree.z": "063bceccea2cfedc159526b9d703a96f708b3db3070926b69987267e25fe1967",
+    "estaduais/AC/_fonte/auditorias/ac458-promocao-dry-run-20261027-001/intencao.json": "ccf8ba24d916f3944e9e723d94f5744940626ed960118ac0572458424b2068e9",
+    "estaduais/AC/_fonte/auditorias/ac458-promocao-dry-run-20261027-001/resultado.json": "218a08567fb83b5d7a255acc7206228a977ee98288abdeac529c25f4ca1b4587"
+  },
+  "sem_Git_escrita": true,
+  "sem_canonicos_alterados": true,
+  "metas_inalteradas": true,
+  "comando_replay": "PYTHONPATH=scripts/bin/qa-20261027/python python3 scripts/estados/snapshots/ac_legis_html_20261027_004/reexecutar_legis_ac.py --manifesto scripts/estados/manifestos/ac458-proposta-privada-20261027-001.json --hashes estaduais/AC/_fonte/auditorias/ac458-privado-20261027-001/final002/hashes.json --recibo CAMINHO_PRIVADO_NOVO.json",
+  "comando_runner": "python3 scripts/estados/snapshots/ac_legis_promocao_20261027_004/promover_legis_ac_privado.py --manifesto scripts/estados/manifestos/ac458-proposta-privada-20261027-001.json --hashes estaduais/AC/_fonte/auditorias/ac458-privado-20261027-001/final002/hashes.json --total-esperado 458 --controle estaduais/AC/_fonte/auditorias/CONTROLE_NOVO",
+  "nota": "O mapa de entrega acrescenta somente recibos/provas ao mapa exato usado na exportação/replay. 34 admissões contextuais têm hashes de fonte/corpo/matriz/identidade e fundamentos literais, confrontados de novo no replay; 2 outros casos do conjunto36 permanecem retidos. Datas explícitas são comparadas mesmo quando o formato gráfico de fecho difere."
+}

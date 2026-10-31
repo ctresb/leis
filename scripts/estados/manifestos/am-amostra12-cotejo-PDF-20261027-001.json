@@ -1,0 +1,486 @@
+{
+  "preparado_em": "2026-10-27T17:57:15.316258-03:00",
+  "selecao": "scripts/estados/manifestos/am-amostra-adicional12-20261027-001.json",
+  "sha256_selecao": "3a252a29f7cb6a8c0c32333f167b118bb5698e4c60f81db8f5e8dbba82de155c",
+  "metodo": "Cotejo humano visual por ato próprio, corpo completo nas páginas localizadas e fecho/assinaturas; PDFs primários íntegros preservados por página. Texto PDF nativo usado como apoio somente quando existente. Não é OCR corrigido nem certificação caractere a caractere.",
+  "limites": [
+    "Amostra estratificada descritiva de 12 leis ordinárias; não é estimativa probabilística de erro do universo.",
+    "Ausência de divergência observada não certifica igualdade byte a byte ou integralidade de todos os demais atos.",
+    "Não substituir nomes, datas ou redação sem prova individual; metadados internamente coerentes não comprovam fidelidade à edição.",
+    "Pacote 1667 e anteriores preservados; nenhum canônico promovido ou alterado. Publicação de demais AM suspensa por coordenação até cotejo suficiente."
+  ],
+  "resumo": {
+    "selecionados": 12,
+    "PDF_localizado": 11,
+    "link_404": 1,
+    "divergencia_data_ou_articulado": 6,
+    "formula_acrescentada_sem_divergencia_dispositiva_observada": 1,
+    "sem_divergencia_lexical_observada": 4
+  },
+  "capturas": [
+    {
+      "arquivo": "scripts/estados/manifestos/am-amostra12-PDF-capturas-20261027-001.json",
+      "sha256": "2b8535f944e692b46b6695fbba0c4d305791c303d5082f1a9d414193b9d55077"
+    },
+    {
+      "arquivo": "scripts/estados/manifestos/am-amostra12-continuacao-20261027-001.json",
+      "sha256": "fe5088ccb2dac944c8b3b2b605c0505da1e2b67b72891ffd05428f2f7b93c2a9"
+    },
+    {
+      "arquivo": "scripts/estados/manifestos/am-amostra12-continuacao-20261027-002.json",
+      "sha256": "7b8123158400834ba8b6596fb2c820c05605181e7a5198295dca693c1ef4faeb"
+    }
+  ],
+  "casos": [
+    {
+      "id_legisla": "12713",
+      "destino": "estaduais/AM/leis-ordinarias/1957/lei-138-1957-legisla12713.md",
+      "numero": "138",
+      "data_portal": "1957-09-23",
+      "decada": 1950,
+      "estrato_tamanho": "curto",
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "financeiro/orçamentário",
+      "status": "sem_divergencia_lexical_observada",
+      "escopo_visual": "Lei completa na coluna central da página 2; Arts. 1–3, crédito/rubrica, data e dois signatários cotejados.",
+      "diferencas": [],
+      "fonte_portal": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1957/9/12713?modo=lista",
+      "cache_HTML": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/feef74935a8632eb01bc2a0f8da380a7ff4adc43eb778eca2ac6cef5ea019cc5.gz",
+      "sha256_HTML": "ba0398094b505bf8d1e03f69f00f6440834c8215f5f3e23f23f431ec4bc8672d",
+      "texto_portal_derivado": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/12713-portal.txt",
+      "sha256_texto_derivado": "67d9e10732e415504ef983091fbe0e14ae44153817afaa7d368c7742c439bdea",
+      "testemunhos": [
+        {
+          "id_legisla": "12713",
+          "edicao_id": "588",
+          "pagina": 1,
+          "PDF": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-588-1/pagina-oficial.pdf",
+          "PNG": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-588-1/pagina.png",
+          "sha256_PDF": "d9ebfb640d516c601921e9470d96c8175a53f407da3105397ba1dd456421d65e",
+          "sha256_PNG": "e07dfd21d97389fdf6f4a6afc839265d28c3c832550dd662ad8e77dd6f245b12"
+        },
+        {
+          "PDF": "estaduais/AM/_fonte/auditorias/amostra12-continuacao-20261027-001/588-2.pdf",
+          "sha256_PDF": "0f05f4e1c6911aa32045bd52f4bb1ec07fec9abb816fb6a4aa2f5ea87da68ca6",
+          "PNG": "estaduais/AM/_fonte/auditorias/amostra12-continuacao-20261027-001/588-2.png",
+          "sha256_PNG": "d8e17fb8f9a2bae80e3f34a3d311462390947b138b425f3f14be242ef5cd001c",
+          "pagina_api": 2
+        }
+      ]
+    },
+    {
+      "id_legisla": "12524",
+      "destino": "estaduais/AM/leis-ordinarias/1957/lei-9-1957-legisla12524.md",
+      "numero": "9",
+      "data_portal": "1957-03-08",
+      "decada": 1950,
+      "estrato_tamanho": "longo",
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "organização/regulação",
+      "status": "divergencia_comprovada",
+      "escopo_visual": "Lei nas colunas esquerda e central, antes da Lei 10; Arts. 1–7 e assinatura cotejados.",
+      "diferencas": [
+        {
+          "local": "Art. 2º",
+          "PDF_literal": "dele constando a data",
+          "portal_literal": "dele contando a data"
+        },
+        {
+          "local": "Art. 3º, g",
+          "PDF_literal": "candidato proclamado eleito",
+          "portal_literal": "candidato proclamado leito"
+        },
+        {
+          "local": "Art. 3º, parágrafo único",
+          "PDF_literal": "chamada dos Deputados",
+          "portal_literal": "chamada dos Deputado"
+        }
+      ],
+      "fonte_portal": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1957/3/12524?modo=lista",
+      "cache_HTML": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/24b16a5b4583fdc28bb99d331bad9e754b5234a5b3616acf16ab550e42777f8c.gz",
+      "sha256_HTML": "99f8398268282a02fdd1caeb00f9d048092c34090ce140b03fd60cf5d0f78ec4",
+      "texto_portal_derivado": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/12524-portal.txt",
+      "sha256_texto_derivado": "3bfe1087c9fa6b5fb75f6c83a77b2f9dbec71d14ed1d88cd727482afc03e1eeb",
+      "testemunhos": [
+        {
+          "id_legisla": "12524",
+          "edicao_id": "430",
+          "pagina": 1,
+          "PDF": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-430-1/pagina-oficial.pdf",
+          "PNG": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-430-1/pagina.png",
+          "sha256_PDF": "260ffea05df65230665fb39814d6bd170c23a6d65cc0618b285ac97b1415cb8f",
+          "sha256_PNG": "eb60eb31e3e632e15558d31dad4e363aaf832a5110f29bc2b85ae398b427fb35"
+        }
+      ]
+    },
+    {
+      "id_legisla": "10073",
+      "destino": "estaduais/AM/leis-ordinarias/1965/lei-289-1965-legisla10073.md",
+      "numero": "289",
+      "data_portal": "1965-09-18",
+      "decada": 1960,
+      "estrato_tamanho": "curto",
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "alteração/revogação",
+      "status": "sem_divergencia_lexical_observada",
+      "escopo_visual": "Lei completa na faixa superior, três colunas; Arts. 1–2, epígrafe e dois signatários cotejados.",
+      "diferencas": [],
+      "fonte_portal": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1965/9/10073?modo=lista",
+      "cache_HTML": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/b53ac08502a4963ccdc61fe07ff95008775bc3ae3ff8cec60df583c649ee4a87.gz",
+      "sha256_HTML": "6f66b11c519986cf58f69bd4cec2e925a7ae2b08949d1d0412aabb90370a3bb4",
+      "texto_portal_derivado": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/10073-portal.txt",
+      "sha256_texto_derivado": "5c35bf8e993eb7de6b3f49904fcf3d35f308f4e470a8c25a0d2e7273f0787fae",
+      "testemunhos": [
+        {
+          "id_legisla": "10073",
+          "edicao_id": "2906",
+          "pagina": 1,
+          "PDF": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-2906-1/pagina-oficial.pdf",
+          "PNG": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-2906-1/pagina.png",
+          "sha256_PDF": "f5f3025ca31077edf2f419f09667b840c432d6d8b51b722a3e01fe643f8ad8a9",
+          "sha256_PNG": "72c135662c4c2b449f8c8fa43ac92ffe1842088fa2ba82e41ef3a1fa990a3b0f"
+        }
+      ]
+    },
+    {
+      "id_legisla": "10850",
+      "destino": "estaduais/AM/leis-ordinarias/1968/lei-828-1968-legisla10850.md",
+      "numero": "828",
+      "data_portal": "1968-12-06",
+      "decada": 1960,
+      "estrato_tamanho": "longo",
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "declaratório/comemorativo",
+      "status": "divergencia_comprovada",
+      "escopo_visual": "Lei completa entre coluna esquerda inferior, central e direita superior; Arts. 1–4, medidas/limites e três signatários cotejados.",
+      "diferencas": [
+        {
+          "local": "ementa",
+          "PDF_literal": "e autoriza",
+          "portal_literal": "a autoriza"
+        },
+        {
+          "local": "Art. 2º",
+          "PDF_literal": "autorizado a doar",
+          "portal_literal": "autorizada a doar"
+        }
+      ],
+      "fonte_portal": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1968/12/10850?modo=lista",
+      "cache_HTML": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/d3af94762b00a823607c3515a0cf931f6c01b46b3d16b6a88f1f20bbc6f0b55c.gz",
+      "sha256_HTML": "f83f6eb2c758684fba558a6262e5f8ef2f4822f4670f947fc0bb648597a71f1a",
+      "texto_portal_derivado": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/10850-portal.txt",
+      "sha256_texto_derivado": "46c7fecf4598fd296fa9e0cf503cc56c9baad12f52f1ec6fe95ba2d75a8d6720",
+      "testemunhos": [
+        {
+          "id_legisla": "10850",
+          "edicao_id": "3814",
+          "pagina": 2,
+          "PDF": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-3814-2/pagina-oficial.pdf",
+          "PNG": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-3814-2/pagina.png",
+          "sha256_PDF": "9cc594c65e767aa5489f0ac2a2b6f9214033ab515f13d037ceda9e06d0e8b60b",
+          "sha256_PNG": "72ad4c009f3b1a92d6882ef0e33c3b8c7584c7893c03055ff3afe95e17e557e1"
+        }
+      ]
+    },
+    {
+      "id_legisla": "9115",
+      "destino": "estaduais/AM/leis-ordinarias/1972/lei-1052-1972-legisla9115.md",
+      "numero": "1052",
+      "data_portal": "1972-09-20",
+      "decada": 1970,
+      "estrato_tamanho": "curto",
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "outra natureza textual",
+      "status": "divergencia_comprovada",
+      "escopo_visual": "Lei completa na faixa ATO DO PODER LEGISLATIVO ESTADUAL; Arts. 1–3 e fecho cotejados. Data impressa da edição é 20/11/1972; não corrigida automaticamente.",
+      "diferencas": [
+        {
+          "local": "autoridade no preâmbulo",
+          "PDF_literal": "O GOVERNADOR DO ESTADO DO AMAZONAS",
+          "portal_literal": "O GOVERNO DO ESTADO DO AMAZONAS"
+        },
+        {
+          "local": "Art. 2º, valor por extenso",
+          "PDF_literal": "QUARENTA E SEIS",
+          "portal_literal": "QUATRENTA E SEI"
+        },
+        {
+          "local": "data da edição referenciada",
+          "PDF_literal": "20 de novembro de 1972",
+          "portal_literal": "DOE de 20 de setembro de 1972"
+        }
+      ],
+      "fonte_portal": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1972/9/9115?modo=lista",
+      "cache_HTML": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/75ee17c73b8c701ce1619ffabfb1846b7a707931228d903ac47b09fe972d0a1b.gz",
+      "sha256_HTML": "a8543d969a9d58c04bc9f46e9dbedb23116b7725b3ec0a0cb90ab755de4bf77f",
+      "texto_portal_derivado": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/9115-portal.txt",
+      "sha256_texto_derivado": "ebc16e8f1a5d795f21d41f816f8dd9da5a619a76df12f47cae428a14a69d4dbd",
+      "testemunhos": [
+        {
+          "id_legisla": "9115",
+          "edicao_id": "4748",
+          "pagina": 1,
+          "PDF": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-4748-1/pagina-oficial.pdf",
+          "PNG": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-4748-1/pagina.png",
+          "sha256_PDF": "ba7a0e9331277849383f1318950ae4f81cc9cd7271146cd033aab32d5ca55385",
+          "sha256_PNG": "5e9afed0016242a343f4be6b20169b2f7ac36f828624ec7d933cddf857058b2e"
+        }
+      ]
+    },
+    {
+      "id_legisla": "9345",
+      "destino": "estaduais/AM/leis-ordinarias/1978/lei-1263-1978-legisla9345.md",
+      "numero": "1263",
+      "data_portal": "1978-06-14",
+      "decada": 1970,
+      "estrato_tamanho": "longo",
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "pessoal/previdenciário",
+      "status": "indisponivel",
+      "escopo_visual": "Link oficial do diário retornou HTTP 404; nenhum PDF substituto atribuído, sem conclusão sobre fidelidade.",
+      "diferencas": [],
+      "fonte_portal": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1978/6/9345?modo=lista",
+      "cache_HTML": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/3871a5e97e14d5cee99cecfc9f3490418441e41c2a007252322739d871e691ef.gz",
+      "sha256_HTML": "b3568893a40f1b5b8c74dec49c8cafd866ca5c026df6bfcd8bb6cada8dd5a732",
+      "texto_portal_derivado": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/9345-portal.txt",
+      "sha256_texto_derivado": "26d12a5ff6b88bf45fa32a3561de5f09a0c5f4b0e6ed76c857c9bd6faec4a4a8",
+      "testemunhos": []
+    },
+    {
+      "id_legisla": "8680",
+      "destino": "estaduais/AM/leis-ordinarias/1985/lei-1736-A-1985-legisla8680.md",
+      "numero": "1736-A",
+      "data_portal": "1985-12-27",
+      "decada": 1980,
+      "estrato_tamanho": "intermediário",
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "declaratório/comemorativo",
+      "status": "divergencia_comprovada",
+      "escopo_visual": "Lei completa nas duas colunas superiores; Arts. 1–2 e lista de signatários cotejados. Nota impressa: reproduzido por numeração duplicata no D.O. de 29/11/85.",
+      "diferencas": [
+        {
+          "local": "epígrafe e fecho",
+          "PDF_literal": "27 DE NOVEMBRO DE 1985",
+          "portal_literal": "27 DE DEZEMBRO DE 1985"
+        },
+        {
+          "local": "Art. 2º",
+          "PDF_literal": "Presidente da Assembleia Legislativa",
+          "portal_literal": "Presidente Assembleia Legislativa"
+        },
+        {
+          "local": "cargo de Mário Seixas de Mello",
+          "PDF_literal": "Secretário de Estado",
+          "portal_literal": "Secretária de Estado"
+        }
+      ],
+      "fonte_portal": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1985/12/8680?modo=lista",
+      "cache_HTML": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/c9d0dc98451a7f0cae218372d0b5d58929e3baf3d394d5666911b443d3ff3abf.gz",
+      "sha256_HTML": "4d1494cbbfdfff794f1e0b50e12316eeadcf6872781dafb1e7ef733bbf464b74",
+      "texto_portal_derivado": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/8680-portal.txt",
+      "sha256_texto_derivado": "2cfd5a466930183a9b065e258d76c12d497c537b38497c9b9c975d1e979b816e",
+      "testemunhos": [
+        {
+          "id_legisla": "8680",
+          "edicao_id": "7943",
+          "pagina": 5,
+          "PDF": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-7943-5/pagina-oficial.pdf",
+          "PNG": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-7943-5/pagina.png",
+          "sha256_PDF": "5484263039b209a0d91a63b4eb2dcab596bb9fdde117f66cf5035df11954d6e7",
+          "sha256_PNG": "65ad50a9c2d9bce975749eccd4afc34df6d1e1eb3c707180555ac967527acbad"
+        }
+      ]
+    },
+    {
+      "id_legisla": "13225",
+      "destino": "estaduais/AM/leis-ordinarias/1991/lei-2095-1991-legisla13225.md",
+      "numero": "2095",
+      "data_portal": "1991-12-11",
+      "decada": 1990,
+      "estrato_tamanho": "intermediário",
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "declaratório/comemorativo",
+      "status": "divergencia_comprovada",
+      "escopo_visual": "Lei inicia no fim da coluna esquerda e fecho segue no topo da direita; duas disposições numeradas no PDF, não três.",
+      "diferencas": [
+        {
+          "local": "parágrafo único, lei citada",
+          "PDF_literal": "10.08.66",
+          "portal_literal": "01 de agosto de 1966"
+        },
+        {
+          "local": "Art. 2º e vigência",
+          "PDF_literal": "Revogadas as disposições em contrário, esta Lei entrará em vigor na data de sua publicação.",
+          "portal_literal": "Art. 2° Revogam-se as disposições em contrário. Art. 3° Esta Lei entrará em vigor na data de sua publicação."
+        }
+      ],
+      "fonte_portal": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1991/12/13225?modo=lista",
+      "cache_HTML": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/22b5f7096d085a80d75403310b6cbc7940681560bcfe75edb60686af844dddec.gz",
+      "sha256_HTML": "a1430590032e6c55125bb05900fdd6ee2b7517f2d82cd7336e9693f7eb917a91",
+      "texto_portal_derivado": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/13225-portal.txt",
+      "sha256_texto_derivado": "e34b36758990ad24357e40da887209b76e1b7efd7178a1c613837945e9fa9323",
+      "testemunhos": [
+        {
+          "id_legisla": "13225",
+          "edicao_id": "9390",
+          "pagina": 1,
+          "PDF": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-9390-1/pagina-oficial.pdf",
+          "PNG": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-9390-1/pagina.png",
+          "sha256_PDF": "dedc9dc9b0044164184a0be14c8415fe3a4e304e98a7e40f17c9893b45eea1e8",
+          "sha256_PNG": "2f2d592ad3ec603a8d51a3fac978163d18a213d87ffef3e0a9622b52ed7e06cb"
+        }
+      ]
+    },
+    {
+      "id_legisla": "1235",
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4286-2016-legisla1235.md",
+      "numero": "4286",
+      "data_portal": "2016-01-18",
+      "decada": 2010,
+      "estrato_tamanho": "curto",
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "declaratório/comemorativo",
+      "status": "sem_divergencia_lexical_observada",
+      "escopo_visual": "Lei completa no topo da coluna esquerda; Arts. 1–3, endereço/número e dois signatários cotejados.",
+      "diferencas": [],
+      "fonte_portal": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/2016/1/1235?modo=lista",
+      "cache_HTML": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/f38b29ea6cdba60c8a85a78583bc930241cac8ffd6724799db3d3debe1bc2400.gz",
+      "sha256_HTML": "02365d77c722405e689a6fa335856bac0dc849c973b97e51809907fb6fcbe5b1",
+      "texto_portal_derivado": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/1235-portal.txt",
+      "sha256_texto_derivado": "e098b2f5b8b4c8b3bf735fce420d2121583019bdb8f277d66915dc34b4341ce0",
+      "testemunhos": [
+        {
+          "id_legisla": "1235",
+          "edicao_id": "15098",
+          "pagina": 1,
+          "PDF": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-15098-1/pagina-oficial.pdf",
+          "PNG": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-15098-1/pagina.png",
+          "sha256_PDF": "3eff8a7040dbe5e1362b95513bb4dd4512123dea1e4014f90ee136c78a211b53",
+          "sha256_PNG": "3afe1c35e094be607393658f88088ecd48e64a552701cea65d77c3b466263124"
+        }
+      ]
+    },
+    {
+      "id_legisla": "1237",
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4288-2016-legisla1237.md",
+      "numero": "4288",
+      "data_portal": "2016-01-18",
+      "decada": 2010,
+      "estrato_tamanho": "longo",
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "outra natureza textual",
+      "status": "sem_divergencia_lexical_observada",
+      "escopo_visual": "Lei completa no topo da coluna central; Arts. 1–5, parágrafo, citação ECA, multas R$500,00/R$10.000,00, correção IGP-M e dois signatários cotejados.",
+      "diferencas": [],
+      "fonte_portal": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/2016/1/1237?modo=lista",
+      "cache_HTML": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/adf37b1bdd273d564fda11088a1ef47739ca3cb9ef72ad36bc99f8aa24f1158c.gz",
+      "sha256_HTML": "c30a1179670678cc1cf194bb901075cca07bf603d321e732e978cc05264591d6",
+      "texto_portal_derivado": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/1237-portal.txt",
+      "sha256_texto_derivado": "f02dd8a65340971e7c7cc24ac13f4f600a001cd473fb46c2927ef13471d775df",
+      "testemunhos": [
+        {
+          "id_legisla": "1237",
+          "edicao_id": "15098",
+          "pagina": 1,
+          "PDF": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-15098-1/pagina-oficial.pdf",
+          "PNG": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-15098-1/pagina.png",
+          "sha256_PDF": "3eff8a7040dbe5e1362b95513bb4dd4512123dea1e4014f90ee136c78a211b53",
+          "sha256_PNG": "3afe1c35e094be607393658f88088ecd48e64a552701cea65d77c3b466263124"
+        }
+      ]
+    },
+    {
+      "id_legisla": "9988",
+      "destino": "estaduais/AM/leis-ordinarias/2023/lei-6343-2023-legisla9988.md",
+      "numero": "6343",
+      "data_portal": "2023-07-31",
+      "decada": 2020,
+      "estrato_tamanho": "curto",
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "declaratório/comemorativo",
+      "status": "divergencia_formula_sem_alteracao_dispositiva_observada",
+      "escopo_visual": "Lei inicia na base esquerda e segue topo direito; Arts. 1–2, parágrafo e dois signatários cotejados. Portal acrescenta fórmula de autoridade ausente na publicação.",
+      "diferencas": [
+        {
+          "local": "preâmbulo antes de FAÇO SABER",
+          "PDF_literal": "[não consta a linha O GOVERNADOR DO ESTADO DO AMAZONAS]",
+          "portal_literal": "O GOVERNADOR DO ESTADO DO AMAZONAS"
+        }
+      ],
+      "fonte_portal": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/2023/7/9988?modo=lista",
+      "cache_HTML": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/730322ea6c5f4ecd7ebc08ec4068f0651992010b9107276f9db3592910d23e70.gz",
+      "sha256_HTML": "036e485e567a387b3d0246644be49328920f2355f669581308db06093284320c",
+      "texto_portal_derivado": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/9988-portal.txt",
+      "sha256_texto_derivado": "6548249e1f2aa8ac351d40c504942c2b9e3fd1a7d06d1038e57e7f31366f0947",
+      "testemunhos": [
+        {
+          "id_legisla": "9988",
+          "edicao_id": "17262",
+          "pagina": 7,
+          "PDF": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-17262-7/pagina-oficial.pdf",
+          "PNG": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-17262-7/pagina.png",
+          "sha256_PDF": "4490a4df08c70b75338b89045de0dcebb8507d656ac5170f1a08c6beac4329d5",
+          "sha256_PNG": "203b8f1120ee1d0ac3b87541c12b0b813378c3de5658f461c37148b17f0724c5"
+        }
+      ]
+    },
+    {
+      "id_legisla": "12252",
+      "destino": "estaduais/AM/leis-ordinarias/2024/lei-6920-2024-legisla12252.md",
+      "numero": "6920",
+      "data_portal": "2024-06-06",
+      "decada": 2020,
+      "estrato_tamanho": "longo",
+      "tipo_formal": "Lei Ordinária",
+      "natureza_textual": "outra natureza textual",
+      "status": "divergencia_comprovada",
+      "escopo_visual": "Lei completa na coluna direita da página impressa 3, posição API 7; Arts. 1–7, quatro incisos, parágrafo e três signatários cotejados.",
+      "diferencas": [
+        {
+          "local": "Art. 5º, II",
+          "PDF_literal": "poderá ser retirado",
+          "portal_literal": "poderá se retirado"
+        },
+        {
+          "local": "Art. 5º, III",
+          "PDF_literal": "multa em até",
+          "portal_literal": "multa de até"
+        },
+        {
+          "local": "Art. 6º",
+          "PDF_literal": "multa de que trata",
+          "portal_literal": "multa que trata"
+        },
+        {
+          "local": "preâmbulo antes de FAÇO SABER",
+          "PDF_literal": "[não consta a linha O GOVERNADOR DO ESTADO DO AMAZONAS]",
+          "portal_literal": "O GOVERNADOR DO ESTADO DO AMAZONAS"
+        }
+      ],
+      "fonte_portal": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/2024/6/12252?modo=lista",
+      "cache_HTML": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/6c5171e463a78c916385b16b929660f81d16d91bc3cc1e22803c7d84d829fc1f.gz",
+      "sha256_HTML": "1db3121471ddaf8e6cd787a47f512d9f34ab924af7577e8908cda7166d1f616d",
+      "texto_portal_derivado": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/12252-portal.txt",
+      "sha256_texto_derivado": "93af17451ecbf676613bb4f569123ed24839486a070652884e20002ea90aa4bb",
+      "testemunhos": [
+        {
+          "id_legisla": "12252",
+          "edicao_id": "17515",
+          "pagina": 1,
+          "PDF": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-17515-1/pagina-oficial.pdf",
+          "PNG": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-17515-1/pagina.png",
+          "sha256_PDF": "d68d0c97f2d300107907541946ec0a40848664e97baf73e67917c00a59a3d982",
+          "sha256_PNG": "ef609619416e943aef91b73558956d5d1c2ee60dc287fcced51819d5f6e6a697"
+        },
+        {
+          "PDF": "estaduais/AM/_fonte/auditorias/amostra12-continuacao-20261027-002/17515-7.pdf",
+          "sha256_PDF": "5cee2a2442e0c12bc20d6c880b24f6dadb651239e346c40aeba44b3953b7e626",
+          "PNG": "estaduais/AM/_fonte/auditorias/amostra12-continuacao-20261027-002/17515-7.png",
+          "sha256_PNG": "cb1ac65fe0ea00c5ee601c66d299ea168fd192099c53c5804a32ce16a18be0f3",
+          "pagina_api": 7,
+          "pagina_impressa": 3
+        }
+      ]
+    }
+  ]
+}

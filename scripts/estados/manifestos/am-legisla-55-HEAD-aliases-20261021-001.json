@@ -1,0 +1,628 @@
+{
+  "auditado_em": "2026-10-21T07:19:02.790892-03:00",
+  "HEAD": "70a564a1f0b1bc5084dccd1dcee9db13c544ead0",
+  "documentos_HEAD": 10419,
+  "total_destinos": 55,
+  "ausentes_HEAD": 55,
+  "total_aliases": 0,
+  "criterios": [
+    "ID com namespace do host oficial; SAPL e Legisla independentes",
+    "tipo+número+ano da metadata",
+    "pasta+número+ano da metadata, como proteção contra variação do nome do tipo"
+  ],
+  "sem_promocao": true,
+  "controle": "scripts/estados/manifestos/legisla-am-publico-20261021-001/am-legisla-publicacao-20261021-001.json",
+  "sha256_controle": "cac00e167c03b8f52b49408eaafd8b518fc1ee2bf538d485378a5b1db1aea866",
+  "fontes_independentes_ROOT": {
+    "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/am55-head-destinos-root-20261021.json": "0bd2d65b710eeea3d1494cff7df40b95995996c962667d2c0a495a8ecfee9151",
+    "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/am55-head-identidades-root-20261021.json": "06831b4fc46bc157e0f50d33932b090f6ba8bb67eeaaffd04b68c5377e70e7f3",
+    "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/am55-head-prova-root-20261021.json": "a4de03bab36dfa72fe7159de1f303a8e3b610995911b0bed84aab63e411fdc9f"
+  },
+  "documentos": [
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2025/lei-7861-2025-legisla17701.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "17701"
+      ],
+      "numero_epigrafe": "7861",
+      "ano_epigrafe": "2025",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2025/lei-7758-2025-legisla16904.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "16904"
+      ],
+      "numero_epigrafe": "7758",
+      "ano_epigrafe": "2025",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2024/lei-6981-2024-legisla13017.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "13017"
+      ],
+      "numero_epigrafe": "6981",
+      "ano_epigrafe": "2024",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1967/lei-604-1967-legisla13659.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "13659"
+      ],
+      "numero_epigrafe": "604",
+      "ano_epigrafe": "1967",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2024/lei-6920-2024-legisla12252.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "12252"
+      ],
+      "numero_epigrafe": "6920",
+      "ano_epigrafe": "2024",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2024/lei-6693-2024-legisla10967.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "10967"
+      ],
+      "numero_epigrafe": "6693",
+      "ano_epigrafe": "2024",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2023/lei-6493-2023-legisla10505.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "10505"
+      ],
+      "numero_epigrafe": "6493",
+      "ano_epigrafe": "2023",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2023/lei-6343-2023-legisla9988.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "9988"
+      ],
+      "numero_epigrafe": "6343",
+      "ano_epigrafe": "2023",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2021/lei-5703-2021-legisla6476.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "6476"
+      ],
+      "numero_epigrafe": "5703",
+      "ano_epigrafe": "2021",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2020/lei-5241-2020-legisla6390.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "6390"
+      ],
+      "numero_epigrafe": "5241",
+      "ano_epigrafe": "2020",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2018/lei-4731-2018-legisla966.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "966"
+      ],
+      "numero_epigrafe": "4731",
+      "ano_epigrafe": "2018",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2018/lei-4720-2018-legisla953.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "953"
+      ],
+      "numero_epigrafe": "4720",
+      "ano_epigrafe": "2018",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2018/lei-4608-2018-legisla721.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "721"
+      ],
+      "numero_epigrafe": "4608",
+      "ano_epigrafe": "2018",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2018/lei-4609-2018-legisla722.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "722"
+      ],
+      "numero_epigrafe": "4609",
+      "ano_epigrafe": "2018",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4312-2016-legisla1281.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1281"
+      ],
+      "numero_epigrafe": "4312",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4311-2016-legisla1280.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1280"
+      ],
+      "numero_epigrafe": "4311",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4286-2016-legisla1235.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1235"
+      ],
+      "numero_epigrafe": "4286",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4287-2016-legisla1236.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1236"
+      ],
+      "numero_epigrafe": "4287",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4288-2016-legisla1237.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1237"
+      ],
+      "numero_epigrafe": "4288",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4289-2016-legisla1238.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1238"
+      ],
+      "numero_epigrafe": "4289",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4291-2016-legisla1241.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1241"
+      ],
+      "numero_epigrafe": "4291",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4292-2016-legisla1242.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1242"
+      ],
+      "numero_epigrafe": "4292",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4294-2016-legisla1244.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1244"
+      ],
+      "numero_epigrafe": "4294",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4295-2016-legisla1245.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1245"
+      ],
+      "numero_epigrafe": "4295",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4296-2016-legisla1264.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1264"
+      ],
+      "numero_epigrafe": "4296",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4297-2016-legisla1265.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1265"
+      ],
+      "numero_epigrafe": "4297",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4298-2016-legisla1266.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1266"
+      ],
+      "numero_epigrafe": "4298",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4299-2016-legisla1267.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1267"
+      ],
+      "numero_epigrafe": "4299",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4300-2016-legisla1268.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1268"
+      ],
+      "numero_epigrafe": "4300",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4301-2016-legisla1269.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1269"
+      ],
+      "numero_epigrafe": "4301",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4302-2016-legisla1270.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1270"
+      ],
+      "numero_epigrafe": "4302",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4303-2016-legisla1271.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1271"
+      ],
+      "numero_epigrafe": "4303",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4304-2016-legisla1272.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1272"
+      ],
+      "numero_epigrafe": "4304",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4305-2016-legisla1273.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1273"
+      ],
+      "numero_epigrafe": "4305",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4306-2016-legisla1274.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1274"
+      ],
+      "numero_epigrafe": "4306",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4307-2016-legisla1275.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1275"
+      ],
+      "numero_epigrafe": "4307",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4308-2016-legisla1277.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1277"
+      ],
+      "numero_epigrafe": "4308",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4309-2016-legisla1278.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1278"
+      ],
+      "numero_epigrafe": "4309",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4283-2016-legisla1232.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1232"
+      ],
+      "numero_epigrafe": "4283",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4284-2016-legisla1233.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1233"
+      ],
+      "numero_epigrafe": "4284",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4285-2016-legisla1234.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "1234"
+      ],
+      "numero_epigrafe": "4285",
+      "ano_epigrafe": "2016",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2014/lei-4018-2014-legisla7406.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "7406"
+      ],
+      "numero_epigrafe": "4018",
+      "ano_epigrafe": "2014",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1995/lei-2368-D-1995-legisla7753.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "7753"
+      ],
+      "numero_epigrafe": "2368-D",
+      "ano_epigrafe": "1995",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1985/lei-1736-A-1985-legisla8680.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "8680"
+      ],
+      "numero_epigrafe": "1736-A",
+      "ano_epigrafe": "1985",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1979/lei-1345-1979-legisla8747.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "8747"
+      ],
+      "numero_epigrafe": "1345",
+      "ano_epigrafe": "1979",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1979/lei-1347-1979-legisla8749.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "8749"
+      ],
+      "numero_epigrafe": "1347",
+      "ano_epigrafe": "1979",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1979/lei-1343-1979-legisla8745.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "8745"
+      ],
+      "numero_epigrafe": "1343",
+      "ano_epigrafe": "1979",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1979/lei-1341-1979-legisla8743.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "8743"
+      ],
+      "numero_epigrafe": "1341",
+      "ano_epigrafe": "1979",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1979/lei-1340-1979-legisla8742.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "8742"
+      ],
+      "numero_epigrafe": "1340",
+      "ano_epigrafe": "1979",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1979/lei-1339-1979-legisla8741.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "8741"
+      ],
+      "numero_epigrafe": "1339",
+      "ano_epigrafe": "1979",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1979/lei-27-1979-legisla8739.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "8739"
+      ],
+      "numero_epigrafe": "27",
+      "ano_epigrafe": "1979",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1979/lei-1333-1979-legisla8734.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "8734"
+      ],
+      "numero_epigrafe": "1333",
+      "ano_epigrafe": "1979",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1979/lei-1331-1979-legisla8732.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "8732"
+      ],
+      "numero_epigrafe": "1331",
+      "ano_epigrafe": "1979",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1979/lei-1329-1979-legisla8730.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "8730"
+      ],
+      "numero_epigrafe": "1329",
+      "ano_epigrafe": "1979",
+      "HEAD_SHA256": null,
+      "aliases": []
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1979/lei-1328-1979-legisla8729.md",
+      "namespace_fonte": [
+        "legisla.imprensaoficial.am.gov.br",
+        "8729"
+      ],
+      "numero_epigrafe": "1328",
+      "ano_epigrafe": "1979",
+      "HEAD_SHA256": null,
+      "aliases": []
+    }
+  ]
+}

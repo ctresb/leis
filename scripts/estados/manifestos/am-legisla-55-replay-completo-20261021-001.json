@@ -1,0 +1,19 @@
+{
+  "finalizado_em": "2026-10-21T07:21:36.569394-03:00",
+  "total": 55,
+  "replay_aceitos": 55,
+  "falhas": 0,
+  "HEAD": "70a564a1f0b1bc5084dccd1dcee9db13c544ead0",
+  "HEAD_ausentes": 55,
+  "aliases": 0,
+  "namespace_SAPL_distinto_Legisla": true,
+  "dispositivo_proprio": 55,
+  "testes": 26,
+  "sem_promocao": true,
+  "comando_replay_unico": "PYTHONPATH=/tmp/constituicao-css-qa-20261021:/tmp/constituicao-markdown-qa-20261020:scripts/estados/snapshots/am_legisla_HEAD_20261021_001:scripts/estados/snapshots/am_legisla_integridade_20261021_001:scripts/estados/snapshots/am_legisla_publicacao_20261021_001 /Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/estados/snapshots/am_legisla_HEAD_20261021_001/reexecutar_legisla_am_pacote.py --manifesto scripts/estados/manifestos/legisla-am-publico-20261021-001/am-legisla-publicacao-20261021-001.json --recibo-head scripts/estados/manifestos/am-legisla-55-HEAD-aliases-20261021-001.json --saida NOVO.jsonl",
+  "replay": {
+    "path": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/replay-completo-55.jsonl",
+    "sha256": "08a766175b4f2ab6279e0931cb0f0f09e48fcc349e65205c65435aa46b06ee20"
+  },
+  "notas": "Ordem PYTHONPATH aplica somente overlay suplementar de Art. 1º próprio e HEAD sobre código publicado congelado; nenhum arquivo anterior/candidato alterado."
+}

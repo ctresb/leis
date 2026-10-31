@@ -1,0 +1,78 @@
+{
+  "auditado_em": "2026-10-21T04:08:50.626671-03:00",
+  "MD_reais_modificados": 0,
+  "rede": 0,
+  "HEAD_commit": "ffa0bf958fb122102a239c981c3806eb379d2e7e",
+  "origem": "estaduais/PE/leis-ordinarias/1966/lei-5791-1966-id74626.md",
+  "destino_canonico": "estaduais/PE/leis-ordinarias/1966/lei-5791-A-1966-id74626.md",
+  "sha256_HEAD": "30acbef55f7d6826108463339c9d30e9909432ae9dc34b24270f22b19df517ff",
+  "backup": "estaduais/PE/_fonte/auditorias/reparo-5791-A-20261021-001/HEAD-preimagem.md.gz",
+  "sha256_backup": "8917fc0961230b24ddf742183737aa1fb195068c4fd48149450ea2149b501fbc",
+  "candidato_privado": "estaduais/PE/_fonte/auditorias/reparo-5791-A-20261021-001/candidato/estaduais/PE/leis-ordinarias/1966/lei-5791-A-1966-id74626.md.gz",
+  "sha256_candidato": "2dea88b3d4064dae7fe98770462785746ed20517300f0a068f0d78caa0dc8c57",
+  "sha256_candidato_gz": "154519fa1c7c7814395edddad20a8a5c4652080cfbcbabc90bf001f9b92f610e",
+  "cache_original": "estaduais/PE/_fonte/leis-ordinarias/1966/lei-5791-1966-id74626.html.gz",
+  "sha256_cache": "16ca3306cb7a49ec3ed47fb2d5a796b0dd07d47f7f6ca1c501d34e039356b2a6",
+  "sha256_fonte": "0c7fa7948539402fb3386a42c4fe50bef0b18835023bd39c5521e5a26960cd93",
+  "cache_candidato": "estaduais/PE/_fonte/auditorias/reparo-5791-A-20261021-001/candidato/estaduais/PE/_fonte/leis-ordinarias/1966/lei-5791-A-1966-id74626.html.gz",
+  "sha256_cache_candidato": "16ca3306cb7a49ec3ed47fb2d5a796b0dd07d47f7f6ca1c501d34e039356b2a6",
+  "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=74626&tipo=TEXTOORIGINAL",
+  "id_oficial": "74626",
+  "numero_canonico": "5.791-A",
+  "data": "1966-05-13",
+  "identidade_distinta_preservada": {
+    "id": "74745",
+    "numero": "5.791",
+    "data": "1966-04-30",
+    "cache": "estaduais/PE/_fonte/leis-ordinarias/1966/lei-5791-1966-id74745.html.gz",
+    "sha256_cache": "b6264e659e0fc6a5b614e46c433ca25f3cd65ea0a4b042166826c70d10c26f96",
+    "sha256_fonte": "bcaf386b1b51b39c8c41af006045da9211f170e8fd9c497907e58a5496e2ced1"
+  },
+  "provas_vetos": [
+    {
+      "dispositivo": "art.4 §2",
+      "trecho_sancao": "**Art. 4º** São órgãos da Secretaria de Estado dos Negócios da Segurança Pública, diretamente subordinados ao respectivo Secretário:\n\nI - Gabinete do Secretário;\n\nII - Departamento de Administração;\n\nIII - Departamento de Investigações;\n\nIV - Departamento de Ordem Social;\n\nV - Departamento de Trânsito;\n\nVI - Departamento de Vigilância e Capturas Recomendadas;\n\nVII - Departamento de Polícia da Capital;\n\nVIII - Departamento de Polícia do Interior;\n\nIX - Instituto de Medicina Legal;\n\nX - Instituto de Identificação;\n\nXI - Instituto de Polícia Técnica;\n\nXII - Escola de Polícia;\n\nXIII - Inspetoria de Polícia Interestadual;\n\nXIV - Guarda Civil.\n\n**§ 1º** A inspetoria de Polícia Marítima e Aérea enquanto não passar à administração federal, continuará integrando a Secretaria de Estado dos Negócios da Segurança Pública.\n\n**§ 2º** (VETADO)"
+    },
+    {
+      "dispositivo": "art.5 V-b",
+      "trecho_sancao": "V - Departamento de Polícia da Capital;\n\na) Delegacias Distritais (1ª, 2ª, 3ª, 4ª, 5ª, 6ª e 7ª);\n\nb) (VETADO)"
+    },
+    {
+      "dispositivo": "art.5 X-b/c/d/e",
+      "trecho_sancao": "X - Instituto de Identificação;\n\na) Divisão Administrativa;\n\nb) (VETADO)\n\nc) (VETADO)\n\nd) (VETADO)\n\ne) (VETADO)"
+    },
+    {
+      "dispositivo": "art.5 XIV-d",
+      "trecho_sancao": "XIV - Guarda Civil;\n\na) Inspetoria Geral;\n\nb) Divisão Administrativa;\n\nc) Divisão de Policiamento;\n\nd) (VETADO)"
+    },
+    {
+      "dispositivo": "art.7",
+      "trecho_sancao": "**Art. 7º** Ficam criados, no Quadro Permanente do Pessoal do serviço Civil do Poder Executivo, três (3) cargos de Delegado de Polícia, Símbolo CC-2, um (1) cargo de Chefe do Gabinete da Secretaria da Segurança Pública, Símbolo CC-2, um (1) cargo de Diretor de Departamento, Símbolo CC-2, todos de provimento em comissão, ... (VETADO).\n\n**Parágrafo único.** Os Cargos de Delegado de Polícia, criados por esta lei, serão providos por Bacharéis em Ciências Jurídicas e Sociais."
+    },
+    {
+      "dispositivo": "art.10 parágrafo único",
+      "trecho_sancao": "**Art. 10.** Fica criado no Quadro Permanente de Pessoal do Serviço Civil do Poder Executivo um (1) cargo de Inspetor Geral da Guarda Civil, Símbolo CC-2, em comissão.\n\n**Parágrafo único.** O primeiro provimento do cargo criado neste artigo será efetuado em caráter efetivo, de livre escolha do Chefe do Poder Executivo, ... (VETADO)."
+    },
+    {
+      "dispositivo": "art.11 parágrafo único",
+      "trecho_sancao": "**Art. 11.** Fica ainda criado no Quadro Permanente do Pessoal do Serviço Civil do Poder Executivo um (1) cargo de Assessor Técnico de Trânsito, Símbolo CC-2, em comissão.\n\n**Parágrafo único.** O primeiro provimento do cargo criado neste artigo será feito em caráter efetivo, (VETADO), por livre escolha do Chefe do Poder Executivo."
+    }
+  ],
+  "prova_promulgacao": "Faço saber que o Poder Legislativo decreta e eu promulgo a seguinte Lei; assinatura do presidente Paulo Rangel Moreira em 13/05/1966.",
+  "contexto": "O alcance literal da publicação -A é o preenchimento dos dispositivos vetados na publicação de sanção ID74745. Reticências não são tratadas como ausência automática; todas preservadas. As versões não são fundidas nem apresentadas como compilação vigente.",
+  "correcoes": [
+    "numero -A e data da própria epígrafe",
+    "decodificação UTF-8 estrita dos bytes preservados, sem inferência de nomes",
+    "isolamento do fragmento fechado: resíduo externo <div depois de </html> não integra corpo",
+    "path novo inclui -A; identidade ID74626 permanece distinta de ID74745"
+  ],
+  "plano_atomico": "Antes de aplicar, validar HEAD origem e inexistência destino. Criar destino/copy cache original sob nome novo e remover origem no mesmo commit, registrando rename e contexto; não deixar os dois MD como normas independentes. Este pacote é privado e não fez nenhuma dessas mutações.",
+  "QA": {
+    "CommonMark_visivel_integral": true,
+    "assinatura_numerica_sinais": true,
+    "sem_visuais_tachados_ocultos": true,
+    "normalizacoes_heading": [],
+    "source_field_sha256": "34c7f5dffaf6d58fc38c313ec100400ad6c00b9416b6c9ad406a945bbb56546c",
+    "identidade_destino_ausente_HEAD_disco": true
+  }
+}

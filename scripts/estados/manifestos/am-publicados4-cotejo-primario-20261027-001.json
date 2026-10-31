@@ -1,0 +1,98 @@
+{
+  "commit_publicacao": "a48926cd1f65e614a55d9b3f6a65b83cc394d13b",
+  "metodo": "Reutilizada fonte PDF primária do SAPL já capturada; replay atual camada textual integral versus corpo CommonMark, epígrafe versus metadado, imagens por hash e prova visual contextual anterior. Sem rede. Não são transcrições Legisla.AM.",
+  "resultado": "4/4 sem divergência da camada textual primária; zero mudanças canônicas",
+  "limite": "Não certifica equivalência com edição DOE não anexada. PDFs legislativos têm fórmula DECRETA, sem assinatura do governador; edição/compilação não certificadas conforme metadados existentes, revogada null.",
+  "replay": "estaduais/AM/_fonte/auditorias/am-publicados4-revisao-20261027-001/replay.jsonl",
+  "sha256_replay": "ce6cbdfb918c4b2109716113d38675f3d87369956da922c935c66b7137e197ab",
+  "documentos": [
+    {
+      "path": "estaduais/AM/leis-ordinarias/2026/lei-8562-2026-id15197.md",
+      "sha256_HEAD": "de56ceac50baa785ec323b503184cb4270f33230c96b9374b13cbb5b6265e1ac",
+      "sha256_preimagem": "de56ceac50baa785ec323b503184cb4270f33230c96b9374b13cbb5b6265e1ac",
+      "preimagem": "estaduais/AM/_fonte/auditorias/am-publicados4-revisao-20261027-001/lei-8562-2026-id15197.md.preimagem",
+      "fonte_PDF": "https://sapl.al.am.leg.br/media/sapl/public/normajuridica/2026/15197/8562.pdf",
+      "cache_PDF": "estaduais/AM/_fonte/auditorias/anexos-recentes-20261021-001/1f38abafd285f89d1ebe38fbb23eadff9e3ed72e0704c1f1f6c53aad01fc57bb.bin.gz",
+      "sha256_PDF": "1f38abafd285f89d1ebe38fbb23eadff9e3ed72e0704c1f1f6c53aad01fc57bb",
+      "prova_visual_preexistente": "Sete páginas dos quatro atos examinadas; um único ato por PDF, sem tabelas/anexos/objetos aprovados omitidos. Lei8560 prevê regimento/plano futuros como competência do conselho, não aprova documento já existente. Recursos gráficos por hash são brasão, marca-dágua do mesmo brasão e ornamento geométrico de rodapé, sem conteúdo normativo. Sem inferência de nomes/OCR ou vigência.",
+      "QA": {
+        "numero": "8562",
+        "data": "2026-10-14",
+        "tipo": "Lei Ordinária",
+        "epigrafe": "LEI Nº 8.562, DE 14 DE OUTUBRO DE 2026",
+        "sha256_camada": "fa088b325a7de620f4cf0d043e81b1895d19fc03fb1fcbaa86804a9bd5ae4514",
+        "sha256_fonte": "1f38abafd285f89d1ebe38fbb23eadff9e3ed72e0704c1f1f6c53aad01fc57bb",
+        "sha256_corpo": "d8a772c2086664e80b06b8df81876bc848d7a512c3be1bbe6637b5b72b96adb7",
+        "total_paginas": 1,
+        "pdfimages": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     245   348  index   1   8  image  no         5  0   357   356 24.4K  29%\n   1     1 image     245   348  rgb     3   8  jpeg   yes       17  0    84    84 11.1K 4.4%\n   1     2 image     587   174  rgb     3   8  jpeg   yes       18  0   163   182 6881B 2.2%\n",
+        "CommonMark_cercas_iguais": true
+      }
+    },
+    {
+      "path": "estaduais/AM/leis-ordinarias/2026/lei-8560-2026-id15195.md",
+      "sha256_HEAD": "232fbc7ef3c493f9caaeade47419e5cc114995af8d08732b7a6c69291c505f62",
+      "sha256_preimagem": "232fbc7ef3c493f9caaeade47419e5cc114995af8d08732b7a6c69291c505f62",
+      "preimagem": "estaduais/AM/_fonte/auditorias/am-publicados4-revisao-20261027-001/lei-8560-2026-id15195.md.preimagem",
+      "fonte_PDF": "https://sapl.al.am.leg.br/media/sapl/public/normajuridica/2026/15195/8560.pdf",
+      "cache_PDF": "estaduais/AM/_fonte/auditorias/anexos-recentes-20261021-001/ac488d822086bce699e26f378c62d0c68abc4d454fa99bc4cd88f36765464893.bin.gz",
+      "sha256_PDF": "ac488d822086bce699e26f378c62d0c68abc4d454fa99bc4cd88f36765464893",
+      "prova_visual_preexistente": "Sete páginas dos quatro atos examinadas; um único ato por PDF, sem tabelas/anexos/objetos aprovados omitidos. Lei8560 prevê regimento/plano futuros como competência do conselho, não aprova documento já existente. Recursos gráficos por hash são brasão, marca-dágua do mesmo brasão e ornamento geométrico de rodapé, sem conteúdo normativo. Sem inferência de nomes/OCR ou vigência.",
+      "QA": {
+        "numero": "8560",
+        "data": "2026-10-14",
+        "tipo": "Lei Ordinária",
+        "epigrafe": "LEI Nº 8.560, DE 14 DE OUTUBRO DE 2026",
+        "sha256_camada": "8af1d7d5750fbb48abe163a825cdeb2f93a82d99d22e30f5ff3ea251e0bc682a",
+        "sha256_fonte": "ac488d822086bce699e26f378c62d0c68abc4d454fa99bc4cd88f36765464893",
+        "sha256_corpo": "88c5144b60a5d7596599fb3f95f903c81cb9902eaead5a0e0b8bb0c8dbc8e180",
+        "total_paginas": 4,
+        "pdfimages": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     245   348  index   1   8  image  no         5  0   357   356 24.4K  29%\n   1     1 image     245   348  rgb     3   8  jpeg   yes       17  0    84    84 11.1K 4.4%\n   1     2 image     587   174  rgb     3   8  jpeg   yes       18  0   163   182 6881B 2.2%\n   2     3 image     245   348  index   1   8  image  no         5  0   357   356 24.4K  29%\n   2     4 image     245   348  rgb     3   8  jpeg   yes       17  0    84    84 11.1K 4.4%\n   2     5 image     587   174  rgb     3   8  jpeg   yes       18  0   163   182 6881B 2.2%\n   3     6 image     245   348  index   1   8  image  no         5  0   357   356 24.4K  29%\n   3     7 image     245   348  rgb     3   8  jpeg   yes       17  0    84    84 11.1K 4.4%\n   3     8 image     587   174  rgb     3   8  jpeg   yes       18  0   163   182 6881B 2.2%\n   4     9 image     245   348  index   1   8  image  no         5  0   357   356 24.4K  29%\n   4    10 image     245   348  rgb     3   8  jpeg   yes       17  0    84    84 11.1K 4.4%\n   4    11 image     587   174  rgb     3   8  jpeg   yes       18  0   163   182 6881B 2.2%\n",
+        "CommonMark_cercas_iguais": true
+      }
+    },
+    {
+      "path": "estaduais/AM/leis-ordinarias/2026/lei-8559-2026-id15194.md",
+      "sha256_HEAD": "341e25b0ca76e09bc50cf8b1842990f638f1990bd9ad78aa3a988fdfc52beee5",
+      "sha256_preimagem": "341e25b0ca76e09bc50cf8b1842990f638f1990bd9ad78aa3a988fdfc52beee5",
+      "preimagem": "estaduais/AM/_fonte/auditorias/am-publicados4-revisao-20261027-001/lei-8559-2026-id15194.md.preimagem",
+      "fonte_PDF": "https://sapl.al.am.leg.br/media/sapl/public/normajuridica/2026/15194/8559.pdf",
+      "cache_PDF": "estaduais/AM/_fonte/auditorias/anexos-recentes-20261021-001/3ea8b40d720e1fbb2f1f01d9ad9a01dd4e2e4663870dd7448a6e829f43b34eb3.bin.gz",
+      "sha256_PDF": "3ea8b40d720e1fbb2f1f01d9ad9a01dd4e2e4663870dd7448a6e829f43b34eb3",
+      "prova_visual_preexistente": "Sete páginas dos quatro atos examinadas; um único ato por PDF, sem tabelas/anexos/objetos aprovados omitidos. Lei8560 prevê regimento/plano futuros como competência do conselho, não aprova documento já existente. Recursos gráficos por hash são brasão, marca-dágua do mesmo brasão e ornamento geométrico de rodapé, sem conteúdo normativo. Sem inferência de nomes/OCR ou vigência.",
+      "QA": {
+        "numero": "8559",
+        "data": "2026-10-14",
+        "tipo": "Lei Ordinária",
+        "epigrafe": "LEI Nº 8.559, DE 14 DE OUTUBRO DE 2026",
+        "sha256_camada": "ac4075312adee782721233714f453a47d7512500a09f23ff3890917ae3d09b87",
+        "sha256_fonte": "3ea8b40d720e1fbb2f1f01d9ad9a01dd4e2e4663870dd7448a6e829f43b34eb3",
+        "sha256_corpo": "bc90cf549a147a1717007508922050b76f74841c52734d755e0d3010b9094cbe",
+        "total_paginas": 1,
+        "pdfimages": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     245   348  index   1   8  image  no         5  0   357   356 24.4K  29%\n   1     1 image     245   348  rgb     3   8  jpeg   yes       17  0    84    84 11.1K 4.4%\n   1     2 image     587   174  rgb     3   8  jpeg   yes       18  0   163   182 6881B 2.2%\n",
+        "CommonMark_cercas_iguais": true
+      }
+    },
+    {
+      "path": "estaduais/AM/leis-ordinarias/2026/lei-8558-2026-id15193.md",
+      "sha256_HEAD": "73cabc85c5333e737090e5ef0103584793e8a1a43a9f3d72994119f129b32d31",
+      "sha256_preimagem": "73cabc85c5333e737090e5ef0103584793e8a1a43a9f3d72994119f129b32d31",
+      "preimagem": "estaduais/AM/_fonte/auditorias/am-publicados4-revisao-20261027-001/lei-8558-2026-id15193.md.preimagem",
+      "fonte_PDF": "https://sapl.al.am.leg.br/media/sapl/public/normajuridica/2026/15193/8558.pdf",
+      "cache_PDF": "estaduais/AM/_fonte/auditorias/anexos-recentes-20261021-001/6db8414a363bdf2c0b2a4beee5a56166195fa859f727117f1d1acb0445d810ec.bin.gz",
+      "sha256_PDF": "6db8414a363bdf2c0b2a4beee5a56166195fa859f727117f1d1acb0445d810ec",
+      "prova_visual_preexistente": "Sete páginas dos quatro atos examinadas; um único ato por PDF, sem tabelas/anexos/objetos aprovados omitidos. Lei8560 prevê regimento/plano futuros como competência do conselho, não aprova documento já existente. Recursos gráficos por hash são brasão, marca-dágua do mesmo brasão e ornamento geométrico de rodapé, sem conteúdo normativo. Sem inferência de nomes/OCR ou vigência.",
+      "QA": {
+        "numero": "8558",
+        "data": "2026-10-14",
+        "tipo": "Lei Ordinária",
+        "epigrafe": "LEI Nº 8.558, DE 14 DE OUTUBRO DE 2026",
+        "sha256_camada": "e8438011f9029384f16d1c0893bc3f73b68fccd8c588acaceaaa4b881fcb497f",
+        "sha256_fonte": "6db8414a363bdf2c0b2a4beee5a56166195fa859f727117f1d1acb0445d810ec",
+        "sha256_corpo": "b84cfa5597ddd3170addb031b3ccf5f4da5985ebf50c70e057e2827d79e87609",
+        "total_paginas": 1,
+        "pdfimages": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     245   348  index   1   8  image  no         5  0   357   356 24.4K  29%\n   1     1 image     245   348  rgb     3   8  jpeg   yes       17  0    84    84 11.1K 4.4%\n   1     2 image     587   174  rgb     3   8  jpeg   yes       18  0   163   182 6881B 2.2%\n",
+        "CommonMark_cercas_iguais": true
+      }
+    }
+  ]
+}

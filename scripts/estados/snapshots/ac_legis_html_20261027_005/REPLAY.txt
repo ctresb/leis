@@ -1,0 +1,7 @@
+Perfil sucessor para lotes novos; anteriores permanecem intactos. Rejeita incorporação legislativa posterior explícita e permite somente revisão contextual congelada de mesmos bytes/identidade/contexto para anexos, sem liberar epígrafes secundárias por lista.
+Executar na raiz do repositório com Python3.10+ e requirements.txt fixado.
+PYTHONPATH=scripts/bin/qa-20261027/python:scripts/estados/snapshots/ac_legis_html_20261027_005 python3 -m unittest discover -s scripts/estados/snapshots/ac_legis_html_20261027_005 -p "test_*.py"
+PYTHONPATH=scripts/bin/qa-20261027/python python3 scripts/estados/snapshots/ac_legis_html_20261027_005/reexecutar_legis_ac.py --manifesto MANIFESTO_CONGELADO.json --hashes MAPA_CONGELADO.json --recibo RECIBO_PRIVADO_NOVO.json
+Nenhuma rede ou promoção no replay. Runner de promoção separado, dry-run padrão e --apply exclusivo ROOT.
+Reconhece fechos literais de Sala das Sessões, ordinal com espaço e preposições deslocadas/ausentes, preservando o texto. Datas explícitas continuam comparadas estritamente.
+Esquema obrigatório README: versao_texto precisa e baixado_em literal da captura real com fuso explícito. Ordem canônica seguida de extensões; corpo/H1 preservado na migração.

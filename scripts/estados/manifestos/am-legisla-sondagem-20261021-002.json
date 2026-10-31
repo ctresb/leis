@@ -1,0 +1,17 @@
+{
+  "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12",
+  "http": 200,
+  "headers": {
+    "Date": "Wed, 21 Oct 2026 09:11:58 GMT",
+    "Server": "Apache/2.4.25 (Debian)",
+    "Vary": "Accept-Encoding",
+    "Access-Control-Allow-Origin": "*",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Connection": "close",
+    "Transfer-Encoding": "chunked",
+    "Content-Type": "text/html; charset=UTF-8"
+  },
+  "capturado_em": "2026-10-21T06:11:59.627459-03:00",
+  "cache": "estaduais/AM/_indice/legisla-retomada-20261021-001/leis-ordinarias.html.gz",
+  "sha256_fonte": "0f2b4f7696f0b24b81485a7f4fe2f5c587695f73f48d013aeb1a5453400a9622"
+}

@@ -1,0 +1,29 @@
+{
+  "total_examinado": 11287,
+  "total_retido_conservador": 2,
+  "criterio": "Aprovação no dispositivo inicial de documento/manual/plano/regulamento/etc próprio pode depender de conteúdo ausente mesmo sem a palavra ANEXO. Candidatos retidos para revisão contextual, sem inferir ausência definitiva.",
+  "retidos": [
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42282-2003-id46411.md",
+      "sha256_md": "0f29e260e16eabf35435cbc37eb2b3a281da8421323172c4b25f00e0a162873e",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=46411&Texto=&Origem=1",
+      "trecho_dispositivo_proprio": "Art. 1º** - É introduzido o artigo 3-A no DECRETO 39.986, de 18 de fevereiro de 2000, com a seguinte redação:  \n  \n“Art. 3-A - O Memorial do Rio Grande do Sul, será assistido em suas atividades, por um Conselho Consultivo, órgão de caráter consultivo, vinculado à direção da Instituição, o qual terá por atribuições, dentre outras, as de:\n\nI - Propugnar e colaborar para que o Memorial do Rio Grande do Sul cumpra as finalidades para as quais foi criado;\n\nII - Sugerir, por solicitação da Direção, ou por iniciativa própria, iniciativas que contribuam para o resgate, preservação e proteção da história política e do patrimônio cultural do Estado do Rio Grande do Sul;\n\nIII - Colaborar com as iniciativas da direção do Memorial do Rio Grande do Sul para a perfeita realização das suas finalidades.\n\n**§ 1º** - O Conselho Consultivo do Memorial do Rio Grande do Sul será constituído por doze (12) conselheiros titulares.\n\n**§ 2º** - Os conselheiros titulares e seus suplentes serão de livre escolha e nomeação do Governador do Estado, dentre as personalidades de elevado e notório conhecimento de história política e da cultura do Estado do Rio Grande do Sul, tendo mandato de 2 (dois) anos, com a possibilidade de uma recondução pelo mesmo período.\n\n**§ 3º** - O exercício das atividades no Conselho Consultivo instituído por este decreto não gera direito à remuneração a qualquer título, assim como não caracteriza qualquer espécie de vínculo empregatício com o Estado do Rio Grande do Sul.\n\n**§ 4º** - Os trabalhos do Conselho Consultivo serão presididos pelo Diretor do Memorial do Rio Grande do Sul, auxiliado por um Secretário-Geral a ser eleito dentre os Conselheiros na primeira reunião do órgão.\n\n**§ 5º** - O Conselho fará aprovar seu regimento interno, o qual regulará o funcionamento do órgão.”\n\n**",
+      "objeto": "regimento",
+      "tabelas_presentes": 0,
+      "classificacao": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+      "decisao": "retenção conservadora; a presença de tabela, menção ou campo íntegro não comprova por si a representação integral do objeto aprovado",
+      "ausencia_confirmada": false
+    },
+    {
+      "path": "estaduais/RS/decretos/1998/dec-38106-1998-id7475.md",
+      "sha256_md": "c2339d6b9a73ce77d5ec83c27d33235c0bb7357366a77a140c2ba6e422b03a79",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=7475&Texto=&Origem=1",
+      "trecho_dispositivo_proprio": "Art. 1º** - O Livro I do Anexo do DECRETO Nº 37.699, de 26 de agosto de 1997, que aprova o Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (RICMS), passa a vigorar com alterações feitas no inciso XIV e alínea \"a\" do artigo 32 e acrescenta o inciso IV no artigo 51, como segue:  \n  \nALTERAÇÃO Nº 082: \"XIV - até 31 de dezembro de 1998, aos estabelecimentos fabricantes dos produtos a seguir relacionados, cuja classificação na NBM/SH-NCM é indicada, em substituição ao benefício previsto no inciso anterior, nas saídas para o exterior, em montante igual ao que resultar da aplicação do percentual de 15% (quinze por cento) sobre o valor da operação:  \nNOTA - a apropriação deste crédito fiscal fica condicionada a que o estabelecimento beneficiário firme protocolo com o Estado do Rio Grande do Sul objetivando à reativação e o incremento da produção do setor lanífero gaúcho.\"\n\na) \"tops\" de lã, códigos 5101.19.00, 5103.10.00 e 5105.29.10, da NBM/SH-NCM;\"  \n  \nALTERAÇÃO Nº 083: IV - a prorrogação, por um mês, do prazo de pagamento relativo a fatos geradores decorrentes de promoções ou feiras que visem incrementar a arrecadação do imposto, desde que:\n\na) as empresas beneficiadas firmem protocolo específico com o Departamento da Receita Pública Estadual, hipótese em que também poderá ser alterado o período de apuração do imposto, para períodos inferiores a um mês; e\n\nb) o mesmo estabelecimento não seja beneficiado com a prorrogação do prazo de pagamento mais de um vez a cada ano devido ao mesmo evento.\"\n\n**",
+      "objeto": "Regulamento",
+      "tabelas_presentes": 0,
+      "classificacao": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+      "decisao": "retenção conservadora; a presença de tabela, menção ou campo íntegro não comprova por si a representação integral do objeto aprovado",
+      "ausencia_confirmada": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "verificado_em": "2026-10-21T06:39:17.305430-03:00",
+  "total_linhas": 1680,
+  "indices_conferidos": 84,
+  "fontes_conferidas": 13,
+  "sha256_log": "f1c0662c7216c7799b7c8c6519c6ad30f8b925e09b06179712b7d42b48e9bbed",
+  "divergencias": [],
+  "pagina_ultima_confirmada": 88,
+  "pagina89_existe": false,
+  "interrupcao": "Sessão76315 encerrou ao tentar escrever pagina-0089.html.gz com FileNotFoundError após desconexão do volume. Nenhum processo estadual permanecia vivo no aviso. Retomada só depois de recuperação confirmada pelo coordenador.",
+  "codigo_SHA_pos_recuperacao": {
+    "scripts/estados/am_legisla.py": "c2354310bf7c0b4cc8bdaa64bbd365fd7b310709426bd07909380332c4457e67",
+    "scripts/estados/test_am_legisla.py": "cc9a9317bf526ccdc82ed053c1292e9ed58f86766bc7875a55365d404a1a7574",
+    "scripts/estados/snapshots/am_legisla_20261021_001.py": "89f05f07c1d9693ecc089d6e13aa19f29831b36ae04297d396f2f7aeb1cc7e63",
+    "scripts/estados/representacao_html_legisla_am.py": "d950081c07fe5c96bbe39130d901d16b3469a158d0b406882de36cf4dc6c1540",
+    "scripts/estados/test_legisla_am_representacao.py": "a23ca4f5f284d7f120b8faf6c6ef82a0c789a1d7821f4fd99342e5eb8301f178"
+  },
+  "limite": "SHA dos snapshots calculados agora, sem alegar comparação com um hash pré-desconexão não registrado. Sintaxe de todos os arquivos conferida."
+}

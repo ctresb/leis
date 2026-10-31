@@ -1,0 +1,30 @@
+{
+  "capturas": [
+    {
+      "id_legisla": "10719",
+      "edicao_id": "3640",
+      "pagina": 2,
+      "url": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/pdf_diario/3640/2",
+      "url_final": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/pdf_diario/3640/2",
+      "http": 200,
+      "PDF": true,
+      "cache": "estaduais/AM/_fonte/auditorias/amostra-PDF-20261027-003/24b203b751a0be1905e649199eb5d428b78ec9f1ba5f868a999cb6d48426aa35.pdf.gz",
+      "sha256_fonte": "24b203b751a0be1905e649199eb5d428b78ec9f1ba5f868a999cb6d48426aa35",
+      "sha256_cache": "32376d2a49a2445d40eed0cd9164f95c49d73d673fc31c810b7906cf01e79627",
+      "capturado_em": "2026-10-27T17:17:06.690330-03:00",
+      "prova_indice_SHA": "ee7795f11be8482c5ad6f45b0627b77e88690caab72db077e4cd26953d03d52c",
+      "headers": {
+        "Date": "Tue, 27 Oct 2026 20:17:05 GMT",
+        "Server": "Apache/2.4.25 (Debian)",
+        "Cache-Control": "public, max-age=3600, must-revalidate",
+        "Last-Modified": "Mon, 21 Sep 2020 03:58:08 GMT",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "211872",
+        "Access-Control-Allow-Origin": "*",
+        "Connection": "close",
+        "Content-Type": "application/pdf"
+      }
+    }
+  ],
+  "sem_MD": true
+}

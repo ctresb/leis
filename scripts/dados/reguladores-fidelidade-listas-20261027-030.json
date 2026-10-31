@@ -1,0 +1,847 @@
+{
+  "criterio": "Revisão contextual apenas dos alertas anteriores: contadores efetivos de ol/start/li associados à AST e ao delimitador manual, sem copiar número da fonte. Preserva pontuação e sinais; divergências remanescentes continuam retidas. Listas nativas da fonte não recebem materialização automática.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "63b916abe1e6c687db373e67610a4ea584fb04e3c2029873da8c84c91b77ee72",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "iguais": 3,
+    "revisar": 1
+  },
+  "documentos": [
+    {
+      "path": "reguladores/rfb/portarias/2019/portaria-n-2.246-de-26-de-dezembro-de-2019-235854513.md",
+      "sha256_md": "ce2f361c97a93bd27faa86c7c705163f4bc1c3dfeb1bfa96717215ba6b3bebef",
+      "sha256_fonte": "594f2b1ed8d49797020e00fbc5358453344a8c96101581ce5a1d90f42df975ef",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — Descrição dos Objetivos Estratégicos",
+          "fonte": "ANEXO I Descrição dos Objetivos Estratégicos",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — Indicadores Estratégicos da RFB",
+          "fonte": "ANEXO II Indicadores Estratégicos da RFB",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO III — Projetos Estratégicos Institucionais da RFB",
+          "fonte": "ANEXO III Projetos Estratégicos Institucionais da RFB",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              22,
+              24
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              32,
+              34
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              38,
+              40
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ")",
+            "linhas": [
+              52,
+              54
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 5,
+            "markup": ")",
+            "linhas": [
+              80,
+              82
+            ]
+          },
+          "html_start": "5",
+          "inicio_efetivo": 5,
+          "contadores": [
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 6,
+            "markup": ")",
+            "linhas": [
+              106,
+              108
+            ]
+          },
+          "html_start": "6",
+          "inicio_efetivo": 6,
+          "contadores": [
+            6
+          ]
+        },
+        {
+          "ast": {
+            "start": 7,
+            "markup": ")",
+            "linhas": [
+              128,
+              130
+            ]
+          },
+          "html_start": "7",
+          "inicio_efetivo": 7,
+          "contadores": [
+            7
+          ]
+        },
+        {
+          "ast": {
+            "start": 8,
+            "markup": ")",
+            "linhas": [
+              146,
+              148
+            ]
+          },
+          "html_start": "8",
+          "inicio_efetivo": 8,
+          "contadores": [
+            8
+          ]
+        },
+        {
+          "ast": {
+            "start": 9,
+            "markup": ")",
+            "linhas": [
+              172,
+              174
+            ]
+          },
+          "html_start": "9",
+          "inicio_efetivo": 9,
+          "contadores": [
+            9
+          ]
+        },
+        {
+          "ast": {
+            "start": 10,
+            "markup": ")",
+            "linhas": [
+              196,
+              198
+            ]
+          },
+          "html_start": "10",
+          "inicio_efetivo": 10,
+          "contadores": [
+            10
+          ]
+        },
+        {
+          "ast": {
+            "start": 11,
+            "markup": ")",
+            "linhas": [
+              218,
+              220
+            ]
+          },
+          "html_start": "11",
+          "inicio_efetivo": 11,
+          "contadores": [
+            11
+          ]
+        },
+        {
+          "ast": {
+            "start": 12,
+            "markup": ")",
+            "linhas": [
+              238,
+              240
+            ]
+          },
+          "html_start": "12",
+          "inicio_efetivo": 12,
+          "contadores": [
+            12
+          ]
+        },
+        {
+          "ast": {
+            "start": 13,
+            "markup": ")",
+            "linhas": [
+              266,
+              268
+            ]
+          },
+          "html_start": "13",
+          "inicio_efetivo": 13,
+          "contadores": [
+            13
+          ]
+        },
+        {
+          "ast": {
+            "start": 14,
+            "markup": ")",
+            "linhas": [
+              274,
+              276
+            ]
+          },
+          "html_start": "14",
+          "inicio_efetivo": 14,
+          "contadores": [
+            14
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              292,
+              294
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              314,
+              316
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              336,
+              338
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ")",
+            "linhas": [
+              358,
+              360
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 5,
+            "markup": ")",
+            "linhas": [
+              380,
+              382
+            ]
+          },
+          "html_start": "5",
+          "inicio_efetivo": 5,
+          "contadores": [
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 6,
+            "markup": ")",
+            "linhas": [
+              402,
+              404
+            ]
+          },
+          "html_start": "6",
+          "inicio_efetivo": 6,
+          "contadores": [
+            6
+          ]
+        },
+        {
+          "ast": {
+            "start": 7,
+            "markup": ")",
+            "linhas": [
+              424,
+              426
+            ]
+          },
+          "html_start": "7",
+          "inicio_efetivo": 7,
+          "contadores": [
+            7
+          ]
+        },
+        {
+          "ast": {
+            "start": 8,
+            "markup": ")",
+            "linhas": [
+              446,
+              448
+            ]
+          },
+          "html_start": "8",
+          "inicio_efetivo": 8,
+          "contadores": [
+            8
+          ]
+        },
+        {
+          "ast": {
+            "start": 9,
+            "markup": ")",
+            "linhas": [
+              468,
+              470
+            ]
+          },
+          "html_start": "9",
+          "inicio_efetivo": 9,
+          "contadores": [
+            9
+          ]
+        },
+        {
+          "ast": {
+            "start": 10,
+            "markup": ")",
+            "linhas": [
+              490,
+              492
+            ]
+          },
+          "html_start": "10",
+          "inicio_efetivo": 10,
+          "contadores": [
+            10
+          ]
+        },
+        {
+          "ast": {
+            "start": 11,
+            "markup": ")",
+            "linhas": [
+              512,
+              514
+            ]
+          },
+          "html_start": "11",
+          "inicio_efetivo": 11,
+          "contadores": [
+            11
+          ]
+        },
+        {
+          "ast": {
+            "start": 12,
+            "markup": ")",
+            "linhas": [
+              534,
+              536
+            ]
+          },
+          "html_start": "12",
+          "inicio_efetivo": 12,
+          "contadores": [
+            12
+          ]
+        },
+        {
+          "ast": {
+            "start": 13,
+            "markup": ")",
+            "linhas": [
+              618,
+              620
+            ]
+          },
+          "html_start": "13",
+          "inicio_efetivo": 13,
+          "contadores": [
+            13
+          ]
+        },
+        {
+          "ast": {
+            "start": 14,
+            "markup": ")",
+            "linhas": [
+              640,
+              642
+            ]
+          },
+          "html_start": "14",
+          "inicio_efetivo": 14,
+          "contadores": [
+            14
+          ]
+        },
+        {
+          "ast": {
+            "start": 15,
+            "markup": ")",
+            "linhas": [
+              674,
+              676
+            ]
+          },
+          "html_start": "15",
+          "inicio_efetivo": 15,
+          "contadores": [
+            15
+          ]
+        },
+        {
+          "ast": {
+            "start": 16,
+            "markup": ")",
+            "linhas": [
+              704,
+              706
+            ]
+          },
+          "html_start": "16",
+          "inicio_efetivo": 16,
+          "contadores": [
+            16
+          ]
+        },
+        {
+          "ast": {
+            "start": 17,
+            "markup": ")",
+            "linhas": [
+              724,
+              726
+            ]
+          },
+          "html_start": "17",
+          "inicio_efetivo": 17,
+          "contadores": [
+            17
+          ]
+        },
+        {
+          "ast": {
+            "start": 18,
+            "markup": ")",
+            "linhas": [
+              746,
+              748
+            ]
+          },
+          "html_start": "18",
+          "inicio_efetivo": 18,
+          "contadores": [
+            18
+          ]
+        },
+        {
+          "ast": {
+            "start": 19,
+            "markup": ")",
+            "linhas": [
+              770,
+              772
+            ]
+          },
+          "html_start": "19",
+          "inicio_efetivo": 19,
+          "contadores": [
+            19
+          ]
+        },
+        {
+          "ast": {
+            "start": 20,
+            "markup": ")",
+            "linhas": [
+              794,
+              796
+            ]
+          },
+          "html_start": "20",
+          "inicio_efetivo": 20,
+          "contadores": [
+            20
+          ]
+        },
+        {
+          "ast": {
+            "start": 21,
+            "markup": ")",
+            "linhas": [
+              818,
+              820
+            ]
+          },
+          "html_start": "21",
+          "inicio_efetivo": 21,
+          "contadores": [
+            21
+          ]
+        },
+        {
+          "ast": {
+            "start": 22,
+            "markup": ")",
+            "linhas": [
+              840,
+              842
+            ]
+          },
+          "html_start": "22",
+          "inicio_efetivo": 22,
+          "contadores": [
+            22
+          ]
+        },
+        {
+          "ast": {
+            "start": 23,
+            "markup": ")",
+            "linhas": [
+              862,
+              864
+            ]
+          },
+          "html_start": "23",
+          "inicio_efetivo": 23,
+          "contadores": [
+            23
+          ]
+        },
+        {
+          "ast": {
+            "start": 24,
+            "markup": ")",
+            "linhas": [
+              884,
+              886
+            ]
+          },
+          "html_start": "24",
+          "inicio_efetivo": 24,
+          "contadores": [
+            24
+          ]
+        },
+        {
+          "ast": {
+            "start": 25,
+            "markup": ")",
+            "linhas": [
+              906,
+              908
+            ]
+          },
+          "html_start": "25",
+          "inicio_efetivo": 25,
+          "contadores": [
+            25
+          ]
+        },
+        {
+          "ast": {
+            "start": 26,
+            "markup": ")",
+            "linhas": [
+              928,
+              930
+            ]
+          },
+          "html_start": "26",
+          "inicio_efetivo": 26,
+          "contadores": [
+            26
+          ]
+        },
+        {
+          "ast": {
+            "start": 27,
+            "markup": ")",
+            "linhas": [
+              950,
+              952
+            ]
+          },
+          "html_start": "27",
+          "inicio_efetivo": 27,
+          "contadores": [
+            27
+          ]
+        },
+        {
+          "ast": {
+            "start": 28,
+            "markup": ")",
+            "linhas": [
+              972,
+              974
+            ]
+          },
+          "html_start": "28",
+          "inicio_efetivo": 28,
+          "contadores": [
+            28
+          ]
+        },
+        {
+          "ast": {
+            "start": 29,
+            "markup": ")",
+            "linhas": [
+              994,
+              996
+            ]
+          },
+          "html_start": "29",
+          "inicio_efetivo": 29,
+          "contadores": [
+            29
+          ]
+        },
+        {
+          "ast": {
+            "start": 30,
+            "markup": ")",
+            "linhas": [
+              1016,
+              1018
+            ]
+          },
+          "html_start": "30",
+          "inicio_efetivo": 30,
+          "contadores": [
+            30
+          ]
+        },
+        {
+          "ast": {
+            "start": 31,
+            "markup": ")",
+            "linhas": [
+              1042,
+              1044
+            ]
+          },
+          "html_start": "31",
+          "inicio_efetivo": 31,
+          "contadores": [
+            31
+          ]
+        },
+        {
+          "ast": {
+            "start": 32,
+            "markup": ")",
+            "linhas": [
+              1064,
+              1066
+            ]
+          },
+          "html_start": "32",
+          "inicio_efetivo": 32,
+          "contadores": [
+            32
+          ]
+        },
+        {
+          "ast": {
+            "start": 33,
+            "markup": ")",
+            "linhas": [
+              1086,
+              1088
+            ]
+          },
+          "html_start": "33",
+          "inicio_efetivo": 33,
+          "contadores": [
+            33
+          ]
+        },
+        {
+          "ast": {
+            "start": 34,
+            "markup": ")",
+            "linhas": [
+              1122,
+              1124
+            ]
+          },
+          "html_start": "34",
+          "inicio_efetivo": 34,
+          "contadores": [
+            34
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "4430876616773eae899f834ea2710e871540ecbcd51bfa9fdee25eb53b6e3de4",
+      "sha256_visivel_md": "f12a7950bc6eff91e4dc6ddb873aaa3aaa0993325bec0fc7c93b75b339b597ac"
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2019/resolucao-n-97-de-19-de-novembro-de-2019-234040718.md",
+      "sha256_md": "6de8adbaebe280edb7f27351576e804815b95d5a941478833e000ccd4bc9e64c",
+      "sha256_fonte": "9458c1d2b87805dafc05f352115cf8e376a4f7236193c25a378d1cab99ab98dd",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "1c0e21669a6c774501646315400d0f3986ece970380a7106689feefad44b04c9",
+      "sha256_visivel_md": "ff4a671ef8ed76018bae570a11c5b54f5248052f35ee95df0b9d1dcd83c3cdea",
+      "primeira_diferenca": {
+        "posicao": 244,
+        "fonte": "to do Programa de Parcerias de Investimentos da Presidência da República - PPI. O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICA - CPPI,no uso das atribuições que lhe confere o artigo 7º, inciso I, o artigo 1",
+        "md": "to do Programa de Parcerias de Investimentos da Presidência da República - PPI. **O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICA - CPPI,**no uso das atribuições que lhe confere o artigo 7º, inciso I, o arti"
+      }
+    },
+    {
+      "path": "reguladores/conselhos-profissionais/resolucoes/2020/resolucao-n-666-de-30-de-setembro-de-2020-280886179.md",
+      "sha256_md": "2a400327c8d77dc0d73b2e8c2447c92574a4f5597e2c97fc7e028e60ad17f907",
+      "sha256_fonte": "66467801fa9ca8cd2f59a8b8779d7654d75bae250f78a2c0d9b26af16e4c0d66",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — TERMO DE ESCLARECIMENTO",
+          "fonte": "ANEXO I TERMO DE ESCLARECIMENTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              32,
+              33
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "fe8cb25f72926cf26abfed44b2a2a877addf7c5f1f1eb22c406e9f067cf38049",
+      "sha256_visivel_md": "d76b306a8ff0123248410efb78782d3d7ed1eccf0876970192457cc297438f45"
+    },
+    {
+      "path": "reguladores/inmetro/portarias/2019/portaria-n-289-de-11-de-junho-de-2019-167068057.md",
+      "sha256_md": "6aba991d6d5c5ae73fae793dd28b86c4fad31f0c682330c8ead3f74b66e888ec",
+      "sha256_fonte": "50b2af234d1d7047f699a7522e5adcf752ef38ffbf104cb1b74896a177671634",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — INSTRUÇÃO NORMATIVA INMETRO PARA CONTAGEM DE PASSAGEIROS DE SERVÇOS DE TRANSPORTE",
+          "fonte": "ANEXO I INSTRUÇÃO NORMATIVA INMETRO PARA CONTAGEM DE PASSAGEIROS DE SERVÇOS DE TRANSPORTE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — REQUISITOS DE AVALIAÇÃO DA CONFORMIDADE PARA CONTAGEM DE PASSAGEIROS DE SERVÇOS DE TRANSPORTE",
+          "fonte": "ANEXO II REQUISITOS DE AVALIAÇÃO DA CONFORMIDADE PARA CONTAGEM DE PASSAGEIROS DE SERVÇOS DE TRANSPORTE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              30,
+              32
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "94868169a7014c113f89ecd68d0d2794e4dab28c1d4e5be4d3b71cb31c290461",
+      "sha256_visivel_md": "e7b60652198c363052a28c0b83a92c9ff9f7ad26dcaa363870df2ba538d5bcda"
+    }
+  ]
+}

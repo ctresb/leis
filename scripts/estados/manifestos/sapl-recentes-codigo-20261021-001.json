@@ -1,0 +1,18 @@
+{
+  "congelado_em": "2026-10-21T06:10:28.390903-03:00",
+  "codigo": {
+    "scripts/estados/capturar_sapl_recentes.py": "ce474febd1e04208fe582b779a6e24ba4f8810c9e298421662a33af1df388751",
+    "scripts/estados/auditar_sapl_recentes_pdf.py": "1e1b32d2811ff489c58024a90cdf83a3a94ec2f64be674b589e98777bac1d9ae",
+    "scripts/estados/test_sapl_recentes_pdf.py": "71e197b4b47e80cb04b4956739f846275f3e853d7a992110e704010c69001357",
+    "scripts/estados/reexecutar_sapl_recentes_pdf.py": "1f4c3f39a423c8f95af79c45b524320de06940c88b12f23ac28e0744dded3818",
+    "scripts/estados/snapshots/capturar_sapl_anexos_20261021_001.py": "9347a70281618d2caed23661795541777147095a803a5a0599410052119dcd9c"
+  },
+  "replay": "4/4; todos os pdfimages por SHA e cercas CommonMark integrais; dois testes identidade AM com divergências de número/data/ano.",
+  "dependencias": {
+    "scripts/estados/pdf_texto_fiel.py": "8a7488a99a1b8b3661093f67263df586f9502ccf9758ca7c4c0a1184a602ed7a",
+    "scripts/estados/auditar_rn_retomada_pdf.py": "c1406988f8bc81964d9499ed4261930306a3a54276f273bc847385a4261a49ce",
+    "scripts/estados/coletar_rn_fontes.py": "19b8d707d94f58e39a9bc3a4a777268db369f5a1919b54cc37007e17840484a8"
+  },
+  "comando": "PYTHONPATH=/tmp/constituicao-markdown-qa-20261020:scripts:scripts/estados /Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/estados/reexecutar_sapl_recentes_pdf.py --manifesto scripts/estados/manifestos/am-publicacao-20261021-001.json --saida NOVO.jsonl",
+  "sha256_replay": "ce6cbdfb918c4b2109716113d38675f3d87369956da922c935c66b7137e197ab"
+}

@@ -163904,6 +163904,174 @@
         "limite": "Leitura ROOT integral de MD e conteúdo visível do HTML preservado; fonte cache por caminho, cotejo literal contextual, sem certificar edição idêntica universal ou ausência em todas as fontes. Textos/retificações/valores e eventuais erros literais permanecem byte idênticos. Nenhuma situação jurídica alterada.",
         "sha256_parecer": "afee758737cc6f211a52e9faf198a958e65e223ba7546c1fbc93e68ec6eb8b98"
       }
+    },
+    {
+      "path": "federal/leis-complementares/2025/lcp-212-2025-01-13.md",
+      "sha256_md": "93195dda23375222bda28ea2b7ae9f037af5f51436ae5f80c169e5b743327704",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/1935/lei-63-1935-06-10.md",
+      "sha256_md": "edd80b871a61e9faa539fb146d59a3881155c48d94386dbcf1e2cfc5806839e2",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: sem versão Current ou Original",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-241-1936-08-29.md",
+      "sha256_md": "1c6ec7bdca63d633175a6ce10a7fe0c1adf79dd44b6f30edcd35f1d3bcb2d7ba",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: sem versão Current ou Original",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-320-1936-11-25.md",
+      "sha256_md": "0bfaccfaf6fcd75756d2e5dbb25e6697a8753a451eadce592f2e237a88852d28",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: sem versão Current ou Original",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-345-1936-12-17.md",
+      "sha256_md": "801618b0d930b76df69cf23dc3c5465b8943e55ca912561486c9b0a361497363",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: sem versão Current ou Original",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/1972/lei-5847-1972-12-06.md",
+      "sha256_md": "2dec787f0c0f00696c6c56e4c7bdc5db45f8734be9beae6e054e0eee48552d3a",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: sem artigo 1 próprio reconhecível",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/1975/lei-6216-1975-06-30.md",
+      "sha256_md": "85bd90241a8cb39d8f38879c52bd0a21cf625ae3404c0c7d9b3ac0b978e17943",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/1985/lei-7426-1985-12-17.md",
+      "sha256_md": "716a8b1752f0df8a6d28b37f96c3cfc52bb8b6f8e9a94b23095b28f6ca3a5c13",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/1985/lei-7448-1985-12-20.md",
+      "sha256_md": "5f6598d8ebbe510038bd6c40bb316b44bfd7c9db30aaebccb34da3d7cf20eec1",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/1989/lei-7793-1989-07-04.md",
+      "sha256_md": "ec072b90bc7fcb86ab5b25f58c23e950810e8df20589ad826224fef5e6a6b637",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/1989/lei-7959-1989-12-21.md",
+      "sha256_md": "81797ace60a6e007c1ba30ab46dd4409e5188af2aad23a4fbae21bf162b0ae2b",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/1991/lei-8202-1991-07-05.md",
+      "sha256_md": "fada13d35fab22f3ba38fb17d486b0e01ba4cfec7004940aa9e3db841724b8bd",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/1991/lei-8282-1991-12-20.md",
+      "sha256_md": "613b00a79238b0dc0f54ab835a1c9433a4d82c0b340872914315699cd53a1045",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: número da epígrafe própria diverge",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/1991/lei-8283-1991-12-20.md",
+      "sha256_md": "8477341b3baef01fca2a4b31c4eb37d6373ed4e1dd5e1b6f564596d43cc1fa6a",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: número da epígrafe própria diverge",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/1995/lei-9018-1995-03-30.md",
+      "sha256_md": "b82ccf261c0fe618b4721d16f5bf4f8184fc72760333b367fc90c641aac876f3",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/1997/lei-9438-1997-02-26.md",
+      "sha256_md": "1cda308d741f39f64c3d7f88684624f7a73c36bec2ff644c3859d194343d2ab1",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/1997/lei-9479-1997-08-12.md",
+      "sha256_md": "0ac9e3e7207739140787849d8612c386dd5fac8f1e34ad110894972a09bf8388",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/1997/lei-9482-1997-08-13.md",
+      "sha256_md": "18e8a225156eaac994c40851d663d13a3ed6ea0522a2158ddde53ae29e8a4fff",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/1998/lei-9691-1998-07-22.md",
+      "sha256_md": "c678cdd62d3440fb9dbb870ae45ce5e845caf12d3afb02780628cd4d7ee11467",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/2000/lei-9963-2000-03-23.md",
+      "sha256_md": "80635189ab53747eb79b11656e7b672bfc05f906764d79e0e15576f2854a1067",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/2001/lei-10397-2001-12-28.md",
+      "sha256_md": "5385f1535df9fddc18153c0344eb5b633ef1b884cb64af6c49af43da0a36a7bd",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/2003/lei-10694-2003-06-26.md",
+      "sha256_md": "c82dea0c368a8b39a5043c19147663440a94c8692fdf210fb9599a7198f979d9",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: CSS com semântica exige revisão específica",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/2009/lei-12017-2009-08-12.md",
+      "sha256_md": "a2e2d6904b2cfa45c06e7775af6f5bcdc6f06efa1d4e3daacbbb4d8b67641287",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: CSS com semântica exige revisão específica",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/2010/lei-12320-2010-09-06.md",
+      "sha256_md": "41e0fd7f1f72d542ad00b6d1574b5ca0f47c04b63e31017838f16ba87bd991ee",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: número da epígrafe própria diverge",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/2012/lei-12773-2012-12-28.md",
+      "sha256_md": "9db17492f78253721f1b54d30a0964d7bb9fb3d9dabfc210b7f33cfbb55b6219",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: número da epígrafe própria diverge",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/2022/lei-14365-2022-06-02.md",
+      "sha256_md": "02a15eb8174619cb3bedc55cbd4594944f74e9063c771527db4650436a30335d",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: texto/pontuação divergem entre HTML oficial e Markdown renderizado",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "federal/leis-ordinarias/2025/lei-15103-2025-01-22.md",
+      "sha256_md": "0d6c4651cc695866fab9f2f13b67edd3b1df0bb2dc2ee84c0cbdf39d8b440ee9",
+      "motivo": "Íntegra pendente após revisão das issues #3/#14: sem versão Current ou Original",
+      "evidencia": "federal/_fonte/auditorias/issues3-14-20261028-v3/manifesto.json"
+    },
+    {
+      "path": "estaduais/ES/leis-delegadas/1967/led-4-1967-id24455.md",
+      "sha256_md": "ca78e1330deb0c6d189c6d15a628b1efb00f63a02e79b50f608b00bd2887839a",
+      "motivo": "Issue #19: cadastro Lei Delegada4/1967 aponta para corpo Lei4/1947; texto correto pendente.",
+      "evidencia": "estaduais/ES/_fonte/auditorias/issue19-20261028/manifesto.json"
     }
   ]
 }

@@ -1,0 +1,250 @@
+{
+  "escopo": "scripts/estados/manifestos/rs-html-20261020-001.json",
+  "total": 2000,
+  "retidos": [
+    {
+      "path": "estaduais/RS/resolucoes/2006/res-mesa-725-2006-id49945.md",
+      "imagens": [
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/logo%20novo%20escola.jpg"
+        }
+      ],
+      "cache": "estaduais/RS/_fonte/resolucoes/2006/res-mesa-725-2006-id49945.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/RS/decretos/2007/dec-45015-2007-id50603.md",
+      "imagens": [
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec45015Brasão.jpg"
+        }
+      ],
+      "cache": "estaduais/RS/_fonte/decretos/2007/dec-45015-2007-id50603.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44742-2006-id50221.md",
+      "imagens": [
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44742figmedalha.jpg"
+        },
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44742fig2.jpg"
+        },
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44742fig3.jpg"
+        }
+      ],
+      "cache": "estaduais/RS/_fonte/decretos/2006/dec-44742-2006-id50221.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44608-2006-id49974.md",
+      "imagens": [
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44608fig1brasão.jpg"
+        }
+      ],
+      "cache": "estaduais/RS/_fonte/decretos/2006/dec-44608-2006-id49974.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44598-2006-id49964.md",
+      "imagens": [
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44599fig1.jpg"
+        },
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44598fig2.jpg"
+        }
+      ],
+      "cache": "estaduais/RS/_fonte/decretos/2006/dec-44598-2006-id49964.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44594-2006-id49959.md",
+      "imagens": [
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44594fig1.jpg"
+        },
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44594fig2.jpg"
+        }
+      ],
+      "cache": "estaduais/RS/_fonte/decretos/2006/dec-44594-2006-id49959.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44578-2006-id49934.md",
+      "imagens": [
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44577fig1.jpg"
+        }
+      ],
+      "cache": "estaduais/RS/_fonte/decretos/2006/dec-44578-2006-id49934.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44577-2006-id49933.md",
+      "imagens": [
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44577fig2.jpg"
+        }
+      ],
+      "cache": "estaduais/RS/_fonte/decretos/2006/dec-44577-2006-id49933.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44559-2006-id49911.md",
+      "imagens": [
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44559%20-%20Estandarte.jpg"
+        }
+      ],
+      "cache": "estaduais/RS/_fonte/decretos/2006/dec-44559-2006-id49911.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44522-2006-id49835.md",
+      "imagens": [
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44522Anexo%20Brasao%2017%20BPM.JPG"
+        }
+      ],
+      "cache": "estaduais/RS/_fonte/decretos/2006/dec-44522-2006-id49835.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44421-2006-id49625.md",
+      "imagens": [
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44421fig.jpg"
+        }
+      ],
+      "cache": "estaduais/RS/_fonte/decretos/2006/dec-44421-2006-id49625.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44376-2006-id49526.md",
+      "imagens": [
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44376fig1.jpg"
+        },
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44376fig2.jpg"
+        },
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44376fig3.jpg"
+        },
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44376fig4.jpg"
+        },
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44376fig5.jpg"
+        },
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44376fig6.jpg"
+        },
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44376fig7.jpg"
+        },
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44376fig8.jpg"
+        },
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44376fig9.jpg"
+        },
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44376fig10.jpg"
+        }
+      ],
+      "cache": "estaduais/RS/_fonte/decretos/2006/dec-44376-2006-id49526.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-44162-2005-id49195.md",
+      "imagens": [
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44162a.jpg"
+        },
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44162b.jpg"
+        }
+      ],
+      "cache": "estaduais/RS/_fonte/decretos/2005/dec-44162-2005-id49195.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-44161-2005-id49194.md",
+      "imagens": [
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44161a.jpg"
+        },
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44161b.jpg"
+        }
+      ],
+      "cache": "estaduais/RS/_fonte/decretos/2005/dec-44161-2005-id49194.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-44119-2005-id49121.md",
+      "imagens": [
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44119anexo.jpg"
+        }
+      ],
+      "cache": "estaduais/RS/_fonte/decretos/2005/dec-44119-2005-id49121.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-44052-2005-id49012.md",
+      "imagens": [
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44052A.jpg"
+        },
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec44052B.jpg"
+        }
+      ],
+      "cache": "estaduais/RS/_fonte/decretos/2005/dec-44052-2005-id49012.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-43941-2005-id48851.md",
+      "imagens": [
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec43941Figura1.jpg"
+        },
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec43941Figura2.jpg"
+        },
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec43941Figura3.jpg"
+        }
+      ],
+      "cache": "estaduais/RS/_fonte/decretos/2005/dec-43941-2005-id48851.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-43787-2005-id48617.md",
+      "imagens": [
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec43787Figura1.jpg"
+        }
+      ],
+      "cache": "estaduais/RS/_fonte/decretos/2005/dec-43787-2005-id48617.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-43782-2005-id48611.md",
+      "imagens": [
+        {
+          "src": "http://www.al.rs.gov.br/legis/anexos/Dec43782Figura1.jpg"
+        }
+      ],
+      "cache": "estaduais/RS/_fonte/decretos/2005/dec-43782-2005-id48611.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    }
+  ]
+}

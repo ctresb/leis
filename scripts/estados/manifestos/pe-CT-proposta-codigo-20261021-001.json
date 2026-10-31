@@ -1,0 +1,21 @@
+{
+  "congelado_em": "2026-10-21T06:26:36.253626-03:00",
+  "codigo": {
+    "scripts/estados/pe_identidade_ct.py": "b44f2665c464de230f4aecebf908e07445e9e2c4288dc480fdc13c1aba742f55",
+    "scripts/estados/test_pe_identidade_ct.py": "b57ab8375f0578a239d3c182194171aaebadb5ad6df0a2dfc544b03d7ebefb25",
+    "scripts/estados/reexecutar_pe_ct.py": "635d08e1cdef2c8bbe3a4f7d01492cfa5d7fdbb1a97f8d7ad8bb82ba60d4635b"
+  },
+  "dependencias": {
+    "scripts/estados/pe_identidade.py": "a8b44a6c2306f7377096a6bc02091e5cd12d46af16d573bf07e6546c1201a7a9",
+    "scripts/estados/auditar_pe_infralegal_cache.py": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+    "scripts/estados/normalizar_rj_apresentacao.py": "eef635064d2db94bbb271983f98ae1af86fc70252facf5212fb91503e370007d",
+    "scripts/estados/coletar_pe_infralegal.py": "24fdd23a06585cf4aeee059cd0e7b78a85af30d7e4565464ac227a0c61533dd2",
+    "scripts/estados/pe.py": "e65e343264f6bd8fb34d583b616b4436765970ada1429869169ab69ad786d5d4",
+    "scripts/html2md.py": "6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6",
+    "scripts/comum.py": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24"
+  },
+  "proposta": "Não modifica coletores congelados nem índice oficial. Adaptador de QA serial comprova cada epígrafe CT contra número-base-C antes de chamar os demais gates congelados. Sem promoção de MD.",
+  "testes": "Três testes: prova própria e não mutação, divergências de tipo/número/sufixo, citação tardia não serve como epígrafe. Replay225/225; whitespace/marcadores zero.",
+  "comando": "PYTHONPATH=/tmp/constituicao-markdown-qa-20261020:scripts:scripts/estados /Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/estados/reexecutar_pe_ct.py --manifesto scripts/estados/manifestos/pe-CT-proposta-privada-20261021-001.json --saida NOVO.jsonl",
+  "sha256_replay": "49ac58be035d5f48e967424181de36aaf93dc4b291600484e60de285b3312f1b"
+}

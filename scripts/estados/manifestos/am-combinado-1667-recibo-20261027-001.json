@@ -1,0 +1,35 @@
+{
+  "finalizado_em": "2026-10-27T17:39:44.330131-03:00",
+  "total": 1667,
+  "subconjuntos": {
+    "AM54": 54,
+    "AM1613": 1613
+  },
+  "retidos": 66,
+  "originais1669_preservados": true,
+  "sem_promocao": true,
+  "plano": "scripts/estados/manifestos/am-combinado-1667-20261027-002.json",
+  "sha256_plano": "a64f869ca6d0102daf61a6e83bc5c3d128244738a8bdf053e78c0acf9e2bf851",
+  "resumo": "estaduais/AM/_fonte/auditorias/am-combinado-1667-20261027-001/replay-final/resumo.json",
+  "sha256_resumo": "450497f2c1f5459f701a0423f9b20d2401ecad85de2475e3349a3f9820a6e0e6",
+  "resultado": {
+    "total": 1667,
+    "grupos": {
+      "AM54": 54,
+      "AM1613": 1613
+    },
+    "HEAD": "15eb09b618ff08a38c4dfee06a91bd139d093f5d",
+    "HEAD_ausentes": 1667,
+    "aliases": 0,
+    "assinaturas": {
+      "conferida": 1444,
+      "nao_comparavel": 223
+    },
+    "dispositivo_proprio": 1667,
+    "retidos": 66,
+    "sem_promocao": true,
+    "sha256_plano": "a64f869ca6d0102daf61a6e83bc5c3d128244738a8bdf053e78c0acf9e2bf851",
+    "sha256_entrada_HEAD": "a3b1f911af5f019ac807d6c75960fee811caadb94c3df0c212b5a22b974c52ec"
+  },
+  "comando_replay_unico": "PYTHONPATH=\"$PWD/scripts/bin/qa-20261027/python\" /Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/estados/snapshots/am_combinado_1669_20261027_001/reexecutar_legisla_am_combinado.py --plano scripts/estados/manifestos/am-combinado-1667-20261027-002.json --head estaduais/AM/_fonte/auditorias/am-combinado-1667-20261027-001/HEAD-entrada.json --execucao DIRETORIO_NOVO"
+}

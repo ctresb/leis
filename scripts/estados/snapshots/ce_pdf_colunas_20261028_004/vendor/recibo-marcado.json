@@ -1,0 +1,9 @@
+{
+  "nome": "marked",
+  "versao": "17.0.5",
+  "sha256_modulo": "0b4487359ce6b85108708e7a532e1242a27f4718241e7b2de109ac6cd307d2dc",
+  "arquivo": "marked-17.0.5-0b4487359ce6b85108708e7a532e1242a27f4718241e7b2de109ac6cd307d2dc.mjs.gz",
+  "sha256_gzip": "0ad25d126fe72d1a7fe42f1287a098efef3f48fa2630cf8c5a9d9bb7240befe4",
+  "bytes_modulo": 41661,
+  "origem": "Distribuição existente do pacote marcado, arquivada byte a byte; licença MIT preservada. Replay usa somente este arquivo relativo, sem cache individual."
+}

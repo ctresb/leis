@@ -1,0 +1,340 @@
+{
+  "revisado_em": "2026-10-21T07:24:16.271756-03:00",
+  "documentos": [
+    {
+      "id_legisla": "18837",
+      "sha256_fonte": "6d7d46f3323e286a18f6c5c952b3125227d53dbf493121d6c21f08ac04bb9284",
+      "numero_epigrafe": "8037",
+      "data_epigrafe": "2026-01-06",
+      "resultado": "alias_preexistente",
+      "retencoes_automaticas_revisadas": [
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Citação da Lei 7161/2024 na ementa e no art. 1º, que lhe acrescenta art. 2º-A; redação alteradora completa, com art. 2º e assinaturas. Já corresponde a norma no disco: manter como alias, sem nova publicação.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "14351",
+      "sha256_fonte": "456b53c00aae71340f09db5b03482141cbf8f79a8211a73960f852ca5fa4bd48",
+      "numero_epigrafe": "7162",
+      "data_epigrafe": "2024-11-12",
+      "resultado": "alias_preexistente",
+      "retencoes_automaticas_revisadas": [
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Citação da Lei 6458/2023 na ementa e no art. 1º. Pontilhado integra citação alteradora do art. 11, seguida §§ 3–8 e NR; não é aviso de omissão do ato próprio. Já corresponde a norma no disco: manter como alias.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "673",
+      "sha256_fonte": "b349bdae66a41ef20e7b01bf2c2c5ceb620e72b7deb5170d3d5d21a36b6f2df7",
+      "numero_epigrafe": "4593",
+      "data_epigrafe": "2018-04-20",
+      "resultado": "reter_ausencia_confirmada_no_campo",
+      "retencoes_automaticas_revisadas": [
+        "remissão a conteúdo exige contexto",
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Ausência confirmada no campo capturado: remete a Anexos I–IV próprios e a fonte declara literalmente que os anexos constam em arquivo PDF do DOE; o campo termina sem eles. Não publicar esse campo como norma integral.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "1281",
+      "sha256_fonte": "1228a8fef664eb2602469ed157666e1ae89d6e809613aa65be26d4c19eeb6a64",
+      "numero_epigrafe": "4312",
+      "data_epigrafe": "2016-03-11",
+      "resultado": "contexto_completo_com_citacao_ou_tabela_propria",
+      "retencoes_automaticas_revisadas": [
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Referências no art. 7º ao Plano Nacional de Educação/Lei federal 13005/2014; ato próprio institui PIA e contém arts. 1–15 e assinaturas. Plano de trabalho mencionado como diretriz de execução; não há aprovação de documento externo preexistente. Remissão literal ao § 2º do art. 6º preservada, sem inventar dispositivo.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "1280",
+      "sha256_fonte": "579376670f36de1e99acee9374b8a85a8b86da2008b864677c8b2a88e73d5a20",
+      "numero_epigrafe": "4311",
+      "data_epigrafe": "2016-02-26",
+      "resultado": "contexto_completo_com_citacao_ou_tabela_propria",
+      "retencoes_automaticas_revisadas": [
+        "remissão a conteúdo exige contexto",
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Referência à Lei 3226/2008 dentro do art. 3º. A Tabela anexa está efetivamente no próprio campo HTML, após assinaturas: cabeçalho CARGOS DE CARREIRA/PADRÃO/NÍVEIS, grupos CNB/CNM/CNS e classes A–F. Matrizes e sinais integrais confrontados pelo auditor. Nota final DOE 14/02/2016 conflita com epígrafe/assinatura 26/02/2016 e nota de reprodução 14/03/2016: preservar literalmente e explicitar conflito, sem inferir data de publicação.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "1237",
+      "sha256_fonte": "c30a1179670678cc1cf194bb901075cca07bf603d321e732e978cc05264591d6",
+      "numero_epigrafe": "4288",
+      "data_epigrafe": "2016-01-18",
+      "resultado": "contexto_completo_com_citacao_ou_tabela_propria",
+      "retencoes_automaticas_revisadas": [
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Lei federal 8069/1990 citada dentro do aviso obrigatório redigido no art. 2º, entre aspas; não constitui ato alheio concatenado. Ato próprio com arts. 1–5 e assinaturas.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "1233",
+      "sha256_fonte": "39eca73b4ce7ca1695b37f3ce46ee180c01999e09b3b82c331ce3ac2b514bf99",
+      "numero_epigrafe": "4284",
+      "data_epigrafe": "2016-01-12",
+      "resultado": "contexto_completo_com_citacao_ou_tabela_propria",
+      "retencoes_automaticas_revisadas": [
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Lei 86/1963 citada no parágrafo único do art. 1º como requisito documental; Lei Promulgada 15/1966 também referenciada. Ato próprio contém arts. 1–2 e assinaturas.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "1234",
+      "sha256_fonte": "ad70d4733fac0dc7ec5a5a256264b61a4b399fc44c33482e1cbd558e8d059787",
+      "numero_epigrafe": "4285",
+      "data_epigrafe": "2016-01-12",
+      "resultado": "contexto_completo_com_citacao_ou_tabela_propria",
+      "retencoes_automaticas_revisadas": [
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Lei 86/1963 citada no parágrafo único do art. 1º como requisito documental; Lei Promulgada 15/1966 também referenciada. Ato próprio contém arts. 1–2 e assinaturas.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "7386",
+      "sha256_fonte": "2848b876ceb1fed9b89eae0df83c66274890e44b26fc04b6fc34e9cdf91ae6f2",
+      "numero_epigrafe": "3998",
+      "data_epigrafe": "2014-01-15",
+      "resultado": "contexto_completo_com_citacao_ou_tabela_propria",
+      "retencoes_automaticas_revisadas": [
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Lei 2228/1994 citada no parágrafo único do art. 4º para identificar Fundo Estadual de Defesa do Consumidor destinatário de multa; ato próprio contém arts. 1–7 e assinaturas.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "7001",
+      "sha256_fonte": "470b119a7032950ab01ea1fe6737a3e0f60ce02963de402df79eedd942d703fc",
+      "numero_epigrafe": "2732",
+      "data_epigrafe": "2002-06-03",
+      "resultado": "contexto_completo_com_citacao_ou_tabela_propria",
+      "retencoes_automaticas_revisadas": [
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Leis 86/1963 e 15/1966 citadas no parágrafo único do art. 1º como requisitos documentais. Ato próprio contém arts. 1–3 e assinaturas.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "7698",
+      "sha256_fonte": "03f7e8d028cc05c6ecd7e4fd499362c9ccc140512a4814e879b544c984d76474",
+      "numero_epigrafe": "2714",
+      "data_epigrafe": "2002-01-02",
+      "resultado": "reter_ausencia_confirmada_no_campo",
+      "retencoes_automaticas_revisadas": [
+        "remissão a conteúdo exige contexto",
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Ausência confirmada no campo capturado: art. 6º altera Anexo I da Lei 2568/1999 na forma anexa a esta Lei, mas após arts. 7º, 9º e 10 só há assinaturas/nota. Além disso, ementa sobre servidores do Ministério Público diverge do corpo sobre ARSAM: requer fonte suplementar, sem inferir qual norma estaria correta.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "13226",
+      "sha256_fonte": "d9180c1bb0b966590898a369fd95dc74f7b55446117dedbc30ceab4a50984e70",
+      "numero_epigrafe": "2096",
+      "data_epigrafe": "1991-12-13",
+      "resultado": "contexto_completo_com_citacao_ou_tabela_propria",
+      "retencoes_automaticas_revisadas": [
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Lei 2027/1991 é identificada no art. 1º para alteração de seu art. 1º, entre aspas. Ato próprio tem arts. 1–3, assinaturas e nota DOE. Não há concatenação de ato diverso.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "13224",
+      "sha256_fonte": "ca08396450a031341a7fc3f0a7e0e0314449eb6c1f62eaead38cf5f20c68fe45",
+      "numero_epigrafe": "2094",
+      "data_epigrafe": "1991-12-11",
+      "resultado": "contexto_completo_com_citacao_ou_tabela_propria",
+      "retencoes_automaticas_revisadas": [
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Leis 86/1963 e 15/1966 são citadas no parágrafo único do art. 1º para exame documental de entidade declarada de utilidade pública. Ato próprio tem arts. 1–3 e assinaturas.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "13225",
+      "sha256_fonte": "a1430590032e6c55125bb05900fdd6ee2b7517f2d82cd7336e9693f7eb917a91",
+      "numero_epigrafe": "2095",
+      "data_epigrafe": "1991-12-11",
+      "resultado": "contexto_completo_com_citacao_ou_tabela_propria",
+      "retencoes_automaticas_revisadas": [
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Leis 86/1963 e 15/1966 são citadas no parágrafo único do art. 1º para exame documental. Ato próprio tem arts. 1–3 e assinaturas.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "13223",
+      "sha256_fonte": "e15f801cd05c5e659ace71863bbd8ca1e6c155374840313f8cbc09da60d3cca9",
+      "numero_epigrafe": "2093",
+      "data_epigrafe": "1991-12-09",
+      "resultado": "contexto_completo_com_citacao_ou_tabela_propria",
+      "retencoes_automaticas_revisadas": [
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Lei 2032/1991 é citada nos arts. 1–3, e seu art. 22 recebe nova redação no art. 2º próprio. Ato contém arts. 1–4 e assinaturas. Aspas da citação estão abertas sem fechamento na fonte, preservadas literalmente; não se reconstrói pontuação.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "8531",
+      "sha256_fonte": "372927c1a86ac51032a679ec5cdef62cf08520aeaf4929390c19d81d8e0769b5",
+      "numero_epigrafe": "1746-A",
+      "data_epigrafe": "1986-04-23",
+      "resultado": "reter_ausencia_confirmada_no_campo",
+      "retencoes_automaticas_revisadas": [
+        "remissão a conteúdo exige contexto",
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Art. 1º exige Tabelas I–XIII próprias; campo termina com declaração de anexos disponíveis no PDF DOE, sem tabelas normativas.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "8751",
+      "sha256_fonte": "b1fef2887c1fc89071d855f1faa8853a9e9b259c67bf4c71741d9dd6a0205dc8",
+      "numero_epigrafe": "1349",
+      "data_epigrafe": "1979-11-20",
+      "resultado": "reter_ausencia_confirmada_no_campo",
+      "retencoes_automaticas_revisadas": [
+        "remissão a conteúdo exige contexto",
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Arts. 1–3 fixam valores nas Tabelas Anexas I–V próprias; fonte termina com nota de anexos em PDF DOE e não apresenta as tabelas.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "8750",
+      "sha256_fonte": "90c5487bff9d37edd2bdee30243327312c6eb7a6a9bcc41947813a1d65baf9e3",
+      "numero_epigrafe": "1348",
+      "data_epigrafe": "1979-11-16",
+      "resultado": "reter_ausencia_confirmada_no_campo",
+      "retencoes_automaticas_revisadas": [
+        "remissão a conteúdo exige contexto",
+        "objeto aprovado exige revisão contextual"
+      ],
+      "fundamento_literal_contextual": "Arts. 1–2 estabelecem quadros/tabela salarial nos Anexos I–IV; campo só contém artigos e assinaturas/nota de PDF, sem anexos.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "8748",
+      "sha256_fonte": "dfc410b439cb446d22544b15bc4e52f3dbf2f29c36854ba30687217ad0acdb7d",
+      "numero_epigrafe": "1346",
+      "data_epigrafe": "1979-11-06",
+      "resultado": "reter_ausencia_confirmada_no_campo",
+      "retencoes_automaticas_revisadas": [
+        "remissão a conteúdo exige contexto"
+      ],
+      "fundamento_literal_contextual": "Arts. 1–2 remetem a Anexos I–III próprios para reajustes; campo termina com nota de anexos no PDF DOE, sem seu conteúdo.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "8744",
+      "sha256_fonte": "6c3953b9e4a754e3d3f952605da16f0ad80b9efdf21511dd453fa958424f760d",
+      "numero_epigrafe": "1342",
+      "data_epigrafe": "1979-10-30",
+      "resultado": "contexto_completo_com_citacao_ou_tabela_propria",
+      "retencoes_automaticas_revisadas": [
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Lei 1288/1978 é citada no art. 1º, que lhe dá nova redação ao art. 3º e parágrafo único. Ato próprio tem arts. 1–2 e assinaturas. Regimento Interno é atribuição futura, sem aprovação de documento omitido.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "8746",
+      "sha256_fonte": "7e2ac1dabd23e38078b6316d03e700a789bbadd723aa1da9a6dcb8062479c019",
+      "numero_epigrafe": "1344",
+      "data_epigrafe": "1979-10-30",
+      "resultado": "contexto_completo_com_citacao_ou_tabela_propria",
+      "retencoes_automaticas_revisadas": [
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Lei 35/1963 é citada para acrescentar § 1º ao seu art. 1º. Reticência (...) integra citação alteradora e não omissão do ato próprio. Ato próprio tem arts. 1–2 e assinaturas.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "8740",
+      "sha256_fonte": "e81d810db9ef68004542d98f8aae8ad32e82f449a1c4519f47275f196d64c4f9",
+      "numero_epigrafe": "1338",
+      "data_epigrafe": "1979-09-24",
+      "resultado": "contexto_completo_com_citacao_ou_tabela_propria",
+      "retencoes_automaticas_revisadas": [
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Leis 1029/1971 e 1170/1975 são citadas no art. 1º, para alterar redação do art. 18 e parágrafos. Ato próprio tem arts. 1–2 e assinaturas.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "8738",
+      "sha256_fonte": "001f6459e9fd3d8277ae08e81097ea8e9a32ef320db2c6b9fff5106dfb74c356",
+      "numero_epigrafe": "1337",
+      "data_epigrafe": "1979-07-27",
+      "resultado": "reter_contexto_indeterminado",
+      "retencoes_automaticas_revisadas": [
+        "remissão a conteúdo exige contexto"
+      ],
+      "fundamento_literal_contextual": "O corpo remete aos anexos de Leis 1274/1978 e 1318/1978, sem instituir anexo próprio de forma inequívoca, mas o portal acrescenta nota de anexos desta Lei em PDF DOE. Informação conflitante: manter retido conservadoramente, sem concluir omissão própria apenas pela nota.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "8737",
+      "sha256_fonte": "2bac2ac316fc19a7218f161f9ca19564f9031e6ff94969cdba13e3067199f483",
+      "numero_epigrafe": "1336",
+      "data_epigrafe": "1979-07-13",
+      "resultado": "reter_ausencia_confirmada_no_campo",
+      "retencoes_automaticas_revisadas": [
+        "remissão a conteúdo exige contexto",
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Arts. 43–44 exigem Tabelas I/I-A/II/III/IV próprias; campo contém artigos, assinaturas e nota de PDF, sem tabelas.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "8735",
+      "sha256_fonte": "2742e2773407a2a8a3c4bedb37be69284f2cdeb64ed9a5e90b8ed9ec88667525",
+      "numero_epigrafe": "1334",
+      "data_epigrafe": "1979-06-26",
+      "resultado": "reter_ausencia_confirmada_no_campo",
+      "retencoes_automaticas_revisadas": [
+        "remissão a conteúdo exige contexto",
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Art. 1º cria quadro pelas Tabelas Anexas I e II e § 1º distribui gratificações pelo Anexo II próprio; campo termina em assinaturas/nota DOE sem anexos.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "8733",
+      "sha256_fonte": "6acf2a4d59160b6f292bd5357a5aee984202da7595de3793a5fa068aeeb327c0",
+      "numero_epigrafe": "1332",
+      "data_epigrafe": "1979-05-25",
+      "resultado": "contexto_completo_com_citacao_ou_tabela_propria",
+      "retencoes_automaticas_revisadas": [
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Lei 1092/1973 é ressalvada no art. 1º, e Lei1197/1976 é revogada pelo art. 3º. PLANHAP é plano nacional executado por financiamentos autorizados, sem aprovação de documento próprio ausente. Ato com arts. 1–3 e assinaturas.",
+      "sem_alteracao_do_corpo": true
+    },
+    {
+      "id_legisla": "8731",
+      "sha256_fonte": "574b9a88ba6d4feff80284cd2e4995e816f5618f35fa109e1aff648702834579",
+      "numero_epigrafe": "1330",
+      "data_epigrafe": "1979-05-02",
+      "resultado": "contexto_completo_com_citacao_ou_tabela_propria",
+      "retencoes_automaticas_revisadas": [
+        "outra epígrafe completa exige revisão de granularidade/citação"
+      ],
+      "fundamento_literal_contextual": "Lei 1218/1976 citada no art. 1º identifica prazo prorrogado e destinação de terrenos; Decreto3801/1977 também referenciado. Ato próprio tem arts. 1–2 e assinaturas.",
+      "sem_alteracao_do_corpo": true
+    }
+  ],
+  "sem_promocao": true,
+  "anterior_preservado": "scripts/estados/manifestos/am-legisla-revisao-contextual-20261021-001.json",
+  "validade": "Apenas SHA exato, não dispensa demais gates; ausência confirmada refere-se ao campo capturado, sem afirmar ausência no portal/DOE."
+}

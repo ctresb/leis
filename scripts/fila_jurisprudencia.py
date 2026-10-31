@@ -15,5 +15,5 @@ while True:
         break
     time.sleep(5)
 raiz = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-sys.exit(subprocess.call(["rtk", "proxy", sys.executable, "-I", "scripts/baixar_jurisprudencia.py",
+sys.exit(subprocess.call([sys.executable, "-I", "scripts/baixar_jurisprudencia.py",
                           "--somente", "bnp-outros", "--rps", "1"], cwd=raiz))

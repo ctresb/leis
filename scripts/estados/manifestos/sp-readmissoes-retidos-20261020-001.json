@@ -1,0 +1,151 @@
+{
+  "uf": "SP",
+  "total_examinado": 24,
+  "total_readmitido": 0,
+  "rejeitados": [
+    {
+      "path": "estaduais/SP/decretos/2006/dec-50670-2006-03-31-id61983.md",
+      "tipo": "Decreto",
+      "motivo": "sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado",
+      "cache": "estaduais/SP/_fonte/decretos/2006/dec-50670-2006-03-31-id61983.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1999/dec-44058-1999-06-30-id7961.md",
+      "tipo": "Decreto",
+      "motivo": "sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado",
+      "cache": "estaduais/SP/_fonte/decretos/1999/dec-44058-1999-06-30-id7961.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1987/dec-27218-1987-07-22-id47821.md",
+      "tipo": "Decreto",
+      "motivo": "epígrafe de retificação/errata antes do dispositivo próprio; revisão da íntegra necessária",
+      "cache": "estaduais/SP/_fonte/decretos/1987/dec-27218-1987-07-22-id47821.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1987/dec-27104-1987-06-24-id48286.md",
+      "tipo": "Decreto",
+      "motivo": "epígrafe de retificação/errata antes do dispositivo próprio; revisão da íntegra necessária",
+      "cache": "estaduais/SP/_fonte/decretos/1987/dec-27104-1987-06-24-id48286.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1987/dec-27079-1987-06-16-id48413.md",
+      "tipo": "Decreto",
+      "motivo": "epígrafe de retificação/errata antes do dispositivo próprio; revisão da íntegra necessária",
+      "cache": "estaduais/SP/_fonte/decretos/1987/dec-27079-1987-06-16-id48413.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1984/dec-23167-1984-12-27-id54981.md",
+      "tipo": "Decreto",
+      "motivo": "epígrafe de retificação/errata antes do dispositivo próprio; revisão da íntegra necessária",
+      "cache": "estaduais/SP/_fonte/decretos/1984/dec-23167-1984-12-27-id54981.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1984/dec-23096-1984-12-13-id55207.md",
+      "tipo": "Decreto",
+      "motivo": "epígrafe de retificação/errata antes do dispositivo próprio; revisão da íntegra necessária",
+      "cache": "estaduais/SP/_fonte/decretos/1984/dec-23096-1984-12-13-id55207.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1984/dec-22036-1984-03-23-id56205.md",
+      "tipo": "Decreto",
+      "motivo": "epígrafe de retificação/errata antes do dispositivo próprio; revisão da íntegra necessária",
+      "cache": "estaduais/SP/_fonte/decretos/1984/dec-22036-1984-03-23-id56205.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1984/dec-21954-1984-02-13-id56383.md",
+      "tipo": "Decreto",
+      "motivo": "epígrafe de retificação/errata antes do dispositivo próprio; revisão da íntegra necessária",
+      "cache": "estaduais/SP/_fonte/decretos/1984/dec-21954-1984-02-13-id56383.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1982/dec-19617-1982-09-28-id59577.md",
+      "tipo": "Decreto",
+      "motivo": "epígrafe de retificação/errata antes do dispositivo próprio; revisão da íntegra necessária",
+      "cache": "estaduais/SP/_fonte/decretos/1982/dec-19617-1982-09-28-id59577.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1982/dec-19553-1982-09-21-id59645.md",
+      "tipo": "Decreto",
+      "motivo": "epígrafe de retificação/errata antes do dispositivo próprio; revisão da íntegra necessária",
+      "cache": "estaduais/SP/_fonte/decretos/1982/dec-19553-1982-09-21-id59645.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1982/dec-19552-1982-09-21-id59646.md",
+      "tipo": "Decreto",
+      "motivo": "epígrafe de retificação/errata antes do dispositivo próprio; revisão da íntegra necessária",
+      "cache": "estaduais/SP/_fonte/decretos/1982/dec-19552-1982-09-21-id59646.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1982/dec-19247-1982-08-06-id60134.md",
+      "tipo": "Decreto",
+      "motivo": "epígrafe de retificação/errata antes do dispositivo próprio; revisão da íntegra necessária",
+      "cache": "estaduais/SP/_fonte/decretos/1982/dec-19247-1982-08-06-id60134.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1982/dec-19246-1982-08-06-id60135.md",
+      "tipo": "Decreto",
+      "motivo": "epígrafe de retificação/errata antes do dispositivo próprio; revisão da íntegra necessária",
+      "cache": "estaduais/SP/_fonte/decretos/1982/dec-19246-1982-08-06-id60135.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1982/dec-19244-1982-08-06-id60137.md",
+      "tipo": "Decreto",
+      "motivo": "epígrafe de retificação/errata antes do dispositivo próprio; revisão da íntegra necessária",
+      "cache": "estaduais/SP/_fonte/decretos/1982/dec-19244-1982-08-06-id60137.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1982/dec-19083-1982-07-13-id60310.md",
+      "tipo": "Decreto",
+      "motivo": "epígrafe de retificação/errata antes do dispositivo próprio; revisão da íntegra necessária",
+      "cache": "estaduais/SP/_fonte/decretos/1982/dec-19083-1982-07-13-id60310.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1982/dec-19031-1982-06-29-id60377.md",
+      "tipo": "Decreto",
+      "motivo": "epígrafe de retificação/errata antes do dispositivo próprio; revisão da íntegra necessária",
+      "cache": "estaduais/SP/_fonte/decretos/1982/dec-19031-1982-06-29-id60377.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1982/dec-18945-1982-06-02-id60513.md",
+      "tipo": "Decreto",
+      "motivo": "epígrafe de retificação/errata antes do dispositivo próprio; revisão da íntegra necessária",
+      "cache": "estaduais/SP/_fonte/decretos/1982/dec-18945-1982-06-02-id60513.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1982/dec-18712-1982-04-19-id60753.md",
+      "tipo": "Decreto",
+      "motivo": "epígrafe de retificação/errata antes do dispositivo próprio; revisão da íntegra necessária",
+      "cache": "estaduais/SP/_fonte/decretos/1982/dec-18712-1982-04-19-id60753.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1982/dec-18421-1982-02-05-id60982.md",
+      "tipo": "Decreto",
+      "motivo": "epígrafe de retificação/errata antes do dispositivo próprio; revisão da íntegra necessária",
+      "cache": "estaduais/SP/_fonte/decretos/1982/dec-18421-1982-02-05-id60982.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1982/dec-18409-1982-02-02-id60994.md",
+      "tipo": "Decreto",
+      "motivo": "epígrafe de retificação/errata antes do dispositivo próprio; revisão da íntegra necessária",
+      "cache": "estaduais/SP/_fonte/decretos/1982/dec-18409-1982-02-02-id60994.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1982/dec-18386-1982-01-22-id61143.md",
+      "tipo": "Decreto",
+      "motivo": "epígrafe de retificação/errata antes do dispositivo próprio; revisão da íntegra necessária",
+      "cache": "estaduais/SP/_fonte/decretos/1982/dec-18386-1982-01-22-id61143.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1981/dec-18015-1981-11-11-id61510.md",
+      "tipo": "Decreto",
+      "motivo": "epígrafe de retificação/errata antes do dispositivo próprio; revisão da íntegra necessária",
+      "cache": "estaduais/SP/_fonte/decretos/1981/dec-18015-1981-11-11-id61510.html.gz"
+    },
+    {
+      "path": "estaduais/SP/decretos/1981/dec-17820-1981-10-09-id61735.md",
+      "tipo": "Decreto",
+      "motivo": "epígrafe de retificação/errata antes do dispositivo próprio; revisão da íntegra necessária",
+      "cache": "estaduais/SP/_fonte/decretos/1981/dec-17820-1981-10-09-id61735.html.gz"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "capturas": [
+    {
+      "tipo": "CSS",
+      "url": "https://www.legislabahia.ba.gov.br/sites/default/files/css/css_vkiLIOlXaI7ne5HpAB_m_zYNFC6g6hcZeg8rZ-s99UI.css",
+      "erro": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1010)>"
+    }
+  ],
+  "parada_conservadora": true,
+  "sem_MD": true,
+  "headers_sessao_omitidos": true
+}

@@ -1,0 +1,82 @@
+{
+  "selecao": "scripts/estados/manifestos/am-amostra-estratificada-PDF-20261027-001.json",
+  "capturas": [
+    {
+      "id_legisla": "1269",
+      "estrato": "1980+",
+      "tipo": "viewer",
+      "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/completo/1269",
+      "iniciado_em": "2026-10-27T17:09:14.407426-03:00",
+      "http": 200,
+      "url_final": "https://diario.imprensaoficial.am.gov.br/portal/visualizacoes/pdf/15098/#/p:3/e:15098",
+      "cache": "estaduais/AM/_fonte/auditorias/amostra-PDF-20261027-002/881f59ffed59009beaa4d42422624a8ebee123f49e758a19a0fde1fd9d39c692.bin.gz",
+      "sha256_fonte": "881f59ffed59009beaa4d42422624a8ebee123f49e758a19a0fde1fd9d39c692",
+      "sha256_cache": "6b02d95d0773746cc1736557d3da1b803f92f6094018801ab43b7d4028f318f0",
+      "PDF": false,
+      "bytes": 6455,
+      "headers": {
+        "Date": "Tue, 27 Oct 2026 20:09:15 GMT",
+        "Server": "Apache/2.4.25 (Debian)",
+        "Content-Length": "6455",
+        "Vary": "Accept-Encoding",
+        "Access-Control-Allow-Origin": "*",
+        "Connection": "close",
+        "Content-Type": "text/html; charset=UTF-8"
+      },
+      "finalizado_em": "2026-10-27T17:09:15.466591-03:00",
+      "edicao_id": "15098",
+      "pagina": "3"
+    },
+    {
+      "id_legisla": "1269",
+      "estrato": "1980+",
+      "tipo": "indice_paginas",
+      "url": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/edicao_imagens/15098",
+      "iniciado_em": "2026-10-27T17:09:16.671210-03:00",
+      "http": 200,
+      "url_final": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/edicao_imagens/15098",
+      "cache": "estaduais/AM/_fonte/auditorias/amostra-PDF-20261027-002/4f1ed9e3242a04a2c4e5d43f46ff41085ccef3f97e3144e5bd5cf70bb0a693d0.bin.gz",
+      "sha256_fonte": "4f1ed9e3242a04a2c4e5d43f46ff41085ccef3f97e3144e5bd5cf70bb0a693d0",
+      "sha256_cache": "e028cbf6d7cda7facf20494e22bf64eee41ba1b914700d00ffd4e78fdbae5dc8",
+      "PDF": false,
+      "bytes": 3525,
+      "headers": {
+        "Date": "Tue, 27 Oct 2026 20:09:17 GMT",
+        "Server": "Apache/2.4.25 (Debian)",
+        "Content-Length": "3525",
+        "Vary": "Accept-Encoding",
+        "Access-Control-Allow-Origin": "*",
+        "Connection": "close",
+        "Content-Type": "text/html; charset=UTF-8"
+      },
+      "finalizado_em": "2026-10-27T17:09:17.209763-03:00"
+    },
+    {
+      "id_legisla": "1269",
+      "estrato": "1980+",
+      "tipo": "PDF_pagina",
+      "url": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/pdf_diario/15098/3",
+      "iniciado_em": "2026-10-27T17:09:18.414479-03:00",
+      "http": 200,
+      "url_final": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/pdf_diario/15098/3",
+      "cache": "estaduais/AM/_fonte/auditorias/amostra-PDF-20261027-002/6d0a856665b0adcd826f6d79ce7b19c7fb698b4ecd669fca054354cde700288b.bin.gz",
+      "sha256_fonte": "6d0a856665b0adcd826f6d79ce7b19c7fb698b4ecd669fca054354cde700288b",
+      "sha256_cache": "b421b6541b0a5ba3bb080db1b5b2927985daa3ac59abec1db97879e4b8e79c3f",
+      "PDF": true,
+      "bytes": 274248,
+      "headers": {
+        "Date": "Tue, 27 Oct 2026 20:09:18 GMT",
+        "Server": "Apache/2.4.25 (Debian)",
+        "Cache-Control": "public, max-age=3600, must-revalidate",
+        "Last-Modified": "Thu, 8 Oct 2020 08:00:05 GMT",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "274248",
+        "Access-Control-Allow-Origin": "*",
+        "Connection": "close",
+        "Content-Type": "application/pdf"
+      },
+      "finalizado_em": "2026-10-27T17:09:19.378798-03:00"
+    }
+  ],
+  "sem_MD": true
+}

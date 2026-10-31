@@ -1,0 +1,66 @@
+{
+  "baseline": "/tmp/constituicao-index-20261020-continuacao.z",
+  "sha256_baseline": "a424728b1798aae5662ce344200637c9dc3b621eca986d3d3a01b6ec22929285",
+  "retidos": [],
+  "colisoes_descritivas_fontes_distintas": [
+    {
+      "path": "estaduais/RS/decretos/2005/dec- 44230-2005-id49319.md",
+      "chave_semantica": [
+        "RS",
+        "decreto",
+        "44230",
+        "2005-12-29"
+      ],
+      "baseline": [],
+      "lote": [
+        [
+          "estaduais/RS/decretos/2005/dec-44230-2005-id49323.md",
+          [
+            "RS",
+            "legis",
+            "49323"
+          ]
+        ],
+        [
+          "estaduais/RS/decretos/2005/dec- 44230-2005-id49319.md",
+          [
+            "RS",
+            "legis",
+            "49319"
+          ]
+        ]
+      ],
+      "decisao": "fontes oficiais distintas preservadas; numeração pode pertencer a órgãos diferentes, não prova duplicação"
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec- 43547-2004-id48328.md",
+      "chave_semantica": [
+        "RS",
+        "decreto",
+        "43547",
+        "2004-12-31"
+      ],
+      "baseline": [],
+      "lote": [
+        [
+          "estaduais/RS/decretos/2004/dec-43547-2004-id48340.md",
+          [
+            "RS",
+            "legis",
+            "48340"
+          ]
+        ],
+        [
+          "estaduais/RS/decretos/2004/dec- 43547-2004-id48328.md",
+          [
+            "RS",
+            "legis",
+            "48328"
+          ]
+        ]
+      ],
+      "decisao": "fontes oficiais distintas preservadas; numeração pode pertencer a órgãos diferentes, não prova duplicação"
+    }
+  ],
+  "criterio": "Fonte oficial/ID canônico e caminho: igualdade retida. Tipo e número/data adicionais auditados, sem fundir órgãos distintos por coincidência de número."
+}

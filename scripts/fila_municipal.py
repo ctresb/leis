@@ -29,7 +29,7 @@ for ano in range(a.ano_inicial, a.ano_final - 1, -1):
     if inicio > fim:
         continue
     print(f"ANO {ano}", flush=True)
-    r = subprocess.run(["rtk", "proxy", sys.executable, "-I", "scripts/baixar_municipal.py",
+    r = subprocess.run([sys.executable, "-I", "scripts/baixar_municipal.py",
                         "--de", inicio.isoformat(), "--ate", fim.isoformat(), "--rps", "1"], cwd=raiz)
     if r.returncode:
         falhou = True

@@ -1,0 +1,27 @@
+{
+  "url": "https://sapl.al.am.leg.br/api/schema/",
+  "http": 200,
+  "headers": {
+    "date": "Wed, 21 Oct 2026 08:57:47 GMT",
+    "content-type": "application/json",
+    "content-length": "7958400",
+    "vary": "Accept, Accept-Language, Cookie",
+    "allow": "GET, HEAD, OPTIONS",
+    "x-frame-options": "ALLOWALL",
+    "content-language": "pt-br",
+    "x-request-id": "53b1fa30-e4f5-4ab7-81e5-913fee7b0dba",
+    "access-control-allow-origin": "*",
+    "access-control-allow-credentials": "true",
+    "access-control-allow-methods": "GET, POST, PUT, DELETE, HEAD, OPTIONS",
+    "access-control-allow-headers": "Access-Control-Allow-Origin,XMLHttpRequest,Accept,Authorization,Cache-Control,Content-Type,DNT,If-Modified-Since,Keep-Alive,Origin,User-Agent,X-Mx-ReqToken,X-Requested-With",
+    "access-control-expose-headers": "Access-Control-Allow-Origin,XMLHttpRequest,Accept,Authorization,Cache-Control,Content-Type,DNT,If-Modified-Since,Keep-Alive,Origin,User-Agent,X-Mx-ReqToken,X-Requested-With",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "x-envoy-upstream-service-time": "2406",
+    "x-volterra-location": "sp4-sao",
+    "server": "volt-adc",
+    "connection": "close"
+  },
+  "capturado_em": "2026-10-21T05:57:48.313299-03:00",
+  "cache": "estaduais/AM/_indice/retomada-20261021-001/schema.bin.gz",
+  "sha256_fonte": "0e0b282065596a48196c674560b366303d976d84e7705a170cba4a805c75c34c"
+}

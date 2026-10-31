@@ -1,0 +1,2319 @@
+{
+  "total_candidatos": 21092,
+  "total_retido_conservador": 180,
+  "total_sem_alerta_pendente": 20912,
+  "criterio": "União dos gates finais de epígrafe/identidade, granularidade e objetos aprovados próprios. Retenção conservadora é pendência de prova, não declaração de contaminação/ausência. Pacotes, manifests, corpo e metadados anteriores permanecem intactos.",
+  "overlays": [
+    {
+      "path": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+      "sha256": "d5ea5fc9e3fe985d14c9bb903e9ed3f09336008a270b40ccd05a0d9f5b554f32"
+    },
+    {
+      "path": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+      "sha256": "fdfa571a6b99197eff424a6d4c6bd68424acc4cf21a63b47e3c788661d553f0f"
+    },
+    {
+      "path": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+      "sha256": "094500215e8b38b7d05a3d52fb6c578c8737e7c54783d579f580891049e80a0c"
+    }
+  ],
+  "retidos": [
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-26895-de-15-de-setembro-de-1979.md",
+      "sha256_md": "34fe79c999b65ca8f7fc576641dac1af02e0582e702032500ca6eac244489a8b",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-26895-de-15-de-setembro-de-1979",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-27053-de-19-de-novembro-de-1979.md",
+      "sha256_md": "6fa6933589145ed78cc8220ee140b38f845b765f96a7fd45fc2a6219f1f3743e",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-27053-de-19-de-novembro-de-1979",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-27054-de-19-de-novembro-de-1979.md",
+      "sha256_md": "53312144a7012983d948bdd12b53e62926293ebe9d1de6d2edef1e7dc9a6573e",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-27054-de-19-de-novembro-de-1979",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27256-de-17-de-marco-de-1980.md",
+      "sha256_md": "071dd2937d9b036797ce26d3bcea036ed4085fd270c64fdeaa261dac051a049b",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-27256-de-17-de-marco-de-1980",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27310-de-15-de-maio-de-1980.md",
+      "sha256_md": "b23a224a0608d60c07ad7bd53d4c247b64a972ed5f83c11cbffe7a7832d96ad5",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-27310-de-15-de-maio-de-1980",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1981/decreto-no-28201-de-09-de-setembro-de-1981.md",
+      "sha256_md": "7bf758a66a00214b427856cb8b73fca71b6f1abf1ba31323a8c9e1378c105d19",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-28201-de-09-de-setembro-de-1981",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1982/decreto-no-28750-de-12-de-abril-de-1982.md",
+      "sha256_md": "9473c91d8a842fa9f6e5dfd8f4de7051e0ea2537d5849b73c37207d076e5bf8a",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-28750-de-12-de-abril-de-1982",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1982/decreto-no-28974-de-27-de-julho-de-1982.md",
+      "sha256_md": "9eaa4ca95cd46a9b2d0f8b02f882624bcafafcaf9a419c1a711ed2d75bc67f40",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-28974-de-27-de-julho-de-1982",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1982/decreto-no-29304-de-02-de-dezembro-de-1982.md",
+      "sha256_md": "58f19b66e07471a72d75de0c7071e227cc1c3a9c4ef6ccd0fb14270eeb28a625",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-29304-de-02-de-dezembro-de-1982",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1983/decreto-no-29577-de-27-de-abril-de-1983.md",
+      "sha256_md": "671052c01d2e7029c810223828acad58258d11f72b5aa0dbd2061e01e2180ebc",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-29577-de-27-de-abril-de-1983",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1983/decreto-no-29581-de-29-de-abril-de-1983.md",
+      "sha256_md": "c45285515e324bbd6874d922d5f29c192110ede687419b4244f62be69c20853c",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-29581-de-29-de-abril-de-1983",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1983/decreto-no-29824-de-23-de-agosto-de-1983.md",
+      "sha256_md": "646d28a70f6fbb1ca48066a7559bf0502cd82135bbeae4da6f2f54144edd3344",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-29824-de-23-de-agosto-de-1983",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1983/decreto-no-30074-de-22-de-novembro-de-1983.md",
+      "sha256_md": "21f5bc6d595d9fd6cf5a747aa27016eac826947b6ceceae8f4d2772ec22e865b",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-30074-de-22-de-novembro-de-1983",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1983/decreto-no-30201-de-14-de-dezembro-de-1983.md",
+      "sha256_md": "47b88b5f596ec13dcbdd3b354fa24b61d730271725fded6b3a021cf4286d803b",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-30201-de-14-de-dezembro-de-1983",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1983/decreto-no-30229-de-22-de-dezembro-de-1983.md",
+      "sha256_md": "9eaa5942b352a9b7d921144039748c1086e7b257d8f5e0b2b4a543cbf8d835da",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-30229-de-22-de-dezembro-de-1983",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1984/decreto-no-30445-de-24-de-abril-de-1984.md",
+      "sha256_md": "13762db4475644da97188d3ba4c18578e9c2752756f4b4025e8a08e91c85a957",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-30445-de-24-de-abril-de-1984",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1984/decreto-no-30479-de-09-de-maio-de-1984.md",
+      "sha256_md": "7fb0b775d3b4beda8c2a58ca7243544559554be58aae02207f3a7efb5ecc80db",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-30479-de-09-de-maio-de-1984",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1984/decreto-no-30775-de-26-de-julho-de-1984.md",
+      "sha256_md": "0589109673bb09e86e41ad070752287525d3955d5e7c3f39b1990e4f31be6adc",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-30775-de-26-de-julho-de-1984",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1984/decreto-no-31299-de-30-de-novembro-de-1984.md",
+      "sha256_md": "1047e018a8e2c18a2550ecfbab9c91f33634cd4efe4a55bbaba6d1586a76d3f2",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-31299-de-30-de-novembro-de-1984",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1985/decreto-no-31615-de-17-de-abril-de-1985.md",
+      "sha256_md": "a3ef7c24d715b877072ba84f31d0f6fb34f0ae5b033324c5589cd58b5ba46413",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-31615-de-17-de-abril-de-1985",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1985/decreto-no-31800-de-17-de-junho-de-1985.md",
+      "sha256_md": "aa225373d04fa9bfe7f192f5840e44ba800724655a7a896e8b280d10fccea47e",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-31800-de-17-de-junho-de-1985",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1985/decreto-no-31886-de-12-de-julho-de-1985.md",
+      "sha256_md": "9d125085ebafe418f00eaf8cc06429ae8f18f3d86d941e8e52e0ec11ff43e521",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-31886-de-12-de-julho-de-1985",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1985/decreto-no-32177-de-05-de-setembro-de-1985.md",
+      "sha256_md": "ca6be771600fed7c573e37bbb66bbb87371990fd6963c4c8cbb2b444aac30dfd",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-32177-de-05-de-setembro-de-1985",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1985/decreto-no-32392-de-24-de-outubro-de-1985.md",
+      "sha256_md": "abbd7b4c3278603ef97ef1b6c08dc21912ecd7d9581732e0618aa1b01581ca70",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-32392-de-24-de-outubro-de-1985",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1985/decreto-no-32486-de-13-de-novembro-de-1985.md",
+      "sha256_md": "89b3136d9c75810ff410eb8cad82516c5b59c9357490311ab5945965b95e00b9",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-32486-de-13-de-novembro-de-1985",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1985/decreto-no-32623-de-05-de-dezembro-de-1985.md",
+      "sha256_md": "2a3f9489201ec5c0abb5ac88e8cdeaf4e98cd2385561105cf2417c2eb8f7c3be",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-32623-de-05-de-dezembro-de-1985",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1986/decreto-ndeg-33077-de-07-de-maio-de-1986.md",
+      "sha256_md": "42a925328c3a3ed44912b03d6e32b8625da93f926f7009c0afa0f93f7562205d",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-ndeg-33077-de-07-de-maio-de-1986",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1986/decreto-ndeg-33137-de-16-de-maio-de-1986.md",
+      "sha256_md": "0988cc10b443f20c82868d4636f8ec2963cfcc07d76d39de7625af79ddfd8886",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-ndeg-33137-de-16-de-maio-de-1986",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1986/decreto-no-32829-de-06-de-janeiro-de-1986.md",
+      "sha256_md": "92e82765df56a2da456e9c0335e6e3e009cfe8b59779fb32e6651b4748849e36",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-32829-de-06-de-janeiro-de-1986",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1986/decreto-no-32901-de-28-de-janeiro-de-1986.md",
+      "sha256_md": "7747dd51f442da81fb640a206f90a9d1c279a632580774f125fa13c7996a5a56",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-32901-de-28-de-janeiro-de-1986",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1986/decreto-no-32917-de-17-de-fevereiro-de-1986.md",
+      "sha256_md": "e95c17624be99ca7400c329771920de4dbe3ba5944cce5e1711c67411be75564",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-32917-de-17-de-fevereiro-de-1986",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1986/decreto-no-33424-de-21-de-julho-de-1986.md",
+      "sha256_md": "78265e2da8b071b7c2d9560d4c8261b6a76d58258520c2b8f5c936de9350c74c",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-33424-de-21-de-julho-de-1986",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1986/decreto-no-33536-de-06-de-agosto-de-1986.md",
+      "sha256_md": "be5626f95e2265f91b7fe8e3c9ca2fa1684e17dc5e6264982553036b80a480bc",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-33536-de-06-de-agosto-de-1986",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1986/decreto-no-33678-de-27-de-agosto-de-1986.md",
+      "sha256_md": "defc3349f4bbc03a5f584436f07d9d5fd0e83e5b576d244fcdba99d17579c2af",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-33678-de-27-de-agosto-de-1986",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1986/decreto-no-33849-de-01-de-outubro-de-1986.md",
+      "sha256_md": "2646e6613f7d9c130457dd3e9a148b25fc1cf074cd30762a36e777ca3152de76",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-33849-de-01-de-outubro-de-1986",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1987/decreto-no-295-de-14-de-setembro-de-1987.md",
+      "sha256_md": "8cdab6ba5761ba75be4b10cc1f8ff427971ab28307df3cfdc4ad65e6b17d5d39",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-295-de-14-de-setembro-de-1987",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1987/decreto-no-34305-de-06-de-janeiro-de-1987.md",
+      "sha256_md": "cd78202ccbb9b77d4c9ac83fdb0c5f3b96f337c982371f972276b4ec133db798",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-34305-de-06-de-janeiro-de-1987",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        },
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1987/decreto-no-34371-de-12-de-fevereiro-de-1987.md",
+      "sha256_md": "70fa7c88fbbedaf582ef28395c8348865f03610e27ea151d55523a1b98ca491c",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-34371-de-12-de-fevereiro-de-1987",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1987/decreto-no-34372-de-12-de-fevereiro-de-1987.md",
+      "sha256_md": "72ba1fd2d58024b558a1383105c411109b9a472644b4c9a956e6136eb0fd481e",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-34372-de-12-de-fevereiro-de-1987",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1987/decreto-no-34373-de-12-de-fevereiro-de-1987.md",
+      "sha256_md": "5366265b3dd436e78c83d8c61f461972993259b0069d78b95421a256604caaba",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-34373-de-12-de-fevereiro-de-1987",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1987/decreto-no-34374-de-12-de-fevereiro-de-1987.md",
+      "sha256_md": "2bdb3bc1c2de81f231af3830f90c34015516736ad083e7c9c2fb180ed199baa7",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-34374-de-12-de-fevereiro-de-1987",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1987/decreto-no-391-de-30-de-setembro-de-1987.md",
+      "sha256_md": "2ea1f3facf3449eff8eba05d6f5df09b98248d7d83c85840ada5fbbe7bfcd8f4",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-391-de-30-de-setembro-de-1987",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1988/decreto-no-1296-de-14-de-julho-de-1988.md",
+      "sha256_md": "03d40f04ae839747ba6a3a1ac71fc46804eccb81c8de66aa3b049c3088754641",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-1296-de-14-de-julho-de-1988",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1988/decreto-no-1400-de-03-de-agosto-de-1988.md",
+      "sha256_md": "7d7e4bf6e39e363c96da8cb1299c420c26d98e30b85df81621e86428f9192244",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-1400-de-03-de-agosto-de-1988",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1991/decreto-no-016-de-09-de-abril-de-1991.md",
+      "sha256_md": "76018acf3ac30ee4a399d71d76228228ed5a9bd8fa5ef78f9db5ad9bb61c8187",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-016-de-09-de-abril-de-1991",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1991/decreto-no-309-de-02-de-setembro-de-1991.md",
+      "sha256_md": "02bf47adaa462c96e57c4628d50349c7c3af724faa1f4f61cf56d7842d7bfdea",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-309-de-02-de-setembro-de-1991",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1991/decreto-no-4403-de-12-de-marco-de-1991.md",
+      "sha256_md": "b848f700181ab1ff73245b95a79e8992e3a5b28ba553e75d51c8fda8b177c0e0",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-4403-de-12-de-marco-de-1991",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1991/decreto-no-4404-de-13-de-marco-de-1991.md",
+      "sha256_md": "c6a5c59e0f43bcee33a07ba8bbeef17839f50bf3ca747020575e9b470bf774c9",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-4404-de-13-de-marco-de-1991",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1991/decreto-no-718-de-25-de-novembro-de-1991.md",
+      "sha256_md": "734e4ff69345a73a3ec67eaa894b56217f66286f63a3ba289044390d77f1f2c0",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-718-de-25-de-novembro-de-1991",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1992/decreto-no-1203-de-27-de-maio-de-1992.md",
+      "sha256_md": "7e01a29e02e8d5e32d8b5d5191b11773a7e8d8b6581cc007c1ab9d570ceae090",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-1203-de-27-de-maio-de-1992",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1992/decreto-no-1314-de-01-de-julho-de-1992.md",
+      "sha256_md": "a1bb35c3cd7834331bfea900915d93acfec4e4131ec4d760245643374d1fd829",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-1314-de-01-de-julho-de-1992",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1992/decreto-no-1617-de-15-de-outubro-de-1992.md",
+      "sha256_md": "fd4a8963d99687ee4b2bcccf0cedf1d18259e63653168635771e5cf310396a51",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-1617-de-15-de-outubro-de-1992",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1992/decreto-no-1631-de-20-de-outubro-de-1992.md",
+      "sha256_md": "9d808ee4b848d139ab2a99a1fe349a53aba86d71eeeb607ee774c65ee99a3009",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-1631-de-20-de-outubro-de-1992",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1992/decreto-no-1643-de-21-de-outubro-de-1992.md",
+      "sha256_md": "f6b528310e118be752dde718ad4a48f4fa16b933fd386e9494740bed00283ad5",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-1643-de-21-de-outubro-de-1992",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1992/decreto-no-1650-de-23-de-outubro-de-1992.md",
+      "sha256_md": "6697501c3d8124bdad5295e44fb686ac6a2a6c0735eb905370625bd1da6e40fd",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-1650-de-23-de-outubro-de-1992",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1992/decreto-no-1671-de-30-de-outubro-de-1992.md",
+      "sha256_md": "2cfdb20783e1f7af19584c52c30dbc74a80dda439a67fc62941eca997f926a3e",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-1671-de-30-de-outubro-de-1992",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1992/decreto-no-1675-de-04-de-novembro-de-1992.md",
+      "sha256_md": "45473cd6ddb7046ba11398996a92d189097bd9e59768e60c4251719b02a3bbd6",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-1675-de-04-de-novembro-de-1992",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1992/decreto-no-1679-de-06-de-novembro-de-1992.md",
+      "sha256_md": "0438a481fd6e0fcb199b07f4457247819e85faae64c68cf6e29cc0d1cf7ddee0",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-1679-de-06-de-novembro-de-1992",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1992/decreto-no-1695-de-10-de-novembro-de-1992.md",
+      "sha256_md": "05f59a5cd7fbc3dc6b0fc744895c261e712156cb759d9cfe994a68b798e40506",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-1695-de-10-de-novembro-de-1992",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1992/decreto-no-1741-de-26-de-novembro-de-1992.md",
+      "sha256_md": "f14d6f306bbc47c4fd5a3fe6e012c12d33a5b8ba08cc1a5929b36e3c9b6f03da",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-1741-de-26-de-novembro-de-1992",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1992/decreto-no-1761-de-01-de-dezembro-de-1992.md",
+      "sha256_md": "c7b9834167dd9c9798d6f02ac24f1c5362aebc032cdb3966290427f03ea3590e",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-1761-de-01-de-dezembro-de-1992",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1993/decreto-no-2145-de-19-de-maio-de-1993.md",
+      "sha256_md": "b2c69eac458cbfe1ab7ab3b8f188bf78310d3d4f7f490a3bb86be748f6574668",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-2145-de-19-de-maio-de-1993",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1993/decreto-no-2155-de-26-de-maio-de-1993.md",
+      "sha256_md": "36bbab280fe4bb54a6cde8b4946d13ed2512b4b9f4652f08a6e48e3fb285813c",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-2155-de-26-de-maio-de-1993",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1993/decreto-no-2156-de-26-de-maio-de-1993.md",
+      "sha256_md": "7da19f40bd90f90f7e1be34f1c3a87025aad69a242ed422ff6a93ffdf1414033",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-2156-de-26-de-maio-de-1993",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        },
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1993/decreto-no-2179-de-04-de-junho-de-1993.md",
+      "sha256_md": "90c4cb3f18ebea7a30572e829c631dbe1300cb2e0aae099d584cc4f80a854e6b",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-2179-de-04-de-junho-de-1993",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1993/decreto-no-2253-de-23-de-junho-de-1993.md",
+      "sha256_md": "382bcbaf794af042a13c047f893f72d9e2789161a9e8a16a8e9a874f238be206",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-2253-de-23-de-junho-de-1993",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1993/decreto-no-2359-de-30-de-julho-de-1993.md",
+      "sha256_md": "876068db987a89d7fb30c61206c2dec3cebb90e8ae4aa3a2e38e4486791181e9",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-2359-de-30-de-julho-de-1993",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1993/decreto-no-2390-de-30-de-agosto-de-1993.md",
+      "sha256_md": "9927d18858f4ea1e62200ba357727db0f9b74d26da5db91bc66c03b46d2faa8a",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-2390-de-30-de-agosto-de-1993",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1994/decreto-no-2754-de-05-de-janeiro-de-1994.md",
+      "sha256_md": "b5664b57f0ac0d4ebaa54dd289c4b3fe0786f340cdc8d94d90d0a9d473d897a4",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-2754-de-05-de-janeiro-de-1994",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1994/decreto-no-3743-de-29-de-novembro-de-1994.md",
+      "sha256_md": "cd3e0c37591c0d8c989d3f4e7b1a7e1cc6f6b5729f8e62b73d6e562538decdb3",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-3743-de-29-de-novembro-de-1994",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1994/decreto-no-3886-de-23-de-dezembro-de-1994.md",
+      "sha256_md": "df231a2049482b8a331c272f1a4009c787de7b34f9d611350cf03504c376bc6a",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-3886-de-23-de-dezembro-de-1994",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1994/decreto-no-3917-de-27-de-dezembro-de-1994.md",
+      "sha256_md": "7549d30f41f65ba1ab1b11f4eeb66e0e3aec65a3234716055f8c29c2a4339ee8",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-3917-de-27-de-dezembro-de-1994",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1995/decreto-no-4170-de-02-de-maio-de-1995.md",
+      "sha256_md": "b1abdfed38605d31c09090849138ce90b4b35ff61d19550200be4e2783d1360c",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-4170-de-02-de-maio-de-1995",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1995/decreto-no-4503-de-08-de-agosto-de-1995.md",
+      "sha256_md": "dda4ede86a8378e18a44f833cd519cb3c052448ad2e731a8048366a3c6135a7e",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-4503-de-08-de-agosto-de-1995",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1995/decreto-no-4949-de-04-de-dezembro-de-1995.md",
+      "sha256_md": "172eb33ac3c067c2f94c52e906db0582dfad4bd1582c5b72da6d7b3ae64128d3",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-4949-de-04-de-dezembro-de-1995",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1997/decreto-no-6241-de-28-de-fevereiro-de-1997.md",
+      "sha256_md": "4e42628f9c51deaff9477be0388f8e7d4773965f69a286a1ca56fc8d276ade61",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-6241-de-28-de-fevereiro-de-1997",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1997/decreto-no-6718-de-05-de-setembro-de-1997.md",
+      "sha256_md": "77f20f71ecb40bdac4c1dc6f288e6f477b0189259503001278bef7b4d906e7e8",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-6718-de-05-de-setembro-de-1997",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1997/decreto-no-7036-de-20-de-novembro-de-1997.md",
+      "sha256_md": "78d5edef49ecf71a0d4cab0d909478537c6e32f44a8d5a9d7247e386ba38456b",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-7036-de-20-de-novembro-de-1997",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1998/decreto-no-7237-de-13-de-fevereiro-de-1998.md",
+      "sha256_md": "d75be691b2534e70b42e7df53917f2e6f071584ea23981b7bbe9b23e1c050868",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-7237-de-13-de-fevereiro-de-1998",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1998/decreto-no-7427-de-31-de-agosto-de-1998.md",
+      "sha256_md": "8dc133d2468f5e8be976ed757baf31018c70fff21fd85d98427fcc636f314bcf",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-7427-de-31-de-agosto-de-1998",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1999/decreto-no-7543-de-09-de-marco-de-1999.md",
+      "sha256_md": "6e3cc389388168e342d88200bbae10280f6d157b7d4a74e5f5013709b1afbedc",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-7543-de-09-de-marco-de-1999",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1999/decreto-no-7546-de-24-de-marco-de-1999.md",
+      "sha256_md": "fc43c8f9ac8c9cdb5d2e0ec969c9d794af99a0bd0431638e1411eae6053f4011",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-7546-de-24-de-marco-de-1999",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2000/decreto-no-7802-de-15-de-maio-de-2000.md",
+      "sha256_md": "644fb7eb12ab70b31e50deb5c6669034aa7be207006ca765ccdd08f2a0468d07",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-7802-de-15-de-maio-de-2000",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2001/decreto-no-7949-de-08-de-maio-de-2001.md",
+      "sha256_md": "44fe5312c38cbdb47b6b7a2457a6798b8cf5bbe84a7141457d2580f0b711670d",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-7949-de-08-de-maio-de-2001",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2001/decreto-no-7978-de-08-de-junho-de-2001.md",
+      "sha256_md": "06a24e94fbe190ffe9e8f1afe6801f0b0499e936ea97535582b145cb7768fb15",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-7978-de-08-de-junho-de-2001",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2002/decreto-no-8155-de-19-de-fevereiro-de-2002.md",
+      "sha256_md": "512c804b51795b0c9484c02b4ed098185fb28be8d3ae767b0a4ea47df862e267",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-8155-de-19-de-fevereiro-de-2002",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2002/decreto-no-8392-de-12-de-dezembro-de-2002.md",
+      "sha256_md": "0c9127f7775cf937cec2b5612a054b9c0b876db6dd59cb5c5e7a825b0f2b77c9",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-8392-de-12-de-dezembro-de-2002",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "primeira epígrafe com número divergente",
+            "data literal da epígrafe divergente: 2005-12-05"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2003/decreto-no-8557-de-09-de-junho-de-2003.md",
+      "sha256_md": "994220c93dbee4d55fd9ccb7c8a659b918c4c9dcaa827fecdb9b333122c1f423",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-8557-de-09-de-junho-de-2003",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2003/decreto-no-8577-de-04-de-julho-de-2003.md",
+      "sha256_md": "d8fb39631c9b5cf2cf6345dd311267d1183285c0f7aff4d9ae21cb355a032237",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-8577-de-04-de-julho-de-2003",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        },
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2003/decreto-no-8626-de-29-de-agosto-de-2003.md",
+      "sha256_md": "3ee78aa429a8a502e06d9925bfb6df2fa6e97d168ea527e114d70a9fe4728c8a",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-8626-de-29-de-agosto-de-2003",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        },
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2003/decreto-no-8694-de-29-de-outubro-de-2003.md",
+      "sha256_md": "b978be8df727d7d6d27eba11166c872ffb9e33e3c0cded4e9ba3754de1cbe7a5",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-8694-de-29-de-outubro-de-2003",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2003/decreto-no-8824-de-16-de-dezembro-de-2003.md",
+      "sha256_md": "190e693429a644462227a93416130a6c2eb97fd5bbcf218db11de5afe7ecd733",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-8824-de-16-de-dezembro-de-2003",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2004/decreto-no-9052-de-07-de-abril-de-2004.md",
+      "sha256_md": "22cf3e5fc2853b8a0161e6f82541f9c94ae5889a4da3ce6b6a73322e186bf40d",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-9052-de-07-de-abril-de-2004",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2004/decreto-no-9123-de-21-de-junho-de-2004.md",
+      "sha256_md": "10f6d3783ebc698421b231749fe9deb1524e384c88a9366f8d3ad0980c9bdb0f",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-9123-de-21-de-junho-de-2004",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2004/decreto-no-9130-de-05-de-julho-de-2004.md",
+      "sha256_md": "550bee977f272ca44eb791e5d36613e2ce7241f38c3be4324ea16e52b303c8ce",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-9130-de-05-de-julho-de-2004",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2004/decreto-no-9151-de-28-de-julho-de-2004.md",
+      "sha256_md": "fe83af5817627ae0b195220a6f593afa446c752fb196b9296d06d7f309ef19cc",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-9151-de-28-de-julho-de-2004",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2004/decreto-no-9289-de-29-de-dezembro-de-2004.md",
+      "sha256_md": "8a5b8daa6fc6ea59e16dd4a90a24031fe41b637961f6d9cbccfac0e5665cfb2b",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-9289-de-29-de-dezembro-de-2004",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2005/decreto-no-9361-de-07-de-marco-de-2005.md",
+      "sha256_md": "ca88fd8b46561db79a5441d0ed215985efe434e291c616a54677fd7cff4ac222",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-9361-de-07-de-marco-de-2005",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2005/decreto-no-9385-de-31-de-marco-de-2005.md",
+      "sha256_md": "3766b3b879a513a97881d0abd2dad341d7763a3e565f917fb3d214ae4f146a4e",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-9385-de-31-de-marco-de-2005",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2005/decreto-no-9402-de-25-de-abril-de-2005.md",
+      "sha256_md": "3235db997f924f78dcc86ac28b406b0f399031e7c5fcc0d0f435a6d1799bfc0e",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-9402-de-25-de-abril-de-2005",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2005/decreto-no-9461-de-20-de-junho-de-2005.md",
+      "sha256_md": "d42fd80ee545eca9b1ad45f17383f92e7d4377c7bf625e26b8a3f6b2f0c29e19",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-9461-de-20-de-junho-de-2005",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2005/decreto-no-9505-de-03-de-agosto-de-2005.md",
+      "sha256_md": "6024003ada03b29f0c26237e1cbe8f9a4970eb654c7bb195069b34bb9dc10ba1",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-9505-de-03-de-agosto-de-2005",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2005/decreto-no-9554-de-26-de-setembro-de-2005.md",
+      "sha256_md": "fecdec2d4e11bd7d6e22b2cf9b71aa8a9c5c02d9f0fab68f37e590c31dc99c8c",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-9554-de-26-de-setembro-de-2005",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2005/decreto-no-9571-de-10-de-outubro-de-2005.md",
+      "sha256_md": "c5490ec6a9fb0ce9022dd4b4c64f7e3b93ed47ddda6ca506fdc2c07645dc8232",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-9571-de-10-de-outubro-de-2005",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2005/decreto-no-9590-de-17-de-outubro-de-2005.md",
+      "sha256_md": "24d089f4a7e1d36510e403ae2d05b164d6c78fc9b727897b45ff5780b5d41807",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-9590-de-17-de-outubro-de-2005",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2005/decreto-no-9712-de-14-de-dezembro-de-2005.md",
+      "sha256_md": "625abd128680f49398f8dfd649c3bf9c203b07ae92f670fbd594c27be5c84d7f",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-9712-de-14-de-dezembro-de-2005",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2005/decreto-no-9748-de-28-de-dezembro-de-2005.md",
+      "sha256_md": "2f54aed8dd7b14b984b09356ded9cde868cd8016cf97816bf4f70499a2912876",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-9748-de-28-de-dezembro-de-2005",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        },
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2006/decreto-no-10051-de-11-de-julho-de-2006.md",
+      "sha256_md": "77fdfba68e2aba8b2e163904f783fda628f33b4ccc9c2df16654c871ba2da0ae",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-10051-de-11-de-julho-de-2006",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2006/decreto-no-10065-de-01-de-agosto-de-2006.md",
+      "sha256_md": "cddadee62fd95c9e33e2b29867f448fe07647533198da86858d7c1b0cc955d39",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-10065-de-01-de-agosto-de-2006",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2006/decreto-no-10067-de-08-de-agosto-de-2006.md",
+      "sha256_md": "46e3b3174b5965e884fc517f1a6d7b6532715cd0b2ec8978dcce2c1ad5e25ec7",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-10067-de-08-de-agosto-de-2006",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2006/decreto-no-10113-de-06-de-outubro-de-2006.md",
+      "sha256_md": "7de33488820f6965c61859dd179842bf93e951e702faab0b4545938b7dfa1602",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-10113-de-06-de-outubro-de-2006",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2006/decreto-no-10137-de-27-de-outubro-de-2006.md",
+      "sha256_md": "4b6265d36de0c6932126f2d4a1b6b702149aedd8d260e9e2735ea055fd46d6b9",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-10137-de-27-de-outubro-de-2006",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        },
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2006/decreto-no-10181-de-14-de-dezembro-de-2006.md",
+      "sha256_md": "3d85f5e45e704180388b9b52e2c8498664dec7ae276eb22dedbd5d3610241693",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-10181-de-14-de-dezembro-de-2006",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2007/decreto-no-10222-de-01-de-fevereiro-de-2007.md",
+      "sha256_md": "ee8f6394f75914b48a4baa4bfd1bbbdc0e8d4483dd1df799bfdf341248dd0b07",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-10222-de-01-de-fevereiro-de-2007",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2007/decreto-no-10311-de-10-de-abril-de-2007.md",
+      "sha256_md": "b754dd9669ecfbfc71dc776c830e67d46f0856d41b7502d85078223f9afbf432",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-10311-de-10-de-abril-de-2007",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2007/decreto-no-10418-de-08-de-agosto-de-2007.md",
+      "sha256_md": "d4cffe99fe4936f8c1fd809b36cab15ce4e072ce24c0c8c52c1371ace2204a53",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-10418-de-08-de-agosto-de-2007",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2007/decreto-no-10448-de-06-de-setembro-de-2007.md",
+      "sha256_md": "dd71173cff7ca4261a9e6c2ab9cef575a24cf659e507a3f52130c08bf5f3ca1c",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-10448-de-06-de-setembro-de-2007",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2008/decreto-no-10841-de-18-de-janeiro-de-2008.md",
+      "sha256_md": "23d5dc178d872fd727a5e04c53b76256b9dadfdd2fe18e14dc7075451ee67e97",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-10841-de-18-de-janeiro-de-2008",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        },
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2009/decreto-no-11448-de-02-de-marco-de-2009.md",
+      "sha256_md": "f1838b046d7052990ba0351d1332272b6075a007ed33d704f9c02b7caacb3141",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-11448-de-02-de-marco-de-2009",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        },
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2009/decreto-no-11461-de-09-de-marco-de-2009.md",
+      "sha256_md": "e1ed5b18f46dc4b88db5d54a05f5a9f465c0f6309a7dfd09bc5536bd9a427f8f",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-11461-de-09-de-marco-de-2009",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2009/decreto-no-11474-de-20-de-marco-de-2009.md",
+      "sha256_md": "d16c8c440e9862fb31792e4bf353ec97f5791f6f599f5772e6a1c702392d606d",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-11474-de-20-de-marco-de-2009",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2009/decreto-no-11475-de-23-de-marco-de-2009.md",
+      "sha256_md": "8f76f9c26f9f71ae9b02a65d32a932a35348cb09ac67343fc30bd137f40ca745",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-11475-de-23-de-marco-de-2009",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2009/decreto-no-11823-de-03-de-novembro-de-2009.md",
+      "sha256_md": "d5337e6ea0355aa69f74480373d62109ae363c891990126433e8b2d866c059cb",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-11823-de-03-de-novembro-de-2009",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2009/decreto-no-11857-de-01-de-dezembro-de-2009.md",
+      "sha256_md": "069005408141f6c564c058d3eb0b32f51863034bb8706e1d9e69d51da3f8412e",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-11857-de-01-de-dezembro-de-2009",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        },
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2010/decreto-no-12085-de-03-de-maio-de-2010.md",
+      "sha256_md": "18af7538223826caa390d7d77c7e908da548e5dbcafb4db7e784e59b67a6e4c3",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-12085-de-03-de-maio-de-2010",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2011/decreto-no-12559-de-28-de-janeiro-de-2011.md",
+      "sha256_md": "2cc1076d773073d09c98c966e724ca0643b74aede14c1af11d232b2ee7ca6ae3",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-12559-de-28-de-janeiro-de-2011",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2011/decreto-no-13213-de-24-de-agosto-de-2011.md",
+      "sha256_md": "e9d29d155345c63be8fd0da4abbcdd3f798e40f9e2faea0a76ecddb96ad28cd0",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-13213-de-24-de-agosto-de-2011",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2011/decreto-no-13473-de-28-de-novembro-de-2011.md",
+      "sha256_md": "702a0f03271ea014efd36818ea9e304443016514c47b9cdf81dda4448a95c202",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-13473-de-28-de-novembro-de-2011",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2011/decreto-no-13543-de-21-de-dezembro-de-2011.md",
+      "sha256_md": "36ef661e54550294a7b410f2592a1f0a6c2d7bdfc8c3a602191fae032ebe47bf",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-13543-de-21-de-dezembro-de-2011",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2012/decreto-no-13664-de-07-de-fevereiro-de-2012.md",
+      "sha256_md": "e0fb685d96387e3f537262d0c14858bfae1e79458a7f1bbd7bed6ae6f4150d4c",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-13664-de-07-de-fevereiro-de-2012",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2012/decreto-no-13719-de-27-de-fevereiro-de-2012.md",
+      "sha256_md": "07ef6e5ebab317a0bc8a07c51edec2de82417cd9958a1f8e7750a0c2c675df6d",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-13719-de-27-de-fevereiro-de-2012",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2012/decreto-no-13905-de-10-de-abril-de-2012.md",
+      "sha256_md": "c15d53dfd7865a56ecaca57964d8d06e559f52b5edf6b73b3187b4c16dad4611",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-13905-de-10-de-abril-de-2012",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2012/decreto-no-13937-de-19-de-abril-de-2012.md",
+      "sha256_md": "e511e9bb0c1c95cbd31ede100f07a7ca469f767cabf0faa0a68bbc79758e0cfb",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-13937-de-19-de-abril-de-2012",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        },
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2012/decreto-no-14075-de-31-de-julho-de-2012.md",
+      "sha256_md": "18ac21f532027f069580aca8bf5b2bcdd4005b1a526f8e226451b65cb0d5b029",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-14075-de-31-de-julho-de-2012",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2012/decreto-no-14076-de-31-de-julho-de-2012.md",
+      "sha256_md": "ab58542d0cd1cdbdf2d21d151b04660b05419989fd3451ee49faa020f91e7386",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-14076-de-31-de-julho-de-2012",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2012/decreto-no-14083-de-08-de-agosto-de-2012.md",
+      "sha256_md": "20a7a16fdfe6803d08f2cd858ff7d2f70f6c77f9fc36aec9749953cdab8743d1",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-14083-de-08-de-agosto-de-2012",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "primeira epígrafe com número divergente",
+            "tipo da primeira epígrafe divergente",
+            "ano da epígrafe divergente"
+          ],
+          "evidencia_literal_no_overlay": true
+        },
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2012/decreto-no-14125-de-06-de-setembro-de-2012.md",
+      "sha256_md": "cd9d8ca77c2309e8e2b812d713000488cb39a11ab97c2577567581f67535ab59",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-14125-de-06-de-setembro-de-2012",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2012/decreto-no-14127-de-11-de-setembro-de-2012.md",
+      "sha256_md": "0e680f0d43becabd56306140932ce4d3d671f85ddf15c52afdb051ac2ffdcda9",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-14127-de-11-de-setembro-de-2012",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2013/decreto-no-14255-de-02-de-janeiro-de-2013.md",
+      "sha256_md": "639333707996a34cb85d945d5e35775c300ea507b6a03dea3c80867f821e3cb1",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-14255-de-02-de-janeiro-de-2013",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2013/decreto-no-14323-de-22-de-fevereiro-de-2013.md",
+      "sha256_md": "634662bcfbadf831fb2c06b8abec06864d0d3c36c82662b71acc82dd8a8a024f",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-14323-de-22-de-fevereiro-de-2013",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2013/decreto-no-14336-de-25-de-fevereiro-de-2013.md",
+      "sha256_md": "57e853c7488d81000a711d266ef743962c6edf1d6c082bc2bfa202fdc60ef0d3",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-14336-de-25-de-fevereiro-de-2013",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2013/decreto-no-14369-de-27-de-marco-de-2013.md",
+      "sha256_md": "47ae66cffeb0cc6f4eaea997bc4d85758ba7380a9372687d4f1a39a21f047361",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-14369-de-27-de-marco-de-2013",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2013/decreto-no-14515-de-29-de-maio-de-2013.md",
+      "sha256_md": "41b315147057a11eaf6338e51c2f34b6f138cd703bd45348752c483121758381",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-14515-de-29-de-maio-de-2013",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2013/decreto-no-14684-de-01-de-agosto-de-2013.md",
+      "sha256_md": "40879b644209e7dad2baba33d5bc96ea8e3ac64e92c31a691760a3e18fa4030a",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-14684-de-01-de-agosto-de-2013",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2013/decreto-no-14731-de-03-de-setembro-de-2013.md",
+      "sha256_md": "9e095e2c1632e25d8c685769f988bf4b0d256d038709fe4f3c86172be4cb0de3",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-14731-de-03-de-setembro-de-2013",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2013/decreto-no-14863-de-09-de-dezembro-de-2013.md",
+      "sha256_md": "e119b9296491e9a5fbf2513f8c35cbd3554370ad1807c38547d62138a7a260aa",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-14863-de-09-de-dezembro-de-2013",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2014/decreto-no-14905-de-02-de-janeiro-de-2014.md",
+      "sha256_md": "d40a5f9166a5480bfc939e4761b521ac875b453a5a903444b197d9d0440af568",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-14905-de-02-de-janeiro-de-2014",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2014/decreto-no-14958-de-20-de-fevereiro-de-2014.md",
+      "sha256_md": "3b3e99776c670cf1f43a57038fd0da0c98056d587bae1cdaf4f4db3ef63bbe02",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-14958-de-20-de-fevereiro-de-2014",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2014/decreto-no-14959-de-20-de-fevereiro-de-2014.md",
+      "sha256_md": "6dac71270ec59549311c54b6a0bc66e51456d0e41855e5514a970c30bd9bebfb",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-14959-de-20-de-fevereiro-de-2014",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2014/decreto-no-14999-de-18-de-marco-de-2014.md",
+      "sha256_md": "67bd86e97657b8a32974e61e13ba64016c740a7ecde58284eea6a1f6e7b6307e",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-14999-de-18-de-marco-de-2014",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2014/decreto-no-15137-de-16-de-maio-de-2014.md",
+      "sha256_md": "bcbc6c2e5eb574630f8b149dd3431e94f8289607cbbea8e65f73863101b879fd",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-15137-de-16-de-maio-de-2014",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2015/decreto-no-15963-de-25-de-fevereiro-de-2015.md",
+      "sha256_md": "4fbce0f9ccbd877b53a8e1ec930cdd2b8f08a5038d4832fbe812749653de7329",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-15963-de-25-de-fevereiro-de-2015",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2015/decreto-no-16106-de-29-de-maio-de-2015.md",
+      "sha256_md": "a25042bd0135017b47dd8a239325956f6798c650b4695008fd2b6315e2c715f9",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-16106-de-29-de-maio-de-2015",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "primeira epígrafe com número divergente",
+            "data literal da epígrafe divergente: 2016-04-19"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2015/decreto-no-16107-de-29-de-maio-de-2015.md",
+      "sha256_md": "7589685d55c56a60eda8b97b1b733e09bf2887047e41a0c886108e373668c3b6",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-16107-de-29-de-maio-de-2015",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2015/decreto-no-16456-de-09-de-dezembro-de-2015.md",
+      "sha256_md": "c8447b0d44aa2554e1a9658d5081427afaec599e3a43c6e9eae6aa7ac9d8d6a1",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-16456-de-09-de-dezembro-de-2015",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2016/decreto-no-16565-de-29-de-janeiro-de-2016.md",
+      "sha256_md": "d4b7b904033e9b01affb29e55b98c188c7cbbbf9511539fdd54b8b1c2a430a1d",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-16565-de-29-de-janeiro-de-2016",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2016/decreto-no-16604-de-25-de-fevereiro-de-2016.md",
+      "sha256_md": "b407e1245e5915c44aa6efddccfc51be0974db171e7a4df6377d6f5389051972",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-16604-de-25-de-fevereiro-de-2016",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2016/decreto-no-16646-de-14-de-marco-de-2016.md",
+      "sha256_md": "7696a416c568efa5c2a7bcca1e3fb4d82c9f072a630d3828419e402ef7ddb204",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-16646-de-14-de-marco-de-2016",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2016/decreto-no-16712-de-10-de-maio-de-2016.md",
+      "sha256_md": "4becd00a2e5bc5bb2b1b7e0edc35f3fbec9169ee4cc003891922afb3a4b59cc0",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-16712-de-10-de-maio-de-2016",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2016/decreto-no-17168-de-08-de-novembro-de-2016.md",
+      "sha256_md": "ba19544a7af6a87afdf92f373f93dacdeb2a72e4a0b07f255232e55a1eac9277",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-17168-de-08-de-novembro-de-2016",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2017/decreto-no-17376-de-31-de-janeiro-de-2017.md",
+      "sha256_md": "8a52f68a03ab9df313bbdf50703b2d309e7bdd0184b5c4df23a9eeac771b0a09",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-17376-de-31-de-janeiro-de-2017",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2018/decreto-no-18217-de-26-de-janeiro-de-2018.md",
+      "sha256_md": "855115bd86a9a9b4ca284bec0f7b18df92bb1206e1d211be0b4b3009d267c17c",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-18217-de-26-de-janeiro-de-2018",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2018/decreto-no-18241-de-22-de-fevereiro-de-2018.md",
+      "sha256_md": "db8c21b0ccdd92299c70db8bf2e6cf26b0fa095d6e8bd05caea631104ea73201",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-18241-de-22-de-fevereiro-de-2018",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2018/decreto-no-18423-de-28-de-maio-de-2018.md",
+      "sha256_md": "ed84bdfd5a1cd69cfb994e257b5881b75e76b42cb79ca894bf00a3429fc981c2",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-18423-de-28-de-maio-de-2018",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2018/decreto-no-18795-de-17-de-novembro-de-2018.md",
+      "sha256_md": "9747d9037c8b0f996d36663cb9fb47b9339875ffbc9c8b299c5c242dbc00afc2",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-18795-de-17-de-novembro-de-2018",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2018-11-17"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2019/decreto-no-18826-de-02-de-janeiro-de-2019.md",
+      "sha256_md": "55b23c56fcaf738641ab8c015dbb377de7874dcdbd7cd102a468fa31c189f1d2",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-18826-de-02-de-janeiro-de-2019",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2019/decreto-no-18827-de-02-de-janeiro-de-2019.md",
+      "sha256_md": "8336eb766c77252613349426aeb2bef75cc375e7deea8194d5e2f850e14cb8ea",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-18827-de-02-de-janeiro-de-2019",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2019/decreto-no-18871-de-21-de-janeiro-de-2019.md",
+      "sha256_md": "345b2d2bb48a4b1477d0fb2807924a68e4e43059d7e5f5b9410bfb4fc499ab2c",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-18871-de-21-de-janeiro-de-2019",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2019/decreto-no-18883-de-29-de-janeiro-de-2019.md",
+      "sha256_md": "8bfafcbc82e7520cb84aec642cb6b6d3abc5a0cc50befcc9e7ecdc758bb0b673",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-18883-de-29-de-janeiro-de-2019",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2019/decreto-no-18895-de-06-de-fevereiro-de-2019.md",
+      "sha256_md": "db74560f4e57dcc21541dc28a394b071c9ab0f29f87e94c6830da26c127e6b38",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-18895-de-06-de-fevereiro-de-2019",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2019/decreto-no-18935-de-26-de-fevereiro-de-2019.md",
+      "sha256_md": "ec749734e3b80f74efad6f061a3dda79e42fecf960902194b651bff0ca803120",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-18935-de-26-de-fevereiro-de-2019",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2019/decreto-no-18967-de-15-de-marco-de-2019.md",
+      "sha256_md": "4041912d570cacad822315816b7f2d1157ce7581ab823eaaea92e09dc6304f32",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-18967-de-15-de-marco-de-2019",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2019/decreto-no-18982-de-25-de-marco-de-2019.md",
+      "sha256_md": "aac5354450577970f6dae04a352e7ceeb63c8e68d7c55591225475026d28035a",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-18982-de-25-de-marco-de-2019",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2019/decreto-no-19207-de-30-de-agosto-de-2019.md",
+      "sha256_md": "af413f77ce024d5a5e00c489b0a68861c4403f6343b497ef2124b0d9dac1d263",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-19207-de-30-de-agosto-de-2019",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        },
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2020/decreto-no-20070-de-23-de-outubro-de-2020.md",
+      "sha256_md": "3e3edd5a4966855f7a1eff6001c7e1affa3c365e9020322f21801399c2f1a3be",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-20070-de-23-de-outubro-de-2020",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        },
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2021/decreto-no-20329-de-23-de-marco-de-2021.md",
+      "sha256_md": "5820e29d9d738e5f9f07d6e2ccda0db8fdb528546d1503e383a9f25b7c4eb3c3",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-20329-de-23-de-marco-de-2021",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2021/decreto-no-20388-de-11-de-abril-de-2021.md",
+      "sha256_md": "56cf39f394e231af85c01dcaa85a030874822cde7195d6d76a22fabf15359567",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-20388-de-11-de-abril-de-2021",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2021/decreto-no-20400-de-18-de-abril-de-2021.md",
+      "sha256_md": "da718a7607fadeba6fbf563985616dc1124598c3a06de7fb4166b33130c200bb",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-20400-de-18-de-abril-de-2021",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2021/decreto-no-20428-de-25-de-abril-de-2021.md",
+      "sha256_md": "a712bf7bcb5bb24933c0ca9313616c889fd091358fc80d6fbe7486bae00e7de3",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-20428-de-25-de-abril-de-2021",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2021/decreto-no-20801-de-16-de-outubro-de-2021.md",
+      "sha256_md": "6599c358a3858e5333513df6b7983e3787061e8d5070f261c38e025418865f65",
+      "fontes": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-20801-de-16-de-outubro-de-2021",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-ba-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    }
+  ]
+}

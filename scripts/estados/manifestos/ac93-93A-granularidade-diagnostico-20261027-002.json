@@ -1,0 +1,106 @@
+{
+  "preparado_em": "2026-10-27T20:29:12.950479-03:00",
+  "normas_novas": 0,
+  "sem_mascara": true,
+  "sem_edicao_canonica": true,
+  "path": "estaduais/AC/leis-ordinarias/1966/lei-ordinaria-93-1966-id1057.md",
+  "HEAD": "57220f8e18bde7c9894a7bb8e6fdf74337a7d2b2",
+  "OID": "66c201feb90bbc59a2dde820622a5bf6b53cff42",
+  "preimagem": "estaduais/AC/_fonte/auditorias/granularidade-lei93-93A-20261027-001/lei93-MD-HEAD.preimagem",
+  "sha256_MD": "bfbb8dac58cb6c99642efefe0c4d3b57acba14ed34097cbe101f36796b806694",
+  "anexo_original": {
+    "url": "https://sapl.al.ac.leg.br/media/sapl/public/normajuridica/1966/1057/1057_texto_integral.doc",
+    "cache_original": "estaduais/AC/_fonte/lei-ordinaria/1966/lei-ordinaria-93-1966-id1057.html.gz",
+    "cache_copia": "estaduais/AC/_fonte/auditorias/granularidade-lei93-93A-20261027-001/anexo-SAPL-original.doc.gz",
+    "sha256_cache": "92d14a819738561ea2a67427eee07798ed1f6ccfc72f874768d508961c9825b0",
+    "arquivo_integral": "estaduais/AC/_fonte/auditorias/granularidade-lei93-93A-20261027-001/anexo-SAPL-original.doc",
+    "sha256_fonte": "253ba1d56cb69da6b1ca250f5fbe899f19d35c6fc9aa3acdb07ef3c12550c5de",
+    "bytes": 44032
+  },
+  "texto_DOC_diagnostico": "estaduais/AC/_fonte/auditorias/granularidade-lei93-93A-20261027-001/DOC-texto-diagnostico-integral.txt",
+  "sha256_texto_diagnostico": "1b4548b461c1cc624bb33f92225ca7cb6e227c72f7a1f7e5c2489ea2269aba6d",
+  "epigrafes_MD": [
+    [
+      16,
+      "**LEI N. 93, DE 13 DE DEZEMBRO DE 1966**"
+    ],
+    [
+      34,
+      "**LEI N. 93-A, DE 13 DE DEZEMBRO DE 1966**"
+    ]
+  ],
+  "fonte_LEGIS_independente": {
+    "url": "https://legis.ac.gov.br/detalhar/750",
+    "iniciado_em": "2026-10-27T20:26:44.600240-03:00",
+    "retorno_curl": 0,
+    "status_final": "200 https://legis.ac.gov.br/detalhar/750",
+    "erro": "",
+    "cache": "estaduais/AC/_fonte/auditorias/granularidade-lei93-93A-20261027-001/LEGIS93A-fonte-integral.html.gz",
+    "sha256_fonte": "25a941d8d5b61631d9cd0505b2244e4efaee6d68c93bf4a664e772eca91e3ade",
+    "sha256_cache": "4eadb3748ae0d72b1e10fbcbc04c2cac4b56b53083c86ebbf43aaa364b32006f",
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 23:26:44 GMT",
+      "Server": "Apache/2.4.41 (Ubuntu)",
+      "Expires": "0",
+      "Cache-Control": "no-cache, no-store, must-revalidate",
+      "Pragma": "no-cache",
+      "Vary": "Accept-Encoding",
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Headers": "origin, x-requested-with, content-type",
+      "Access-Control-Allow-Methods": "PUT, GET, POST, DELETE, OPTIONS",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html; charset=UTF-8"
+    },
+    "headers_sessao_omitidos": true
+  },
+  "indice_LEGIS": {
+    "url": "https://legis.ac.gov.br/principal/1",
+    "metodo": "POST",
+    "campos": {},
+    "iniciado_em": "2026-10-27T20:19:31.123238-03:00",
+    "retorno_curl": 0,
+    "status_final": "200 https://legis.ac.gov.br/principal/1",
+    "erro": "",
+    "cache": "estaduais/AC/_fonte/auditorias/granularidade-lei93-93A-20261027-001/LEGIS-indice-integral.html.gz",
+    "sha256_fonte": "4d859d00d621157017383063f2c09e00cd1429d1707b576bf76befd1f862b58b",
+    "sha256_cache": "92e0af49090b61aca69af21e4daea63b553509761b3333d151e3aa2198a92f97",
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 23:19:31 GMT",
+      "Server": "Apache/2.4.41 (Ubuntu)",
+      "Expires": "0",
+      "Cache-Control": "no-cache, no-store, must-revalidate",
+      "Pragma": "no-cache",
+      "Vary": "Accept-Encoding",
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Headers": "origin, x-requested-with, content-type",
+      "Access-Control-Allow-Methods": "PUT, GET, POST, DELETE, OPTIONS",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html; charset=UTF-8"
+    },
+    "headers_sessao_omitidos": true
+  },
+  "diagnostico": "O MD publicado sob Lei93 inclui a própria Lei93 e, após seu fecho/assinatura, a epígrafe e o articulado da Lei93-A. DOC original completo também contém ambos. LEGIS fornece93-A em documento individual. Possível contaminação de granularidade; ambos são atos reais, não se presume ID incorreto ou inexistência. Nenhum corte, separação, correção ou máscara aplicada.",
+  "decisao": "ROOT revisará eventual separação preservando todos os bytes anteriores. Candidato LEGIS93-A fica fora das novas inclusões enquanto embutido no blob93.",
+  "fechos_MD": [
+    [
+      28,
+      "**Rio Branco, 13 de dezembro de 1966, 78º da República, 64º do Tratado de Petrópolis e 5º do Estado do Acre.**"
+    ],
+    [
+      144,
+      "**Rio Branco, 13 de dezembro de 1966, 78º da República, 64º do Tratado de Petrópolis e 5º do Estado do Acre.**"
+    ]
+  ],
+  "assinaturas_MD": [
+    [
+      32,
+      "**Governador do Estado do Acre, em exercício**"
+    ],
+    [
+      148,
+      "**Governador do Estado do Acre, em exercício**"
+    ]
+  ],
+  "precisao_do_rascunho": "Manifesto001 privado preservado: a busca ampla por Governador incluía também a menção no Art.1º. Neste controle002, fechos são exclusivamente as duas linhas Rio Branco e assinaturas são as duas linhas de cargo após os signatários. Nenhum documento/fonte foi alterado.",
+  "revisado_em": "2026-10-27T20:29:37.544080-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://sapl.al.am.leg.br/api/schema/swagger-ui/",
+  "http": 200,
+  "headers": {
+    "date": "Wed, 21 Oct 2026 08:57:29 GMT",
+    "content-type": "text/html; charset=utf-8",
+    "content-length": "1141",
+    "vary": "Accept-Encoding,Cookie, Accept-Language",
+    "allow": "GET, HEAD, OPTIONS",
+    "x-frame-options": "ALLOWALL",
+    "content-language": "pt-br",
+    "x-request-id": "46576e95-ec5c-4ae9-98d7-1421d85c7de6",
+    "set-cookie": "csrftoken=LEX1aFVgAKNG81JuDXJqnM6y4jnMwBVaXX4FbhjQVuELPy3iPa4xLyGe56zWftqx; expires=Wed, 20 Oct 2027 08:57:29 GMT; Max-Age=31449600; Path=/; SameSite=Lax",
+    "access-control-allow-origin": "*",
+    "access-control-allow-credentials": "true",
+    "access-control-allow-methods": "GET, POST, PUT, DELETE, HEAD, OPTIONS",
+    "access-control-allow-headers": "Access-Control-Allow-Origin,XMLHttpRequest,Accept,Authorization,Cache-Control,Content-Type,DNT,If-Modified-Since,Keep-Alive,Origin,User-Agent,X-Mx-ReqToken,X-Requested-With",
+    "access-control-expose-headers": "Access-Control-Allow-Origin,XMLHttpRequest,Accept,Authorization,Cache-Control,Content-Type,DNT,If-Modified-Since,Keep-Alive,Origin,User-Agent,X-Mx-ReqToken,X-Requested-With",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "x-envoy-upstream-service-time": "65",
+    "x-volterra-location": "sp4-sao",
+    "server": "volt-adc",
+    "connection": "close"
+  },
+  "capturado_em": "2026-10-21T05:57:29.128969-03:00",
+  "cache": "estaduais/AM/_indice/retomada-20261021-001/swagger-ui.html.gz",
+  "sha256_fonte": "aaadbaea357d14424248004b6ad2a8cf4d1d8b30b585142c37e55aa048b478b7"
+}

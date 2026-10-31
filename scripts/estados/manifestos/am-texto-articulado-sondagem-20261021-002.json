@@ -1,0 +1,22 @@
+{
+  "url": "https://sapl.al.am.leg.br/norma/15043/ta",
+  "http": 200,
+  "url_final": "https://sapl.al.am.leg.br/message",
+  "headers": {
+    "date": "Wed, 21 Oct 2026 08:56:32 GMT",
+    "content-type": "text/html; charset=utf-8",
+    "content-length": "11762",
+    "vary": "Accept-Encoding,Accept-Language, Cookie",
+    "x-frame-options": "ALLOWALL",
+    "content-language": "pt-br",
+    "x-request-id": "9b98d8fc-d742-447d-bf75-b72396b320c1",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "x-envoy-upstream-service-time": "60",
+    "x-volterra-location": "sp4-sao",
+    "server": "volt-adc",
+    "connection": "close"
+  },
+  "capturado_em": "2026-10-21T05:56:32.771095-03:00",
+  "cache": "estaduais/AM/_indice/retomada-20261021-001/norma15043-ta.html.gz",
+  "sha256_fonte": "6e36ab97357907f49510ec48bb8705b6a14300f87e81873b380f0475e6b26029"
+}

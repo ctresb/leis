@@ -1,0 +1,77 @@
+{
+  "capturas": [
+    {
+      "url": "https://use.typekit.net/zoa0ykv.css",
+      "url_final": "https://use.typekit.net/zoa0ykv.css",
+      "http": 200,
+      "headers": {
+        "Server": "nginx",
+        "Content-Type": "text/css;charset=utf-8",
+        "Strict-Transport-Security": "max-age=31536000; includeSubDomains;",
+        "Cache-Control": "private, max-age=600, stale-while-revalidate=604800",
+        "Timing-Allow-Origin": "*",
+        "Access-Control-Allow-Origin": "*",
+        "Cross-Origin-Resource-Policy": "cross-origin",
+        "Vary": "Accept-Encoding",
+        "Date": "Wed, 21 Oct 2026 10:01:50 GMT",
+        "Content-Length": "6694",
+        "Connection": "close",
+        "Akamai-GRN": "0.acbb1002.1792576910.313207c8"
+      },
+      "headers_sessao_omitidos": [],
+      "cache": "estaduais/AM/_fonte/auditorias/legisla-css-20261021-002/typekit.css.gz",
+      "sha256_fonte": "71f704233a72a6ab886bc6d18d169be0eccfb66c90e6a4bdb50857b22200d144",
+      "sha256_cache": "e7fb7af456b787921b2d5a8c95e8e2d83595209bf5fdb1ef42d0b8baac3123c7",
+      "capturado_em": "2026-10-21T07:01:50.457428-03:00"
+    },
+    {
+      "url": "https://legisla.imprensaoficial.am.gov.br/js/legislacao.js",
+      "url_final": "https://legisla.imprensaoficial.am.gov.br/js/legislacao.js",
+      "http": 200,
+      "headers": {
+        "Date": "Wed, 21 Oct 2026 10:01:52 GMT",
+        "Server": "Apache/2.4.25 (Debian)",
+        "Last-Modified": "Tue, 21 Jul 2026 22:35:18 GMT",
+        "ETag": "\"140f-65726a328d580\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "5135",
+        "Vary": "Accept-Encoding",
+        "Access-Control-Allow-Origin": "*",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Connection": "close",
+        "Content-Type": "application/javascript"
+      },
+      "headers_sessao_omitidos": [],
+      "cache": "estaduais/AM/_fonte/auditorias/legisla-css-20261021-002/legislacao.js.gz",
+      "sha256_fonte": "320e65086fd72a6acea9ecb177227bf209df9b85ea30881321ca1e26e5b13f9e",
+      "sha256_cache": "8cf02ac6f8be04a9e48bfb934ff3f0af460ae8f13c278557024b8d753317b1f5",
+      "capturado_em": "2026-10-21T07:01:53.040912-03:00"
+    },
+    {
+      "url": "https://legisla.imprensaoficial.am.gov.br/js/acessibilidade.js",
+      "url_final": "https://legisla.imprensaoficial.am.gov.br/js/acessibilidade.js",
+      "http": 200,
+      "headers": {
+        "Date": "Wed, 21 Oct 2026 10:01:54 GMT",
+        "Server": "Apache/2.4.25 (Debian)",
+        "Last-Modified": "Tue, 21 Jul 2026 22:35:18 GMT",
+        "ETag": "\"1224-65726a328d580\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "4644",
+        "Vary": "Accept-Encoding",
+        "Access-Control-Allow-Origin": "*",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Connection": "close",
+        "Content-Type": "application/javascript"
+      },
+      "headers_sessao_omitidos": [],
+      "cache": "estaduais/AM/_fonte/auditorias/legisla-css-20261021-002/acessibilidade.js.gz",
+      "sha256_fonte": "d2c0c1d131dc6bb90e3cd90cd97e7751f00eabcd364cbb72707b8cdd18eb0179",
+      "sha256_cache": "32645e757f401e372cade07d2aea6e08f8add82247e0b3e912ce6cd5032298c1",
+      "capturado_em": "2026-10-21T07:01:54.640445-03:00"
+    }
+  ],
+  "cliente_inventario_pausado_PID": 71399,
+  "mesmo_PID_retomado": true,
+  "urls_observadas_no_HTML_primario": true
+}

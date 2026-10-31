@@ -1,0 +1,403 @@
+{
+  "escopo": "scripts/estados/manifestos/ba-tabelas-20261020-001.json",
+  "total": 2000,
+  "retidos": [
+    {
+      "path": "estaduais/BA/decretos/2026/decreto-no-24317-de-02-de-fevereiro-de-2026.md",
+      "imagens": [
+        {
+          "alt": "",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "6",
+          "src": "Decretos%20Numerados317_arquivos/image001.png",
+          "width": "620"
+        }
+      ],
+      "cache": "estaduais/BA/_fonte/decretos/2026/decreto-no-24317-de-02-de-fevereiro-de-2026.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/BA/decretos/2025/decreto-no-23828-de-27-de-junho-de-2025.md",
+      "imagens": [
+        {
+          "alt": "",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "6",
+          "src": "Decretos%20Numerados23.828_arquivos/image001.png",
+          "width": "620"
+        }
+      ],
+      "cache": "estaduais/BA/_fonte/decretos/2025/decreto-no-23828-de-27-de-junho-de-2025.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/BA/decretos/2025/decreto-no-23826-de-27-de-junho-de-2025.md",
+      "imagens": [
+        {
+          "alt": "",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "6",
+          "src": "Decretos%20Numerados23.826_arquivos/image001.png",
+          "width": "620"
+        }
+      ],
+      "cache": "estaduais/BA/_fonte/decretos/2025/decreto-no-23826-de-27-de-junho-de-2025.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/BA/decretos/2025/decreto-no-23824-de-27-de-junho-de-2025.md",
+      "imagens": [
+        {
+          "alt": "",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "6",
+          "src": "Decretos%20Numerados23.824_arquivos/image001.png",
+          "width": "620"
+        }
+      ],
+      "cache": "estaduais/BA/_fonte/decretos/2025/decreto-no-23824-de-27-de-junho-de-2025.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/BA/decretos/2025/decreto-no-23803-de-17-de-junho-de-2025.md",
+      "imagens": [
+        {
+          "alt": "",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "6",
+          "src": "Decretos%20Numerados803_arquivos/image001.png",
+          "width": "620"
+        }
+      ],
+      "cache": "estaduais/BA/_fonte/decretos/2025/decreto-no-23803-de-17-de-junho-de-2025.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/BA/decretos/2025/decreto-no-23681-de-13-de-maio-de-2025.md",
+      "imagens": [
+        {
+          "alt": "",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "6",
+          "src": "Decretos%20Numerados681_arquivos/image001.png",
+          "width": "620"
+        }
+      ],
+      "cache": "estaduais/BA/_fonte/decretos/2025/decreto-no-23681-de-13-de-maio-de-2025.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/BA/decretos/2025/decreto-no-23679-de-13-de-maio-de-2025.md",
+      "imagens": [
+        {
+          "alt": "",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "6",
+          "src": "Decretos%20Numerados679_arquivos/image001.png",
+          "width": "620"
+        }
+      ],
+      "cache": "estaduais/BA/_fonte/decretos/2025/decreto-no-23679-de-13-de-maio-de-2025.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/BA/decretos/2025/decreto-no-23635-de-30-de-abril-de-2025.md",
+      "imagens": [
+        {
+          "alt": "",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "6",
+          "src": "Decretos%20Numerados35_arquivos/image001.png",
+          "width": "620"
+        }
+      ],
+      "cache": "estaduais/BA/_fonte/decretos/2025/decreto-no-23635-de-30-de-abril-de-2025.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/BA/decretos/2025/decreto-no-23605-de-17-de-abril-de-2025.md",
+      "imagens": [
+        {
+          "alt": "",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "6",
+          "src": "Decretos%20Numerados605_arquivos/image001.png",
+          "width": "620"
+        }
+      ],
+      "cache": "estaduais/BA/_fonte/decretos/2025/decreto-no-23605-de-17-de-abril-de-2025.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/BA/decretos/2025/decreto-no-23574-de-01-de-abril-de-2025.md",
+      "imagens": [
+        {
+          "alt": "",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "6",
+          "src": "Decretos%20Numerados74_arquivos/image001.png",
+          "width": "620"
+        }
+      ],
+      "cache": "estaduais/BA/_fonte/decretos/2025/decreto-no-23574-de-01-de-abril-de-2025.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/BA/decretos/2025/decreto-no-23568-de-31-de-marco-de-2025.md",
+      "imagens": [
+        {
+          "alt": "",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "7",
+          "src": "Decretos%20Numerados68_arquivos/image001.png",
+          "width": "617"
+        }
+      ],
+      "cache": "estaduais/BA/_fonte/decretos/2025/decreto-no-23568-de-31-de-marco-de-2025.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/BA/decretos/2025/decreto-no-23566-de-31-de-marco-de-2025.md",
+      "imagens": [
+        {
+          "alt": "",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "6",
+          "src": "Decretos%20Numerados66_arquivos/image001.png",
+          "width": "620"
+        }
+      ],
+      "cache": "estaduais/BA/_fonte/decretos/2025/decreto-no-23566-de-31-de-marco-de-2025.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/BA/decretos/2024/decreto-no-22966-de-08-de-agosto-de-2024.md",
+      "imagens": [
+        {
+          "alt": "",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "6",
+          "src": "Decretos%20Numerados66_arquivos/image001.png",
+          "width": "620"
+        }
+      ],
+      "cache": "estaduais/BA/_fonte/decretos/2024/decreto-no-22966-de-08-de-agosto-de-2024.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/BA/decretos/2024/decreto-no-22848-de-24-de-maio-de-2024.md",
+      "imagens": [
+        {
+          "alt": "",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "6",
+          "src": "Decretos%20Numerados22.848_arquivos/image001.png",
+          "width": "620"
+        }
+      ],
+      "cache": "estaduais/BA/_fonte/decretos/2024/decreto-no-22848-de-24-de-maio-de-2024.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/BA/decretos/2024/decreto-no-22847-de-24-de-maio-de-2024.md",
+      "imagens": [
+        {
+          "alt": "",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "6",
+          "src": "Decretos%20Numerados%2022.847.doc_arquivos/image001.png",
+          "width": "620"
+        }
+      ],
+      "cache": "estaduais/BA/_fonte/decretos/2024/decreto-no-22847-de-24-de-maio-de-2024.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/BA/decretos/2024/decreto-no-22845-de-24-de-maio-de-2024.md",
+      "imagens": [
+        {
+          "alt": "",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "6",
+          "src": "Decretos%20Numerados%2022.845.doc_arquivos/image001.png",
+          "width": "620"
+        }
+      ],
+      "cache": "estaduais/BA/_fonte/decretos/2024/decreto-no-22845-de-24-de-maio-de-2024.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/BA/decretos/2024/decreto-no-22844-de-24-de-maio-de-2024.md",
+      "imagens": [
+        {
+          "alt": "",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "6",
+          "src": "Decretos%20Numerados%2022.844.doc_arquivos/image001.png",
+          "width": "620"
+        }
+      ],
+      "cache": "estaduais/BA/_fonte/decretos/2024/decreto-no-22844-de-24-de-maio-de-2024.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/BA/decretos/2024/decreto-no-22843-de-24-de-maio-de-2024.md",
+      "imagens": [
+        {
+          "alt": "",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "6",
+          "src": "Decretos%20Numerados%2022.843.doc_arquivos/image001.png",
+          "width": "620"
+        }
+      ],
+      "cache": "estaduais/BA/_fonte/decretos/2024/decreto-no-22843-de-24-de-maio-de-2024.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/BA/decretos/2024/decreto-no-22842-de-24-de-maio-de-2024.md",
+      "imagens": [
+        {
+          "alt": "",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "6",
+          "src": "Decretos%20Numerados%2022.842.doc_arquivos/image001.png",
+          "width": "620"
+        }
+      ],
+      "cache": "estaduais/BA/_fonte/decretos/2024/decreto-no-22842-de-24-de-maio-de-2024.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/BA/decretos/2024/decreto-no-22841-de-24-de-maio-de-2024.md",
+      "imagens": [
+        {
+          "alt": "",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "6",
+          "src": "Decretos%20Numerados%2022.841.doc_arquivos/image001.png",
+          "width": "620"
+        }
+      ],
+      "cache": "estaduais/BA/_fonte/decretos/2024/decreto-no-22841-de-24-de-maio-de-2024.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    },
+    {
+      "path": "estaduais/BA/decretos/2024/decreto-financeiro-no-01-de-12-de-janeiro-de-2024.md",
+      "imagens": [
+        {
+          "alt": "",
+          "border": "0",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "371",
+          "src": "Dec01_arquivos/image001.png",
+          "width": "642"
+        },
+        {
+          "alt": "",
+          "border": "0",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "874",
+          "src": "Dec01_arquivos/image002.png",
+          "width": "642"
+        },
+        {
+          "alt": "",
+          "border": "0",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "894",
+          "src": "Dec01_arquivos/image003.png",
+          "width": "642"
+        },
+        {
+          "alt": "",
+          "border": "0",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "898",
+          "src": "Dec01_arquivos/image004.png",
+          "width": "642"
+        },
+        {
+          "alt": "",
+          "border": "0",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "893",
+          "src": "Dec01_arquivos/image005.png",
+          "width": "642"
+        },
+        {
+          "alt": "",
+          "border": "0",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "899",
+          "src": "Dec01_arquivos/image006.png",
+          "width": "642"
+        },
+        {
+          "alt": "",
+          "border": "0",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "908",
+          "src": "Dec01_arquivos/image007.png",
+          "width": "642"
+        },
+        {
+          "alt": "",
+          "border": "0",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "913",
+          "src": "Dec01_arquivos/image008.png",
+          "width": "642"
+        },
+        {
+          "alt": "",
+          "border": "0",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "907",
+          "src": "Dec01_arquivos/image009.png",
+          "width": "642"
+        },
+        {
+          "alt": "",
+          "border": "0",
+          "data-entity-type": "",
+          "data-entity-uuid": "",
+          "height": "914",
+          "src": "Dec01_arquivos/image010.png",
+          "width": "642"
+        }
+      ],
+      "cache": "estaduais/BA/_fonte/decretos/2024/decreto-financeiro-no-01-de-12-de-janeiro-de-2024.html.gz",
+      "motivo": "imagem no campo normativo ignorada na conversão"
+    }
+  ]
+}

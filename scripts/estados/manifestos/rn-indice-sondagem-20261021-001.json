@@ -1,0 +1,21 @@
+{
+  "url": "https://www.al.rn.leg.br/legislacao/leis-ordinarias",
+  "url_final": "https://www.al.rn.leg.br/legislacao/leis-ordinarias",
+  "http": 200,
+  "headers": {
+    "Server": "nginx",
+    "Date": "Wed, 21 Oct 2026 08:46:32 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "Cache-Control": "no-cache, private",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Methods": "PUT, POST, DELETE, GET, OPTIONS",
+    "Access-Control-Allow-Headers": "Accept, Authorization, Content-Type",
+    "Set-Cookie": "XSRF-TOKEN=eyJpdiI6IkZLS25TYzhBVnJOWUNFVXJ5MlRzYkE9PSIsInZhbHVlIjoiWGJ6OVRsanZKcFlPM1d5WDN6VVhsUkVNXC9lSlg4TXV6RkI1RWpXWUxjQUgzeWkxR3lLYkhaWGtJUldyalNzXC9MIiwibWFjIjoiOWRkOTgxYzc3M2Q0OTRhMTk4Njg5OTU2M2I0NjY0ZmU5YzJjZGVlMDU4ODM4MDk0YzcwZDRiNTNhOGFjYTY1NyJ9; expires=Wed, 21-Oct-2026 10:46:32 GMT; Max-Age=7200; path=/",
+    "Content-Security-Policy": "upgrade-insecure-requests"
+  },
+  "capturado_em": "2026-10-21T05:46:33.701687-03:00",
+  "cache": "estaduais/RN/_indice/retomada-20261021-001/leis-ordinarias.html.gz",
+  "sha256_fonte": "2c2f1ac7f0b77cc18e476ddd0855bb5f2ef8dabf4a23091467d21edf1d1e5b71"
+}

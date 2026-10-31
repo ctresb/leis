@@ -1,0 +1,739 @@
+{
+  "uf": "RS",
+  "data_auditoria": "2026-10-20",
+  "baseline": "/tmp/constituicao-index-20261020-continuacao.z",
+  "baseline_sha256": "a424728b1798aae5662ce344200637c9dc3b621eca986d3d3a01b6ec22929285",
+  "indice": "estaduais/RS/_indice/legis.json",
+  "indice_sha256": "7fc1fb58297190c813f8c85c71ef399e77e9ca0241e4eb663129b1a6cc9f4442",
+  "origem": "coleta preexistente fora do index; sem redownload",
+  "criterios": "ID único LEGIS e tipo/número/data confrontados com índice oficial; ficha oficial e arquivo preservados; corpo normativo real conferido integralmente por reconversão do cache HTML/PDF textual; OCR nunca acionado implicitamente.",
+  "total": 36,
+  "documentos": [
+    {
+      "path": "estaduais/RS/decretos-legislativos/2008/dlg-11126-2008-id51486.md",
+      "id": "51486",
+      "tipo": "Decreto Legislativo",
+      "numero": "11126",
+      "data": "2008-03-11",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=51486&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.126%20.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "f957bfc1d89842928249899aeda4572408aceca34f483c7f69f11199caeff556",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2008/dlg-11126-2008-id51486.html.gz",
+      "sha256_fonte": "34236401ea58b51c447403d452d6f5af74623deb06509fe933472f77ffefb797",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2007/dlg-11125-2007-id50968.md",
+      "id": "50968",
+      "tipo": "Decreto Legislativo",
+      "numero": "11125",
+      "data": "2007-09-04",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50968&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.125.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "fffc6195813e55d0ee9b881e8238d3fbeba7bccad22fa3b6ae983e86133f0481",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2007/dlg-11125-2007-id50968.html.gz",
+      "sha256_fonte": "9ccd758ce579ec1e44f019eb5bb589af8ed80aad4026febed14be3f32d385850",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2007/dlg-11124-2007-id50967.md",
+      "id": "50967",
+      "tipo": "Decreto Legislativo",
+      "numero": "11124",
+      "data": "2007-09-04",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50967&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.124.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "d561e1686a30ac3323f1ce5baa4d005c492b0ff50fc32485e6373ffa375164ee",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2007/dlg-11124-2007-id50967.html.gz",
+      "sha256_fonte": "8e5ddb4f472307390a848806b61dda67be491e8953017fbf9dc172ab1845ed57",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2007/dlg-11123-2007-id50823.md",
+      "id": "50823",
+      "tipo": "Decreto Legislativo",
+      "numero": "11123",
+      "data": "2007-07-10",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50823&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.123.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "8f3ea99e29c798b46ef7ccb2d89c673e128af96a7ca79ada26dce212cb8ae907",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2007/dlg-11123-2007-id50823.html.gz",
+      "sha256_fonte": "2d9c74a0fb7be3498b040a785b189d6fad7aef06bfb3c5cc8ce3539f93d067a3",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2007/dlg-11122-2007-id50554.md",
+      "id": "50554",
+      "tipo": "Decreto Legislativo",
+      "numero": "11122",
+      "data": "2007-03-28",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50554&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.122.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "bfb0112643849d626b547682142ff98b3fbbafdc79e72eedb5de0b3d2f9ae208",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2007/dlg-11122-2007-id50554.html.gz",
+      "sha256_fonte": "80699392c92088869798fe8d5195da7bf467dc3699002214953e2cd435515e78",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2007/dlg-11121-2007-id50553.md",
+      "id": "50553",
+      "tipo": "Decreto Legislativo",
+      "numero": "11121",
+      "data": "2007-03-28",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50553&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.121.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "d858556a57a59789f2d62df966c36426c74d8e260a1bc5ac10d5bfcd7916d300",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2007/dlg-11121-2007-id50553.html.gz",
+      "sha256_fonte": "3337c4dd6543b8b4e66b016a1a60e1469f4541cd627265d5c70daf76f2ed7801",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2007/dlg-11120-2007-id50552.md",
+      "id": "50552",
+      "tipo": "Decreto Legislativo",
+      "numero": "11120",
+      "data": "2007-03-28",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50552&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.120.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "14386acd94f8957e17c4993df8033fd90c67ceb894fdbf9981811906adae0a3f",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2007/dlg-11120-2007-id50552.html.gz",
+      "sha256_fonte": "03487dcb9f3c599ffc05994fd6d69d39260247a49889884c13195db4cd9099d2",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2007/dlg-11119-2007-id50551.md",
+      "id": "50551",
+      "tipo": "Decreto Legislativo",
+      "numero": "11119",
+      "data": "2007-03-28",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50551&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.119.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "310c639b3482c912b756b663400b3f31a077b006ac03be5242c2e70cd7ab149a",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2007/dlg-11119-2007-id50551.html.gz",
+      "sha256_fonte": "b22aabbd372faabbee5528f146b91a1c9a1a3f460e65a21246b005a52f645837",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2007/dlg-11118-2007-id50535.md",
+      "id": "50535",
+      "tipo": "Decreto Legislativo",
+      "numero": "11118",
+      "data": "2007-03-20",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50535&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.118.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "f5e10d81475be862e218a0c794bf126326148086b712ab639c67dc74badddae2",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2007/dlg-11118-2007-id50535.html.gz",
+      "sha256_fonte": "b47f6c059df679200af79ff6cf73d3fea2a6f6c240f03fa791958e546abc54a7",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2007/dlg-11117-2007-id50534.md",
+      "id": "50534",
+      "tipo": "Decreto Legislativo",
+      "numero": "11117",
+      "data": "2007-03-20",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50534&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.117.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "f29af1e5d380f508ce989e43d82adce5c5e38eaabb2b3ad397b37d7ff125b87d",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2007/dlg-11117-2007-id50534.html.gz",
+      "sha256_fonte": "2f42321b6a4ff4f9b771007db47d50cc48ad447fefae5eb02054f035d2f5539c",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2007/dlg-11116-2007-id50533.md",
+      "id": "50533",
+      "tipo": "Decreto Legislativo",
+      "numero": "11116",
+      "data": "2007-03-20",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50533&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.116.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "fb4f05e867ceb7e62a0a498a7293c8ea73d542542c7c89011d95b390054a68eb",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2007/dlg-11116-2007-id50533.html.gz",
+      "sha256_fonte": "0d499de8a2c09d870730af8fa6fd4eb521214085224b177e22fdf9128026700a",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2007/dlg-11115-2007-id50532.md",
+      "id": "50532",
+      "tipo": "Decreto Legislativo",
+      "numero": "11115",
+      "data": "2007-03-20",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50532&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.115.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "d6000f266e58be670917f3bb5e5b653cc74c6ebe60ef90fa26898be02f2815d4",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2007/dlg-11115-2007-id50532.html.gz",
+      "sha256_fonte": "60ee3d1d587c83eada5a223e826bb7423dcf5a3ccdecbdabecf7131c711a8769",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2007/dlg-11114-2007-id50531.md",
+      "id": "50531",
+      "tipo": "Decreto Legislativo",
+      "numero": "11114",
+      "data": "2007-03-20",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50531&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.114.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "97dceef445882c288dd5c67776371166af82f2f6532d30134183a72a088f2431",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2007/dlg-11114-2007-id50531.html.gz",
+      "sha256_fonte": "ea206624cfe0ce70b6c58bd250255eb06a1e75f1d341687a02e1054203f1d7db",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2007/dlg-11113-2007-id50530.md",
+      "id": "50530",
+      "tipo": "Decreto Legislativo",
+      "numero": "11113",
+      "data": "2007-03-20",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50530&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.113.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "03eec2500ef86979bc1f59516d45f5289826d68564fb4c025a1f889b00a8465c",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2007/dlg-11113-2007-id50530.html.gz",
+      "sha256_fonte": "e14dcd2bcd1263914bc2150f5398a36e4fbda10345c033483e513f75636dd409",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2007/dlg-11112-2007-id50508.md",
+      "id": "50508",
+      "tipo": "Decreto Legislativo",
+      "numero": "11112",
+      "data": "2007-03-15",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50508&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.112.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "5e442e443fd2504dd7001f091a129e6c1c656eb191c3ef2c2e3316ef2d0b4a40",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2007/dlg-11112-2007-id50508.html.gz",
+      "sha256_fonte": "c1aa81064568b70f27889f4e67438329a487db668c14f21b8dfbf0ebf759e532",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2007/dlg-11111-2007-id50507.md",
+      "id": "50507",
+      "tipo": "Decreto Legislativo",
+      "numero": "11111",
+      "data": "2007-03-15",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50507&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.111.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "febea646418061bd04aeac217992e81a1645b3ca55e3c047f4f19e7b7d3979c6",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2007/dlg-11111-2007-id50507.html.gz",
+      "sha256_fonte": "51052e1f6e6e6994ee1432e7b6c300323688482cdecd9d3ee99c4d3cff5b0b6d",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2006/dlg-11110-2006-id50297.md",
+      "id": "50297",
+      "tipo": "Decreto Legislativo",
+      "numero": "11110",
+      "data": "2006-12-13",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50297&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.110.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "a14c68a99e2270c7110d449b3b5d6637d93018e1d65730c2a1d7b29caca874c6",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2006/dlg-11110-2006-id50297.html.gz",
+      "sha256_fonte": "b0f95aae0dad01c886a5a102aab8f70b3f6c99a509c58e19555cca1446f4fa36",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2006/dlg-11109-2006-id50125.md",
+      "id": "50125",
+      "tipo": "Decreto Legislativo",
+      "numero": "11109",
+      "data": "2006-10-24",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50125&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.109.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "767c29afb8ed501a73826db6b2d92f0e85aae0cd2534ce5a67cca05ce55387da",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2006/dlg-11109-2006-id50125.html.gz",
+      "sha256_fonte": "68c051e514154fbb19acda00aeb44446b4b31b080f9b274b68e540e02821427d",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2006/dlg-11108-2006-id49763.md",
+      "id": "49763",
+      "tipo": "Decreto Legislativo",
+      "numero": "11108",
+      "data": "2006-06-06",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49763&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.108.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "7bd3a12632315bc8dde39e30b29fc638a0c9b6284ba5d1e5e75727a51ebf1ee9",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2006/dlg-11108-2006-id49763.html.gz",
+      "sha256_fonte": "419f82df3ab5be761a9343eaf7a6a2873c7bb6d88cc04d2193356a8b59ec4100",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2006/dlg-11107-2006-id49600.md",
+      "id": "49600",
+      "tipo": "Decreto Legislativo",
+      "numero": "11107",
+      "data": "2006-04-26",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49600&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.107.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "5559e5bb5c34d8865aa7486651f107c20b31af5163ab994ca06e4afb5f56bb81",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2006/dlg-11107-2006-id49600.html.gz",
+      "sha256_fonte": "25efd5baa0ed45cf5d3c596dce36b778846bc5b2a7e8443de9a74ef09911b085",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2006/dlg-11106-2006-id49589.md",
+      "id": "49589",
+      "tipo": "Decreto Legislativo",
+      "numero": "11106",
+      "data": "2006-04-25",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49589&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.106.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "c7850f5fcb66b2595ce70bc8f10317cf3b746342e6ae1923866dc4c13191fd71",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2006/dlg-11106-2006-id49589.html.gz",
+      "sha256_fonte": "5702dcbbc49aaef4a327f71efec01c6b7ea8a557272a9e90f97eacdc5e23bb85",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2006/dlg-11105-2006-id49588.md",
+      "id": "49588",
+      "tipo": "Decreto Legislativo",
+      "numero": "11105",
+      "data": "2006-04-25",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49588&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.105.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "436563ad4d54b689223b70c247ca2f5e8a243a93528bc039c01d1484b3be2fed",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2006/dlg-11105-2006-id49588.html.gz",
+      "sha256_fonte": "3b9a0489cfe09e7b372e3e9f3111f7427433c46598bf2bfb374930bf8dd4ae36",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2006/dlg-11104-2006-id49587.md",
+      "id": "49587",
+      "tipo": "Decreto Legislativo",
+      "numero": "11104",
+      "data": "2006-04-25",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49587&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.104.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "841d5f2569ef83438d48f6c8bb8ff4209d88e45e654047a3879bce35eac4de1d",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2006/dlg-11104-2006-id49587.html.gz",
+      "sha256_fonte": "d0210e6198350f01b2ff5700da28df9c5dcff37920a4f6a47acd4741ad7d288d",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2006/dlg-11103-2006-id49429.md",
+      "id": "49429",
+      "tipo": "Decreto Legislativo",
+      "numero": "11103",
+      "data": "2006-02-23",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49429&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.103.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "bc2d367477344bead8038b9268697d4dc372880aec4e293a843553305ce7d72e",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2006/dlg-11103-2006-id49429.html.gz",
+      "sha256_fonte": "39037f61b64127e305006bbf4dfe25671dad2a9ff1002220ff3b76e11d5c8c6f",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2005/dlg-11102-2005-id49282.md",
+      "id": "49282",
+      "tipo": "Decreto Legislativo",
+      "numero": "11102",
+      "data": "2005-12-15",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49282&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.102.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "a42cc7fa5c221352208a124aff91053257715c72e2bf3f4d7eb179354cf0271c",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2005/dlg-11102-2005-id49282.html.gz",
+      "sha256_fonte": "e268b8a840cbd01ebc3c89582b7414c271c5eb926111ba8b771fc46628d0b367",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2005/dlg-11101-2005-id49214.md",
+      "id": "49214",
+      "tipo": "Decreto Legislativo",
+      "numero": "11101",
+      "data": "2005-12-13",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49214&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.101.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "f9e63ff4e092fd509a8d652bc83ad878aee1dfa738d46ea77924318ccbd9dabc",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2005/dlg-11101-2005-id49214.html.gz",
+      "sha256_fonte": "de22d6f28a47220308268b3ae3fe4fd51d8dadc384b090894f44db60bcdddbe0",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2005/dlg-11100-2005-id49147.md",
+      "id": "49147",
+      "tipo": "Decreto Legislativo",
+      "numero": "11100",
+      "data": "2005-11-16",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49147&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.100.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "e8d71adeab6571c00b395deaf23338b4760f424a64448b7fb1eaf4b2f10ff464",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2005/dlg-11100-2005-id49147.html.gz",
+      "sha256_fonte": "239b6ba5ef6d0ae6bd597e05da939920587337a5b69050a9004a261dd02756fb",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2005/dlg-11099-2005-id49146.md",
+      "id": "49146",
+      "tipo": "Decreto Legislativo",
+      "numero": "11099",
+      "data": "2005-11-16",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49146&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.099.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "5e6b6de8a7c683d83fa7621dc11f97e8b7d80ca8d486fab27c21ac082278b482",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2005/dlg-11099-2005-id49146.html.gz",
+      "sha256_fonte": "ea329e572b9e05347088cf5e4a84345535584f657e416408da26d473925352d8",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2005/dlg-11098-2005-id49132.md",
+      "id": "49132",
+      "tipo": "Decreto Legislativo",
+      "numero": "11098",
+      "data": "2005-11-16",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49132&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.098.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "34d6595818fed339b5fe86394ee5c8cf2124f617fb61e5b863acc3f13e1ee783",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2005/dlg-11098-2005-id49132.html.gz",
+      "sha256_fonte": "7a297e64835d9e112e0cfa7a76bb3c5aba7373290f919ce601b24d77b9378fcc",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2005/dlg-11097-2005-id48769.md",
+      "id": "48769",
+      "tipo": "Decreto Legislativo",
+      "numero": "11097",
+      "data": "2005-06-22",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48769&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.097.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "e4241c07b37964218a4a9962d904b69b73d957a2c6c30c98427108f4cc80e3e4",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2005/dlg-11097-2005-id48769.html.gz",
+      "sha256_fonte": "72c85194e35ac9fd37d0761b6799f3108da37d0c63c7b8f4c7b8d51ba3c4d340",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2005/dlg-11096-2005-id48738.md",
+      "id": "48738",
+      "tipo": "Decreto Legislativo",
+      "numero": "11096",
+      "data": "2005-06-08",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48738&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.096.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "b2b0d07490b48306e1bb79b75532858b6dc1f2688509feafc623544de8961d72",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2005/dlg-11096-2005-id48738.html.gz",
+      "sha256_fonte": "10e8a5aaa5b5ac4332761bacd851570a7aa72d061514dadd356986034679195a",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2005/dlg-11095-2005-id48733.md",
+      "id": "48733",
+      "tipo": "Decreto Legislativo",
+      "numero": "11095",
+      "data": "2005-05-31",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48733&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.095.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "cda2e784e7c702387b337499e7570a88927224f8a0f3ca7d121d49f619c97726",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2005/dlg-11095-2005-id48733.html.gz",
+      "sha256_fonte": "059d74f5a72dda715de45a2fcf8d7de2a3c4c7a84488fb925f1acf402086f44e",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2005/dlg-11094-2005-id48579.md",
+      "id": "48579",
+      "tipo": "Decreto Legislativo",
+      "numero": "11094",
+      "data": "2005-04-26",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48579&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.094.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "743b438143ac916fc0b5dd5fd047c13173b00a3054acca79d08083b291974afc",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2005/dlg-11094-2005-id48579.html.gz",
+      "sha256_fonte": "5808a8cfd6f7da55cdfb65d33e59785fa41571c2cbe2723b1502c375fe18d8c0",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2005/dlg-11093-2005-id48517.md",
+      "id": "48517",
+      "tipo": "Decreto Legislativo",
+      "numero": "11093",
+      "data": "2005-04-05",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48517&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2011.093.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "a408afa38e580a6321cb9070a0a0155e85461e28eee041915ddd687125d9573e",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2005/dlg-11093-2005-id48517.html.gz",
+      "sha256_fonte": "bb48e08b230737363ccf93f722c4379f4dbda67b79e5cc57be076baa319040e5",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2000/dlg-10586-2000-id3589.md",
+      "id": "3589",
+      "tipo": "Decreto Legislativo",
+      "numero": "10586",
+      "data": "2000-05-03",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=3589&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2010.586.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "734fa03f16aaa686ce56c86e074e49dff7bce167430a9bb4d1daff23be860b89",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/2000/dlg-10586-2000-id3589.html.gz",
+      "sha256_fonte": "0706097d28a7376b1b80a6a97da4a2266a9969eac876e16c0bb2ce1297073217",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/1992/dlg-6948-1992-id15175.md",
+      "id": "15175",
+      "tipo": "Decreto Legislativo",
+      "numero": "6948",
+      "data": "1992-12-23",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=15175&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DL%2006.948.pdf",
+      "versao_texto": "PDF da Assembleia Legislativa (pode conter texto compilado)",
+      "sha256_md": "0f9bb39f71ac4b250622eea9b068d60ad5b0a3a77d33f92eb41cd2ee178cb55e",
+      "cache": "estaduais/RS/_fonte/decretos-legislativos/1992/dlg-6948-1992-id15175.html.gz",
+      "sha256_fonte": "d7817eb1541d581dd92d732c922b9ab58fa48e95f38902fbed75112882907b51",
+      "corpo_conferido_cache": true,
+      "formato_cache": "PDF com texto"
+    }
+  ],
+  "rejeitados": [
+    {
+      "path": "estaduais/RS/decretos-legislativos/2004/dlg-11092-2004-id48196.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2004/dlg-11091-2004-id47446.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2003/dlg-11090-2003-id46899.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2003/dlg-11089-2003-id46898.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2003/dlg-11088-2003-id46897.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2003/dlg-11087-2003-id46896.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2003/dlg-11086-2003-id46457.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2003/dlg-11085-2003-id46372.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2003/dlg-11084-2003-id418.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2003/dlg-11083-2003-id417.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2003/dlg-11082-2003-id416.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2003/dlg-11081-2003-id415.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2003/dlg-11080-2003-id414.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2003/dlg-11079-2003-id413.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2002/dlg-11078-2002-id539.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2002/dlg-11077-2002-id853.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2002/dlg-11076-2002-id809.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2002/dlg-11075-2002-id808.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2002/dlg-11074-2002-id807.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2002/dlg-11073-2002-id806.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2001/dlg-11070-2001-id1313.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2001/dlg-11069-2001-id1281.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2001/dlg-11068-2001-id1789.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2001/dlg-11067-2001-id1617.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2001/dlg-11066-2001-id2287.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2001/dlg-11065-2001-id2286.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/2000/dlg-10626-2000-id3194.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/1999/dlg-10315-1999-id4348.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/1998/dlg-9713-1998-id6452.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/1998/dlg-10159-1998-id4990.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/1998/dlg-10010-1998-id5438.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/1998/dlg-10009-1998-id5355.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/1998/dlg-10008-1998-id5354.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/1998/dlg-10007-1998-id5353.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/1998/dlg-10006-1998-id5352.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/1998/dlg-10005-1998-id5351.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/1998/dlg-10004-1998-id5350.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/1997/dlg-8356-1997-id11252.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/1997/dlg-8355-1997-id9080.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/1997/dlg-8354-1997-id9079.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/1996/dlg-7905-1996-id10541.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/1995/dlg-7581-1995-id11372.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/1995/dlg-7546-1995-id11390.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/1995/dlg-7498-1995-id12554.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/1994/dlg-7454-1994-id12708.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/1994/dlg-7411-1994-id13580.md",
+      "motivo": "elemento visual não extraído na tabela: img"
+    }
+  ]
+}

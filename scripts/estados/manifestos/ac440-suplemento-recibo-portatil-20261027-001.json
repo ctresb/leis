@@ -1,0 +1,46 @@
+{
+  "preparado_em": "2026-10-27T22:01:10.243710-03:00",
+  "mapa": "estaduais/AC/_fonte/auditorias/ac440-suplemento-publicacao-20261027-001/hashes.json",
+  "sha256_mapa": "0e1454512c136bd6a581354875ebeb785ecbd6d5cd84e55434e794aeb04864f7",
+  "total_mapa": 1071,
+  "codigo_py_bruto": 20,
+  "codigo_ativo_total": 22,
+  "prototipos": 11,
+  "prototipos_original_intacto": true,
+  "gzip_reconstrucao_11_de_11": true,
+  "exportacao": "estaduais/AC/_fonte/auditorias/ac440-exportacao-portatil-20261027-001",
+  "igualdade_sha_exportacao_1071": true,
+  "replay": {
+    "aprovados": 440,
+    "falhas": 0
+  },
+  "testes": {
+    "total": 59,
+    "falhas": 0,
+    "erros": 0
+  },
+  "isolamento": {
+    "Python": "-I -B",
+    "modulos_de_projeto_ou_QA": 102,
+    "leituras_permitidas": 2092,
+    "bloqueios": 0,
+    "repositorio_fora_exportacao_proibido": true,
+    "QA_externo_explicitamente_permitido": "scripts/bin/qa-20261027/python",
+    "dependencias": "Versões de requirements.txt congelado; podem ser instaladas em ambiente externo próprio.",
+    "prototipos_nao_reconstruidos": true
+  },
+  "provas": {
+    "estaduais/AC/_fonte/auditorias/ac440-suplemento-publicacao-20261027-001/hashes.json": "0e1454512c136bd6a581354875ebeb785ecbd6d5cd84e55434e794aeb04864f7",
+    "estaduais/AC/_fonte/auditorias/ac440-suplemento-publicacao-20261027-001/paths.txt": "bba59b346a026fb32b9a756014dd4b264be483139fa9acd8cba4b7cfb562fb91",
+    "estaduais/AC/_fonte/auditorias/ac440-suplemento-publicacao-20261027-001/provas/prova-isolamento.json": "ce876b9d0197befb9773c168c51a4b366dfa0618c40530a674d5dcb6ac33fe17",
+    "estaduais/AC/_fonte/auditorias/ac440-suplemento-publicacao-20261027-001/provas/replay.json": "95229db117f1e599662e229cbf2c406d04895244330e5243e685b67f222783f4",
+    "estaduais/AC/_fonte/auditorias/ac440-suplemento-publicacao-20261027-001/provas/testes.json": "f2b99813ec335aea82cdc4ca565563de733d2781fa573403f303bd0bf5d6fa97",
+    "estaduais/AC/_fonte/auditorias/ac440-suplemento-publicacao-20261027-001/provas/testes.txt": "eb2f04a87f2fc4e2be67ba2a353cfa3b09db2d5be912d8257f90afac57529097"
+  },
+  "manifesto_original_inalterado": true,
+  "final006_inalterado": true,
+  "normas_novas_adicionais": 0,
+  "sem_Git_escrita": true,
+  "sem_canonicos_alterados": true,
+  "nota": "Mapa provado é hashes.json neste suplemento; o mapa de entrega abaixo apenas acrescenta os recibos da prova como dados, sem modificar código/candidatos/fontes do mapa provado."
+}

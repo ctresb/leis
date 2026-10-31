@@ -1,0 +1,43 @@
+{
+  "auditado_em": "2026-10-21T06:42:30.459305-03:00",
+  "corrige_contexto": "Recibo001 informou88 como última confirmada referindo-se ao terminal; persistência efetiva termina84. Nenhum recibo anterior foi reescrito.",
+  "terminal": {
+    "pagina": 88,
+    "total": 1760,
+    "corpos": 14
+  },
+  "persistido": {
+    "pagina": 84,
+    "total": 1680,
+    "corpos": 13,
+    "sha256_log": "f1c0662c7216c7799b7c8c6519c6ad30f8b925e09b06179712b7d42b48e9bbed"
+  },
+  "caches_sem_linhas_log": [
+    {
+      "pagina": 85,
+      "cache": "estaduais/AM/_indice/legisla-am-leis-20261021-001/pagina-0085.html.gz",
+      "sha256_fonte": "7d672d3e2f7fd8ca7e45f5b218c54784a1cdad64f5201c246f36e348495296b0",
+      "receipt_preservado": "estaduais/AM/_indice/legisla-am-leis-20261021-001/pagina-0085.meta.json"
+    },
+    {
+      "pagina": 86,
+      "cache": "estaduais/AM/_indice/legisla-am-leis-20261021-001/pagina-0086.html.gz",
+      "sha256_fonte": "8e40855f3fc39a743ff6ddb016752b5bce1b16960c891a894178245630c12ded",
+      "receipt_preservado": "estaduais/AM/_indice/legisla-am-leis-20261021-001/pagina-0086.meta.json"
+    },
+    {
+      "pagina": 87,
+      "cache": "estaduais/AM/_indice/legisla-am-leis-20261021-001/pagina-0087.html.gz",
+      "sha256_fonte": "22a598b2922f272ebb4ccb99cac42e02c892a97c2b1c79d5f50284e2a3de755e",
+      "receipt_preservado": "estaduais/AM/_indice/legisla-am-leis-20261021-001/pagina-0087.meta.json"
+    }
+  ],
+  "corpo_orfao": "estaduais/AM/_fonte/auditorias/legisla-am-leis-20261021-001/10484-4cc2c464a61b427095876ec7da195d51ea051c0759f25bb95ecb2ed3841bd569.html.gz",
+  "paginas_ausentes": [
+    88,
+    89
+  ],
+  "estrategia": "Retomar84 do cache, reutilizar85–87 com seus receipts preservados; corpo órfão reutilizado mas retido sem inventar receipt HTTP individual. Log passa a fsync por linha. Sem redownload de corpo existente.",
+  "snapshot_pre_retome": "scripts/estados/snapshots/am_legisla_20261021_002.py",
+  "sha256_coletor": "c8ffd544521c42fd829d0541193b2a4c7c8fd30f3778a949f14569d0aa763903"
+}

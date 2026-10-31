@@ -1,0 +1,19 @@
+{
+  "total_candidatos": 32287,
+  "total_publicavel": 11900,
+  "total_retido": 20387,
+  "total_residuos_nao_normativos_removidos": 10788,
+  "lotes": [
+    "scripts/estados/manifestos/pe-cache-publicavel-20261020-001.json",
+    "scripts/estados/manifestos/pe-cache-publicavel-20261020-002.json",
+    "scripts/estados/manifestos/pe-cache-publicavel-20261020-003.json",
+    "scripts/estados/manifestos/pe-cache-publicavel-20261020-004.json",
+    "scripts/estados/manifestos/pe-cache-publicavel-20261020-005.json",
+    "scripts/estados/manifestos/pe-cache-publicavel-20261020-006.json"
+  ],
+  "retencoes": "scripts/estados/manifestos/pe-cache-retencoes-20261020-001.json",
+  "sha256_retencoes": "c2516975072b1c08c8b46f0007780d87616946e0ca2e03441e1d7e61c3310064",
+  "sem_nova_rede": true,
+  "backups_preservados": "estaduais/PE/_fonte/auditorias/limite-campo-20261020",
+  "nota": "Os pacotes não incluem diretórios _indice/_referencias ou buffers. Não afirmam vigência sem prova nem completude dos retidos."
+}

@@ -1,0 +1,174 @@
+{
+  "preparado_em": "2026-10-27T22:25:42.164083-03:00",
+  "caso": "Lei 3.217/2016, LEGIS 2394",
+  "fonte_HTML": {
+    "item": {
+      "UF": "AC",
+      "tipo": "Lei Ordinária",
+      "pasta": "leis-ordinarias",
+      "numero": "3217",
+      "data": "2016-12-29",
+      "id_LEGIS": "2394",
+      "fonte": "https://legis.ac.gov.br/detalhar/2394",
+      "titulo_indice": "Lei nº 3.217, de 29/12/2016",
+      "publicacao_literal": "Publicada no DOE de 30/12/2016",
+      "texto_cartao": "Lei nº 3.217, de 29/12/2016 Publicada no DOE de 30/12/2016 Ementa Extingue o Fundo de Desenvolvimento Estadual – FDE, instituído pela Lei nº 565, de 30 de setembro de 1975, e dá outras providências.",
+      "indice": {
+        "url": "https://legis.ac.gov.br/principal/1",
+        "metodo": "POST",
+        "campos": {},
+        "iniciado_em": "2026-10-27T20:19:31.123238-03:00",
+        "retorno_curl": 0,
+        "status_final": "200 https://legis.ac.gov.br/principal/1",
+        "erro": "",
+        "cache": "estaduais/AC/_fonte/auditorias/legis-indice-sondagem-20261027-003/4d859d00d621157017383063f2c09e00cd1429d1707b576bf76befd1f862b58b.html.gz",
+        "sha256_fonte": "4d859d00d621157017383063f2c09e00cd1429d1707b576bf76befd1f862b58b",
+        "sha256_cache": "92e0af49090b61aca69af21e4daea63b553509761b3333d151e3aa2198a92f97",
+        "headers": {
+          "Date": "Tue, 27 Oct 2026 23:19:31 GMT",
+          "Server": "Apache/2.4.41 (Ubuntu)",
+          "Expires": "0",
+          "Cache-Control": "no-cache, no-store, must-revalidate",
+          "Pragma": "no-cache",
+          "Vary": "Accept-Encoding",
+          "Access-Control-Allow-Origin": "*",
+          "Access-Control-Allow-Headers": "origin, x-requested-with, content-type",
+          "Access-Control-Allow-Methods": "PUT, GET, POST, DELETE, OPTIONS",
+          "Transfer-Encoding": "chunked",
+          "Content-Type": "text/html; charset=UTF-8"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "sha256_cartao_derivado": "24b1a5973689f8e95667ab69741f7612406f6ff21e530aa76b62e0f17515bfe8"
+    },
+    "url": "https://legis.ac.gov.br/detalhar/2394",
+    "url_final": "https://legis.ac.gov.br/detalhar/2394",
+    "http": 200,
+    "cache": "estaduais/AC/_fonte/auditorias/legis-amostra-20261027-005/dbff355255f430324bd8450f5ffba1074264a9c4bbe967bfa8fc3e9422bbb722.html.gz",
+    "sha256_fonte": "dbff355255f430324bd8450f5ffba1074264a9c4bbe967bfa8fc3e9422bbb722",
+    "sha256_cache": "90cd8cf6afe0bad64d6ec6b4353f2189bd52921c972956d96d8aa06b9d884d5d",
+    "capturado_em": "2026-10-27T20:26:42.999893-03:00",
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 23:26:43 GMT",
+      "Server": "Apache/2.4.41 (Ubuntu)",
+      "Expires": "0",
+      "Cache-Control": "no-cache, no-store, must-revalidate",
+      "Pragma": "no-cache",
+      "Vary": "Accept-Encoding",
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Headers": "origin, x-requested-with, content-type",
+      "Access-Control-Allow-Methods": "PUT, GET, POST, DELETE, OPTIONS",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "text/html; charset=UTF-8"
+    },
+    "reutilizado": true,
+    "manifesto_reuso": "estaduais/AC/_fonte/auditorias/legis-amostra-20261027-005/recursos-observados.json",
+    "sha256_manifesto_reuso": "b18ed6699996bf1790ee9fd9a4a93b2bcd65bc81ee5716c1f8924388066bffbe"
+  },
+  "PDF_primario": {
+    "url": "https://diario.ac.gov.br/download.php?arquivo=KEQxQHI3IyEpRE8xNDgzMDY2OTMxNzgyNC5wZGY=",
+    "url_final": "https://diario.ac.gov.br/download.php?arquivo=KEQxQHI3IyEpRE8xNDgzMDY2OTMxNzgyNC5wZGY=",
+    "http": 200,
+    "metodo": "GET",
+    "campos": {},
+    "iniciado_em": "2026-10-27T22:23:03.509971-03:00",
+    "capturado_em": "2026-10-27T22:23:04.431377-03:00",
+    "cache": "estaduais/AC/_fonte/auditorias/DOE-sondagem-20261027-023/922488b935fa48a333be52bc1b1fa5ba1240f242820aed11d7e98902175e4475.pdf",
+    "sha256_fonte": "922488b935fa48a333be52bc1b1fa5ba1240f242820aed11d7e98902175e4475",
+    "sha256_cache": "922488b935fa48a333be52bc1b1fa5ba1240f242820aed11d7e98902175e4475",
+    "bytes": 4029923,
+    "headers": {
+      "Date": "Wed, 28 Oct 2026 01:23:03 GMT",
+      "Server": "Apache/2.4.59 (Debian)",
+      "Content-Length": "4029923",
+      "Content-Disposition": "attachment; filename=DO14830669317824.pdf",
+      "Content-Type": "application/pdf"
+    },
+    "headers_sessao_omitidos": true,
+    "label": "edicao-30dez2016-v2-0",
+    "indice": {
+      "url": "https://diario.ac.gov.br/",
+      "url_final": "https://diario.ac.gov.br/",
+      "http": 200,
+      "metodo": "POST",
+      "campos": {
+        "mesano": "12/2016"
+      },
+      "iniciado_em": "2026-10-27T22:22:22.845194-03:00",
+      "capturado_em": "2026-10-27T22:22:23.147599-03:00",
+      "cache": "estaduais/AC/_fonte/auditorias/DOE-sondagem-20261027-023/a229bb97fb2be431d56be261980c32d72cbda9bc8d519d2b15e8aee691fe302c.html.gz",
+      "sha256_fonte": "a229bb97fb2be431d56be261980c32d72cbda9bc8d519d2b15e8aee691fe302c",
+      "sha256_cache": "12da6bfd772e2daa4b4d756cfef4b2e0fd12817b9e556e82abee1be5d70d641e",
+      "bytes": 25442,
+      "headers": {
+        "Date": "Wed, 28 Oct 2026 01:22:23 GMT",
+        "Server": "Apache/2.4.59 (Debian)",
+        "Vary": "Accept-Encoding",
+        "Transfer-Encoding": "chunked",
+        "Content-Type": "text/html; charset=iso-8859-1"
+      },
+      "headers_sessao_omitidos": true,
+      "label": "dezembro2016-indice"
+    },
+    "rotulo_observado": "Diário Oficial N° 11965 - Caderno Único",
+    "data_indice": "30/12/2016"
+  },
+  "PDF_paginas": 511,
+  "paginas": [
+    4,
+    5
+  ],
+  "recortes_pdf_pontos": [
+    {
+      "pagina": 4,
+      "bbox": [
+        318,
+        755,
+        572,
+        828
+      ]
+    },
+    {
+      "pagina": 5,
+      "bbox": [
+        53,
+        43,
+        307,
+        157
+      ]
+    }
+  ],
+  "escopo": "Início na coluna direita inferior da página4, continuação na coluna esquerda superior da página5 até assinatura/cargo. Atos vizinhos não entram na comparação; PDFs e páginas integrais preservados.",
+  "resultado": "Articulado Arts.1º–4º, preâmbulo, fecho/data, assinatura e cargo são literalmente iguais após juntar duas palavras hifenizadas na quebra de linha. Única diferença no campo da ementa: Lei nº565 no portal, Lei n.565 no PDF.",
+  "igualdade_articulado_e_fecho": true,
+  "diferencas": [
+    {
+      "local": "Ementa, referência à lei instituidora do FDE",
+      "portal": "Lei nº 565",
+      "PDF": "Lei n. 565",
+      "limite": "Abreviação gráfica; no Art.1º e no Art.4º ambas as fontes usam n.565."
+    }
+  ],
+  "normalizacoes_de_linha": [
+    {
+      "PDF": "insti-\\ntuído",
+      "comparacao": "instituído"
+    },
+    {
+      "PDF": "fi-\\ncam",
+      "comparacao": "ficam"
+    }
+  ],
+  "sem_OCR": true,
+  "sem_fontes_alteradas": true,
+  "sem_canonicos_alterados": true,
+  "limite": "Amostra individual de2016, sem extrapolar para outras normas do portal. Cópia extra de07/12/2016 capturada por erro de preparo foi preservada e NÃO foi usada; aqui a data30/12/2016 e DOE11.965 foram conferidas no índice/PDF.",
+  "provas": {
+    "estaduais/AC/_fonte/auditorias/DOE-sondagem-20261027-023/30dez2016-pagina4.png": "e7252e9b1aae90929d3e5ae31bb62bac27028adc3bc0833088a3e062ab1f4fee",
+    "estaduais/AC/_fonte/auditorias/DOE-sondagem-20261027-023/30dez2016-pagina5.png": "c2037a686bf354bd4d1594cd0458e572975582754a5d87351ff37eefdf381cf0",
+    "estaduais/AC/_fonte/auditorias/DOE-sondagem-20261027-023/lei3217-pagina4-crop.txt": "c860959e055aa972f2b464b832ec7bb203a6d4e4ece35133b8af2222b8a5f1c5",
+    "estaduais/AC/_fonte/auditorias/DOE-sondagem-20261027-023/lei3217-pagina5-crop.txt": "a5db00f2dbeb8a24997d87ccc52a3e80547eaaac0e9130ac4ed35a85704c8402",
+    "estaduais/AC/_fonte/auditorias/DOE-sondagem-20261027-023/lei3217-comparacao-preliminar.json": "93b420c56fcd0713570f467d29f4dc7ff0b3af4c9b9dd86a9db26536d67f6262",
+    "estaduais/AC/_fonte/auditorias/DOE-sondagem-20261027-023/dezembro2016-v2-capturas-publicas.json": "6669f820b8a2464b92a0d84801f3ea6a0c90562eab37093f1cb31e73732316ad"
+  }
+}

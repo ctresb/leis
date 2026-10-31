@@ -260,6 +260,19 @@ def motivo_texto_parcial_decreto(tipo, corpo):
     return None
 
 
+def motivo_texto_parcial_norma(tipo, corpo):
+    if tipo not in {'LEI-n', 'LEI-sn', 'LCP', 'LDL'}:
+        return motivo_texto_parcial_decreto(tipo, corpo)
+    limpo = re.sub(r"[*_`\\]", "", corpo)
+    primeiro = re.search(r"^\s*(?:Artigo|Art\.?)\s*(?:1(?:[º°o.]|\s)|[úu]nico\b)", limpo, re.I | re.M)
+    prefixo = limpo[:primeiro.start()] if primeiro else limpo
+    if re.search(r"partes\s+vetadas|^\s*RETIFICA[ÇC][ÃA]O\s*$", prefixo, re.I | re.M):
+        return "Retificação ou promulgação de partes vetadas avulsa; buscar texto integral da lei"
+    if not primeiro:
+        return "Lei sem artigo inicial próprio reconhecível; íntegra exige revisão"
+    return None
+
+
 def yaml_str(v):
     return json.dumps(v if v is not None else "", ensure_ascii=False)
 
@@ -320,7 +333,7 @@ def processar(d, *, revisao_identidade=False):
     if not corpo.strip() or "\x00" in corpo:
         return "sem_texto", info["slug"], {"id": d["id"], "norma": d["norma"], "urn": urn,
                                            "url": url, "motivo": "corpo vazio ou contém NUL; fonte preservada"}
-    parcial = motivo_texto_parcial_decreto(d["tipo"], corpo)
+    parcial = motivo_texto_parcial_norma(d["tipo"], corpo)
     if parcial:
         return "sem_texto", info["slug"], {"id": d["id"], "norma": d["norma"], "urn": urn,
                                            "url": url, "motivo": parcial}

@@ -1,0 +1,268 @@
+{
+  "preparado_em": "2026-10-21T05:39:58.958008-03:00",
+  "total": 6,
+  "modo": "Proposta privada; nenhum MD canônico alterado; coordenador valida preimagem HEAD antes de promover.",
+  "indice": "estaduais/GO/_indice/legislacoes.json",
+  "sha256_indice": "76faaa85c55454ee0132bdd60f660b10d72730a469817d927f81709856b66c93",
+  "sem_rede": true,
+  "documentos": [
+    {
+      "path": "estaduais/GO/leis-complementares/2018/lc-147-2018-id101134.md",
+      "id_oficial": "101134",
+      "sha256_preimagem": "21458ff1d4eae3ef9f7ea4567f6c39a056d2abf3cc8d5b035656e5bdc286b8ea",
+      "sha256_candidato": "3e7fd1b27e4e20660c80a9dd85e9c05a56637156504409e7dbc86734ab5334c4",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-001/preimagens/estaduais/GO/leis-complementares/2018/lc-147-2018-id101134.md.gz",
+      "sha256_backup": "4dec6c474a3c9439160cbd9435345e7bf4d1d61a6ff6bb6235d5ba794eac6332",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-001/candidatos/estaduais/GO/leis-complementares/2018/lc-147-2018-id101134.md.gz",
+      "sha256_candidato_gzip": "2c63b7b378d6638fb2e46990af741e6b346da17484b8fb73fe5b07a221361d3e",
+      "cache": "estaduais/GO/_fonte/leis-complementares/2018/lc-147-2018-id101134.html.gz",
+      "sha256_cache": "ef32bdd6429ecf0629da11a8a1bce35ecae02a2e2af862c10c95536ef39853e8",
+      "sha256_fonte": "15ce11dd704d3f9821e91ebd8997670b05326939ded3f12428360d89af9fd264",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-001/fontes/estaduais/GO/_fonte/leis-complementares/2018/lc-147-2018-id101134.html.gz.gz",
+      "situacao_literal": "Declarada Inconstitucional",
+      "item_indice": {
+        "id": 101134,
+        "ano": 2018,
+        "numero": "147",
+        "ementa": "Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.",
+        "data_legislacao": "28/11/2018",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 1,
+          "nome": "Lei Complementar"
+        },
+        "diarios": [
+          {
+            "data_diario": "29/11/2018",
+            "numero": "22.942",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/3637"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 6,
+          "nome": "Declarada Inconstitucional"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-complementares/2018/lc-148-2018-id101135.md",
+      "id_oficial": "101135",
+      "sha256_preimagem": "ebc61f58601c8cde27ac98a2e9aeff7f5fbc100e161a676013e619f6d74f7f72",
+      "sha256_candidato": "81c33ff75713b503e8e9d94f7f18615b03d65244084efe57e449ff983d69e221",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-001/preimagens/estaduais/GO/leis-complementares/2018/lc-148-2018-id101135.md.gz",
+      "sha256_backup": "1c9526a95f3ddc68e57499bd7335c1398335bbfb478bcfea396ba8b794724988",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-001/candidatos/estaduais/GO/leis-complementares/2018/lc-148-2018-id101135.md.gz",
+      "sha256_candidato_gzip": "c7bb10e8fd1f292f116478437e392604fc17d7b258d11b0aae6118d5927c479a",
+      "cache": "estaduais/GO/_fonte/leis-complementares/2018/lc-148-2018-id101135.html.gz",
+      "sha256_cache": "b502108dc6827a3b2c9f5169ac1d23b5762fa08e7ea340e2452219cb9a02564e",
+      "sha256_fonte": "13958bc285dec022b22bb345c36f822d090a10fa4074c2770e0d0018d141a55e",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-001/fontes/estaduais/GO/_fonte/leis-complementares/2018/lc-148-2018-id101135.html.gz.gz",
+      "situacao_literal": "Declarada Inconstitucional",
+      "item_indice": {
+        "id": 101135,
+        "ano": 2018,
+        "numero": "148",
+        "ementa": "Dispõe sobre os critérios para apuração do ICMS ecológico de que trata a Lei Complementar nº 90, de 22 de dezembro de 2011, para o exercício que especifica.",
+        "data_legislacao": "04/12/2018",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 1,
+          "nome": "Lei Complementar"
+        },
+        "diarios": [
+          {
+            "data_diario": "05/12/2018",
+            "numero": "22.946",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/3641"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 6,
+          "nome": "Declarada Inconstitucional"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-complementares/2024/lc-198-2024-id109737.md",
+      "id_oficial": "109737",
+      "sha256_preimagem": "736156b38c26042ac9ae4088d86c590c02e0383158db8fa58504c345cbd5f6ab",
+      "sha256_candidato": "a5746473131765773dd854998ce5a8783aa0453f0111ca2a83622e42f0a23af0",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-001/preimagens/estaduais/GO/leis-complementares/2024/lc-198-2024-id109737.md.gz",
+      "sha256_backup": "89cd6d952947ffd1eb1dd5df7f4b4aaa22cacaf8e49a4508266693e27afbf9b6",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-001/candidatos/estaduais/GO/leis-complementares/2024/lc-198-2024-id109737.md.gz",
+      "sha256_candidato_gzip": "622d97691158bb9e168e52721791a59cc65d157e04413b1ac47515acf8e96374",
+      "cache": "estaduais/GO/_fonte/leis-complementares/2024/lc-198-2024-id109737.html.gz",
+      "sha256_cache": "5c1f2c02084401533e5ade026468814d62dc2bc75111588d97d5eba12ed45d31",
+      "sha256_fonte": "2ca7e3a231f8856eda8f1cea2ab24628c831a1e06a7df58a7be9a68138b1b5e2",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-001/fontes/estaduais/GO/_fonte/leis-complementares/2024/lc-198-2024-id109737.html.gz.gz",
+      "situacao_literal": "Declarada Inconstitucional",
+      "item_indice": {
+        "id": 109737,
+        "ano": 2024,
+        "numero": "198",
+        "ementa": "Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.",
+        "data_legislacao": "15/10/2024",
+        "link_externo": null,
+        "tipo_legislacao": {
+          "id": 1,
+          "nome": "Lei Complementar"
+        },
+        "diarios": [
+          {
+            "data_diario": "17/10/2024",
+            "numero": "24.396",
+            "suplemento": "Sim",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/6373"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 6,
+          "nome": "Declarada Inconstitucional"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2026/lei-24256-2026-id114164.md",
+      "id_oficial": "114164",
+      "sha256_preimagem": "d776c025476857bf0bfd4a0a30c7924fbfdf884e37bc874752d9631b37726bbd",
+      "sha256_candidato": "3c072dfe806a5783787e805f2fd7d39ec15be5a8a52203f491d607b3e2571b18",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-001/preimagens/estaduais/GO/leis-ordinarias/2026/lei-24256-2026-id114164.md.gz",
+      "sha256_backup": "d744894d6fadb02c979f935fdf135d03bddfaf83d25b3828239e42db0abbf647",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-001/candidatos/estaduais/GO/leis-ordinarias/2026/lei-24256-2026-id114164.md.gz",
+      "sha256_candidato_gzip": "cdeffefa9032881023f923701a837e62422c73dbb7591daf576d4216cb2d35c2",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2026/lei-24256-2026-id114164.html.gz",
+      "sha256_cache": "593a53a3a234effa6d144925afd13dbf1b39cb1cc13ca20a0761735aca62c5c6",
+      "sha256_fonte": "c5bf91e4f6b3279264aa90991c83703c0638ffd00eaabb8e6a80e220f0c6e764",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-001/fontes/estaduais/GO/_fonte/leis-ordinarias/2026/lei-24256-2026-id114164.html.gz.gz",
+      "situacao_literal": "Vigente a partir de 26/10/2026",
+      "item_indice": {
+        "id": 114164,
+        "ano": 2026,
+        "numero": "24.256",
+        "ementa": "Altera a Lei nº 20.464, de 22 de abril de 2019, que estabelece as normas para a promoção da acessibilidade de pessoas com mobilidade reduzida no Estado de Goiás.",
+        "data_legislacao": "29/04/2026",
+        "link_externo": null,
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "29/04/2026",
+            "numero": "24.768",
+            "suplemento": "Sim",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/7161"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 1,
+          "nome": "Vigente a partir de 26/10/2026"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2025/lei-23407-2025-id110668.md",
+      "id_oficial": "110668",
+      "sha256_preimagem": "3e5dda8ea4067cdd0146a1bd6b4f1331eb16429334a18be38ac8814a5c2f45b8",
+      "sha256_candidato": "d4fb727ebc82cc7e3a795a23491fb4ce3ea5198b6721d62ba11bf341bbafa107",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-001/preimagens/estaduais/GO/leis-ordinarias/2025/lei-23407-2025-id110668.md.gz",
+      "sha256_backup": "595f4f1b0cad2e99216f31950b7b41d2f77ccc5401fb8462a382f7b8f0d9be5c",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-001/candidatos/estaduais/GO/leis-ordinarias/2025/lei-23407-2025-id110668.md.gz",
+      "sha256_candidato_gzip": "ebafea6685be73400db6fd45b26103f9a8162c4ab40ef077cb18e7732fa2db2d",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2025/lei-23407-2025-id110668.html.gz",
+      "sha256_cache": "8bc5cd4809a5988d33eed5b0c64bc7291dce74288b4b5aa58bca2cb833b75d65",
+      "sha256_fonte": "da8d1c0c22b23fa8a156fc83de3101430428f079875df06e9d73556087b89b11",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-001/fontes/estaduais/GO/_fonte/leis-ordinarias/2025/lei-23407-2025-id110668.html.gz.gz",
+      "situacao_literal": "Declarada Inconstitucional",
+      "item_indice": {
+        "id": 110668,
+        "ano": 2025,
+        "numero": "23.407",
+        "ementa": "Dispõe sobre a obrigatoriedade do tratamento de lixiviado (chorume) de aterros sanitários (urbanos e industriais) no âmbito do Estado de Goiás e dá outras providências.",
+        "data_legislacao": "13/05/2025",
+        "link_externo": null,
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "13/05/2025",
+            "numero": "24.530",
+            "suplemento": "Sim",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/6646"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 6,
+          "nome": "Declarada Inconstitucional"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2025/lei-20775-2025-id111139.md",
+      "id_oficial": "111139",
+      "sha256_preimagem": "b243b940741f7c9a25c1f99eb7947853234b52a3a46f2e7eb593d7b98e903355",
+      "sha256_candidato": "cfc4c1928700fe662665294c5bd56c5e95a4ca722cbebbffab2ce568d512a0f9",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-001/preimagens/estaduais/GO/leis-ordinarias/2025/lei-20775-2025-id111139.md.gz",
+      "sha256_backup": "79ba6008d0a37df60478ff303dbef8846a9919ccbdd33933ab649696d3816ed3",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-001/candidatos/estaduais/GO/leis-ordinarias/2025/lei-20775-2025-id111139.md.gz",
+      "sha256_candidato_gzip": "b87e14b72f2e98e814e6097184c11337f44e1eee5d96529468f0a7edeac6944c",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2025/lei-20775-2025-id111139.html.gz",
+      "sha256_cache": "4fa52d091ae869bcfadd76854f3e2bd05c225a887d9bd28ee01308f9a90980f6",
+      "sha256_fonte": "aec39a0e5c91b1c49b756c30d8e7b9ce5866e758e5bf70c168ec4fcc310c31c2",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-001/fontes/estaduais/GO/_fonte/leis-ordinarias/2025/lei-20775-2025-id111139.html.gz.gz",
+      "situacao_literal": "Sem Efeito",
+      "item_indice": {
+        "id": 111139,
+        "ano": 2025,
+        "numero": "20.775",
+        "ementa": "Dispõe sobre as unidades dos Colégios Estaduais da Polícia Militar de Goiás – CEPMG e dá outras providências.",
+        "data_legislacao": "25/05/2020",
+        "link_externo": null,
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "26/05/2020",
+            "numero": "23.309",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/4229"
+          },
+          {
+            "data_diario": "27/05/2020",
+            "numero": "23.310",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/4230"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 20,
+          "nome": "Sem Efeito"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    }
+  ]
+}

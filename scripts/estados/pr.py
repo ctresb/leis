@@ -1,7 +1,7 @@
 """Paraná — Sistema Estadual de Legislação (Casa Civil, legislacao.pr.gov.br).
 
 Índice: listarAtosAno.do?action=listarAtos&anoAto=AAAA (POST com codTipoAto), um ano por vez.
-Texto: pesquisarAto.do?action=exibir&codAto=N&tipoVisualizacao=compilado (texto compilado).
+Texto: exibirAto.do?action=iniciarProcesso&codAto=N (rota pública do ato).
 """
 import datetime as dt
 import gzip
@@ -139,6 +139,7 @@ def processar(it):
     m = re.search(r"(\d{1,2}) de (\w+) de (\d{4})", titulo)
     if m and m.group(2).lower() in MESES:
         data = f"{m.group(3)}-{MESES[m.group(2).lower()]:02d}-{int(m.group(1)):02d}"
+    data_original = data
     if data:
         try:
             if dt.date.fromisoformat(data) > dt.date.today():
@@ -155,6 +156,8 @@ def processar(it):
         ("versao_texto", "compilada (Casa Civil do Paraná)"),
         ("fonte", url),
     ]
+    if data_original and not data:
+        meta.append(("data_na_fonte", data_original))
     gravar(md, fonte, trecho, meta, f"# {titulo}\n\n{corpo}")
     return "ok", None
 

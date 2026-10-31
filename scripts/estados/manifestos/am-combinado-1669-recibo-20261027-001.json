@@ -1,0 +1,48 @@
+{
+  "finalizado_em": "2026-10-27T16:48:00.839505-03:00",
+  "total": 1669,
+  "subconjuntos": {
+    "AM54": 54,
+    "AM1615": 1615
+  },
+  "retidos_assinatura": 64,
+  "originais_preservados": true,
+  "sem_promocao": true,
+  "plano": "scripts/estados/manifestos/am-combinado-1669-20261027-001.json",
+  "sha256_plano": "04836fa2eda74b7934d29694bbcdb1cba464cd2fca31694cc038e1fbd36cdc4c",
+  "resumo": "estaduais/AM/_fonte/auditorias/am-combinado-1669-20261027-001/replay-combinado/resumo.json",
+  "sha256_resumo": "b682eee78b26584103033805b0d11cb5deef6bf10a0e797a2d502712f8e9cd5a",
+  "resultado": {
+    "total": 1669,
+    "grupos": {
+      "AM54": 54,
+      "AM1615": 1615
+    },
+    "HEAD": "15eb09b618ff08a38c4dfee06a91bd139d093f5d",
+    "HEAD_ausentes": 1669,
+    "aliases": 0,
+    "assinaturas": {
+      "conferida": 1446,
+      "nao_comparavel": 223
+    },
+    "dispositivo_proprio": 1669,
+    "retidos": 64,
+    "sem_promocao": true,
+    "sha256_plano": "04836fa2eda74b7934d29694bbcdb1cba464cd2fca31694cc038e1fbd36cdc4c",
+    "sha256_entrada_HEAD": "3b59fceda2c6b119282a3044f23d7a574bfcf4bcce1fdb25e58e7524fd76662b"
+  },
+  "QA_central": "_fonte/operacao_root_20261027/dependencias-qa.json",
+  "comando_replay_unico": "PYTHONPATH=\"$PWD/scripts/bin/qa-20261027/python\" /Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/estados/snapshots/am_combinado_1669_20261027_001/reexecutar_legisla_am_combinado.py --plano scripts/estados/manifestos/am-combinado-1669-20261027-001.json --head estaduais/AM/_fonte/auditorias/am-combinado-1669-20261027-001/HEAD-entrada.json --execucao DIRETORIO_NOVO",
+  "codigo_controlador": {
+    "scripts/estados/snapshots/am_combinado_1669_20261027_001/am_legisla_head.py": "28421c6a6f97815a174365fe55a30c033dc5772745188dc34029997ae54f3a04",
+    "scripts/estados/snapshots/am_combinado_1669_20261027_001/representacao_html_legisla_am.py": "d950081c07fe5c96bbe39130d901d16b3469a158d0b406882de36cf4dc6c1540",
+    "scripts/estados/snapshots/am_combinado_1669_20261027_001/reexecutar_legisla_am_combinado.py": "13a02c162bc3999a17db1f6d5bbee58071075fc9e863d0a5e37e7cce18c81c2f",
+    "scripts/estados/snapshots/am_combinado_1669_20261027_001/legisla_am_dispositivo.py": "ddf909f8dd61cc0bd021da71b38de27d65bbe54d44b2235e8476adbed8e979be",
+    "scripts/estados/snapshots/am_combinado_1669_20261027_001/legisla_am_assinatura.py": "21120e834d70dfff50cd40954d6341e4b0d544add784f815569c1099ebbbcff7",
+    "scripts/estados/snapshots/am_combinado_1669_20261027_001/legisla_am_identidade.py": "f7877380057980743be8de0e64b2608e92fb9e4093c1af60cb77a2d4cb64d6e1",
+    "scripts/estados/snapshots/am_combinado_1669_20261027_001/representacao_html_dou.py": "1ae5cecda55ddd32ab00fdb2598d50b7cd5aeadaad0e0e73d720e4727bf1732d",
+    "scripts/estados/snapshots/am_combinado_1669_20261027_001/test_legisla_am_assinatura.py": "c83c64d8088cf98cf8fc9ae769854d77e13760b491381c1b916792bf00f59eda",
+    "scripts/estados/snapshots/am_combinado_1669_20261027_001/pe_fidelidade_visivel.py": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838"
+  },
+  "sem_correcao_inferida_de_datas": true
+}

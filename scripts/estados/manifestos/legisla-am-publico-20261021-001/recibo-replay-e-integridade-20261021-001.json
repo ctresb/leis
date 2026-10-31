@@ -1,0 +1,306 @@
+{
+  "preparado_em": "2026-10-21T07:17:30.593262-03:00",
+  "replay": {
+    "total": 55,
+    "falhas": 0,
+    "path": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/replay-55.jsonl",
+    "sha256": "08a766175b4f2ab6279e0931cb0f0f09e48fcc349e65205c65435aa46b06ee20"
+  },
+  "testes_snapshot": 21,
+  "testes_suplementares": 5,
+  "dispositivo_proprio_todos": 55,
+  "sem_promocao": true,
+  "HEAD_pendente_ROOT": true,
+  "runtime": {
+    "python": "3.12.14",
+    "versoes": {
+      "markdown-it-py": "4.0.0",
+      "tinycss2": "1.5.1",
+      "cssselect2": "0.10.1",
+      "lxml": "6.1.1",
+      "webencodings": "0.6.1"
+    }
+  },
+  "comando_replay": "PYTHONPATH=/tmp/constituicao-css-qa-20261021:/tmp/constituicao-markdown-qa-20261020:scripts/estados/snapshots/am_legisla_publicacao_20261021_001 /Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/estados/snapshots/am_legisla_publicacao_20261021_001/reexecutar_legisla_am.py --manifesto scripts/estados/manifestos/legisla-am-publico-20261021-001/am-legisla-publicacao-20261021-001.json --saida NOVO.jsonl",
+  "codigo_suplementar": {
+    "scripts/estados/snapshots/am_legisla_integridade_20261021_001/auditar_legisla_am_cache.py": "f5e101cf28dc4d9aa04f843f1e036211b649b24161bc3b7f6e99dcd6e70bc5b4",
+    "scripts/estados/snapshots/am_legisla_integridade_20261021_001/test_legisla_am_cache.py": "02ccb71d3b930825c778785d89017ffb86672aa55ca0366a059ba8127a6f0c2f"
+  },
+  "documentos": [
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2025/lei-7861-2025-legisla17701.md",
+      "sha256_fonte": "58713eaf8f62cb53bf3aef93b7e28cd7c47b083a06e42404df9eddba3659ac12",
+      "dispositivo_proprio": "BER a todos os habitantes que a Assembleia Legislativa decretou e eu sanciono a presente LEI: Art. 1º Fica instituído no Calendário Oficial do Estado do Amazonas, o Dia Estadual de Combate ao Trabalho I"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2025/lei-7758-2025-legisla16904.md",
+      "sha256_fonte": "ce0107b6aa89587174ccb03c70f08f8d94605b15dea1970ad2f4306950a0aadf",
+      "dispositivo_proprio": "BER a todos os habitantes que a Assembleia Legislativa decretou e eu sanciono a presente LEI: Art. 1º Fica instituído o Dia do Merendeiro Escolar, a ser comemorado anualmente, no dia 30 de outubro, no â"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2024/lei-6981-2024-legisla13017.md",
+      "sha256_fonte": "1f1dbcc240195bb167e76ae0cd7c1955961650559c37687c34dd56606ec959b4",
+      "dispositivo_proprio": "BER a todos os habitantes que a Assembleia Legislativa decretou e eu sanciono a presente LEI: Art. 1° Fica concedido o Título de Cidadã do Amazonas à Senhora ANAGALI MARCON BERTAZZO, conforme Resolução "
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1967/lei-604-1967-legisla13659.md",
+      "sha256_fonte": "215046f0ba4a8a96ee229b76b668ecad984e4d5665e5de1f0234563421b613d9",
+      "dispositivo_proprio": "BER a todos os habitantes que a Assembleia Legislativa decretou e eu sanciono a presente LEI: Art. 1º Fica o Chefe do Poder Executivo autorizado a abrir no Orçamento vigente, pela Secretaria de Imprensa"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2024/lei-6920-2024-legisla12252.md",
+      "sha256_fonte": "1db3121471ddaf8e6cd787a47f512d9f34ab924af7577e8908cda7166d1f616d",
+      "dispositivo_proprio": "BER a todos os habitantes que a Assembleia Legislativa decretou e eu sanciono a presente LEI: Art. 1° Esta Lei dispõe sobre o reflorestamento por parte das empresas que causarem incêndios ilegais no âmb"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2024/lei-6693-2024-legisla10967.md",
+      "sha256_fonte": "ffb2d117c76f52bc920d1878e05abd7c919db038de5d591666889d556f02653e",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Fica criado o Dia Estadual da Cavalgada Antônio Damasceno, a ser comemorado anualmente, em 22 de set"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2023/lei-6493-2023-legisla10505.md",
+      "sha256_fonte": "523cead83222ddf7c1f755fb85db48cde8572de9981f8844b448cbd5ef3f4f39",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º O Poder Executivo poderá instituir a Política Estadual de Incentivo à Economia Criativa, no âmbito d"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2023/lei-6343-2023-legisla9988.md",
+      "sha256_fonte": "036e485e567a387b3d0246644be49328920f2355f669581308db06093284320c",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Fica concedido o Título de Cidadão do Amazonas ao Senhor ANTÔNIO ESTANISLAU SANCHES. Parágrafo único"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2021/lei-5703-2021-legisla6476.md",
+      "sha256_fonte": "0df946039eadf62ea96a42cc15eafb5c258e78ba7f7994642c99e652cb8a3a3a",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Fica no Estado do Amazonas, o Dia Estadual de Combate e Conscientização ao Sedentarismo, a se realiz"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2020/lei-5241-2020-legisla6390.md",
+      "sha256_fonte": "db437ca0381e61322d633ecaacff63240965544f23d8903d99d1ca9a47318a67",
+      "dispositivo_proprio": " 2010, Regimento Interno, faz saber a todos que a presente virem que promulga a seguinte LEI: Art. 1º Fica declarado Patrimônio Cultural de Natureza Imaterial do Estado do Amazonas o evento cultural pop"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2018/lei-4731-2018-legisla966.md",
+      "sha256_fonte": "1cc54faa4b11d64ce0af12fb7ea3e7a9ce75be3a8610e644b68bb45418cf081c",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Fica o Chefe do Poder Executivo autorizado a conceder o direito real de uso Associação dos Oficiais "
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2018/lei-4720-2018-legisla953.md",
+      "sha256_fonte": "0e44feb3f703fd9e2a4b14ce1fed3450b53c219cea2915beaced7ab2c4346b3a",
+      "dispositivo_proprio": "promulgo, nos termos do artigo 36, §5, da Constituição do Estado do Amazonas, a seguinte LEI: Art. 1º Os postos de saúde estaduais de distribuição de medicamentos integrantes da Política Estadual de Saú"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2018/lei-4608-2018-legisla721.md",
+      "sha256_fonte": "105370881cc103716012560ed37f72eb221157e319c6452e082f304ffed90dc7",
+      "dispositivo_proprio": " 2010, Regimento Interno, faz saber a todos que a presente virem que promulga a seguinte LEI: Art. 1º Fica reconhecido o Canteiro Central da Avenida Parque, localizada no Município de Itacoatiara, como "
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2018/lei-4609-2018-legisla722.md",
+      "sha256_fonte": "e8d771a7323037bc8a2c9cf4a7b3f07e036b021c2314f4b5864e96ec340d5b13",
+      "dispositivo_proprio": " 2010, Regimento Interno, faz saber a todos que a presente virem que promulga a seguinte LEI: Art. 1º Fica incluída, no Calendário Oficial de Eventos do Estado do Amazonas, a Festa das Luzes de Chanuká,"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4312-2016-legisla1281.md",
+      "sha256_fonte": "1228a8fef664eb2602469ed157666e1ae89d6e809613aa65be26d4c19eeb6a64",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1.º Fica instituído o Programa Primeira Infância Amazonense - PIA, como parte integrante da Política Est"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4311-2016-legisla1280.md",
+      "sha256_fonte": "579376670f36de1e99acee9374b8a85a8b86da2008b864677c8b2a88e73d5a20",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1.º Os subsídios mensais dos Desembargadores e dos Juízes de Direito de Entrância Final e de Entrância I"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4286-2016-legisla1235.md",
+      "sha256_fonte": "02365d77c722405e689a6fa335856bac0dc849c973b97e51809907fb6fcbe5b1",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Fica instituído o Bar do Cipriano, como Patrimônio Histórico Cultural Imaterial do Estado do Amazona"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4287-2016-legisla1236.md",
+      "sha256_fonte": "b20b28583075b458460644435ec0c74ee89edb45b79a251bae6149c2195ed855",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Fica classificado Autazes como Município de Interesse Turístico, ao longo da área da unidade territo"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4288-2016-legisla1237.md",
+      "sha256_fonte": "c30a1179670678cc1cf194bb901075cca07bf603d321e732e978cc05264591d6",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Esta Lei obriga os meios de hospedagem a informar as autoridades competentes do Estado do Amazonas, "
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4289-2016-legisla1238.md",
+      "sha256_fonte": "d8c40115b9ea2136132f414829a2647991f51100e1a4ab786e705b78a2ec9142",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Fica concedido o Título de Cidadão do Amazonas ao Médico e Político Francisco do Nascimento Gomes. P"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4291-2016-legisla1241.md",
+      "sha256_fonte": "88bd83ff6012201e37ebe0b9d4293d230836675c0bc70d15b83d5b41b35f1625",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1.º Fica classificado o Município de Manacapuru como área de interesse turístico. Art. 2.º Entenda-se co"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4292-2016-legisla1242.md",
+      "sha256_fonte": "bf1146197f4f34553de90a817b6c27726e0f1abd81aaba014146ddc88996b7b5",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1.º Fica classificado o Município de Codajás como Área Especial de Interesse Turístico Prioritário. Art."
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4294-2016-legisla1244.md",
+      "sha256_fonte": "fed5f1c8f415e0047b5a14760dce2e61670891c7c0b6d68763f004b259e05fc1",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1.º Fica considerado como Patrimônio Cultural Material e Imaterial do Estado do Amazonas, o guaraná prod"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4295-2016-legisla1245.md",
+      "sha256_fonte": "8574cd32f06bc5c398729716f2909facd8c35e7bb4fc74820426984b82a19fcc",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1.º Fica concedido o Título de Cidadão do Amazonas aos Irmãos Maristas Sebastião Antônio Ferrarini e Dem"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4296-2016-legisla1264.md",
+      "sha256_fonte": "e742d971f32df3752b2c162fad1a1d512352bc781992003732fa2069382a64e3",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1.º Ficam isentas de pagamento para a utilização de banheiros públicos as pessoas com idade igual ou sup"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4297-2016-legisla1265.md",
+      "sha256_fonte": "e923a50c514a4c26890116834f3d58e7dc903904406c982139176049d62e91e5",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1.º Fica concedido o Título de Cidadão do Amazonas, ao Senhor Geraldo Bernardino. Parágrafo Único. A ent"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4298-2016-legisla1266.md",
+      "sha256_fonte": "06fa5afacf623944c7de05485d6636f49f5ce82117b4584cbc59adc4132647f6",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1.º Fica declarado como Patrimônio Cultural Imaterial do Estado do Amazonas o Restaurante Canto da Peixa"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4299-2016-legisla1267.md",
+      "sha256_fonte": "f14efdad7c7cbfe18de2c45155739d623fcbac3bcb855f5de20c91bb0beaeb66",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1.º Os consumidores de serviços das academias de ginástica do Estado do Amazonas e estabelecimentos simi"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4300-2016-legisla1268.md",
+      "sha256_fonte": "bf2b219a33c1a09add1916288542a982ebe317e4634a363e9919a77be43e0d92",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1.º Fica instituído, no âmbito do Estado do Amazonas, o Dia Estadual de Conscientização da Fibromialgia,"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4301-2016-legisla1269.md",
+      "sha256_fonte": "898d832f3d3d4b9fdb1d92046db792b108a0b8875f3c4d6eb2bde5898d01552e",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1.º Ficam os estabelecimentos comerciais que ofereçam serviços de aplicação de tatuagem permanente, a tí"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4302-2016-legisla1270.md",
+      "sha256_fonte": "f7b32badd13828c7084299eb7d20373cdb95576a3e7b759f45dc11884eb0ecf5",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1.º Ficam obrigados os estabelecimentos prestadores de serviço de Assistência Técnicas no Estado do Amaz"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4303-2016-legisla1271.md",
+      "sha256_fonte": "bf3660803a59965d708c2ddb58c9565c79156b7a00fb6f5864a3896aa7e7bd30",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1.º A abolição da escravatura no Amazonas será comemorada anualmente no dia 10 de julho, passando a cons"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4304-2016-legisla1272.md",
+      "sha256_fonte": "2033177ee1698c145b727c8fc2c87886fb1cb9aa507c821b4b64d0313b061e01",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente L E I: Art. 1.º Fica concedido o Título de Cidadão do Amazonas ao Senhor CARLOS ANDRÉ PEDERNEIRAS DE CASTRO. Parágra"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4305-2016-legisla1273.md",
+      "sha256_fonte": "c05cd99396671e83d852afe0b3c37343c664f1eaa7a793579ed60b98f313f48e",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1.º Fica concedido o Título de Cidadão do Estado do Amazonas ao Gen. Bda. ANTÔNIO MANOEL DE BARROS. Pará"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4306-2016-legisla1274.md",
+      "sha256_fonte": "aa5ca8597de57b1b9de5be8bc4121ea88250394b864bdfa78cae5f1bb07cb86b",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1.º Fica concedido o Título de Cidadão do Estado do Amazonas ao Senhor JOSÉ WANDERLEY DALLAS REI DIAS. P"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4307-2016-legisla1275.md",
+      "sha256_fonte": "ca1ff4b4c6b99b30d8db4c9b59b2563f43fad74dacc8457f2e5a74deb93024cd",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º - Ficam as unidades básicas de saúde, os postos de pronto atendimento, equipes de programa social, a"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4308-2016-legisla1277.md",
+      "sha256_fonte": "1b1cd1601796ee39cfbb642260d5c28977082a66d1db9618f131824e555ed05c",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1.º Ficam declarados como Patrimônio Cultural Imaterial do Estado do Amazonas, os seguintes bares tradic"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4309-2016-legisla1278.md",
+      "sha256_fonte": "48262870d72d55cbd16d07eaeb38cb3a0600e36fc962c1f2edf4ad4904b0b72e",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1.º Todas as unidades integrantes da rede assistencial do Sistema Estadual responsáveis pela prestação d"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4283-2016-legisla1232.md",
+      "sha256_fonte": "e691512752edc75382dfd99bc8f6c62b303406ea465b703aa8ad7cb68eeed085",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Fica obrigada a disponibilização de, no mínimo, um exemplar da Lei Maria da Penha atualizado (Lei Fe"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4284-2016-legisla1233.md",
+      "sha256_fonte": "39eca73b4ce7ca1695b37f3ce46ee180c01999e09b3b82c331ce3ac2b514bf99",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Fica declarada de utilidade pública, a ASSOCIAÇÃO COMUNITÁRIA DE CULTURA E INFORMAÇÃO PAUINIENSE - A"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4285-2016-legisla1234.md",
+      "sha256_fonte": "ad70d4733fac0dc7ec5a5a256264b61a4b399fc44c33482e1cbd558e8d059787",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Fica declarada de utilidade pública a Associação Comunitária Provisão de Deus - TVPD, fundada em 15."
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/2014/lei-4018-2014-legisla7406.md",
+      "sha256_fonte": "2efd109efd654b67a0c8752433f262996e867cd9944b28c5d1441a429bc06d54",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Fica instituído, no calendário oficial de datas e eventos do Estado do Amazonas, o “Dia Estadual do "
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1995/lei-2368-D-1995-legisla7753.md",
+      "sha256_fonte": "938a1f9e1b1045c57c27a3b3d0e05bf92f09d243d55943e23ab18cdf661ab0fc",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Fica criado o Fundo Estadual da Criança e do Adolescente, previsto no artigo 88, inciso IV, da Lei F"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1985/lei-1736-A-1985-legisla8680.md",
+      "sha256_fonte": "4d1494cbbfdfff794f1e0b50e12316eeadcf6872781dafb1e7ef733bbf464b74",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Fica concedido ao Presidente da República José Sarney, o título do Cidadão do Amazonas, pelos releva"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1979/lei-1345-1979-legisla8747.md",
+      "sha256_fonte": "8df810fb8b32439d7e16bd85bffa21c056bea09180025075bc5f4803f3a47049",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Fica o Governo do Estado do Amazonas autorizado a contrair empréstimo de até Cr$ 200.000.000,00 (duz"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1979/lei-1347-1979-legisla8749.md",
+      "sha256_fonte": "00749f83c0efda52ef4a98c2b935a348402de4fa4cb74c1e8d649b5a41180197",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Fica o Poder Executivo autorizado a contrair, com financiador estrangeiro, através do Banco do Estad"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1979/lei-1343-1979-legisla8745.md",
+      "sha256_fonte": "f68fefdcf860847b934aa8e2f36b2a80e778f620e3b01526862ca02517835754",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Ficam criados, no Quadro Permanente da Penitenciária Central do Estado, 30 (trinta) cargos de Guarda"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1979/lei-1341-1979-legisla8743.md",
+      "sha256_fonte": "a657821401ceede31669802d7f8eb6db12b1f450e8545ab51351eea6c3ed9c35",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Fica instituído, no âmbito de toda a Administração Pública Estadual, o Sistema Financeiro da Conta Ú"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1979/lei-1340-1979-legisla8742.md",
+      "sha256_fonte": "6befe94dbd984f419bc89b7edc336fb6f371b9b0ef91c18e256a56fa53d9223a",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Fica o Chefe do Poder Executivo autorizado a realizar operações de crédito internas por antecipação "
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1979/lei-1339-1979-legisla8741.md",
+      "sha256_fonte": "bc3d7345070a476f8966dae4628e78c255d13603b7806034788e78eded35ad7d",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Fica o Governo do Estado autorizado a celebrar convênios com entidades estatais ou paraestatais, vis"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1979/lei-27-1979-legisla8739.md",
+      "sha256_fonte": "f922c3dc894a6367d8a579ea947088ed6bb2bf91ae0d76f97ce77e174ccd63a9",
+      "dispositivo_proprio": "1, de 30 de setembro de 1970, faz saber aos que a presente virem que promulga a seguinte LEI: Art. 1º Os servidores aposentados em cargos integrantes da antiga estrutura funcional da Assembléia Legislat"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1979/lei-1333-1979-legisla8734.md",
+      "sha256_fonte": "d58774a854ebe544326521e45524048d92147f7617a8b77f5c4483cdb25dadcc",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Fica o Chefe do Poder Executivo autorizado a dispensar o recolhimento do Imposto de Transmissão de b"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1979/lei-1331-1979-legisla8732.md",
+      "sha256_fonte": "5143753b9d0be2ad8652f28ed6ca0a8eb30f7409164619960b14a7407ab41cec",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Fica o Poder executivo autorizado a abrir créditos suplementares até o montante correspondente a 20%"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1979/lei-1329-1979-legisla8730.md",
+      "sha256_fonte": "9d349e53a012eab0d182e607a8130a62b7faba26d8a73010dfc880e97288e86e",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Esta Lei estabelece o sistema de promoção nas Classes e Séries de Classes, que constituem a carreira"
+    },
+    {
+      "destino": "estaduais/AM/leis-ordinarias/1979/lei-1328-1979-legisla8729.md",
+      "sha256_fonte": "cf88d55ab3ec918da717ae49942d1502d45742c501cd8814f3a840a89ccb2a94",
+      "dispositivo_proprio": "BER a todos os habitantes que a ASSEMBLEIA LEGISLATIVA decretou e eu sanciono a presente LEI: Art. 1º Fica o Poder Executivo autorizado a abrir, no orçamento vigente pela Secretaria de Estado da Fazenda"
+    }
+  ]
+}

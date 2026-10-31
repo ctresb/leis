@@ -1,0 +1,72 @@
+{
+  "capturas": [
+    {
+      "edicao_id": "588",
+      "pagina": 2,
+      "url": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/pdf_diario/588/2",
+      "url_final": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/pdf_diario/588/2",
+      "http": 200,
+      "PDF": true,
+      "arquivo": "estaduais/AM/_fonte/auditorias/amostra12-continuacao-20261027-001/588-2.pdf",
+      "sha256": "0f05f4e1c6911aa32045bd52f4bb1ec07fec9abb816fb6a4aa2f5ea87da68ca6",
+      "headers": {
+        "Date": "Tue, 27 Oct 2026 20:55:53 GMT",
+        "Server": "Apache/2.4.25 (Debian)",
+        "Cache-Control": "public, max-age=3600, must-revalidate",
+        "Last-Modified": "Thu, 10 Sep 2020 18:52:21 GMT",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "197576",
+        "Access-Control-Allow-Origin": "*",
+        "Connection": "close",
+        "Content-Type": "application/pdf"
+      },
+      "capturado_em": "2026-10-27T17:55:54.201063-03:00"
+    },
+    {
+      "edicao_id": "17515",
+      "pagina": 5,
+      "url": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/pdf_diario/17515/5",
+      "url_final": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/pdf_diario/17515/5",
+      "http": 200,
+      "PDF": true,
+      "arquivo": "estaduais/AM/_fonte/auditorias/amostra12-continuacao-20261027-001/17515-5.pdf",
+      "sha256": "f216d2f3c975ecb6f5e2d9c5f4a35af25c3a79a8878a9cc0a455adc3176f0de5",
+      "headers": {
+        "Date": "Tue, 27 Oct 2026 20:55:56 GMT",
+        "Server": "Apache/2.4.25 (Debian)",
+        "Cache-Control": "public, max-age=3600, must-revalidate",
+        "Last-Modified": "Tue, 11 Jun 2024 01:31:23 GMT",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "329086",
+        "Access-Control-Allow-Origin": "*",
+        "Connection": "close",
+        "Content-Type": "application/pdf"
+      },
+      "capturado_em": "2026-10-27T17:55:57.625997-03:00"
+    },
+    {
+      "edicao_id": "17515",
+      "pagina": 6,
+      "url": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/pdf_diario/17515/6",
+      "url_final": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/pdf_diario/17515/6",
+      "http": 200,
+      "PDF": true,
+      "arquivo": "estaduais/AM/_fonte/auditorias/amostra12-continuacao-20261027-001/17515-6.pdf",
+      "sha256": "629ee77aca620e00075f9db32041e19daf288ea306ad3cbd1092a94c8258d7a8",
+      "headers": {
+        "Date": "Tue, 27 Oct 2026 20:56:00 GMT",
+        "Server": "Apache/2.4.25 (Debian)",
+        "Cache-Control": "public, max-age=3600, must-revalidate",
+        "Last-Modified": "Tue, 11 Jun 2024 01:31:27 GMT",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "333449",
+        "Access-Control-Allow-Origin": "*",
+        "Connection": "close",
+        "Content-Type": "application/pdf"
+      },
+      "capturado_em": "2026-10-27T17:56:00.972022-03:00"
+    }
+  ],
+  "origem_paginas": "índices oficiais capturados em am-amostra12-PDF-capturas-20261027-001.json; API PDF observada no JS oficial",
+  "omissao_headers_sessao": true
+}

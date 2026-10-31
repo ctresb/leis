@@ -1,0 +1,268 @@
+{
+  "metodo": "Sorteio determinístico de um caso por faixa temporal (seed 20261027 + nome do estrato), restrito a assinaturas literalmente conferidas. Comparação de corpo ainda pendente.",
+  "selecao": [
+    {
+      "estrato": "1950-1959",
+      "populacao": 490,
+      "destino": "estaduais/AM/leis-ordinarias/1957/lei-13-1957-legisla12528.md",
+      "id_legisla": "12528",
+      "data": "1957-03-21",
+      "numero": "13",
+      "captura": {
+        "item": {
+          "id_legisla": "12528",
+          "titulo": "LEI N. º 13, DE 21 DE MARÇO DE 1957",
+          "numero": "13",
+          "tipo_indice": "Lei Ordinária",
+          "ano": "1957",
+          "mes": "3",
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1957/3/12528?modo=lista",
+          "publicacao_indice": "Publicada em 26 de março de 1957"
+        },
+        "indice": {
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12?modo=lista&page=436&sort=data&direction=desc",
+          "http": 200,
+          "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/23a581fbe9425e45a7e4881b28cc4f17034882ea3e832b757865026e92bcb1ee.gz",
+          "sha256_fonte": "40367068c81a05f5d13ebbab678aa5a5a9bec59d74fffdd9e232855c307f1026",
+          "auditado_em": "2026-10-21T08:28:36.767542-03:00",
+          "origem": "captura HTTP atual",
+          "headers": {
+            "Date": "Wed, 21 Oct 2026 11:28:31 GMT",
+            "Server": "Apache/2.4.25 (Debian)",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Connection": "close",
+            "Transfer-Encoding": "chunked",
+            "Content-Type": "text/html; charset=UTF-8"
+          },
+          "capturado_em": "2026-10-21T08:28:36.767542-03:00"
+        },
+        "chaves_disco": [],
+        "status": "capturado",
+        "http": 200,
+        "headers": {
+          "Date": "Wed, 21 Oct 2026 11:28:48 GMT",
+          "Server": "Apache/2.4.25 (Debian)",
+          "Vary": "Accept-Encoding",
+          "Access-Control-Allow-Origin": "*",
+          "X-Frame-Options": "SAMEORIGIN",
+          "Connection": "close",
+          "Transfer-Encoding": "chunked",
+          "Content-Type": "text/html; charset=UTF-8"
+        },
+        "url_final": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1957/3/12528?modo=lista",
+        "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/1309dc7b36f977b085205b24e2c06e618e0618663d57ae97295f899cb2bbfad3.gz",
+        "sha256_fonte": "1070f355cc30633ed381ecbcb08af2e1aa03aa9bfa9761a4218af00811edeb43",
+        "sha256_cache": "1309dc7b36f977b085205b24e2c06e618e0618663d57ae97295f899cb2bbfad3",
+        "capturado_em": "2026-10-21T08:28:49.046649-03:00"
+      },
+      "prova_assinatura": {
+        "status": "conferida",
+        "data_epigrafe": "1957-03-21",
+        "data_assinatura": "1957-03-21",
+        "trecho_literal": "Manaus, 21 de março de 1957",
+        "reter": false
+      }
+    },
+    {
+      "estrato": "1960-1969",
+      "populacao": 728,
+      "destino": "estaduais/AM/leis-ordinarias/1967/lei-702-1967-legisla10719.md",
+      "id_legisla": "10719",
+      "data": "1967-12-30",
+      "numero": "702",
+      "captura": {
+        "item": {
+          "id_legisla": "10719",
+          "titulo": "LEI N. º 702, DE 30 DE DEZEMBRO DE 1967",
+          "numero": "702",
+          "tipo_indice": "Lei Ordinária",
+          "ano": "1968",
+          "mes": "3",
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1968/3/10719?modo=lista",
+          "publicacao_indice": "Publicada em 26 de março de 1968"
+        },
+        "indice": {
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12?modo=lista&page=378&sort=data&direction=desc",
+          "http": 200,
+          "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/011ec4751e9992fe6dfdda52ece1c0dfdd6258929c66d81069d0c29f18fb221e.gz",
+          "sha256_fonte": "4a6a3d6ff26c4b4445a8a9a5040a14c5dae9ac56ea29394c48d5f630ec4ade27",
+          "auditado_em": "2026-10-21T07:35:20.842243-03:00",
+          "origem": "captura HTTP atual",
+          "headers": {
+            "Date": "Wed, 21 Oct 2026 10:35:16 GMT",
+            "Server": "Apache/2.4.25 (Debian)",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Connection": "close",
+            "Transfer-Encoding": "chunked",
+            "Content-Type": "text/html; charset=UTF-8"
+          },
+          "capturado_em": "2026-10-21T07:35:20.842243-03:00"
+        },
+        "chaves_disco": [],
+        "status": "capturado",
+        "http": 200,
+        "headers": {
+          "Date": "Wed, 21 Oct 2026 10:35:46 GMT",
+          "Server": "Apache/2.4.25 (Debian)",
+          "Vary": "Accept-Encoding",
+          "Access-Control-Allow-Origin": "*",
+          "X-Frame-Options": "SAMEORIGIN",
+          "Connection": "close",
+          "Transfer-Encoding": "chunked",
+          "Content-Type": "text/html; charset=UTF-8"
+        },
+        "url_final": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1968/3/10719?modo=lista",
+        "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/1b42529050a3962cc9282ad181c89c4774794f1498696430a214f18416381af7.gz",
+        "sha256_fonte": "12a6cee21c25673b080a24aa0a681ef9700a421b47f6e266b6146460a2c0eebd",
+        "sha256_cache": "1b42529050a3962cc9282ad181c89c4774794f1498696430a214f18416381af7",
+        "capturado_em": "2026-10-21T07:35:47.341296-03:00"
+      },
+      "prova_assinatura": {
+        "status": "conferida",
+        "data_epigrafe": "1967-12-30",
+        "data_assinatura": "1967-12-30",
+        "trecho_literal": "Manaus, 30 de dezembro de 1967",
+        "reter": false
+      }
+    },
+    {
+      "estrato": "1970-1979",
+      "populacao": 183,
+      "destino": "estaduais/AM/leis-ordinarias/1978/lei-1311-1978-legisla9405.md",
+      "id_legisla": "9405",
+      "data": "1978-12-18",
+      "numero": "1311",
+      "captura": {
+        "item": {
+          "id_legisla": "9405",
+          "titulo": "LEI N. º 1.311, DE 18 DE DEZEMBRO DE 1978",
+          "numero": "1311",
+          "tipo_indice": "Lei Ordinária",
+          "ano": "1978",
+          "mes": "12",
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1978/12/9405?modo=lista",
+          "publicacao_indice": "Publicada em 18 de dezembro de 1978"
+        },
+        "indice": {
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12?modo=lista&page=349&sort=data&direction=desc",
+          "http": 200,
+          "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/3741ce74b85f655663f1493bdc14314601fb9a95727967d0c862ea6ee0de0de8.gz",
+          "sha256_fonte": "c58f144739f5dd1885271189b856bd93605c84f37b9123f372a11f87320b2b9f",
+          "auditado_em": "2026-10-21T07:13:35.044820-03:00",
+          "origem": "captura HTTP atual",
+          "headers": {
+            "Date": "Wed, 21 Oct 2026 10:13:30 GMT",
+            "Server": "Apache/2.4.25 (Debian)",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Connection": "close",
+            "Transfer-Encoding": "chunked",
+            "Content-Type": "text/html; charset=UTF-8"
+          },
+          "capturado_em": "2026-10-21T07:13:35.044820-03:00"
+        },
+        "chaves_disco": [],
+        "status": "capturado",
+        "http": 200,
+        "headers": {
+          "Date": "Wed, 21 Oct 2026 10:13:42 GMT",
+          "Server": "Apache/2.4.25 (Debian)",
+          "Vary": "Accept-Encoding",
+          "Access-Control-Allow-Origin": "*",
+          "X-Frame-Options": "SAMEORIGIN",
+          "Connection": "close",
+          "Transfer-Encoding": "chunked",
+          "Content-Type": "text/html; charset=UTF-8"
+        },
+        "url_final": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/1978/12/9405?modo=lista",
+        "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261027-001/1fdf1b3d2e0879517a0bb284843494eed1eadc038123208b499c5d60bf0cde30.gz",
+        "sha256_fonte": "ab047a9e45068271308946c6feabdd74f22dc7e82c1f46058bd9506496d0af1c",
+        "sha256_cache": "1fdf1b3d2e0879517a0bb284843494eed1eadc038123208b499c5d60bf0cde30",
+        "capturado_em": "2026-10-21T07:13:42.858438-03:00"
+      },
+      "prova_assinatura": {
+        "status": "conferida",
+        "data_epigrafe": "1978-12-18",
+        "data_assinatura": "1978-12-18",
+        "trecho_literal": "Manaus, 18 de dezembro de 1978",
+        "reter": false
+      }
+    },
+    {
+      "estrato": "1980+",
+      "populacao": 45,
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4301-2016-legisla1269.md",
+      "id_legisla": "1269",
+      "data": "2016-01-18",
+      "numero": "4301",
+      "captura": {
+        "item": {
+          "id_legisla": "1269",
+          "titulo": "LEI Nº 4.301 DE 18 DE JANEIRO DE 2016",
+          "numero": "4301",
+          "tipo_indice": "Lei Ordinária",
+          "ano": "2016",
+          "mes": "1",
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/2016/1/1269?modo=lista",
+          "publicacao_indice": "Publicada em 18 de janeiro de 2016"
+        },
+        "indice": {
+          "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/12?modo=lista&page=192&sort=data&direction=desc",
+          "http": 200,
+          "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/fdfa4482777a012f400877ac65581bce233f19ffd13c22598e055480fbca9fd7.gz",
+          "sha256_fonte": "9ad5cd3656d3a21e5c1447f86f1d610c8a5bf3af9db4189cf6f54d33079c4472",
+          "auditado_em": "2026-10-21T06:53:54.964321-03:00",
+          "origem": "captura HTTP atual",
+          "headers": {
+            "Date": "Wed, 21 Oct 2026 09:53:50 GMT",
+            "Server": "Apache/2.4.25 (Debian)",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Connection": "close",
+            "Transfer-Encoding": "chunked",
+            "Content-Type": "text/html; charset=UTF-8"
+          },
+          "capturado_em": "2026-10-21T06:53:54.964321-03:00"
+        },
+        "chaves_disco": [],
+        "status": "capturado",
+        "http": 200,
+        "headers": {
+          "Date": "Wed, 21 Oct 2026 09:54:13 GMT",
+          "Server": "Apache/2.4.25 (Debian)",
+          "Vary": "Accept-Encoding",
+          "Access-Control-Allow-Origin": "*",
+          "X-Frame-Options": "SAMEORIGIN",
+          "Connection": "close",
+          "Transfer-Encoding": "chunked",
+          "Content-Type": "text/html; charset=UTF-8"
+        },
+        "url_final": "https://legisla.imprensaoficial.am.gov.br/diario_am/12/2016/1/1269?modo=lista",
+        "cache": "estaduais/AM/_fonte/auditorias/legisla-am-publico-20261021-001/7b69ba283df617d7363822aba73cb5e7190f5ade22626c254dead59c8bf907f5.gz",
+        "sha256_fonte": "898d832f3d3d4b9fdb1d92046db792b108a0b8875f3c4d6eb2bde5898d01552e",
+        "sha256_cache": "7b69ba283df617d7363822aba73cb5e7190f5ade22626c254dead59c8bf907f5",
+        "capturado_em": "2026-10-21T06:54:14.051449-03:00"
+      },
+      "prova_assinatura": {
+        "status": "conferida",
+        "data_epigrafe": "2016-01-18",
+        "data_assinatura": "2016-01-18",
+        "trecho_literal": "Manaus, 18 de janeiro de 2016",
+        "reter": false
+      }
+    }
+  ],
+  "versao_texto": {
+    "Campo matéria integral fornecido pelo Legisla.AM; edição histórica/compilação não declarada": 1669
+  },
+  "modo": {
+    "html-nativo-materia-legisla-am-v1": 1669
+  },
+  "populacao_assinatura_conferida": 1446
+}

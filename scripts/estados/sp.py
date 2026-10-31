@@ -92,7 +92,7 @@ def processar(n):
         ("data", f"{ano}-{mes}-{dia}"),
         ("ementa", " ".join((info.get("dsEmenta") or n.get("Ementa") or "").split())),
         ("situacao", situacao),
-        ("revogada", situacao.lower().startswith("revogad")),
+        ("revogada", {"revogada": True, "revogado": True, "vigente": False, "em vigor": False}.get(situacao.strip().lower())),
         ("versao_texto", "original" if url == (info.get("urlIntegraOriginal") or "").replace(" ", "%20") else "atualizada"),
         ("publicacao", info.get("nomePublicacaoDO") or ""),
         ("fonte", f"https://www.al.sp.gov.br/norma/{n['IdNorma']}"),

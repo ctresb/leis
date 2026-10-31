@@ -1,0 +1,84 @@
+{
+  "selecao": "scripts/estados/manifestos/rn-historicos-sondagem-20261021-002-selecao.json",
+  "sha256_selecao": "90a0e3780c2f612497c48cd68673de1c73ae99ea8297332adbd4229be3de415a",
+  "total_selecionado": 3,
+  "total_capturado": 3,
+  "capturas": [
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2016/06/01/7fca64f04ccdf7deae9441440b3c08d3.pdf",
+        "titulo": "Lei Ord. nº 10.065, de 24/05/2016",
+        "ementa": "RECONHECE A ASSOCIAÇÃO DE MULHERES QUILOMBOLAS DE CAPOEIRAS – AMQC, COMO ENTIDADE DE UTILIDADE PÚBLICA DO RIO GRANDE DO NORTE E DÁ OUTRAS PROVIDÊNCIAS."
+      },
+      "iniciado_em": "2026-10-21T05:51:37.564648-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao/2016/06/01/7fca64f04ccdf7deae9441440b3c08d3.pdf",
+      "http": 404,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:51:38 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "1407",
+        "Connection": "close",
+        "ETag": "\"6ac6451c-57f\""
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao/2016/06/01/7fca64f04ccdf7deae9441440b3c08d3.pdf",
+      "cache": "estaduais/RN/_fonte/auditorias/rn-historicos-sondagem-20261021-002/f5381c9846258c02a4120ffa38ccbc103083c2b1d09d5d85fc46067cf69b4381.bin.gz",
+      "sha256_fonte": "f5381c9846258c02a4120ffa38ccbc103083c2b1d09d5d85fc46067cf69b4381",
+      "sha256_cache": "4b3bc6efc61af205476139082904643602eb6bdc467469eabf3628f8ebafef78",
+      "PDF": false,
+      "finalizado_em": "2026-10-21T05:51:38.169335-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao/2016/03/07/7dd9bc3f40db6474f580ac3684800e08.pdf",
+        "titulo": "Lei Ord. nº 10.052, de 24/02/2016",
+        "ementa": "Altera a Lei Estadual nº 9.936, de 12 de fevereiro de 2015, que autoriza o Estado do Rio Grande do Norte a quitar débitos com o Regime Próprio de Previdência dos seus Servidores."
+      },
+      "iniciado_em": "2026-10-21T05:51:39.374506-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao/2016/03/07/7dd9bc3f40db6474f580ac3684800e08.pdf",
+      "http": 404,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:51:39 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "1407",
+        "Connection": "close",
+        "ETag": "\"6ac6451c-57f\""
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao/2016/03/07/7dd9bc3f40db6474f580ac3684800e08.pdf",
+      "cache": "estaduais/RN/_fonte/auditorias/rn-historicos-sondagem-20261021-002/f5381c9846258c02a4120ffa38ccbc103083c2b1d09d5d85fc46067cf69b4381.bin.gz",
+      "sha256_fonte": "f5381c9846258c02a4120ffa38ccbc103083c2b1d09d5d85fc46067cf69b4381",
+      "sha256_cache": "4b3bc6efc61af205476139082904643602eb6bdc467469eabf3628f8ebafef78",
+      "PDF": false,
+      "finalizado_em": "2026-10-21T05:51:39.991418-03:00"
+    },
+    {
+      "item": {
+        "lista": "leis-ordinarias",
+        "url": "https://www.al.rn.leg.br/storage/legislacao//arq52b17e450d0b2.pdf",
+        "titulo": "Lei Ord. nº 9.823, de 17/12/2013",
+        "ementa": "Denomina a Rodovia Estadual \"Avenida Litorânea\" de \"Avenida Bugueiro Marcelo Correia de Oliveira\"."
+      },
+      "iniciado_em": "2026-10-21T05:51:41.196497-03:00",
+      "url": "https://www.al.rn.leg.br/storage/legislacao//arq52b17e450d0b2.pdf",
+      "http": 404,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 21 Oct 2026 08:51:41 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "1407",
+        "Connection": "close",
+        "ETag": "\"6ac6451c-57f\""
+      },
+      "url_final": "https://www.al.rn.leg.br/storage/legislacao//arq52b17e450d0b2.pdf",
+      "cache": "estaduais/RN/_fonte/auditorias/rn-historicos-sondagem-20261021-002/f5381c9846258c02a4120ffa38ccbc103083c2b1d09d5d85fc46067cf69b4381.bin.gz",
+      "sha256_fonte": "f5381c9846258c02a4120ffa38ccbc103083c2b1d09d5d85fc46067cf69b4381",
+      "sha256_cache": "4b3bc6efc61af205476139082904643602eb6bdc467469eabf3628f8ebafef78",
+      "PDF": false,
+      "finalizado_em": "2026-10-21T05:51:41.785708-03:00"
+    }
+  ],
+  "sem_MD": true
+}

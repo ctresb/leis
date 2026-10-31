@@ -1,0 +1,23 @@
+{
+  "validado_em": "2026-10-27T16:22:29.791111-03:00",
+  "log": "estaduais/AM/_indice/legisla-am-leis-20261021-001/progresso.jsonl",
+  "sha256_log": "649e872c6a9298d586f5fe90b7bd26b235a9ee3af333bb7a99b7edf2ad18724c",
+  "linhas": 9017,
+  "capturados": 2112,
+  "orfaos_sem_receipt": 1,
+  "aliases_indice": 41,
+  "tipos_divergentes": 4,
+  "preexistentes": 6859,
+  "ultima_pagina": 451,
+  "ultima_pagina_cache": "estaduais/AM/_indice/legisla-am-leis-20261021-001/pagina-0451.html.gz",
+  "sha256_ultima_pagina": "35ba619b40e6b71a04ebe02682c644cb8ae48cd4a260a9072adc9e6cf7275cad",
+  "rel_next_ausente": true,
+  "manifesto_final": "scripts/estados/manifestos/legisla-am-leis-20261021-001.json",
+  "sha256_manifesto_final": "8c15c6bc2d59470b1f888639bf47087dcc69c78ef471c760e206eccd4d0248a5",
+  "parada_conservadora": false,
+  "capturas_unicas_conferidas": 2564,
+  "erros_SHA256": 0,
+  "coletores_vivos": 0,
+  "retomada_lote_antigo_nao_necessaria": true,
+  "politica_continuacao": "QA de fontes já capturadas; atualização de rede futura em lote separado com timestamps27/10. Não sobrescrever lote21/10."
+}

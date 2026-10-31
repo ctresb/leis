@@ -1,0 +1,1106 @@
+{
+  "total_examinado": 11815,
+  "total_retido_conservador": 44,
+  "criterio": "Busca de epígrafes em qualquer posição/coluna, sem ancoragem no início da linha; comparação da primeira identidade com metadata; epígrafes alheias após FIM DO DOCUMENTO retidas. Citações, normas anexadas e atos alterados exigem revisão contextual antes de concluir contaminação. Pacotes prévios intactos.",
+  "retidos": [
+    {
+      "path": "estaduais/RS/resolucoes/2014/res-3129-2014-id61738.md",
+      "sha256_md": "3e05b2543f4bb0913d6ee3ea5aed51b273ba292b32a0d1dc1dc2d358bdeac09f",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=61738&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/RS%203.129.pdf",
+      "sha256_pdf": "d67eb4ffca82bff3287e1f5a8c7808af0b424b3cece6c6c136fcef6a772da377",
+      "numero": "3129",
+      "primeira_epigrafe": null,
+      "marcadores_fim": 1,
+      "problemas": [
+        "epígrafe própria não reconhecida: revisão necessária"
+      ],
+      "epigrafes_diferentes": []
+    },
+    {
+      "path": "estaduais/RS/resolucoes/2010/res-mesa-981-2010-id54463.md",
+      "sha256_md": "a32672ffbaf158e80f3f079c0287be3e42dde20016eb0f689159570203fb4f8c",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=54463&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/RSM%20981.pdf",
+      "sha256_pdf": "0768df5b3a32deceb8a0d4f4408a29a468f354cd53487544014a30a14fab85f3",
+      "numero": "981",
+      "primeira_epigrafe": "RESOLUÇÃO DE MESA Nº 982/2010",
+      "marcadores_fim": 1,
+      "problemas": [
+        "primeira epígrafe com número divergente da identidade declarada"
+      ],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "RESOLUÇÃO DE MESA Nº 982/2010",
+          "offset": 232,
+          "linha": "                            RESOLUÇÃO DE MESA Nº 982/2010.",
+          "antes": "RIO GRANDE DO SUL\n                                     ASSEMBLEIA LEGISLATIVA\n                                     Gabinete de Consultoria Legislativa\n\n                            ",
+          "depois": ".\n                      (publicada no DOAL nº 9790, de 1º de julho de 2010)\n                                    (vide retificação abaixo)\n\n                                         ",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "RESOLUÇÃO DE MESA N.º 982/2010",
+          "offset": 1768,
+          "linha": "de 1.º de julho de 2010, onde se lê: RESOLUÇÃO DE MESA N.º 982/2010, leia-se:",
+          "antes": "blicada no DOAL nº 9801, de 16 de julho de 2010)\n\n        Na Resolução de Mesa publicada no Diário Oficial da Assembleia Legislativa n.º 9790,\nde 1.º de julho de 2010, onde se lê: ",
+          "depois": ", leia-se:\nRESOLUÇÃO DE MESA N.º 981/2010.\n\n                                    FIM DO DOCUMENTO\n\n\n\n\nhttp://www.al.rs.gov.br/legis                                                  ",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/resolucoes/2008/res-mesa-843-2008-id51766.md",
+      "sha256_md": "bfa8ff92e2c961663a9b439ba5a5fc36f85ab76952594a265d58190577fcf20c",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=51766&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/RSM%20843.pdf",
+      "sha256_pdf": "3e55ed8a247ba962e7c145bef0ee9a683e9af143c0dc716101bbcf7bc35e6dad",
+      "numero": "843",
+      "primeira_epigrafe": "RESOLUÇÃO DE MESA Nº 842/2008",
+      "marcadores_fim": 1,
+      "problemas": [
+        "primeira epígrafe com número divergente da identidade declarada"
+      ],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "RESOLUÇÃO DE MESA Nº 842/2008",
+          "offset": 224,
+          "linha": "                            RESOLUÇÃO DE MESA Nº 842/2008",
+          "antes": "DO DO RIO GRANDE DO SUL\n                                   ASSEMBLÉIA LEGISLATIVA\n                                 Gabinete de Consultoria Legislativa\n\n                            ",
+          "depois": "\n                     (publicada no DOAL nº 9273, de 11 de junho de 2008)\n\n                                               Concede licença ao Senhor Deputado Paulo\n                 ",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/resolucoes/2007/res-mesa-787-2007-id51085.md",
+      "sha256_md": "a5b93013608adff3b6cb630254fcdfbca22e16e50b4e6e96dc4ec32d02a97264",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=51085&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/RSM%20787.pdf",
+      "sha256_pdf": "333ece59e08e346a9d175d9d59e69e444510b4764fd80ad8e277ffc6a2a908b5",
+      "numero": "787",
+      "primeira_epigrafe": null,
+      "marcadores_fim": 1,
+      "problemas": [
+        "epígrafe própria não reconhecida: revisão necessária"
+      ],
+      "epigrafes_diferentes": []
+    },
+    {
+      "path": "estaduais/RS/resolucoes/2005/res-2956-2005-id49215.md",
+      "sha256_md": "c2bedd9cb01033ab25e8322df36e25e97c66a145b94b318a7b9b38a4fe3dc44f",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49215&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/RS%202.956.pdf",
+      "sha256_pdf": "e954a7a4d70c45651f5bcd7d77237c75d02b6da64b765112f0bf0aeec9760e3d",
+      "numero": "2956",
+      "primeira_epigrafe": null,
+      "marcadores_fim": 1,
+      "problemas": [
+        "epígrafe própria não reconhecida: revisão necessária"
+      ],
+      "epigrafes_diferentes": []
+    },
+    {
+      "path": "estaduais/RS/decretos/2016/dec-52892-2016-id62813.md",
+      "sha256_md": "79518e6f617fd39bdc1f04cac57d06cc83c54d5b089f13bce434ce6a26568e02",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=62813&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2052.882.pdf",
+      "sha256_pdf": "7d1ef9b431d2269b4c4ed9a08725bd765bcd35fca3963ced53ed6ab8436a0c2c",
+      "numero": "52892",
+      "primeira_epigrafe": "DECRETO Nº 52.882",
+      "marcadores_fim": 1,
+      "problemas": [
+        "primeira epígrafe com número divergente da identidade declarada"
+      ],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "DECRETO Nº 52.882",
+          "offset": 217,
+          "linha": "                    DECRETO Nº 52.882, DE 21 DE JANEIRO DE 2016.",
+          "antes": "   ESTADO DO RIO GRANDE DO SUL\n                                   ASSEMBLEIA LEGISLATIVA\n                                 Gabinete de Consultoria Legislativa\n\n\n                    ",
+          "depois": ", DE 21 DE JANEIRO DE 2016.\n                     (publicado no DOE n.º 015, de 22 de janeiro de 2016)\n\n                                                Dispõe sobre a extinção do es",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2013/dec-50546-2013-id59620.md",
+      "sha256_md": "c64e7405d38eb238f96c2df89bc52a47b343d1f619562ddc984e178e5e28fb13",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=59620&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2050.546.pdf",
+      "sha256_pdf": "4b15e22e098c9282b1ff7bd84d7e1968ade9e52c8779f73d2e09517c4f0ffb4b",
+      "numero": "50546",
+      "primeira_epigrafe": null,
+      "marcadores_fim": 1,
+      "problemas": [
+        "epígrafe própria não reconhecida: revisão necessária"
+      ],
+      "epigrafes_diferentes": []
+    },
+    {
+      "path": "estaduais/RS/decretos/2013/dec-50257-2013-id59229.md",
+      "sha256_md": "0639d4e9ab43f612993d93d288555a792132100d321bcfbc280705a4b79f742a",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=59229&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2050.257.pdf",
+      "sha256_pdf": "0d6a51e8dc8951573148d862fa6dae8882d192dd3b8739c71cba852f75863b0c",
+      "numero": "50257",
+      "primeira_epigrafe": null,
+      "marcadores_fim": 1,
+      "problemas": [
+        "epígrafe própria não reconhecida: revisão necessária"
+      ],
+      "epigrafes_diferentes": []
+    },
+    {
+      "path": "estaduais/RS/decretos/2013/dec-50215-2013-id59175.md",
+      "sha256_md": "3a7d12ebf66289e20970740dc0f7f52a55331e3abc477ba0cb5c6c3f09403c65",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=59175&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2050.215.pdf",
+      "sha256_pdf": "509e3c6020ef981ee8b9506ea7d1f5217980b1af3e401570be5c12b1a5376d60",
+      "numero": "50215",
+      "primeira_epigrafe": "DECRETO Nº 51.215",
+      "marcadores_fim": 1,
+      "problemas": [
+        "primeira epígrafe com número divergente da identidade declarada"
+      ],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "DECRETO Nº 51.215",
+          "offset": 221,
+          "linha": "                      DECRETO Nº 51.215, DE 08 DE ABRIL DE 2013.",
+          "antes": "ESTADO DO RIO GRANDE DO SUL\n                                    ASSEMBLEIA LEGISLATIVA\n                                  Gabinete de Consultoria Legislativa\n\n                      ",
+          "depois": ", DE 08 DE ABRIL DE 2013.\n                       (publicado no DOE n.º 067, de 09 de abril de 2013)\n\n                                                 Confere a Medalha do Mérito de",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2012/dec-49558-2012-id58303.md",
+      "sha256_md": "bbc4886ad32a5fcb1cc64161c7c6465387de1c90eecec5a0c3bd79969aa7171d",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=58303&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2049.558.pdf",
+      "sha256_pdf": "902fc49fb1e8adeb7a11f31bd217a8a306e8b9c8f4e8590c625bc6238e46b6f5",
+      "numero": "49558",
+      "primeira_epigrafe": null,
+      "marcadores_fim": 1,
+      "problemas": [
+        "epígrafe própria não reconhecida: revisão necessária"
+      ],
+      "epigrafes_diferentes": []
+    },
+    {
+      "path": "estaduais/RS/decretos/2012/dec-49556-2012-id58301.md",
+      "sha256_md": "61548d34181bd08a6f9197221dede8b243740af8bd6a2ced8289042c736f7e6f",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=58301&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2049.556.pdf",
+      "sha256_pdf": "3e3201a2720b42ef9853691f693e9deece613bce51a3ac62ee74e22eea09bf25",
+      "numero": "49556",
+      "primeira_epigrafe": null,
+      "marcadores_fim": 1,
+      "problemas": [
+        "epígrafe própria não reconhecida: revisão necessária"
+      ],
+      "epigrafes_diferentes": []
+    },
+    {
+      "path": "estaduais/RS/decretos/2012/dec-49555-2012-id58300.md",
+      "sha256_md": "572a4eabd76ea170f4ca5cb63d47c98294f100d6f11a6f163d2d26a9cebd52de",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=58300&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2049.555.pdf",
+      "sha256_pdf": "533e4c38a0e9c2a9c3656d451e3e7a4be12a72ae8b57e6f651dc1447c70a5317",
+      "numero": "49555",
+      "primeira_epigrafe": null,
+      "marcadores_fim": 1,
+      "problemas": [
+        "epígrafe própria não reconhecida: revisão necessária"
+      ],
+      "epigrafes_diferentes": []
+    },
+    {
+      "path": "estaduais/RS/decretos/2012/dec-49554-2012-id58299.md",
+      "sha256_md": "ca304c53a9d88b5ad91f6d932bcb2c8e24c461fe7825a4eeccb983a1fdcd6afc",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=58299&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2049.554.pdf",
+      "sha256_pdf": "99f3dffa7c0019bc2b630ac950679482a863359a7f2110795eaf1a92bb62cd92",
+      "numero": "49554",
+      "primeira_epigrafe": null,
+      "marcadores_fim": 1,
+      "problemas": [
+        "epígrafe própria não reconhecida: revisão necessária"
+      ],
+      "epigrafes_diferentes": []
+    },
+    {
+      "path": "estaduais/RS/decretos/2012/dec-48956-2012-id57509.md",
+      "sha256_md": "203d8662979d9df86d9530ab0a9334af5edbc35316447ce2916bead41b2752ea",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=57509&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2048.956.pdf",
+      "sha256_pdf": "7af8abb56e08926fa7d99591a27d6b0045b9322aa23a9da4b3b58bb4a07f6e02",
+      "numero": "48956",
+      "primeira_epigrafe": null,
+      "marcadores_fim": 1,
+      "problemas": [
+        "epígrafe própria não reconhecida: revisão necessária"
+      ],
+      "epigrafes_diferentes": []
+    },
+    {
+      "path": "estaduais/RS/decretos/2012/dec-48955-2012-id57508.md",
+      "sha256_md": "2238a157cfb231449dd4028177709fab01793af351712125624a0072838cd8cc",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=57508&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2048.955.pdf",
+      "sha256_pdf": "1a1d1fb0399d47ba8b4c4fbaa749fce544d296e43b8be9e74536af81e212278d",
+      "numero": "48955",
+      "primeira_epigrafe": null,
+      "marcadores_fim": 1,
+      "problemas": [
+        "epígrafe própria não reconhecida: revisão necessária"
+      ],
+      "epigrafes_diferentes": []
+    },
+    {
+      "path": "estaduais/RS/decretos/2012/dec-48935-2012-id57478.md",
+      "sha256_md": "4d13d8fa40a768898490a00e80306d0c908ae47014d8cb994a7832591332e030",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=57478&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2048.935.pdf",
+      "sha256_pdf": "ae70c6177e0a4b1019df9f10e00f5e930742d6ccddc4731eb36c6125b891986e",
+      "numero": "48935",
+      "primeira_epigrafe": null,
+      "marcadores_fim": 1,
+      "problemas": [
+        "epígrafe própria não reconhecida: revisão necessária"
+      ],
+      "epigrafes_diferentes": []
+    },
+    {
+      "path": "estaduais/RS/decretos/2011/dec-48039-2011-id56155.md",
+      "sha256_md": "0d3d9db80df116efd0f7bf34d7c1ce7aef3de365bb7354e9a63af14932840be5",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=56155&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2048.039.pdf",
+      "sha256_pdf": "8084626e449caee5e7af3a95ed2b32a515e38ea4a4a77cee2368ec4e55d5ee59",
+      "numero": "48039",
+      "primeira_epigrafe": "DECRETO Nº 47.039",
+      "marcadores_fim": 1,
+      "problemas": [
+        "primeira epígrafe com número divergente da identidade declarada"
+      ],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "DECRETO Nº 47.039",
+          "offset": 218,
+          "linha": "                      DECRETO Nº 47.039, DE 17 DE MAIO DE 2011.",
+          "antes": "  ESTADO DO RIO GRANDE DO SUL\n                                   ASSEMBLEIA LEGISLATIVA\n                                 Gabinete de Consultoria Legislativa\n\n                      ",
+          "depois": ", DE 17 DE MAIO DE 2011.\n                       (publicado no DOE nº 095 de 18 de maio de 2011)\n                                   (vide retificação abaixo)\n\n                      ",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "DECRETO Nº 47.038",
+          "offset": 1879,
+          "linha": "        DECRETO Nº 47.038,          DE      17     DE      MAIO        DE       2011.",
+          "antes": "o que acrescenta\ndispositivo ao Decreto nº 47.715, de 28 de dezembro de 2010, publicados no Diário Oficial do\nEstado nº 095, de 18 de maio de 2011,\n\n        no qual se lê:\n        ",
+          "depois": ",          DE      17     DE      MAIO        DE       2011.\n        DECRETO Nº 47.039,          DE      17     DE      MAIO        DE       2011.\n\n        leia-se:\n        DECRETO",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "DECRETO Nº 47.039",
+          "offset": 1965,
+          "linha": "        DECRETO Nº 47.039,          DE      17     DE      MAIO        DE       2011.",
+          "antes": "os no Diário Oficial do\nEstado nº 095, de 18 de maio de 2011,\n\n        no qual se lê:\n        DECRETO Nº 47.038,          DE      17     DE      MAIO        DE       2011.\n        ",
+          "depois": ",          DE      17     DE      MAIO        DE       2011.\n\n        leia-se:\n        DECRETO Nº 48.038,          DE      17     DE      MAIO        DE       2011.\n        DECRETO",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "DECRETO Nº 48.038",
+          "offset": 2069,
+          "linha": "        DECRETO Nº 48.038,          DE      17     DE      MAIO        DE       2011.",
+          "antes": " 47.038,          DE      17     DE      MAIO        DE       2011.\n        DECRETO Nº 47.039,          DE      17     DE      MAIO        DE       2011.\n\n        leia-se:\n        ",
+          "depois": ",          DE      17     DE      MAIO        DE       2011.\n        DECRETO Nº 48.039,          DE      17     DE      MAIO        DE       2011.\n\n                                ",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2011/dec-48038-2011-id56154.md",
+      "sha256_md": "7d854d78ba815eb563f3ce68bb23f351b7a9d54ee2fde967c4aa9ccc4753f4a5",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=56154&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2048.038.pdf",
+      "sha256_pdf": "225afdef81f8742703aed174b91789108aa8204528abaa10d2e0c6c928f3bbac",
+      "numero": "48038",
+      "primeira_epigrafe": "DECRETO Nº 47.038",
+      "marcadores_fim": 1,
+      "problemas": [
+        "primeira epígrafe com número divergente da identidade declarada"
+      ],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "DECRETO Nº 47.038",
+          "offset": 218,
+          "linha": "                      DECRETO Nº 47.038, DE 17 DE MAIO DE 2011.",
+          "antes": "  ESTADO DO RIO GRANDE DO SUL\n                                   ASSEMBLEIA LEGISLATIVA\n                                 Gabinete de Consultoria Legislativa\n\n                      ",
+          "depois": ", DE 17 DE MAIO DE 2011.\n                       (publicado no DOE nº 095 de 18 de maio de 2011)\n                                   (vide retificação abaixo)\n\n                      ",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "DECRETO Nº 47.038",
+          "offset": 1658,
+          "linha": "        DECRETO Nº 47.038,          DE     17     DE      MAIO        DE      2011.",
+          "antes": "o que acrescenta\ndispositivo ao Decreto nº 47.715, de 28 de dezembro de 2010, publicados no Diário Oficial do\nEstado nº 095, de 18 de maio de 2011,\n\n        no qual se lê:\n        ",
+          "depois": ",          DE     17     DE      MAIO        DE      2011.\n        DECRETO Nº 47.039,          DE     17     DE      MAIO        DE      2011.\n\n        leia-se:\n        DECRETO Nº ",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "DECRETO Nº 47.039",
+          "offset": 1742,
+          "linha": "        DECRETO Nº 47.039,          DE     17     DE      MAIO        DE      2011.",
+          "antes": "ados no Diário Oficial do\nEstado nº 095, de 18 de maio de 2011,\n\n        no qual se lê:\n        DECRETO Nº 47.038,          DE     17     DE      MAIO        DE      2011.\n        ",
+          "depois": ",          DE     17     DE      MAIO        DE      2011.\n\n        leia-se:\n        DECRETO Nº 48.038,          DE     17     DE      MAIO        DE      2011.\n        DECRETO Nº ",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "DECRETO Nº 48.039",
+          "offset": 1928,
+          "linha": "        DECRETO Nº 48.039,          DE     17     DE      MAIO        DE      2011.",
+          "antes": "O Nº 47.039,          DE     17     DE      MAIO        DE      2011.\n\n        leia-se:\n        DECRETO Nº 48.038,          DE     17     DE      MAIO        DE      2011.\n        ",
+          "depois": ",          DE     17     DE      MAIO        DE      2011.\n\n                                   FIM DO DOCUMENTO\n\n\n\n\nhttp://www.al.rs.gov.br/legis\n```\n",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2011/dec-47788-2011-id55684.md",
+      "sha256_md": "16124aa141f03f2cfd144fbd2dc624e8aaf847a38f5e3ca0ea76f0585badb207",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=55684&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2047.788.pdf",
+      "sha256_pdf": "1cfc0673171ebebb967200a125b573a48f851bd7fe1d3e44eae9b5f1c96663ac",
+      "numero": "47788",
+      "primeira_epigrafe": "DECRETO Nº 47.714",
+      "marcadores_fim": 1,
+      "problemas": [
+        "primeira epígrafe com número divergente da identidade declarada"
+      ],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "DECRETO Nº 47.714",
+          "offset": 229,
+          "linha": "                    DECRETO Nº 47.714, DE 28 DE DEZEMBRO DE 2010.",
+          "antes": "O DO RIO GRANDE DO SUL\n                                       ASSEMBLEIA LEGISLATIVA\n                                      Gabinete de Consultoria Legislativa\n\n                    ",
+          "depois": ", DE 28 DE DEZEMBRO DE 2010.\n                           PUBLICADO NO DOE Nº 246, DE 29/12/10.\n                      (publicado no DOE nº 004 de 05 de janeiro de 2011)\n\n            ",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2010/dec-47613-2010-id55414.md",
+      "sha256_md": "11f81377946889bec3dded6f884c0d6047a5fcbec2880e61b8c2a91eab37fe8c",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=55414&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2047.614.pdf",
+      "sha256_pdf": "97199c2317ffa215c215b435f9d4245f95de61cb0d3cd48461660b4323587945",
+      "numero": "47613",
+      "primeira_epigrafe": "DECRETO Nº 47.614",
+      "marcadores_fim": 1,
+      "problemas": [
+        "primeira epígrafe com número divergente da identidade declarada"
+      ],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "DECRETO Nº 47.614",
+          "offset": 205,
+          "linha": "                  DECRETO Nº 47.614, DE 30 DE NOVEMBRO DE 2010.",
+          "antes": "           ESTADO DO RIO GRANDE DO SUL\n                               ASSEMBLEIA LEGISLATIVA\n                                Gabinete de Consultoria Legislativa\n\n                  ",
+          "depois": ", DE 30 DE NOVEMBRO DE 2010.\n                    (publicado no DOE nº 226 de 01 de dezembro de 2010)\n\n                                                Declara de utilidade pública, ",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2010/dec-47567-2010-id55354.md",
+      "sha256_md": "5bf341be230218bd8b16506552164e9d928a296e1d7d90222336440dd1d7fbef",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=55354&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2047.567.pdf",
+      "sha256_pdf": "12f9f4bcd4c5522d0f937229bf3caf358d02d75f881b2780ba60d567251cab54",
+      "numero": "47567",
+      "primeira_epigrafe": "DECRETO Nº 47.564",
+      "marcadores_fim": 1,
+      "problemas": [
+        "primeira epígrafe com número divergente da identidade declarada"
+      ],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "DECRETO Nº 47.564",
+          "offset": 210,
+          "linha": "                   DECRETO Nº 47.564, DE 17 DE NOVEMBRO DE 2010.",
+          "antes": "        ESTADO DO RIO GRANDE DO SUL\n                                 ASSEMBLEIA LEGISLATIVA\n                                Gabinete de Consultoria Legislativa\n\n                   ",
+          "depois": ", DE 17 DE NOVEMBRO DE 2010.\n                    (publicado no DOE nº 217 de 18 de novembro de 2010)\n\n                                                 Confere   a     Medalha      ",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2010/dec-47191-2010-id54120.md",
+      "sha256_md": "1acbfd09c13a00774732f475f029ed5a8f1d60e3f8bed0823754f2010ca8c563",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=54120&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2049.191.pdf",
+      "sha256_pdf": "b4de9d6990275892da1c7781e511b5ca6330cb21c3ad878c6265efe9c18218d1",
+      "numero": "47191",
+      "primeira_epigrafe": "DECRETO Nº 49.191",
+      "marcadores_fim": 1,
+      "problemas": [
+        "primeira epígrafe com número divergente da identidade declarada"
+      ],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "DECRETO Nº 49.191",
+          "offset": 241,
+          "linha": "                       DECRETO Nº 49.191, DE 05 DE JUNHO DE 2012.",
+          "antes": "GRANDE DO SUL\n                                          ASSEMBLEIA LEGISLATIVA\n                                         Gabinete de Consultoria Legislativa\n\n                       ",
+          "depois": ", DE 05 DE JUNHO DE 2012.\n                        (publicado no DOE nº 109, de 06 de junho de 2012)\n\n                                                   Modifica o Regulamento do Im",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2010/dec-47018-2010-id53842.md",
+      "sha256_md": "46285a9adc2c71b42595aa1d1facb0ea1db085d36a0b97df5831e3d4742fdaa4",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=53842&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2047.014.pdf",
+      "sha256_pdf": "eaa4129ffbdc789def72e56ae5aeea3ee502f0813d2ace617a402adf46d5eb25",
+      "numero": "47018",
+      "primeira_epigrafe": "DECRETO Nº 47.014",
+      "marcadores_fim": 1,
+      "problemas": [
+        "primeira epígrafe com número divergente da identidade declarada"
+      ],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "DECRETO Nº 47.014",
+          "offset": 221,
+          "linha": "                  DECRETO Nº 47.014, DE 25 DE FEVEREIRO DE 2010.",
+          "antes": " ESTADO DO RIO GRANDE DO SUL\n                                     ASSEMBLEIA LEGISLATIVA\n                                    Gabinete de Consultoria Legislativa\n\n                  ",
+          "depois": ", DE 25 DE FEVEREIRO DE 2010.\n                    (publicado no DOE nº 037, de 26 de fevereiro de 2010)\n\n                                                 Homologa Situação de Emerg",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2008/dec-46049-2008-id52295.md",
+      "sha256_md": "c0bf213a3fb9f27d77cc906e2c05b4a628557f012c0061d78f90fb183ed1cba7",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=52295&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2046.049.pdf",
+      "sha256_pdf": "9982ae19d915278f019de85b6f9bb4b1328bee686fb65bff86bf604555fcdcb6",
+      "numero": "46049",
+      "primeira_epigrafe": "DECRETO Nº 13.049",
+      "marcadores_fim": 1,
+      "problemas": [
+        "primeira epígrafe com número divergente da identidade declarada"
+      ],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "DECRETO Nº 13.049",
+          "offset": 216,
+          "linha": "                 DECRETO Nº 13.049, DE 03 DE DEZEMBRO DE 2008.",
+          "antes": "     ESTADO DO RIO GRANDE DO SUL\n                                    ASSEMBLÉIA LEGISLATIVA\n                                  Gabinete de Consultoria Legislativa\n\n                 ",
+          "depois": ", DE 03 DE DEZEMBRO DE 2008.\n (publicado no DOE nº 236, de 04 de dezembro de 2008 e retificado para Decreto nº 46.049, de\n             03 de dezembro de 2008 no DOE nº 237, de 05 d",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "DECRETO N° 13.049",
+          "offset": 3218,
+          "linha": "no qual se lê:        “DECRETO N° 13.049, DE 03 DE DEZEMBRO DE 2008.”",
+          "antes": "      No Decreto que concede benefícios financeiros à empresa ENDUTEX BRASIL LTDA.,\npublicado no Diário Oficial do Estado n° 236, de 4 de dezembro de 2008,\n\nno qual se lê:        “",
+          "depois": ", DE 03 DE DEZEMBRO DE 2008.”\nleia-se:              “DECRETO N° 46.049, DE 03 DE DEZEMBRO DE 2008.”\n\n                                 FIM DO DOCUMENTO\n\n\n\n\nhttp://www.al.rs.gov.br/l",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-43398-2004-id48035.md",
+      "sha256_md": "20ed97eb2289bed31817fbcf0fe1911bd418ab83962082b5751b850848eb140d",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48035&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2046.398.pdf",
+      "sha256_pdf": "bafb0c6f04ffea042f4bd3046d1ca79b4b5439445afeb249c3041627922b8b78",
+      "numero": "43398",
+      "primeira_epigrafe": "DECRETO Nº 46.398",
+      "marcadores_fim": 1,
+      "problemas": [
+        "primeira epígrafe com número divergente da identidade declarada"
+      ],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "DECRETO Nº 46.398",
+          "offset": 258,
+          "linha": "                           DECRETO Nº 46.398, DE 16 DE JUNHO DE 2009.",
+          "antes": "\n                                              ASSEMBLEIA LEGISLATIVA\n                                              Gabinete de Consultoria Legislativa\n\n                           ",
+          "depois": ", DE 16 DE JUNHO DE 2009.\n                            (publicado no DOE nº 112, de 17 de junho de 2009)\n\n                                                              Abre créditos",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/resolucoes/2012/res-mesa-1119-2012-id58035.md",
+      "sha256_md": "a3e98db90e6bd35d15225cbe3e7e97104e9c367cd5d7ecad04d81a6a219007ca",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=58035&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/RSM%201119.pdf",
+      "sha256_pdf": "c245c4b4041dc82954f3ad058ee54057402a41ae34a5e1b6ad07535a45f8ca00",
+      "numero": "1119",
+      "primeira_epigrafe": "RESOLUÇÃO DE MESA Nº 1.119/2012",
+      "marcadores_fim": 1,
+      "problemas": [],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "RESOLUÇÃO DE MESA Nº 1.118/2012",
+          "offset": 3425,
+          "linha": "                           RESOLUÇÃO DE MESA Nº 1.118/2012.",
+          "antes": "\nLegislativa.\"\n\n         Art. 3.º Esta Resolução de Mesa entra em vigor na data de sua publicação.\n\n         Sala de Reuniões, em 03 de julho de 2012.\n\n\n                           ",
+          "depois": ".\n                     (publicada no DOAL n.º 10297, de 9 de julho de 2012)\n\n                                                  Altera a Resolução de Mesa n.º 1.107, de 27 de\n      ",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/resolucoes/2009/res-mesa-945-2009-id53224.md",
+      "sha256_md": "e6fb764b7b766a777b902fbbdc633dee23feb4133a1a452016f70844e23ea969",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=53224&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/RSM%20945.pdf",
+      "sha256_pdf": "a0d6f90b6e1569b86523f47ba2667444df127e92711ef0bd653f82400f65283c",
+      "numero": "945",
+      "primeira_epigrafe": "RESOLUÇÃO DE MESA Nº 945/2009",
+      "marcadores_fim": 1,
+      "problemas": [],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "RESOLUÇÃO DE MESA Nº 943/2009",
+          "offset": 939,
+          "linha": "                            RESOLUÇÃO DE MESA Nº 943/2009",
+          "antes": "quinho Lang para\ntratamento de saúde, no dia 2 de setembro do corrente ano, conforme o disposto no art. 23, inciso\nI, do Código de Ética Parlamentar.\n\n\n                            ",
+          "depois": "\n                    (publicada no DOAL nº 9612, de 09 de outubro de 2009)\n\n                                                Concede licença ao Senhor Deputado\n                     ",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/resolucoes/2007/res-mesa-749-2007-id50572.md",
+      "sha256_md": "f3b1e39580f19db43f47bc81220a0dde853883d75c3d2973a65dda2a01905834",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50572&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/RSM%20749.pdf",
+      "sha256_pdf": "edc6d46fc956622cf995952d7a580a0acf4db55186fd4412a151f392bbc61522",
+      "numero": "749",
+      "primeira_epigrafe": "RESOLUÇÃO DE MESA Nº 749/2007",
+      "marcadores_fim": 1,
+      "problemas": [],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "RESOLUÇÃO N. 2.288",
+          "offset": 802,
+          "linha": "SUL, no uso da atribuição conferida pelo art. 30, XIII, da RESOLUÇÃO N. 2.288, de 18 de",
+          "antes": "                                     Legislativa.\n\n\n         A MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DO RIO GRANDE DO\nSUL, no uso da atribuição conferida pelo art. 30, XIII, da ",
+          "depois": ", de 18 de\njaneiro de 1991,\n\n          RESOLVE:\n\n         Art. 1.º Ficam introduzidas as seguintes alterações no art. 2.º, da Resolução de Mesa n.\n460, de 26 de fevereiro de 2002:\n",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/resolucoes/2007/res-mesa-743-2007-id50407.md",
+      "sha256_md": "4b26adeae977d8b883a7d130f6827c943c71bcfe406e020b14c3ee3b9b532560",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50407&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/RSM%20743.pdf",
+      "sha256_pdf": "6d5d4f7732cc614cadd465c040f2257cb709fa9bb7978afbc0e7a432305d919c",
+      "numero": "743",
+      "primeira_epigrafe": "RESOLUÇÃO DE MESA Nº 743/2007",
+      "marcadores_fim": 1,
+      "problemas": [],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "RESOLUÇÃO DE MESA\n                                               N.º 450",
+          "offset": 399,
+          "linha": "                                               Altera disposições da RESOLUÇÃO DE MESA\n                                               N.º 450, de 13 de dezembro de 2001, e dá outras",
+          "antes": "     RESOLUÇÃO DE MESA Nº 743/2007.\n                      (publicada no DOE n.º 10, de 12 de janeiro de 2007)\n\n                                               Altera disposições da ",
+          "depois": ", de 13 de dezembro de 2001, e dá outras\n                                               providências.\n\n\n        A MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DO RIO GRANDE DO\nSUL, no ",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "RESOLUÇÃO DE MESA N.º 450",
+          "offset": 734,
+          "linha": "         Art. 1.º O art. 7.º da RESOLUÇÃO DE MESA N.º 450, de 13 de dezembro de 2001,",
+          "antes": "     providências.\n\n\n        A MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DO RIO GRANDE DO\nSUL, no uso de suas atribuições legais,\n\n        RESOLVE:\n\n         Art. 1.º O art. 7.º da ",
+          "depois": ", de 13 de dezembro de 2001,\npassa a vigorar com a seguinte redação:\n         “Art. 7.º Somente terão substitutos, por motivo de férias, os titulares das seguintes\nfunções gratific",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/resolucoes/2006/res-mesa-742-2006-id50349.md",
+      "sha256_md": "a043d515cf928ed043b0497539cf30edde1fbe28aa82ebb12ed4579bf023394a",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50349&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/RSM%20742.pdf",
+      "sha256_pdf": "ce490e837676ce2f594fb47766cfaa23bc640985ee1ef1cf7731d54da4719b57",
+      "numero": "742",
+      "primeira_epigrafe": "RESOLUÇÃO DE MESA Nº 742/2006",
+      "marcadores_fim": 1,
+      "problemas": [],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "RESOLUÇÃO DE MESA\n                                               N.º 450",
+          "offset": 399,
+          "linha": "                                               Altera disposições da RESOLUÇÃO DE MESA\n                                               N.º 450, de 13 de dezembro de 2001, e dá outras",
+          "antes": "     RESOLUÇÃO DE MESA Nº 742/2006.\n                    (publicada no DOE n.º 245, de 27 de dezembro de 2006)\n\n                                               Altera disposições da ",
+          "depois": ", de 13 de dezembro de 2001, e dá outras\n                                               providências.\n\n\n        A MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DO RIO GRANDE DO\nSUL, no ",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "RESOLUÇÃO DE MESA N.º 450",
+          "offset": 734,
+          "linha": "         Art. 1.º O art. 7.º da RESOLUÇÃO DE MESA N.º 450, de 13 de dezembro de 2001,",
+          "antes": "     providências.\n\n\n        A MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DO RIO GRANDE DO\nSUL, no uso de suas atribuições legais,\n\n        RESOLVE:\n\n         Art. 1.º O art. 7.º da ",
+          "depois": ", de 13 de dezembro de 2001,\npassa a vigorar com a seguinte redação:\n         “Art. 7.º Somente terão substitutos, por motivo de férias, os titulares das seguintes\nfunções gratific",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2020/dec-55296-2020-id66582.md",
+      "sha256_md": "403f5dbb4fca10a894bb81f4e44d653d255933629311fc87d338678d0c03e484",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=66582&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2055.296.pdf",
+      "sha256_pdf": "11c3246214619f84caa10f7e60fc28b8e69e89f5bd0437a03f00bd8b176ded18",
+      "numero": "55296",
+      "primeira_epigrafe": "DECRETO Nº 55.296",
+      "marcadores_fim": 1,
+      "problemas": [],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "LEI Nº 10.000",
+          "offset": 16721,
+          "linha": "Extinção da CORLAC, criado pela LEI Nº 10.000, de 26 de novembro de 1993;",
+          "antes": "a Hidrográfica do Rio Santa Maria e dá\noutras providências;\n         XCV - Decreto nº 35.702, de 12 de dezembro de 1994, que Regulamenta o Fundo de\nExtinção da CORLAC, criado pela ",
+          "depois": ", de 26 de novembro de 1993;\n         XCVI - Decreto nº 35.705, de 14 de dezembro de 1994, que aprova o Regimento\nInterno da Fundação Rádio e Televisão Educativa;\n         XCVII - ",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "DECRETO Nº 35.798",
+          "offset": 18211,
+          "linha": "Artigo 3º do DECRETO Nº 35.798, de 17 de janeiro de 1995, e dá outras providências;",
+          "antes": "Integrado de Gerência do Patrimônio Imobiliário na Administração Estadual;\n          CIII - Decreto nº 35.989, de 16 de maio de 1995, que prorroga o prazo previsto no\nArtigo 3º do ",
+          "depois": ", de 17 de janeiro de 1995, e dá outras providências;\n          CIV - Decreto nº 36.078, de 19 de julho de 1995, que institui a Comissão de Apoio às\nPolíticas de Saneamento e Habit",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "DECRETO Nº 35.007",
+          "offset": 23009,
+          "linha": "DECRETO Nº 35.007, de 09 de dezembro de 1993, que criou o Conselho Estadual do Índio;",
+          "antes": " que cria a Câmara Setorial de\nServiços do Estado do Rio Grande do Sul e dá outras providências;\n         CXXXI - Decreto nº 36.836, de 7 de agosto de 1996, que dá nova redação ao\n",
+          "depois": ", de 09 de dezembro de 1993, que criou o Conselho Estadual do Índio;\n         CXXXII - Decreto nº 36.849, de 19 de agosto de 1996, que dispõe sobre os canais para\ndescontos de valo",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "DECRETO Nº 36.009",
+          "offset": 31447,
+          "linha": "DECRETO Nº 36.009, de 6 de junho de 1995, que regulamenta a Lei nº 10.388, de 2 de maio de",
+          "antes": "Comitê Estadual\npara a Redução da Mortalidade Infantil - CEPRMI, e dá outras providências;\n         CLXXVI - Decreto nº 38.987, de 28 de outubro de 1998, que altera dispositivo do\n",
+          "depois": ", de 6 de junho de 1995, que regulamenta a Lei nº 10.388, de 2 de maio de\n1995, que criou o Plano Básico de Ações de Mútua Colaboração Estado/Município;\n         CLXXVII - Decreto ",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "DECRETO Nº 38.819",
+          "offset": 31720,
+          "linha": "Único do DECRETO Nº 38.819, de 2 de setembro de 1998;",
+          "antes": "95, que criou o Plano Básico de Ações de Mútua Colaboração Estado/Município;\n         CLXXVII - Decreto nº 39.628, de 12 de julho de 1999, que anula dispositivos do Anexo\nÚnico do ",
+          "depois": ", de 2 de setembro de 1998;\n         CLXXVIII - Decreto nº 39.660, de 11 de agosto de 1999, que dá nova redação ao\nDECRETO Nº 35.007, de 9 de dezembro de 1993, que criou o Conselho",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "DECRETO Nº 35.007",
+          "offset": 31852,
+          "linha": "DECRETO Nº 35.007, de 9 de dezembro de 1993, que criou o Conselho Estadual do Índio;",
+          "antes": " 1999, que anula dispositivos do Anexo\nÚnico do DECRETO Nº 38.819, de 2 de setembro de 1998;\n         CLXXVIII - Decreto nº 39.660, de 11 de agosto de 1999, que dá nova redação ao\n",
+          "depois": ", de 9 de dezembro de 1993, que criou o Conselho Estadual do Índio;\n         CLXXIX - Decreto nº 39.732, de 23 de setembro de 1999, que cria o Plano Estadual de\nSegurança Alimentar",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "DECRETO Nº\n32.144",
+          "offset": 34578,
+          "linha": "          CXCI - Decreto nº 41.271, de 10 de dezembro de 2001, que modifica o DECRETO Nº\n32.144, de 30/12/85, que regulamenta o Imposto Sobre a Propriedade de Veículos Automotores",
+          "antes": " Financeira, de Assistência Habitacional e de Financiamentos\nAssistenciais, e dá outras providências;\n          CXCI - Decreto nº 41.271, de 10 de dezembro de 2001, que modifica o ",
+          "depois": ", de 30/12/85, que regulamenta o Imposto Sobre a Propriedade de Veículos Automotores\n(IPVA), e dá outras providências;\n          CXCII - Decreto n° 41.503, de 25 de março de 2002, ",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2020/dec-54987-2020-id65993.md",
+      "sha256_md": "514b1420f018819490c6d6d36b30b12d0aa4bd20253d79cb3ea3772843f3c2b8",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=65993&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2054.987%20Republicado.pdf",
+      "sha256_pdf": "21c7e83d32b0048da508cb4382b39f01e3e94e475c0e80ea36bdec3f8736e472",
+      "numero": "54987",
+      "primeira_epigrafe": "DECRETO Nº 54.987",
+      "marcadores_fim": 1,
+      "problemas": [],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "DECRETO Nº 54.985",
+          "offset": 1760,
+          "linha": "                    DECRETO Nº 54.985, DE 14 DE JANEIRO DE 2020.",
+          "antes": "ntra em vigor na data de sua publicação, retroagindo seus efeitos\na 27 de dezembro de 2019.\n\n        PALÁCIO PIRATINI, em Porto Alegre,14 de janeiro de 2020.\n\n\n                    ",
+          "depois": ", DE 14 DE JANEIRO DE 2020.\n                      (publicado no DOE n.º 10, de 15 janeiro de 2020)\n\n                                               Altera o Decreto nº 54.967, de 27",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2019/dec-54851-2019-id65760.md",
+      "sha256_md": "c965d2e70e235a49fd2dff9f936f350d3009d72fa1220551d1854ef10f06e29a",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=65760&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2054.851.pdf",
+      "sha256_pdf": "cbdb84417a4d667baa00a55e0be2434b37827d30eed4712c6f10ef4a5872b25a",
+      "numero": "54851",
+      "primeira_epigrafe": "DECRETO Nº 54.851",
+      "marcadores_fim": 1,
+      "problemas": [],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "DECRETO Nº 36.884",
+          "offset": 7886,
+          "linha": "DECRETO Nº 36.884, de 29 de agosto de 1996, que limita a destinação do Presídio Estadual de",
+          "antes": "1991, que dispõe sobre o acesso aos\narquivos de dados dos sistemas de processamento estaduais;\n          XLI - Decreto nº 36.976, de 01 de novembro de 1996, que dá nova redação ao\n",
+          "depois": ", de 29 de agosto de 1996, que limita a destinação do Presídio Estadual de\nSão Sebastião do Caí;\n          XLII - Decreto nº 34.039, de 12 de setembro de 1991, que dispõe sobre a a",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "DECRETO Nº 34.387",
+          "offset": 9016,
+          "linha": "          XLVIII - Decreto nº DECRETO Nº 34.387, DE 29 DE JUNHO DE 1992, que institui",
+          "antes": "to nº 34.308 de 27 de abril de 1992, que altera o Regimento Interno do\nFundo Especial de Reaparelhamento dos Serviços da Segurança Pública – FUNDESP;\n          XLVIII - Decreto nº ",
+          "depois": ", DE 29 DE JUNHO DE 1992, que institui\nno Estado do Rio Grande do Sul a Comissão Especial para Administração dos Recursos\nprovenientes das Vendas de Aparas de Papel e Sucatas;\n    ",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "LEI Nº 11.197",
+          "offset": 32831,
+          "linha": "Programa Mãos Dadas, criado pela LEI Nº 11.197, de 15 de julho de 1998, e dá outras",
+          "antes": "s para a 19ª Região Policial e dá\noutras providências;\n          CLXXIX - Decreto nº 38.819, de 2 de setembro de 1998, que aprova o Regulamento do\nPrograma Mãos Dadas, criado pela ",
+          "depois": ", de 15 de julho de 1998, e dá outras\nprovidências;\n          CLXXX - Decreto nº 38.823, de 3 de setembro de 1998, que altera as áreas de\ncircunscrição das Delegacias de Polícia do",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2019/dec-54745-2019-id65584.md",
+      "sha256_md": "b0c0798987626e28b2cc2df828dad27799f64437d321ca4f1b289cdd23f744dc",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=65584&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2054.745.pdf",
+      "sha256_pdf": "e4ad73b8a853e4978ca6d69b42af233d6ac618b11118ba9b8656388c8392998d",
+      "numero": "54745",
+      "primeira_epigrafe": "DECRETO Nº 54.745",
+      "marcadores_fim": 1,
+      "problemas": [],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "LEI Nº 10.717",
+          "offset": 42971,
+          "linha": "do Quadro de Pessoal, em extinção, criado pela LEI Nº 10.717, de 16 de janeiro de 1996;",
+          "antes": "o de 2007, que institui um Grupo de\nTrabalho com a finalidade de analisar e apresentar sugestões para solucionar o prazo de vigência\ndo Quadro de Pessoal, em extinção, criado pela ",
+          "depois": ", de 16 de janeiro de 1996;\n          CCXXX - Decreto n° 44.995, de 9 de abril de 2007, que cria a Câmara Setorial de\nInfraestrutura e Logística e dá outras providências;\n         ",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2014/dec-51720-2014-id61228.md",
+      "sha256_md": "97bacb957da96c433eb07358fc3de3860366c47eb97bc7b8883927c4f017b5ce",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=61228&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2051.720.pdf",
+      "sha256_pdf": "3e71781038a8ae904912cda1518e775fc1c78cbd055b4bdb6b4e5d2262186dd2",
+      "numero": "51720",
+      "primeira_epigrafe": "DECRETO N.º 51.720",
+      "marcadores_fim": 1,
+      "problemas": [],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "LEI n.º 13.707",
+          "offset": 574,
+          "linha": "                                                 LEI n.º 13.707, de 6 de abril de 2011.",
+          "antes": "nta o Fundo Estadual sobre Drogas –\n                                                 FUNED, instituído pelo art. 17 e seguintes da\n                                                 ",
+          "depois": ", de 6 de abril de 2011.\n\n\n         O GOVERNADOR DO ESTADO DO RIO GRANDE DO SUL, no uso das\natribuições que lhe confere o art. 82, incisos V e VII, da Constituição do Estado,\n\n    ",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2013/dec-50701-2013-id59816.md",
+      "sha256_md": "fc101a584c24e9f0285e258ebd62f45218dde433035881ba43cc5d660a422fd2",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=59816&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2050.701republicado.pdf",
+      "sha256_pdf": "429f9d32b4cbda496422c5b2fd1c0f68c5438d8024d2b5fdabdb5afb2304f754",
+      "numero": "50701",
+      "primeira_epigrafe": "DECRETO Nº 50.701",
+      "marcadores_fim": 1,
+      "problemas": [],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "DECRETO Nº 50.671",
+          "offset": 1457,
+          "linha": "                    DECRETO Nº 50.671, DE 2 DE OUTUBRO DE 2013.",
+          "antes": "247 e Recurso 0001.\n\n        Art. 3º Este Decreto entra em vigor na data de sua publicação.\n\n        PALÁCIO PIRATINI, em Porto Alegre, 2 de outubro de 2013.\n\n\n                    ",
+          "depois": ", DE 2 DE OUTUBRO DE 2013.\n                     (publicado no DOE n.º 191, de 03 de outubro de 2013)\n\n                                                Declara Hóspede Oficial do Est",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2013/dec-50700-2013-id59815.md",
+      "sha256_md": "8c073d77d88160d949c5be21e012616bdc68f0a0fae3c097a2c9fd10a309ba44",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=59815&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2050.700republicado.pdf",
+      "sha256_pdf": "5545f21e311aae9888ec4947d18c1ea28a4a7fbf6be3b4394d5cea31eec0d89a",
+      "numero": "50700",
+      "primeira_epigrafe": "DECRETO Nº 50.700",
+      "marcadores_fim": 1,
+      "problemas": [],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "DECRETO Nº 50.670",
+          "offset": 1762,
+          "linha": "                    DECRETO Nº 50.670, DE 2 DE OUTUBRO DE 2013.",
+          "antes": "1 2 010 0213 a 0214\n\n        Art. 2º Este Decreto entra em vigor na data de sua publicação.\n\n        PALÁCIO PIRATINI, em Porto Alegre, 2 de outubro de 2013.\n\n\n                    ",
+          "depois": ", DE 2 DE OUTUBRO DE 2013.\n                     (publicado no DOE n.º 191, de 03 de outubro de 2013)\n\n                                                Inclui as funções gratificadas",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2012/dec-49578-2012-id58332.md",
+      "sha256_md": "bad492dfdc951f183015367b593d2964ba017472b4092f22a1b031208f1b69ee",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=58332&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2049.578%20republicado.pdf",
+      "sha256_pdf": "c87ec4e7ef97b64603b8d0115ed8ce90f0e2de555b1a7361adae02aeef5d3507",
+      "numero": "49578",
+      "primeira_epigrafe": "DECRETO Nº 49.578",
+      "marcadores_fim": 1,
+      "problemas": [],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "DECRETO Nº 48.578",
+          "offset": 9315,
+          "linha": "                  DECRETO Nº 48.578, DE 13 DE SETEMBRO DE 2012.",
+          "antes": "licação, revogando- se os arts.\n3º, 4º e 7º do Decreto n° 38.972, de 23 de outubro de 1998.\n\n        PALÁCIO PIRATINI, em Porto Alegre, 13 de setembro de 2012.\n\n\n                  ",
+          "depois": ", DE 13 DE SETEMBRO DE 2012.\n                   (publicado no DOE n.º 179, de 14 de setembro de 2012)\n\n                                                Amplia a Reserva Biológica Es",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2010/dec-47521-2010-id55199.md",
+      "sha256_md": "2285a2489de8a3b86c86e629a4766d7a67ae363149badc97fc3b72392ed70888",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=55199&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2047.521.pdf",
+      "sha256_pdf": "ff68cf442e2e78b046402225c251bdf9703623d25daadd91cabfa37c042dc722",
+      "numero": "47521",
+      "primeira_epigrafe": "DECRETO Nº 47.521",
+      "marcadores_fim": 1,
+      "problemas": [],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "DECRETO Nº 42.150",
+          "offset": 2274,
+          "linha": "                                (DECRETO Nº 42.150/03)        O ATÉ A      APÓS A",
+          "antes": "s Secretarias de Estado e Órgãos do Gabinete da Governadora:\n\n    DENOMINAÇÃO                 IDENTIFICAÇÃO               QUANTITATIV QUANTITATIVO\n                                (",
+          "depois": "/03)        O ATÉ A      APÓS A\n                                                            PUBLICAÇÃO PUBLICAÇÃO\n                                                              DA L",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "LEI Nº 12.854",
+          "offset": 2558,
+          "linha": "                                                              12.854/07 LEI Nº 12.854/07",
+          "antes": "     PUBLICAÇÃO PUBLICAÇÃO\n                                                              DA LEI Nº       DA\n                                                              12.854/07 ",
+          "depois": "/07\nASSESSOR                        01 . XX.XX . 4 . 006 . XXXX      128          128\nASSESSOR                        01 . XX.XX . 2 . 013 . XXXX       10           10\nASSESSOR    ",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "LEI Nº 12.854",
+          "offset": 11992,
+          "linha": "                                                               12.854/07 LEI Nº 12.854/07",
+          "antes": "                                  DA LEI Nº       DA\n                                        Nº 42.150/03)\n                                                               12.854/07 ",
+          "depois": "/07\nASSESSOR JURÍDICO                  02 . XX.XX . 3 . 009 .          5            5\n                                   XXXX\nASSISTENTE                         02 . XX.XX . 3 . 00",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "LEI Nº 12.854",
+          "offset": 14035,
+          "linha": "                                                 12.854/07 LEI Nº 12.854/07",
+          "antes": "O Nº\n                                                 DA LEI Nº       DA\n                                     42.150/03)\n                                                 12.854/07 ",
+          "depois": "/07\nASSISTENTE             03 . XX.XX . 3 . 003 .        3          3\n                       XXXX\nASSISTENTE ESPECIAL I 03 . XX.XX . 3 . 008 .         1          1\n                ",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "LEI Nº 12.854",
+          "offset": 16364,
+          "linha": "                                                         12.854/07 LEI Nº 12.854/07",
+          "antes": "TO Nº        PUBLICAÇÃO A PUBLICAÇÃO\n                                      42.150/03)         DA LEI Nº       DA\n                                                         12.854/07 ",
+          "depois": "/07\nASSESSOR                        04 . XX.XX . 3 . 020 .       10         10\nADMINISTRATIVO I                XXXX\nASSESSOR                        04 . XX.XX . 3 . 019 .       12 ",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "LEI Nº 12.854",
+          "offset": 20150,
+          "linha": "                                 42.150/03)         12.854/07 LEI Nº 12.854/07",
+          "antes": "    (CONFORME          PUBLICAÇÃO A PUBLICAÇÃO\n                               DECRETO Nº           DA LEI Nº       DA\n                                 42.150/03)         12.854/07 ",
+          "depois": "/07\nCHEFE   DO         ESTADO 05 . XX.XX . 2 . 011 .        1           1\nMAIOR DA          BRIGADA XXXX\nMILITAR\nCOMANDANTE-GERAL      05 . XX.XX . 2 . 012 .                  1    ",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "LEI Nº 12.854",
+          "offset": 21527,
+          "linha": "                             42.150/03)         12.854/07 LEI Nº 12.854/07",
+          "antes": "            (CONFORME          PUBLICAÇÃO A PUBLICAÇÃO\n                           DECRETO Nº           DA LEI Nº       DA\n                             42.150/03)         12.854/07 ",
+          "depois": "/07\nASSISTENTE ESPECIAL DE 06 . XX.XX . 2 . 008 .       12           12\nPOLÍCIA                XXXX\nASSISTENTE SUPERIOR DE 06 . XX.XX . 2 . 010 .       2            2\nPOLÍCIA      ",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "LEI Nº 12.854",
+          "offset": 23641,
+          "linha": "                                                                    LEI Nº 12.854/07",
+          "antes": " Nº           DA LEI Nº PUBLICAÇÃO\n                                       42.150/03)         12.854/07       DA\n                                                                    ",
+          "depois": "/07\nADMINISTRADOR DE                 07 . XX.XX . 3 . 008 .       2            2\nPENITENCIÁRIA                    XXXX\nESTADUAL\nADMINISTRADOR DE                 07 . XX.XX . 3 . 00",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2010/dec-47198-2010-id54145.md",
+      "sha256_md": "5ccdd4cd41589c578743d81eb16dcbd50809b1d13d794068d191d67e43481691",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=54145&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2047.198.pdf",
+      "sha256_pdf": "9ed583f387a7c58b14d930721465e9183bd3bb15c65eb0aeec5cac054b1fe0e9",
+      "numero": "47198",
+      "primeira_epigrafe": "DECRETO Nº 47.198",
+      "marcadores_fim": 1,
+      "problemas": [],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "LEI N° 12.697",
+          "offset": 1409,
+          "linha": "para efeito do disposto no artigo 16, parágrafo único, da LEI N° 12.697, de 04 de maio de 2007,",
+          "antes": "o Decreto, conforme segue:\n         “Art. 3° - Integram o Complexo Administrativo Palácio Piratini – Complexo Piratini -,\npara efeito do disposto no artigo 16, parágrafo único, da ",
+          "depois": ", de 04 de maio de 2007,\nos órgãos de que tratam os incisos I, II, III, VI, VII e VIII do artigo 1°, e aqueles a que se refere\no artigo 2°, incisos I a VIII, deste Decreto.”\n\n     ",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2010/dec-47021-2010-id53845.md",
+      "sha256_md": "b9f6a87500da8e02514f0ea28bb8103dcf6a68427c983a7e13ca38276f722e8f",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=53845&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2047.021.pdf",
+      "sha256_pdf": "83aa36b53c2b2088a36bddb5dfc5c1efa4d658a22fd8b0c9a755c9e8bb9377c0",
+      "numero": "47021",
+      "primeira_epigrafe": "DECRETO Nº 47.021",
+      "marcadores_fim": 1,
+      "problemas": [],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "LEI\n                                                  COMPLEMENTAR Nº 11.742",
+          "offset": 426,
+          "linha": "                                                  Regulamenta      o artigo 87 da LEI\n                                                  COMPLEMENTAR Nº 11.742, de 17 de",
+          "antes": " DE FEVEREIRO DE 2010.\n                    (publicado no DOE nº 037, de 26 de fevereiro de 2010)\n\n                                                  Regulamenta      o artigo 87 da ",
+          "depois": ", de 17 de\n                                                  janeiro de 2002.\n\n\n         A GOVERNADORA DO ESTADO DO RIO GRANDE DO SUL, no uso da\natribuição que lhe confere o artigo",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2009/dec-46861-2009-id53616.md",
+      "sha256_md": "53e65bdd382a0957dd498f0e637e250f3cd32a0fa5f9ac4602132ef31f82e6ed",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=53616&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2046.861.pdf",
+      "sha256_pdf": "a193ca8de874adaff681d872b7ca5ee31ddfa26a1b26f2a805d54913ade054f6",
+      "numero": "46861",
+      "primeira_epigrafe": "DECRETO Nº 46.861",
+      "marcadores_fim": 1,
+      "problemas": [],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "DECRETO Nº 46.884",
+          "offset": 3275,
+          "linha": "           “DECRETO Nº 46.884, DE 08 DE JANEIRO DE 2009.”",
+          "antes": "altera a redação do artigo 2º do Decreto nº 46.861, de 29 de dezembro de\n2009, publicado no Diário Oficial do Estado nº 006, de 11 de janeiro de 2010,\n\nno qual se lê:\n\n           “",
+          "depois": ", DE 08 DE JANEIRO DE 2009.”\n           “... em Porto Alegre, 08 de janeiro de 2009.”\n\nleia-se:\n\n           “DECRETO Nº 46.884, DE 08 DE JANEIRO DE 2010.”\n           “... em Porto ",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "DECRETO Nº 46.884",
+          "offset": 3401,
+          "linha": "           “DECRETO Nº 46.884, DE 08 DE JANEIRO DE 2010.”",
+          "antes": "e 11 de janeiro de 2010,\n\nno qual se lê:\n\n           “DECRETO Nº 46.884, DE 08 DE JANEIRO DE 2009.”\n           “... em Porto Alegre, 08 de janeiro de 2009.”\n\nleia-se:\n\n           “",
+          "depois": ", DE 08 DE JANEIRO DE 2010.”\n           “... em Porto Alegre, 08 de janeiro de 2010.”\n\n                                   FIM DO DOCUMENTO\n\n\n\n\nhttp://www.al.rs.gov.br/legis        ",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2008/dec-45475-2008-id51400.md",
+      "sha256_md": "dadba53293bb9b1d52701dd3db96be0527db3ad8218e5d313c82249b4710e2f2",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=51400&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2045.475.pdf",
+      "sha256_pdf": "d2b94bf1d7efb51db9ff89b79d062e4a416472a9fc32a369e224b7c9e4d7965f",
+      "numero": "45475",
+      "primeira_epigrafe": "DECRETO Nº 45.475",
+      "marcadores_fim": 1,
+      "problemas": [],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "LEI Nº 12.750",
+          "offset": 9489,
+          "linha": "LEI Nº 12.750/07-LDO/2008 E EM",
+          "antes": "        1.045.794                   174.299      87.149      87.149      87.149      87.149      87.149      87.149       87.149      87.149      87.149      87.149      1.045.794\n",
+          "depois": "/07-LDO/2008 E EM\nCONFORMIDADE COM OS\nARTIGOS 5º E 6º DA LEI Nº\n12.880/07-LOA\nhttp://www.al.rs.gov.br/legis                                                                         ",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "LEI Nº\n12.880",
+          "offset": 9559,
+          "linha": "ARTIGOS 5º E 6º DA LEI Nº\n12.880/07-LOA",
+          "antes": "   87.149      87.149      87.149      87.149       87.149      87.149      87.149      87.149      1.045.794\nLEI Nº 12.750/07-LDO/2008 E EM\nCONFORMIDADE COM OS\nARTIGOS 5º E 6º DA ",
+          "depois": "/07-LOA\nhttp://www.al.rs.gov.br/legis                                                                                                                                               ",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "LEI Nº              174.299",
+          "offset": 14489,
+          "linha": "ESTABELECIDA NA LEI Nº              174.299           174.299           174.299    174.299   174.299    174.299    1.045.794",
+          "antes": "  74.510           189.690     22.992   (1.015)   (459.381)    188.606\nCONTINGENCIAMENTO DE\nDESPESA PRIMÁRIA\nREQUERIDO PARA SE\nATINGIR A META DE\nRESULTADO PRIMÁRIO\nESTABELECIDA NA ",
+          "depois": "           174.299           174.299    174.299   174.299    174.299    1.045.794\n12.750/07 – LDO/2008 E EM\nCONFORMIDADE COM OS\nARTIGOS 5º E 6º DA LEI Nº\n12.880/07 - LOA\nRESULTADO ",
+          "apos_fim_documento": false
+        },
+        {
+          "epigrafe": "LEI Nº\n12.880",
+          "offset": 14663,
+          "linha": "ARTIGOS 5º E 6º DA LEI Nº\n12.880/07 - LOA",
+          "antes": "DA NA LEI Nº              174.299           174.299           174.299    174.299   174.299    174.299    1.045.794\n12.750/07 – LDO/2008 E EM\nCONFORMIDADE COM OS\nARTIGOS 5º E 6º DA ",
+          "depois": "/07 - LOA\nRESULTADO PRIMÁRIO\n(META REQUERIDA)                     536.109          248.809            363.989   197.291   173.284   (285.082)   1.234.400\n(*) Existem expressões de ",
+          "apos_fim_documento": false
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2007/dec-45134-2007-id50803.md",
+      "sha256_md": "def0a4c93aaec1a39c1e3230759700e2a5cccc2f5d49fb96e7f64ddc8563fbf7",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50803&Texto=&Origem=1",
+      "arquivo": "https://ww3.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2045.134.pdf",
+      "sha256_pdf": "6dfea8b1e4f6dc116541e7d2225ae040de7bbe183a0bd8e50d23dc71d4082344",
+      "numero": "45134",
+      "primeira_epigrafe": "DECRETO Nº 45.134",
+      "marcadores_fim": 1,
+      "problemas": [],
+      "epigrafes_diferentes": [
+        {
+          "epigrafe": "DECRETO N° 32.666",
+          "offset": 841,
+          "linha": "Industrial - PROEDI, instituído pelo DECRETO N° 32.666, de 27 de outubro de 1987, e, em",
+          "antes": "igo 1° da Lei nº 6.595, de 17 de setembro de 1973,\n\n         considerando os objetivos estabelecidos pelo Programa Estadual de Desenvolvimento\nIndustrial - PROEDI, instituído pelo ",
+          "depois": ", de 27 de outubro de 1987, e, em\nconformidade com os termos fixados na Resolução Normativa n.° 02/2005 - SEADAP, de 03 de\noutubro de 2005, publicada no Diário Oficial do Estado em",
+          "apos_fim_documento": false
+        }
+      ]
+    }
+  ],
+  "ausencia_contaminacao_nao_declarada_por_simples_igualdade_linhas": true
+}

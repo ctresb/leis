@@ -1,0 +1,146 @@
+{
+  "revisado_em": "2026-10-27T17:28:02.214581-03:00",
+  "selecao": "scripts/estados/manifestos/am-amostra-estratificada-PDF-20261027-001.json",
+  "sha256_selecao": "f75a6d21a3d1cccda48aa0d17398174bb216ae0d4264e3ccfe3610ec0664c5be",
+  "n_sorteados": 4,
+  "n_PDF_disponivel": 3,
+  "n_link404": 1,
+  "metodo": "Cotejo visual dos atos e páginas relevantes completos. Amostra exploratória estratificada condicionada a assinatura do portal literalmente consistente; não estima taxa populacional de defeitos.",
+  "metadados_1669": "Todos descrevem campo matéria do portal e edição histórica/compilação não declarada, sem promessa de identidade comPDF ou origem semOCR.",
+  "sem_alterar_pacote1669": true,
+  "sem_mascara_generica": true,
+  "documentos": [
+    {
+      "id_legisla": "12528",
+      "destino": "estaduais/AM/leis-ordinarias/1957/lei-13-1957-legisla12528.md",
+      "estrato": "1950-1959",
+      "assinatura_portal": {
+        "status": "conferida",
+        "data_epigrafe": "1957-03-21",
+        "data_assinatura": "1957-03-21",
+        "trecho_literal": "Manaus, 21 de março de 1957",
+        "reter": false
+      },
+      "sha256_HTML": "1070f355cc30633ed381ecbcb08af2e1aa03aa9bfa9761a4218af00811edeb43",
+      "PDFs": [
+        {
+          "url": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/pdf_diario/441/1",
+          "url_final": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/pdf_diario/441/1",
+          "cache": "estaduais/AM/_fonte/auditorias/amostra-PDF-20261027-001/173ed10fbced0a898c2231afafec72b35129a0568711e59a4f578f26b3d086c8.bin.gz",
+          "sha256_fonte": "173ed10fbced0a898c2231afafec72b35129a0568711e59a4f578f26b3d086c8",
+          "sha256_cache": "809f45d70bd192fc6d7a3b51ac308fca5895bd92bebf83ed13d3a9df2f12f89c"
+        }
+      ],
+      "resultado": "convergencia_aparente_dispositivos_com_variantes_de_formula",
+      "escopo": "Lei13/1957 integral, coluna central da p.1, arts.1–3 e assinatura. Cotejo visual; sem inferir igualdade por OCR.",
+      "observacoes": [
+        {
+          "local": "fórmula de sanção",
+          "portal": "eu sanciono a presente LEI",
+          "PDF": "eu sanciono a seguinte LEI"
+        },
+        {
+          "local": "fórmula de assinatura",
+          "portal": "PALÁCIO DO GOVERNO DO ESTADO DO AMAZONAS",
+          "PDF": "PALÁCIO DO GOVERNO"
+        }
+      ],
+      "materialidade": "Não se observou diferença de conteúdo nos dispositivos lidos; fórmulas não são literalmente idênticas."
+    },
+    {
+      "id_legisla": "10719",
+      "destino": "estaduais/AM/leis-ordinarias/1967/lei-702-1967-legisla10719.md",
+      "estrato": "1960-1969",
+      "assinatura_portal": {
+        "status": "conferida",
+        "data_epigrafe": "1967-12-30",
+        "data_assinatura": "1967-12-30",
+        "trecho_literal": "Manaus, 30 de dezembro de 1967",
+        "reter": false
+      },
+      "sha256_HTML": "12a6cee21c25673b080a24aa0a681ef9700a421b47f6e266b6146460a2c0eebd",
+      "PDFs": [
+        {
+          "url": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/pdf_diario/3640/1",
+          "url_final": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/pdf_diario/3640/1",
+          "cache": "estaduais/AM/_fonte/auditorias/amostra-PDF-20261027-001/2bf6ffcebfe470b4a8e48d14abb19a35c9ecc5c0e7ecf5aab48c73e7d6aef95d.bin.gz",
+          "sha256_fonte": "2bf6ffcebfe470b4a8e48d14abb19a35c9ecc5c0e7ecf5aab48c73e7d6aef95d",
+          "sha256_cache": "53256cec545548bb55d4a05da6821986d4bbea58cfbe3ff3e7f8388b000f2972"
+        },
+        {
+          "url": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/pdf_diario/3640/2",
+          "url_final": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/pdf_diario/3640/2",
+          "cache": "estaduais/AM/_fonte/auditorias/amostra-PDF-20261027-003/24b203b751a0be1905e649199eb5d428b78ec9f1ba5f868a999cb6d48426aa35.pdf.gz",
+          "sha256_fonte": "24b203b751a0be1905e649199eb5d428b78ec9f1ba5f868a999cb6d48426aa35",
+          "sha256_cache": "32376d2a49a2445d40eed0cd9164f95c49d73d673fc31c810b7906cf01e79627"
+        }
+      ],
+      "resultado": "divergencia_literal_identificador_paragrafo_requer_contexto",
+      "escopo": "Lei702/1967 integral nas p.1–2 do DOE26/03/1968; preservada nota de republicação por incorreções, e não confundido o quadro de Secretariado no centro da p.1 com o ato.",
+      "observacoes": [
+        {
+          "local": "art.12",
+          "portal": "O Parágrafo único segundo do art. 148",
+          "PDF": "O Parágrafo segundo do art. 148"
+        },
+        {
+          "local": "nota editorial p.2",
+          "PDF": "Reproduzido por haver saído com incorreções na repartição de origem.",
+          "portal": "nota não identificada no campo matéria; nota final remete ao DOE26/03/1968"
+        }
+      ],
+      "materialidade": "Diferença lexical no identificador de dispositivo. Reconciliar edição/republicação individualmente; não generalizar aos demais casos.",
+      "proposta": "reter cautelarmente apenas este candidato até prova contextual suficiente"
+    },
+    {
+      "id_legisla": "9405",
+      "destino": "estaduais/AM/leis-ordinarias/1978/lei-1311-1978-legisla9405.md",
+      "estrato": "1970-1979",
+      "assinatura_portal": {
+        "status": "conferida",
+        "data_epigrafe": "1978-12-18",
+        "data_assinatura": "1978-12-18",
+        "trecho_literal": "Manaus, 18 de dezembro de 1978",
+        "reter": false
+      },
+      "sha256_HTML": "ab047a9e45068271308946c6feabdd74f22dc7e82c1f46058bd9506496d0af1c",
+      "PDFs": [],
+      "resultado": "PDF_indisponivel_link404",
+      "escopo": "Link oficial do diário retornou404; nenhum substituto foi sorteado.",
+      "materialidade": "Disponibilidade não permite concluir erro de corpo."
+    },
+    {
+      "id_legisla": "1269",
+      "destino": "estaduais/AM/leis-ordinarias/2016/lei-4301-2016-legisla1269.md",
+      "estrato": "1980+",
+      "assinatura_portal": {
+        "status": "conferida",
+        "data_epigrafe": "2016-01-18",
+        "data_assinatura": "2016-01-18",
+        "trecho_literal": "Manaus, 18 de janeiro de 2016",
+        "reter": false
+      },
+      "sha256_HTML": "898d832f3d3d4b9fdb1d92046db792b108a0b8875f3c4d6eb2bde5898d01552e",
+      "PDFs": [
+        {
+          "url": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/pdf_diario/15098/3",
+          "url_final": "https://diario.imprensaoficial.am.gov.br/apifront/portal/edicoes/pdf_diario/15098/3",
+          "cache": "estaduais/AM/_fonte/auditorias/amostra-PDF-20261027-002/6d0a856665b0adcd826f6d79ce7b19c7fb698b4ecd669fca054354cde700288b.bin.gz",
+          "sha256_fonte": "6d0a856665b0adcd826f6d79ce7b19c7fb698b4ecd669fca054354cde700288b",
+          "sha256_cache": "b421b6541b0a5ba3bb080db1b5b2927985daa3ac59abec1db97879e4b8e79c3f"
+        }
+      ],
+      "resultado": "convergencia_aparente_dispositivos",
+      "escopo": "Lei4301/2016 integral, coluna esquerda da p.3, desde epígrafe até assinatura anterior à Lei4302. Arts.1–4, parágrafo único, valor de quatro salários-mínimos e período de um ano conferidos visualmente.",
+      "observacoes": [],
+      "materialidade": "Não se observou diferença substantiva no texto lido. Não afirma igualdade literal caractere a caractere nem origem sem OCR."
+    }
+  ],
+  "evidencias_visuais": {
+    "estaduais/AM/_fonte/auditorias/amostra-PDF-20261027-001/QA-12528/pagina.png": "541225ad0932776a256280ae7dbaee5bc1c501dbf7ba331c4fb8099c3a25cb9a",
+    "estaduais/AM/_fonte/auditorias/amostra-PDF-20261027-001/QA-10719/pagina.png": "d40070a016fa5eaad4a88c0d1f7b266cf715a75acba8f97ff8930cf42d401d13",
+    "estaduais/AM/_fonte/auditorias/amostra-PDF-20261027-003/QA-10719/pagina2.png": "d6e7c304fe30484c08d6b89a5ed550b34516ccfe96c8a67a082f4bcb17098849",
+    "estaduais/AM/_fonte/auditorias/amostra-PDF-20261027-003/QA-10719/Art12-recorte.png": "1bfd801fbadb2dc5e917e17ab3d3449875fdd6e7ecd07544720583bf66287e3d",
+    "estaduais/AM/_fonte/auditorias/amostra-PDF-20261027-002/QA-1269/pagina.png": "cf1afb6b5a5497f7cc4f90c7dea81eede31ce8da961c82c3d562adaa33e91f42"
+  }
+}

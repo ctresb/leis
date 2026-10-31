@@ -21,7 +21,7 @@ import urllib.parse
 import urllib.request
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
-from comum import RAIZ_ESTADUAIS, UA, Rede, caminhos, decodificar, executar, gravar, html_para_md  # noqa: E402
+from comum import RAIZ_ESTADUAIS, UA, Rede, caminhos, decodificar, executar, gravar, documento_para_md  # noqa: E402
 from datas import TIPO_EPIGRAFE, data_do_texto
 
 CONFIG = {
@@ -142,9 +142,40 @@ def localizar_texto(it, numero, ano, prefixos):
     return None, None, None
 
 
+def numero_com_sufixo(valor):
+    """Pontuação de milhares é apresentação; sufixo alfabético integra a identidade."""
+    texto = str(valor or "").strip()
+    if not texto:
+        return ""
+    m = re.fullmatch(r"([0-9][0-9.]*)\s*(?:-\s*([A-Za-z]+))?", texto)
+    if not m:
+        raise ValueError(f"número de índice não reconhecido: {texto!r}")
+    return m[1].replace(".", "") + ("-" + m[2].upper() if m[2] else "")
+
+
+def conferir_numero_proprio(epigrafe, esperado):
+    m = re.search(r"\bN[º°o.\s]*([0-9][0-9.]*(?:\s*-\s*[A-Za-z]+)?)", epigrafe, re.I)
+    if not m or numero_com_sufixo(m[1]) != esperado:
+        raise ValueError("número/sufixo da epígrafe própria diverge do índice")
+
+
+def conferir_tipo_proprio(epigrafe, esperado):
+    """O mesmo número pode existir em séries diferentes (ex.: ES, LD4/1967)."""
+    if esperado not in {"Lei Ordinária", "Lei Complementar", "Lei Delegada"}:
+        return
+    m = re.match(r"^LEI\s+(?:(COMPLEMENTAR|DELEGADA|ORDIN[ÁA]RIA)\s+)?N[º°o.\s]*\d", epigrafe, re.I)
+    if not m:
+        raise ValueError("tipo da epígrafe própria inconclusivo")
+    observado = (m[1] or "ORDINÁRIA").upper().replace("ORDINARIA", "ORDINÁRIA")
+    if observado != esperado.split()[-1].upper():
+        raise ValueError("tipo da epígrafe própria diverge do índice")
+
+
 def processar(it):
+    if not str(it.get("cod", "")).isdigit():
+        return "sem_texto", {"cod": it.get("cod"), "motivo": "ID oficial não numérico; índice CSV deslocado exige revisão HTML"}
     pasta, nome, prefixos = CFG["tipos"][it["tipo"]]
-    numero = re.sub(r"\D", "", it.get("Numero") or "")
+    numero = numero_com_sufixo(it.get("Numero"))
     ano = it.get("Ano") or "sem-ano"
     slug = f"{prefixos[0].lower()}-{numero or 'sn'}-{ano}-id{it['cod']}"
     md, fonte = caminhos(UF, pasta, ano, slug)
@@ -153,14 +184,21 @@ def processar(it):
     url, bruto, ctype = localizar_texto(it, numero, ano, prefixos)
     if not bruto:
         return "sem_texto", {"cod": it["cod"], "norma": f"{nome} {numero}/{ano}", "motivo": "texto não encontrado"}
-    corpo = html_para_md(decodificar(bruto, ctype))
-    if len(re.sub(r"\W", "", corpo)) < 40:
-        return "sem_texto", {"cod": it["cod"], "url": url, "motivo": "texto vazio"}
+    corpo, motivo = documento_para_md(bruto, url, ctype)
+    if corpo is None:
+        return "sem_texto", {"cod": it["cod"], "url": url, "motivo": motivo}
     situacao = next((v for k, v in it.items() if k.startswith("Situa")), "")
     d = re.match(r"(\d{2})/(\d{2})/(\d{4})", it.get("Data") or "")
     data_indice = f"{d[3]}-{d[2]}-{d[1]}" if d else ""
     epigrafes = [re.sub(r"[*\\#]", "", ln).strip() for ln in corpo.splitlines() if ln.strip()][:6]
     epigrafe = next((ln for ln in epigrafes if TIPO_EPIGRAFE.match(ln)), "")
+    if numero:
+        try:
+            conferir_numero_proprio(epigrafe, numero)
+            conferir_tipo_proprio(epigrafe, nome)
+        except ValueError as erro:
+            return "sem_texto", {"cod": it["cod"], "url": url, "motivo": str(erro),
+                                 "numero_indice": it.get("Numero"), "epigrafe_literal": epigrafe}
     data = data_do_texto(epigrafe, numero=numero) or data_indice
     try:
         if dt.date.fromisoformat(data) > dt.date.today():
@@ -176,8 +214,8 @@ def processar(it):
         ("data", data),
         ("ementa", " ".join((it.get("Ementa") or "").split())),
         ("situacao", situacao),
-        ("revogada", situacao.lower().startswith("revogad")),
-        ("versao_texto", "HTML do sistema de legislação da Assembleia (compilado quando disponível)"),
+        ("revogada", {"revogada": True, "revogado": True, "vigente": False, "em vigor": False}.get(situacao.strip().lower())),
+        ("versao_texto", "Texto do sistema de legislação da Assembleia (compilado quando disponível)"),
         ("fonte", f"{B}/norma.aspx?id={it['cod']}"),
         ("arquivo", url),
     ]

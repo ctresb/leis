@@ -29,7 +29,7 @@ def executar(edicao,chave,raiz,saida,fingerprints):
     conferir_pipeline()
     log=saida/"logs"/(chave+".txt")
     log.parent.mkdir(parents=True,exist_ok=True)
-    comando=["rtk","proxy",sys.executable,"-I",str(REPO/"scripts/reconciliar_diarios_municipais.py"),
+    comando=[sys.executable,"-I",str(REPO/"scripts/reconciliar_diarios_municipais.py"),
              "--pdf",edicao["pdf"],"--fonte",edicao["fonte"],"--data",edicao["data"],
              "--raiz",str(raiz),"--saida",str(saida/"candidatos")]
     with log.open("w") as f:

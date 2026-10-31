@@ -1,0 +1,963 @@
+{
+  "capturado_em": "2026-10-21T06:01:06.444789-03:00",
+  "intervalo": [
+    "2026-10-13",
+    "2026-10-21"
+  ],
+  "sem_MD": true,
+  "UFs": [
+    {
+      "UF": "AM",
+      "capturas": [
+        {
+          "url": "https://sapl.al.am.leg.br/api/norma/normajuridica/?data__gte=2026-10-13&data__lte=2026-10-21&page_size=100&page=1",
+          "iniciado_em": "2026-10-21T06:00:46.835273-03:00",
+          "http": 200,
+          "headers": {
+            "date": "Wed, 21 Oct 2026 09:00:47 GMT",
+            "content-type": "application/json",
+            "content-length": "5805",
+            "allow": "GET, POST, HEAD, OPTIONS",
+            "last-modified": "Tue, 20 Oct 2026 12:42:44 GMT",
+            "x-frame-options": "ALLOWALL",
+            "vary": "Accept-Language, Cookie",
+            "content-language": "pt-br",
+            "x-request-id": "531dd2f7-3dfc-4332-86c4-1ef6b61a9fa5",
+            "access-control-allow-origin": "*",
+            "access-control-allow-credentials": "true",
+            "access-control-allow-methods": "GET, POST, PUT, DELETE, HEAD, OPTIONS",
+            "access-control-allow-headers": "Access-Control-Allow-Origin,XMLHttpRequest,Accept,Authorization,Cache-Control,Content-Type,DNT,If-Modified-Since,Keep-Alive,Origin,User-Agent,X-Mx-ReqToken,X-Requested-With",
+            "access-control-expose-headers": "Access-Control-Allow-Origin,XMLHttpRequest,Accept,Authorization,Cache-Control,Content-Type,DNT,If-Modified-Since,Keep-Alive,Origin,User-Agent,X-Mx-ReqToken,X-Requested-With",
+            "strict-transport-security": "max-age=31536000; includeSubDomains",
+            "x-envoy-upstream-service-time": "146",
+            "x-volterra-location": "sp4-sao",
+            "server": "volt-adc",
+            "connection": "close"
+          },
+          "cache": "estaduais/AM/_indice/retomada-recente-20261021-001/pagina1.json.gz",
+          "sha256_fonte": "999005ac25b4135038916512c16219095435be5a376263c7b613a3042071dd4d",
+          "finalizado_em": "2026-10-21T06:00:47.306210-03:00"
+        }
+      ],
+      "sha256_indice_anterior": "28306e8f925304283ab99a4d1ab74ba38f36bcf63368c4d0503bbc116f351787",
+      "total_resultados": 6,
+      "candidatos_novos_com_anexo": [
+        {
+          "item": {
+            "id": 15197,
+            "__str__": "Lei Ordinária nº 8.562, de 14 de outubro de 2026",
+            "link_detail_backend": "/norma/15197",
+            "metadata": {},
+            "texto_integral": "http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2026/15197/8562.pdf",
+            "numero": "8562",
+            "ano": 2026,
+            "esfera_federacao": "E",
+            "data": "2026-10-14",
+            "data_publicacao": "2026-10-14",
+            "veiculo_publicacao": "D.O.E. 35.805",
+            "pagina_inicio_publicacao": null,
+            "pagina_fim_publicacao": null,
+            "ementa": "Institui o Dia Estadual do Médico Obstetra e do Enfermeiro Obstetra.",
+            "indexacao": "",
+            "observacao": "",
+            "complemento": false,
+            "data_vigencia": null,
+            "timestamp": "2026-10-20T09:42:44.293410-03:00",
+            "data_ultima_atualizacao": "2026-10-20T09:42:44.475206-03:00",
+            "ip": "159.60.168.194",
+            "ultima_edicao": "2026-10-20T09:40:56.164885-03:00",
+            "tipo": 1,
+            "materia": 175912,
+            "orgao": null,
+            "user": 114,
+            "assuntos": [
+              13
+            ],
+            "autores": []
+          },
+          "ID_ja_no_disco": false,
+          "tipo_indice": "Lei Ordinária",
+          "arquivo_publico": true
+        },
+        {
+          "item": {
+            "id": 15196,
+            "__str__": "Lei Ordinária nº 8.561, de 14 de outubro de 2026",
+            "link_detail_backend": "/norma/15196",
+            "metadata": {},
+            "texto_integral": "http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2026/15196/8561.doc",
+            "numero": "8561",
+            "ano": 2026,
+            "esfera_federacao": "E",
+            "data": "2026-10-14",
+            "data_publicacao": "2026-10-14",
+            "veiculo_publicacao": "D.O.E. 35.805",
+            "pagina_inicio_publicacao": null,
+            "pagina_fim_publicacao": null,
+            "ementa": "Institui, no âmbito do Estado do Amazonas, diretrizes para a criação do Cadastro Estadual de Líderes Comunitários e dá outras providências.",
+            "indexacao": "",
+            "observacao": "",
+            "complemento": false,
+            "data_vigencia": null,
+            "timestamp": "2026-10-20T09:40:49.485409-03:00",
+            "data_ultima_atualizacao": "2026-10-20T09:40:49.789863-03:00",
+            "ip": "159.60.168.194",
+            "ultima_edicao": "2026-10-20T09:39:23.647231-03:00",
+            "tipo": 1,
+            "materia": 180223,
+            "orgao": null,
+            "user": 114,
+            "assuntos": [
+              100
+            ],
+            "autores": []
+          },
+          "ID_ja_no_disco": false,
+          "tipo_indice": "Lei Ordinária",
+          "arquivo_publico": true
+        },
+        {
+          "item": {
+            "id": 15195,
+            "__str__": "Lei Ordinária nº 8.560, de 14 de outubro de 2026",
+            "link_detail_backend": "/norma/15195",
+            "metadata": {},
+            "texto_integral": "http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2026/15195/8560.pdf",
+            "numero": "8560",
+            "ano": 2026,
+            "esfera_federacao": "E",
+            "data": "2026-10-14",
+            "data_publicacao": "2026-10-14",
+            "veiculo_publicacao": "D.O.E. 35.805",
+            "pagina_inicio_publicacao": null,
+            "pagina_fim_publicacao": null,
+            "ementa": "INSTITUI, no âmbito do Estado do Amazonas, a Política Estadual de Apoio ao Cooperativismo, prevista no art. 169-A da Constituição do Estado; cria o Conselho Estadual do Cooperativismo do Amazonas – CECOOP/AM e dá outras providências",
+            "indexacao": "",
+            "observacao": "",
+            "complemento": false,
+            "data_vigencia": null,
+            "timestamp": "2026-10-20T09:39:13.377335-03:00",
+            "data_ultima_atualizacao": "2026-10-20T09:39:13.547262-03:00",
+            "ip": "159.60.168.194",
+            "ultima_edicao": "2026-10-20T09:37:07.699572-03:00",
+            "tipo": 1,
+            "materia": 184887,
+            "orgao": null,
+            "user": 114,
+            "assuntos": [
+              100
+            ],
+            "autores": []
+          },
+          "ID_ja_no_disco": false,
+          "tipo_indice": "Lei Ordinária",
+          "arquivo_publico": true
+        },
+        {
+          "item": {
+            "id": 15194,
+            "__str__": "Lei Ordinária nº 8.559, de 14 de outubro de 2026",
+            "link_detail_backend": "/norma/15194",
+            "metadata": {},
+            "texto_integral": "http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2026/15194/8559.pdf",
+            "numero": "8559",
+            "ano": 2026,
+            "esfera_federacao": "E",
+            "data": "2026-10-14",
+            "data_publicacao": "2026-10-14",
+            "veiculo_publicacao": "D.O.E. 35.805",
+            "pagina_inicio_publicacao": null,
+            "pagina_fim_publicacao": null,
+            "ementa": "Concede o Título de Cidadã do Amazonas à Senhora Anelize Lenzi Ruas de Almeida, em reconhecimento aos seus relevantes serviços prestados ao desenvolvimento do Amazonas.",
+            "indexacao": "",
+            "observacao": "",
+            "complemento": false,
+            "data_vigencia": null,
+            "timestamp": "2026-10-20T09:36:53.358195-03:00",
+            "data_ultima_atualizacao": "2026-10-20T09:36:53.471678-03:00",
+            "ip": "159.60.168.194",
+            "ultima_edicao": "2026-10-20T09:35:45.338686-03:00",
+            "tipo": 1,
+            "materia": 184723,
+            "orgao": null,
+            "user": 114,
+            "assuntos": [
+              13
+            ],
+            "autores": []
+          },
+          "ID_ja_no_disco": false,
+          "tipo_indice": "Lei Ordinária",
+          "arquivo_publico": true
+        },
+        {
+          "item": {
+            "id": 15193,
+            "__str__": "Lei Ordinária nº 8.558, de 14 de outubro de 2026",
+            "link_detail_backend": "/norma/15193",
+            "metadata": {},
+            "texto_integral": "http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2026/15193/8558.pdf",
+            "numero": "8558",
+            "ano": 2026,
+            "esfera_federacao": "E",
+            "data": "2026-10-14",
+            "data_publicacao": "2026-10-14",
+            "veiculo_publicacao": "D.O.E. 35.805",
+            "pagina_inicio_publicacao": null,
+            "pagina_fim_publicacao": null,
+            "ementa": "Concede o Título de Cidadão do Amazonas ao Senhor João Batista Fernandes Barbato, em reconhecimento aos seus relevantes serviços prestados ao Estado do Amazonas.",
+            "indexacao": "",
+            "observacao": "",
+            "complemento": false,
+            "data_vigencia": null,
+            "timestamp": "2026-10-20T09:35:40.320000-03:00",
+            "data_ultima_atualizacao": "2026-10-20T09:35:40.577980-03:00",
+            "ip": "159.60.168.194",
+            "ultima_edicao": "2026-10-20T09:34:13.341960-03:00",
+            "tipo": 1,
+            "materia": 184575,
+            "orgao": null,
+            "user": 114,
+            "assuntos": [
+              13
+            ],
+            "autores": []
+          },
+          "ID_ja_no_disco": false,
+          "tipo_indice": "Lei Ordinária",
+          "arquivo_publico": true
+        },
+        {
+          "item": {
+            "id": 15184,
+            "__str__": "Resolução Legislativa nº 1.168, de 14 de outubro de 2026",
+            "link_detail_backend": "/norma/15184",
+            "metadata": {},
+            "texto_integral": "http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2026/15184/1168.pdf",
+            "numero": "1168",
+            "ano": 2026,
+            "esfera_federacao": "E",
+            "data": "2026-10-14",
+            "data_publicacao": "2026-10-14",
+            "veiculo_publicacao": "e-DOALEAM nº 2520",
+            "pagina_inicio_publicacao": null,
+            "pagina_fim_publicacao": null,
+            "ementa": "Concede a Medalha Ruy Araújo ao Senhor Homero de Miranda Leão Neto.",
+            "indexacao": "",
+            "observacao": "",
+            "complemento": false,
+            "data_vigencia": null,
+            "timestamp": "2026-10-19T11:18:57.037608-03:00",
+            "data_ultima_atualizacao": "2026-10-19T11:18:57.273512-03:00",
+            "ip": "159.60.168.207",
+            "ultima_edicao": "2026-10-19T11:16:58.859768-03:00",
+            "tipo": 4,
+            "materia": 184695,
+            "orgao": null,
+            "user": 114,
+            "assuntos": [
+              13
+            ],
+            "autores": []
+          },
+          "ID_ja_no_disco": false,
+          "tipo_indice": "Resolução Legislativa",
+          "arquivo_publico": true
+        }
+      ],
+      "novos_sem_anexo": [],
+      "todos": [
+        {
+          "item": {
+            "id": 15197,
+            "__str__": "Lei Ordinária nº 8.562, de 14 de outubro de 2026",
+            "link_detail_backend": "/norma/15197",
+            "metadata": {},
+            "texto_integral": "http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2026/15197/8562.pdf",
+            "numero": "8562",
+            "ano": 2026,
+            "esfera_federacao": "E",
+            "data": "2026-10-14",
+            "data_publicacao": "2026-10-14",
+            "veiculo_publicacao": "D.O.E. 35.805",
+            "pagina_inicio_publicacao": null,
+            "pagina_fim_publicacao": null,
+            "ementa": "Institui o Dia Estadual do Médico Obstetra e do Enfermeiro Obstetra.",
+            "indexacao": "",
+            "observacao": "",
+            "complemento": false,
+            "data_vigencia": null,
+            "timestamp": "2026-10-20T09:42:44.293410-03:00",
+            "data_ultima_atualizacao": "2026-10-20T09:42:44.475206-03:00",
+            "ip": "159.60.168.194",
+            "ultima_edicao": "2026-10-20T09:40:56.164885-03:00",
+            "tipo": 1,
+            "materia": 175912,
+            "orgao": null,
+            "user": 114,
+            "assuntos": [
+              13
+            ],
+            "autores": []
+          },
+          "ID_ja_no_disco": false,
+          "tipo_indice": "Lei Ordinária",
+          "arquivo_publico": true
+        },
+        {
+          "item": {
+            "id": 15196,
+            "__str__": "Lei Ordinária nº 8.561, de 14 de outubro de 2026",
+            "link_detail_backend": "/norma/15196",
+            "metadata": {},
+            "texto_integral": "http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2026/15196/8561.doc",
+            "numero": "8561",
+            "ano": 2026,
+            "esfera_federacao": "E",
+            "data": "2026-10-14",
+            "data_publicacao": "2026-10-14",
+            "veiculo_publicacao": "D.O.E. 35.805",
+            "pagina_inicio_publicacao": null,
+            "pagina_fim_publicacao": null,
+            "ementa": "Institui, no âmbito do Estado do Amazonas, diretrizes para a criação do Cadastro Estadual de Líderes Comunitários e dá outras providências.",
+            "indexacao": "",
+            "observacao": "",
+            "complemento": false,
+            "data_vigencia": null,
+            "timestamp": "2026-10-20T09:40:49.485409-03:00",
+            "data_ultima_atualizacao": "2026-10-20T09:40:49.789863-03:00",
+            "ip": "159.60.168.194",
+            "ultima_edicao": "2026-10-20T09:39:23.647231-03:00",
+            "tipo": 1,
+            "materia": 180223,
+            "orgao": null,
+            "user": 114,
+            "assuntos": [
+              100
+            ],
+            "autores": []
+          },
+          "ID_ja_no_disco": false,
+          "tipo_indice": "Lei Ordinária",
+          "arquivo_publico": true
+        },
+        {
+          "item": {
+            "id": 15195,
+            "__str__": "Lei Ordinária nº 8.560, de 14 de outubro de 2026",
+            "link_detail_backend": "/norma/15195",
+            "metadata": {},
+            "texto_integral": "http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2026/15195/8560.pdf",
+            "numero": "8560",
+            "ano": 2026,
+            "esfera_federacao": "E",
+            "data": "2026-10-14",
+            "data_publicacao": "2026-10-14",
+            "veiculo_publicacao": "D.O.E. 35.805",
+            "pagina_inicio_publicacao": null,
+            "pagina_fim_publicacao": null,
+            "ementa": "INSTITUI, no âmbito do Estado do Amazonas, a Política Estadual de Apoio ao Cooperativismo, prevista no art. 169-A da Constituição do Estado; cria o Conselho Estadual do Cooperativismo do Amazonas – CECOOP/AM e dá outras providências",
+            "indexacao": "",
+            "observacao": "",
+            "complemento": false,
+            "data_vigencia": null,
+            "timestamp": "2026-10-20T09:39:13.377335-03:00",
+            "data_ultima_atualizacao": "2026-10-20T09:39:13.547262-03:00",
+            "ip": "159.60.168.194",
+            "ultima_edicao": "2026-10-20T09:37:07.699572-03:00",
+            "tipo": 1,
+            "materia": 184887,
+            "orgao": null,
+            "user": 114,
+            "assuntos": [
+              100
+            ],
+            "autores": []
+          },
+          "ID_ja_no_disco": false,
+          "tipo_indice": "Lei Ordinária",
+          "arquivo_publico": true
+        },
+        {
+          "item": {
+            "id": 15194,
+            "__str__": "Lei Ordinária nº 8.559, de 14 de outubro de 2026",
+            "link_detail_backend": "/norma/15194",
+            "metadata": {},
+            "texto_integral": "http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2026/15194/8559.pdf",
+            "numero": "8559",
+            "ano": 2026,
+            "esfera_federacao": "E",
+            "data": "2026-10-14",
+            "data_publicacao": "2026-10-14",
+            "veiculo_publicacao": "D.O.E. 35.805",
+            "pagina_inicio_publicacao": null,
+            "pagina_fim_publicacao": null,
+            "ementa": "Concede o Título de Cidadã do Amazonas à Senhora Anelize Lenzi Ruas de Almeida, em reconhecimento aos seus relevantes serviços prestados ao desenvolvimento do Amazonas.",
+            "indexacao": "",
+            "observacao": "",
+            "complemento": false,
+            "data_vigencia": null,
+            "timestamp": "2026-10-20T09:36:53.358195-03:00",
+            "data_ultima_atualizacao": "2026-10-20T09:36:53.471678-03:00",
+            "ip": "159.60.168.194",
+            "ultima_edicao": "2026-10-20T09:35:45.338686-03:00",
+            "tipo": 1,
+            "materia": 184723,
+            "orgao": null,
+            "user": 114,
+            "assuntos": [
+              13
+            ],
+            "autores": []
+          },
+          "ID_ja_no_disco": false,
+          "tipo_indice": "Lei Ordinária",
+          "arquivo_publico": true
+        },
+        {
+          "item": {
+            "id": 15193,
+            "__str__": "Lei Ordinária nº 8.558, de 14 de outubro de 2026",
+            "link_detail_backend": "/norma/15193",
+            "metadata": {},
+            "texto_integral": "http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2026/15193/8558.pdf",
+            "numero": "8558",
+            "ano": 2026,
+            "esfera_federacao": "E",
+            "data": "2026-10-14",
+            "data_publicacao": "2026-10-14",
+            "veiculo_publicacao": "D.O.E. 35.805",
+            "pagina_inicio_publicacao": null,
+            "pagina_fim_publicacao": null,
+            "ementa": "Concede o Título de Cidadão do Amazonas ao Senhor João Batista Fernandes Barbato, em reconhecimento aos seus relevantes serviços prestados ao Estado do Amazonas.",
+            "indexacao": "",
+            "observacao": "",
+            "complemento": false,
+            "data_vigencia": null,
+            "timestamp": "2026-10-20T09:35:40.320000-03:00",
+            "data_ultima_atualizacao": "2026-10-20T09:35:40.577980-03:00",
+            "ip": "159.60.168.194",
+            "ultima_edicao": "2026-10-20T09:34:13.341960-03:00",
+            "tipo": 1,
+            "materia": 184575,
+            "orgao": null,
+            "user": 114,
+            "assuntos": [
+              13
+            ],
+            "autores": []
+          },
+          "ID_ja_no_disco": false,
+          "tipo_indice": "Lei Ordinária",
+          "arquivo_publico": true
+        },
+        {
+          "item": {
+            "id": 15184,
+            "__str__": "Resolução Legislativa nº 1.168, de 14 de outubro de 2026",
+            "link_detail_backend": "/norma/15184",
+            "metadata": {},
+            "texto_integral": "http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2026/15184/1168.pdf",
+            "numero": "1168",
+            "ano": 2026,
+            "esfera_federacao": "E",
+            "data": "2026-10-14",
+            "data_publicacao": "2026-10-14",
+            "veiculo_publicacao": "e-DOALEAM nº 2520",
+            "pagina_inicio_publicacao": null,
+            "pagina_fim_publicacao": null,
+            "ementa": "Concede a Medalha Ruy Araújo ao Senhor Homero de Miranda Leão Neto.",
+            "indexacao": "",
+            "observacao": "",
+            "complemento": false,
+            "data_vigencia": null,
+            "timestamp": "2026-10-19T11:18:57.037608-03:00",
+            "data_ultima_atualizacao": "2026-10-19T11:18:57.273512-03:00",
+            "ip": "159.60.168.207",
+            "ultima_edicao": "2026-10-19T11:16:58.859768-03:00",
+            "tipo": 4,
+            "materia": 184695,
+            "orgao": null,
+            "user": 114,
+            "assuntos": [
+              13
+            ],
+            "autores": []
+          },
+          "ID_ja_no_disco": false,
+          "tipo_indice": "Resolução Legislativa",
+          "arquivo_publico": true
+        }
+      ]
+    },
+    {
+      "UF": "PB",
+      "capturas": [
+        {
+          "url": "https://sapl.al.pb.leg.br/api/norma/normajuridica/?data__gte=2026-10-13&data__lte=2026-10-21&page_size=100&page=1",
+          "iniciado_em": "2026-10-21T06:00:49.341374-03:00",
+          "http": 200,
+          "headers": {
+            "Server": "nginx/1.24.0 (Ubuntu)",
+            "Date": "Wed, 21 Oct 2026 09:00:49 GMT",
+            "Content-Type": "application/json",
+            "Content-Length": "178",
+            "Connection": "close",
+            "Allow": "GET, POST, HEAD, OPTIONS",
+            "X-Frame-Options": "ALLOWALL",
+            "Vary": "Accept-Language, Cookie",
+            "Content-Language": "pt-br"
+          },
+          "cache": "estaduais/PB/_indice/retomada-recente-20261021-001/pagina1.json.gz",
+          "sha256_fonte": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "finalizado_em": "2026-10-21T06:00:49.638530-03:00"
+        }
+      ],
+      "sha256_indice_anterior": "10be865c6b20c1177ce2d0f99d61de1f35ecfa3fdd1c1dc96c87bae4d72e5fea",
+      "total_resultados": 0,
+      "candidatos_novos_com_anexo": [],
+      "novos_sem_anexo": [],
+      "todos": []
+    },
+    {
+      "UF": "AL",
+      "capturas": [
+        {
+          "url": "https://sapl.al.al.leg.br/api/norma/normajuridica/?data__gte=2026-10-13&data__lte=2026-10-21&page_size=100&page=1",
+          "iniciado_em": "2026-10-21T06:00:51.240177-03:00",
+          "http": 200,
+          "headers": {
+            "Date": "Wed, 21 Oct 2026 09:00:52 GMT",
+            "Content-Type": "application/json",
+            "Content-Length": "3418",
+            "Connection": "close",
+            "Allow": "GET, POST, HEAD, OPTIONS",
+            "Last-Modified": "Thu, 15 Oct 2026 22:16:05 GMT",
+            "X-Frame-Options": "ALLOWALL",
+            "Vary": "Accept-Language, Cookie",
+            "Content-Language": "pt-br",
+            "X-Request-ID": "91e6028db9787712daa3c0b0718101de",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Credentials": "true",
+            "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, HEAD, OPTIONS",
+            "Access-Control-Allow-Headers": "Access-Control-Allow-Origin,XMLHttpRequest,Accept,Authorization,Cache-Control,Content-Type,DNT,If-Modified-Since,Keep-Alive,Origin,User-Agent,X-Mx-ReqToken,X-Requested-With",
+            "Access-Control-Expose-Headers": "Access-Control-Allow-Origin,XMLHttpRequest,Accept,Authorization,Cache-Control,Content-Type,DNT,If-Modified-Since,Keep-Alive,Origin,User-Agent,X-Mx-ReqToken,X-Requested-With",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
+          },
+          "cache": "estaduais/AL/_indice/retomada-recente-20261021-001/pagina1.json.gz",
+          "sha256_fonte": "dad26ded9f450afbd914bcf347abeb560f81683dba579e5ce4bfa61a9bad7e97",
+          "finalizado_em": "2026-10-21T06:00:52.314532-03:00"
+        }
+      ],
+      "sha256_indice_anterior": "dc46d0ed794ae25007deca5e1c59d17882e09efa5003239dff5a9163fc546eef",
+      "total_resultados": 3,
+      "candidatos_novos_com_anexo": [
+        {
+          "item": {
+            "id": 4074,
+            "__str__": "DECRETO LEGISLATIVO nº 489, de 13 de outubro de 2026",
+            "link_detail_backend": "/norma/4074",
+            "metadata": {},
+            "texto_integral": "http://sapl.al.al.leg.br/media/sapl/public/normajuridica/2026/4074/decreto_legislativo_489-2024-aprova_contas_do_governo_do_estado_do_exercicio_de_2024.pdf",
+            "numero": "489",
+            "ano": 2026,
+            "esfera_federacao": "E",
+            "data": "2026-10-13",
+            "data_publicacao": "2026-10-14",
+            "veiculo_publicacao": "DIÁRIO OFICIAL DA ASSEMBLEIA",
+            "pagina_inicio_publicacao": null,
+            "pagina_fim_publicacao": null,
+            "ementa": "APROVA A PRESTAÇÃO DE CONTAS DO GOVERNO DO ESTADO DE ALAGOAS EXERCÍCIO FINANCEIRO DE 2024.",
+            "indexacao": "APROVA A PRESTAÇÃO DE CONTAS DO GOVERNO DO ESTADO DE ALAGOAS EXERCÍCIO FINANCEIRO DE 2024.",
+            "observacao": "",
+            "complemento": false,
+            "data_vigencia": null,
+            "timestamp": "2026-10-15T19:15:16.126645-03:00",
+            "data_ultima_atualizacao": "2026-10-15T19:15:16.127781-03:00",
+            "ip": "186.235.158.21",
+            "ultima_edicao": "2026-10-15T19:15:16.005830-03:00",
+            "tipo": 7,
+            "materia": 14997,
+            "orgao": null,
+            "user": 122,
+            "assuntos": [
+              10
+            ],
+            "autores": []
+          },
+          "ID_ja_no_disco": false,
+          "tipo_indice": "DECRETO LEGISLATIVO",
+          "arquivo_publico": true
+        },
+        {
+          "item": {
+            "id": 4073,
+            "__str__": "DECRETO LEGISLATIVO nº 488, de 13 de outubro de 2026",
+            "link_detail_backend": "/norma/4073",
+            "metadata": {},
+            "texto_integral": "http://sapl.al.al.leg.br/media/sapl/public/normajuridica/2026/4073/decreto_legislativo_488-2024-aprova_contas_do_governo_do_estado_do_exercicio_de_2023.pdf",
+            "numero": "488",
+            "ano": 2026,
+            "esfera_federacao": "E",
+            "data": "2026-10-13",
+            "data_publicacao": "2026-10-14",
+            "veiculo_publicacao": "DIÁRIO OFICIAL DA ASSEMBLEIA",
+            "pagina_inicio_publicacao": null,
+            "pagina_fim_publicacao": null,
+            "ementa": "APROVA A PRESTAÇÃO DE CONTAS DO GOVERNO DO ESTADO DE ALAGOAS, EXERCÍCIO FINANCEIRO DE 2023.",
+            "indexacao": "APROVA A PRESTAÇÃO DE CONTAS DO GOVERNO DO ESTADO DE ALAGOAS, EXERCÍCIO FINANCEIRO DE 2023.",
+            "observacao": "",
+            "complemento": false,
+            "data_vigencia": null,
+            "timestamp": "2026-10-15T19:16:05.541703-03:00",
+            "data_ultima_atualizacao": "2026-10-15T19:16:05.544459-03:00",
+            "ip": "186.235.158.21",
+            "ultima_edicao": "2026-10-15T19:16:05.413889-03:00",
+            "tipo": 7,
+            "materia": 14632,
+            "orgao": null,
+            "user": 122,
+            "assuntos": [
+              10
+            ],
+            "autores": []
+          },
+          "ID_ja_no_disco": false,
+          "tipo_indice": "DECRETO LEGISLATIVO",
+          "arquivo_publico": true
+        }
+      ],
+      "novos_sem_anexo": [],
+      "todos": [
+        {
+          "item": {
+            "id": 4074,
+            "__str__": "DECRETO LEGISLATIVO nº 489, de 13 de outubro de 2026",
+            "link_detail_backend": "/norma/4074",
+            "metadata": {},
+            "texto_integral": "http://sapl.al.al.leg.br/media/sapl/public/normajuridica/2026/4074/decreto_legislativo_489-2024-aprova_contas_do_governo_do_estado_do_exercicio_de_2024.pdf",
+            "numero": "489",
+            "ano": 2026,
+            "esfera_federacao": "E",
+            "data": "2026-10-13",
+            "data_publicacao": "2026-10-14",
+            "veiculo_publicacao": "DIÁRIO OFICIAL DA ASSEMBLEIA",
+            "pagina_inicio_publicacao": null,
+            "pagina_fim_publicacao": null,
+            "ementa": "APROVA A PRESTAÇÃO DE CONTAS DO GOVERNO DO ESTADO DE ALAGOAS EXERCÍCIO FINANCEIRO DE 2024.",
+            "indexacao": "APROVA A PRESTAÇÃO DE CONTAS DO GOVERNO DO ESTADO DE ALAGOAS EXERCÍCIO FINANCEIRO DE 2024.",
+            "observacao": "",
+            "complemento": false,
+            "data_vigencia": null,
+            "timestamp": "2026-10-15T19:15:16.126645-03:00",
+            "data_ultima_atualizacao": "2026-10-15T19:15:16.127781-03:00",
+            "ip": "186.235.158.21",
+            "ultima_edicao": "2026-10-15T19:15:16.005830-03:00",
+            "tipo": 7,
+            "materia": 14997,
+            "orgao": null,
+            "user": 122,
+            "assuntos": [
+              10
+            ],
+            "autores": []
+          },
+          "ID_ja_no_disco": false,
+          "tipo_indice": "DECRETO LEGISLATIVO",
+          "arquivo_publico": true
+        },
+        {
+          "item": {
+            "id": 4073,
+            "__str__": "DECRETO LEGISLATIVO nº 488, de 13 de outubro de 2026",
+            "link_detail_backend": "/norma/4073",
+            "metadata": {},
+            "texto_integral": "http://sapl.al.al.leg.br/media/sapl/public/normajuridica/2026/4073/decreto_legislativo_488-2024-aprova_contas_do_governo_do_estado_do_exercicio_de_2023.pdf",
+            "numero": "488",
+            "ano": 2026,
+            "esfera_federacao": "E",
+            "data": "2026-10-13",
+            "data_publicacao": "2026-10-14",
+            "veiculo_publicacao": "DIÁRIO OFICIAL DA ASSEMBLEIA",
+            "pagina_inicio_publicacao": null,
+            "pagina_fim_publicacao": null,
+            "ementa": "APROVA A PRESTAÇÃO DE CONTAS DO GOVERNO DO ESTADO DE ALAGOAS, EXERCÍCIO FINANCEIRO DE 2023.",
+            "indexacao": "APROVA A PRESTAÇÃO DE CONTAS DO GOVERNO DO ESTADO DE ALAGOAS, EXERCÍCIO FINANCEIRO DE 2023.",
+            "observacao": "",
+            "complemento": false,
+            "data_vigencia": null,
+            "timestamp": "2026-10-15T19:16:05.541703-03:00",
+            "data_ultima_atualizacao": "2026-10-15T19:16:05.544459-03:00",
+            "ip": "186.235.158.21",
+            "ultima_edicao": "2026-10-15T19:16:05.413889-03:00",
+            "tipo": 7,
+            "materia": 14632,
+            "orgao": null,
+            "user": 122,
+            "assuntos": [
+              10
+            ],
+            "autores": []
+          },
+          "ID_ja_no_disco": false,
+          "tipo_indice": "DECRETO LEGISLATIVO",
+          "arquivo_publico": true
+        },
+        {
+          "item": {
+            "id": 4072,
+            "__str__": "LEI ORDINARIA nº 10.065, de 13 de outubro de 2026",
+            "link_detail_backend": "/norma/4072",
+            "metadata": {},
+            "texto_integral": "http://sapl.al.al.leg.br/media/sapl/public/normajuridica/2026/4072/lei_no_10.065_de_6_de_outubro_de_2026.pdf",
+            "numero": "10065",
+            "ano": 2026,
+            "esfera_federacao": "E",
+            "data": "2026-10-13",
+            "data_publicacao": "2026-10-08",
+            "veiculo_publicacao": "DIÁRIO OFICIAL DO ESTADO",
+            "pagina_inicio_publicacao": null,
+            "pagina_fim_publicacao": null,
+            "ementa": "DISPÕE SOBRE A REORGANIZAÇÃO DAS SERVENTIAS EXTRAJUDICIAIS DO ESTADO DE ALAGOAS E DÁ OUTRAS PROVIDÊNCIAS.",
+            "indexacao": "DISPÕE SOBRE A REORGANIZAÇÃO DAS SERVENTIAS EXTRAJUDICIAIS DO ESTADO DE ALAGOAS.",
+            "observacao": "MATÉRIA SANCIONADA NA ÍNTEGRA.",
+            "complemento": false,
+            "data_vigencia": null,
+            "timestamp": "2026-10-13T14:03:02.648114-03:00",
+            "data_ultima_atualizacao": "2026-10-13T14:03:02.925917-03:00",
+            "ip": "186.235.158.21",
+            "ultima_edicao": "2026-10-13T13:53:41.207327-03:00",
+            "tipo": 1,
+            "materia": 15773,
+            "orgao": null,
+            "user": 124,
+            "assuntos": [
+              10
+            ],
+            "autores": [
+              41
+            ]
+          },
+          "ID_ja_no_disco": true,
+          "tipo_indice": "LEI ORDINARIA",
+          "arquivo_publico": true
+        }
+      ]
+    },
+    {
+      "UF": "RR",
+      "capturas": [
+        {
+          "url": "https://sapl.al.rr.leg.br/api/norma/normajuridica/?data__gte=2026-10-13&data__lte=2026-10-21&page_size=100&page=1",
+          "iniciado_em": "2026-10-21T06:00:53.838958-03:00",
+          "http": 200,
+          "headers": {
+            "Date": "Wed, 21 Oct 2026 09:00:54 GMT",
+            "Server": "Apache",
+            "X-Robots-Tag": "noindex, nofollow, nosnippet, noarchive",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Content-Type-Options": "nosniff",
+            "X-XSS-Protection": "0",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "Permissions-Policy": "geolocation=(), microphone=(), camera=()",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+            "Content-Security-Policy-Report-Only": "default-src 'self'; script-src 'self' 'unsafe-inline' cdn.jsdelivr.net connect.facebook.net www.google-analytics.com www.googletagmanager.com vlibras.gov.br; style-src 'self' 'unsafe-inline' cdn.jsdelivr.net; img-src 'self' cdn.jsdelivr.net connect.facebook.net www.google-analytics.com vlibras.gov.br; font-src 'self' data: cdn.jsdelivr.net; connect-src 'self' cdn.jsdelivr.net connect.facebook.net www.google-analytics.com; frame-src 'self' connect.facebook.net; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; manifest-src 'self';",
+            "Content-Type": "application/json",
+            "Content-Length": "1094",
+            "Allow": "GET, POST, HEAD, OPTIONS",
+            "Vary": "Accept-Language,Cookie,Accept-Encoding",
+            "Content-Language": "pt-br",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Credentials": "true",
+            "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, HEAD, OPTIONS",
+            "Access-Control-Allow-Headers": "Access-Control-Allow-Origin,XMLHttpRequest,Accept,Authorization,Cache-Control,Content-Type,DNT,If-Modified-Since,Keep-Alive,Origin,User-Agent,X-Mx-ReqToken,X-Requested-With",
+            "Access-Control-Expose-Headers": "Access-Control-Allow-Origin,XMLHttpRequest,Accept,Authorization,Cache-Control,Content-Type,DNT,If-Modified-Since,Keep-Alive,Origin,User-Agent,X-Mx-ReqToken,X-Requested-With",
+            "Cache-Control": "max-age=0",
+            "Expires": "Wed, 21 Oct 2026 09:00:54 GMT",
+            "Connection": "close"
+          },
+          "cache": "estaduais/RR/_indice/retomada-recente-20261021-001/pagina1.json.gz",
+          "sha256_fonte": "7c6d54a33909ff79129ab93413b775ffd1825db690c42b2c1937d9500c4faa90",
+          "finalizado_em": "2026-10-21T06:00:54.597401-03:00"
+        }
+      ],
+      "sha256_indice_anterior": "5f8bc15e4a1641fd9558455f918fb2862326fd536a1ae928b3ebe8a63d8b2045",
+      "total_resultados": 1,
+      "candidatos_novos_com_anexo": [],
+      "novos_sem_anexo": [],
+      "todos": [
+        {
+          "item": {
+            "id": 5431,
+            "__str__": "Lei Ordinária nº 2.421, de 14 de outubro de 2026",
+            "metadata": {},
+            "texto_integral": "http://sapl.al.rr.leg.br/media/sapl/public/normajuridica/2026/5431/lei_no_2421_de_14_de_outubro_de_2026.pdf",
+            "numero": "2421",
+            "ano": 2026,
+            "esfera_federacao": "E",
+            "data": "2026-10-14",
+            "data_publicacao": null,
+            "veiculo_publicacao": "DOE",
+            "pagina_inicio_publicacao": null,
+            "pagina_fim_publicacao": null,
+            "ementa": "Dispõe sobre a suspensão do prazo de validade dos concursos públicos estaduais durante o período eleitoral no âmbito do Estado de Roraima.",
+            "indexacao": "",
+            "observacao": "",
+            "complemento": false,
+            "data_vigencia": "2026-10-14",
+            "timestamp": "2026-10-16T12:37:25.930923-04:00",
+            "data_ultima_atualizacao": "2026-10-16T12:37:25.932798-04:00",
+            "ip": "172.16.121.26",
+            "ultima_edicao": "2026-10-16T12:37:25.831430-04:00",
+            "tipo": 2,
+            "materia": 19005,
+            "orgao": null,
+            "user": 63,
+            "assuntos": [],
+            "autores": [
+              56
+            ]
+          },
+          "ID_ja_no_disco": true,
+          "tipo_indice": "Lei Ordinária",
+          "arquivo_publico": true
+        }
+      ]
+    },
+    {
+      "UF": "AC",
+      "capturas": [
+        {
+          "url": "https://sapl.al.ac.leg.br/api/norma/normajuridica/?data__gte=2026-10-13&data__lte=2026-10-21&page_size=100&page=1",
+          "iniciado_em": "2026-10-21T06:00:56.132930-03:00",
+          "http": 200,
+          "headers": {
+            "Date": "Wed, 21 Oct 2026 09:00:57 GMT",
+            "Content-Type": "application/json",
+            "Content-Length": "178",
+            "Connection": "close",
+            "Allow": "GET, POST, HEAD, OPTIONS",
+            "X-Frame-Options": "ALLOWALL",
+            "Vary": "Accept-Language, Cookie",
+            "Content-Language": "pt-br",
+            "X-Request-ID": "f7c2dc2206d2711ae242e6553cfea0ea",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Credentials": "true",
+            "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, HEAD, OPTIONS",
+            "Access-Control-Allow-Headers": "Access-Control-Allow-Origin,XMLHttpRequest,Accept,Authorization,Cache-Control,Content-Type,DNT,If-Modified-Since,Keep-Alive,Origin,User-Agent,X-Mx-ReqToken,X-Requested-With",
+            "Access-Control-Expose-Headers": "Access-Control-Allow-Origin,XMLHttpRequest,Accept,Authorization,Cache-Control,Content-Type,DNT,If-Modified-Since,Keep-Alive,Origin,User-Agent,X-Mx-ReqToken,X-Requested-With",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
+          },
+          "cache": "estaduais/AC/_indice/retomada-recente-20261021-001/pagina1.json.gz",
+          "sha256_fonte": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "finalizado_em": "2026-10-21T06:00:57.224740-03:00"
+        }
+      ],
+      "sha256_indice_anterior": "6fc1ef51f372ee40f117e81aa75df471a72e46d67f28ad93553a2528e689e4f1",
+      "total_resultados": 0,
+      "candidatos_novos_com_anexo": [],
+      "novos_sem_anexo": [],
+      "todos": []
+    },
+    {
+      "UF": "RO",
+      "capturas": [
+        {
+          "url": "https://sapl.al.ro.leg.br/api/norma/normajuridica/?data__gte=2026-10-13&data__lte=2026-10-21&page_size=100&page=1",
+          "iniciado_em": "2026-10-21T06:00:59.172521-03:00",
+          "http": 200,
+          "headers": {
+            "Date": "Wed, 21 Oct 2026 09:01:00 GMT",
+            "Content-Type": "application/json",
+            "Content-Length": "178",
+            "Connection": "close",
+            "Allow": "GET, POST, HEAD, OPTIONS",
+            "X-Frame-Options": "ALLOWALL",
+            "Vary": "Accept-Language, Cookie",
+            "Content-Language": "pt-br",
+            "X-Request-ID": "e7421b9b2779777a22ac2d51cab8e3c2",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Credentials": "true",
+            "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, HEAD, OPTIONS",
+            "Access-Control-Allow-Headers": "Access-Control-Allow-Origin,XMLHttpRequest,Accept,Authorization,Cache-Control,Content-Type,DNT,If-Modified-Since,Keep-Alive,Origin,User-Agent,X-Mx-ReqToken,X-Requested-With",
+            "Access-Control-Expose-Headers": "Access-Control-Allow-Origin,XMLHttpRequest,Accept,Authorization,Cache-Control,Content-Type,DNT,If-Modified-Since,Keep-Alive,Origin,User-Agent,X-Mx-ReqToken,X-Requested-With",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
+          },
+          "cache": "estaduais/RO/_indice/retomada-recente-20261021-001/pagina1.json.gz",
+          "sha256_fonte": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "finalizado_em": "2026-10-21T06:01:00.275241-03:00"
+        }
+      ],
+      "sha256_indice_anterior": "343fcd0171ca7b675872e9289fd4e8eef03a276df34fd26089f972d5b94405ae",
+      "total_resultados": 0,
+      "candidatos_novos_com_anexo": [],
+      "novos_sem_anexo": [],
+      "todos": []
+    },
+    {
+      "UF": "PI",
+      "capturas": [
+        {
+          "url": "https://sapl.al.pi.leg.br/api/norma/normajuridica/?data__gte=2026-10-13&data__lte=2026-10-21&page_size=100&page=1",
+          "iniciado_em": "2026-10-21T06:01:02.163598-03:00",
+          "http": 200,
+          "headers": {
+            "Date": "Wed, 21 Oct 2026 09:01:03 GMT",
+            "Content-Type": "application/json",
+            "Content-Length": "178",
+            "Connection": "close",
+            "Allow": "GET, POST, HEAD, OPTIONS",
+            "X-Frame-Options": "ALLOWALL",
+            "Vary": "Accept-Language, Cookie",
+            "Content-Language": "pt-br",
+            "X-Request-ID": "7fa5cdb6f1983a0f2989f00e6c4bd3d5",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Credentials": "true",
+            "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, HEAD, OPTIONS",
+            "Access-Control-Allow-Headers": "Access-Control-Allow-Origin,XMLHttpRequest,Accept,Authorization,Cache-Control,Content-Type,DNT,If-Modified-Since,Keep-Alive,Origin,User-Agent,X-Mx-ReqToken,X-Requested-With",
+            "Access-Control-Expose-Headers": "Access-Control-Allow-Origin,XMLHttpRequest,Accept,Authorization,Cache-Control,Content-Type,DNT,If-Modified-Since,Keep-Alive,Origin,User-Agent,X-Mx-ReqToken,X-Requested-With",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
+          },
+          "cache": "estaduais/PI/_indice/retomada-recente-20261021-001/pagina1.json.gz",
+          "sha256_fonte": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "finalizado_em": "2026-10-21T06:01:03.263324-03:00"
+        }
+      ],
+      "sha256_indice_anterior": "4fd72bbb90681dfd1039fede51bde4d609e1d8514b8bc45006774827bbf3ee24",
+      "total_resultados": 0,
+      "candidatos_novos_com_anexo": [],
+      "novos_sem_anexo": [],
+      "todos": []
+    },
+    {
+      "UF": "TO",
+      "capturas": [
+        {
+          "url": "https://sapl.al.to.leg.br/api/norma/normajuridica/?data__gte=2026-10-13&data__lte=2026-10-21&page_size=100&page=1",
+          "iniciado_em": "2026-10-21T06:01:04.672628-03:00",
+          "http": 200,
+          "headers": {
+            "Server": "nginx/1.14.0 (Ubuntu)",
+            "Date": "Wed, 21 Oct 2026 09:00:09 GMT",
+            "Content-Type": "application/json",
+            "Content-Length": "178",
+            "Connection": "close",
+            "Allow": "GET, POST, HEAD, OPTIONS",
+            "X-Frame-Options": "ALLOWALL",
+            "Vary": "Accept-Language, Cookie",
+            "Content-Language": "pt-br"
+          },
+          "cache": "estaduais/TO/_indice/retomada-recente-20261021-001/pagina1.json.gz",
+          "sha256_fonte": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "finalizado_em": "2026-10-21T06:01:05.234450-03:00"
+        }
+      ],
+      "sha256_indice_anterior": "2b8517bf1a86f71f0e642473b7fa52f8eb75693764190212e45f7bdce39ad4e4",
+      "total_resultados": 0,
+      "candidatos_novos_com_anexo": [],
+      "novos_sem_anexo": [],
+      "todos": []
+    }
+  ]
+}

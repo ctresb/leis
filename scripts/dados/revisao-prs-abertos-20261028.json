@@ -1,0 +1,130 @@
+{
+  "data": "2026-10-28",
+  "repositorio": "ctresb/leis",
+  "head_workspace_inicio": "437bce53bec67cc65c8a72727425d53ab9cb7fe3",
+  "escopo": "Revisão local dos11 PRs abertos, sem merge, publicação de comentários ou alteração de estado no GitHub.",
+  "testes_snapshots_pr": {
+    "casos_reportados": 146,
+    "ignorados": 2,
+    "suites_falhando": 0
+  },
+  "testes_patches_sobre_codigo_atual": {
+    "casos_reportados": 148,
+    "ignorados": 2,
+    "suites_falhando": 0
+  },
+  "auditoria_municipal": {
+    "campinas": 7196,
+    "uberlandia": 17,
+    "erros": 0,
+    "avisos": 0,
+    "limite": "Auditoria de identidade, rotas, hashes e duplicatas; não substitui confronto do conteúdo com a fonte."
+  },
+  "fontes_uberlandia": [
+    "https://diario.uberlandia.mg.gov.br/documento/view/51900/decreto-n-23044-de-14-de-outubro-de-2026",
+    "https://diario.uberlandia.mg.gov.br/documento/view/53324/decreto-n-23045-de-14-de-outubro-de-2026-3"
+  ],
+  "evidencias": "_fonte/auditorias/revisao-prs-20261028",
+  "prs": [
+    {
+      "numero": 2,
+      "titulo": "Add CONTRIBUTING guidelines for repository",
+      "url": "https://github.com/ctresb/leis/pull/2",
+      "head": "024c4f0673b98ef8f1b8fbfa1608762b2dd215fe",
+      "base_remota": "15eb09b618ff08a38c4dfee06a91bd139d093f5d",
+      "parecer": "aproveitável após ajustes",
+      "fundamento": "Guia útil, mas comandos git clone usam links Markdown dentro do bloco shell e falham na análise sintática; proibição de títulos internos contradiz as divisões normativas já preservadas pelo conversor."
+    },
+    {
+      "numero": 5,
+      "titulo": "Acrescenta leis de Campinas/SP (2022-2024) e coleta SAPL em frações",
+      "url": "https://github.com/ctresb/leis/pull/5",
+      "head": "f79e11efcc9e4e2bf1b8a5281a2108bce6a0effa",
+      "base_remota": "15eb09b618ff08a38c4dfee06a91bd139d093f5d",
+      "parecer": "aproveitável, com validação de integralidade pendente",
+      "fundamento": "489 normas de Campinas; código e testes consistentes. Integra a sequência5→6→17, sem somar os lotes cumulativos."
+    },
+    {
+      "numero": 6,
+      "titulo": "Acrescenta leis complementares, Lei Orgânica, emendas e leis ordinárias (2010-2021) de Campinas/SP",
+      "url": "https://github.com/ctresb/leis/pull/6",
+      "head": "ae34016c463e9b4223433c256edd50313220f0ee",
+      "base_remota": "15eb09b618ff08a38c4dfee06a91bd139d093f5d",
+      "parecer": "aproveitável, com validação de integralidade pendente",
+      "fundamento": "3.555 normas cumulativas de Campinas; depende do5. Ajustes úteis no conversor e identificação de artigo único/assinaturas."
+    },
+    {
+      "numero": 7,
+      "titulo": "gfg",
+      "url": "https://github.com/ctresb/leis/pull/7",
+      "head": "119456e8dd5c6d96466f8f7528fe90794337a876",
+      "base_remota": "15eb09b618ff08a38c4dfee06a91bd139d093f5d",
+      "parecer": "rejeitar",
+      "fundamento": "Introduz erro no título do README: brasileira→drasileira."
+    },
+    {
+      "numero": 8,
+      "titulo": "Correct article references in legal document",
+      "url": "https://github.com/ctresb/leis/pull/8",
+      "head": "aab1ec1f558b3553413eddfc8009646b2e3eb1ea",
+      "base_remota": "15eb09b618ff08a38c4dfee06a91bd139d093f5d",
+      "parecer": "rejeitar",
+      "fundamento": "Troca artigos37e38 por38e38 em candidato privado ao Decreto26.982/1949, sem fonte ou justificativa."
+    },
+    {
+      "numero": 9,
+      "titulo": "Adicionar Nova Friburgo",
+      "url": "https://github.com/ctresb/leis/pull/9",
+      "head": "e72e1024b8bc1dd78a72d08dbe82ad8514da325a",
+      "base_remota": "15eb09b618ff08a38c4dfee06a91bd139d093f5d",
+      "parecer": "devolver para reformulação",
+      "fundamento": "Dois arquivos idênticos de671.319 bytes, sem frontmatter/fonte, fora da rota canônica, além de arquivo vazio em municipais/RJ/nova-friburgo. Esse caminho é um diretório no estado atual do repositório."
+    },
+    {
+      "numero": 15,
+      "titulo": "Correct article reference in legal document",
+      "url": "https://github.com/ctresb/leis/pull/15",
+      "head": "9e76220a0534ac762692388f659c01084447e46d",
+      "base_remota": "15eb09b618ff08a38c4dfee06a91bd139d093f5d",
+      "parecer": "rejeitar",
+      "fundamento": "Troca arts39e40 por40e40 no mesmo candidato privado ao Decreto26.982/1949, sem fonte ou justificativa."
+    },
+    {
+      "numero": 16,
+      "titulo": "Add new file Leisdf with initial content",
+      "url": "https://github.com/ctresb/leis/pull/16",
+      "head": "61f96de09d37ae7f5d007a390147c263aa69a1f0",
+      "base_remota": "15eb09b618ff08a38c4dfee06a91bd139d093f5d",
+      "parecer": "rejeitar",
+      "fundamento": "Adiciona apenas afrdwafrwafgwesafg em arquivo Leisdf, fora do acervo canônico."
+    },
+    {
+      "numero": 17,
+      "titulo": "Acrescenta leis ordinárias de Campinas/SP de 2000 a 2009 e de 2025 a 2026",
+      "url": "https://github.com/ctresb/leis/pull/17",
+      "head": "c0b4acdc1fd299671cb31f3f428090bfcba578c7",
+      "base_remota": "15eb09b618ff08a38c4dfee06a91bd139d093f5d",
+      "parecer": "aproveitável, com validação de integralidade pendente",
+      "fundamento": "7.196 normas cumulativas:6.541 ordinárias,598 complementares,54 emendas,1 Lei Orgânica e2 planos diretores. Auditoria interna sem erros/avisos. API e amostra PDF recusaram HTTP403; não houve contorno da restrição.27 arquivos declaram suplementos/anexos ausentes e precisam de pendência explícita ou complementação."
+    },
+    {
+      "numero": 18,
+      "titulo": "Script e Carga Uberlândia MG",
+      "url": "https://github.com/ctresb/leis/pull/18",
+      "head": "ea005262870a7a6e03c3fc8bc24bfbb8818c239f",
+      "base_remota": "15eb09b618ff08a38c4dfee06a91bd139d093f5d",
+      "parecer": "aproveitável após corrigir perda de anexos",
+      "fundamento": "17 documentos passam na auditoria e reproduzem o corpo extraído atualmente do portal. Porém o coletor omite organogramas normativos dos Decretos23.044 e23.045: imagens presentes nos anexos oficiais são descartadas pela conversão. Preservar imagens ou reter esses2 documentos. Datas de publicação também não devem substituir data desconhecida de assinatura."
+    },
+    {
+      "numero": 20,
+      "titulo": "fix(federal): regrava normas que guardaram só a retificação",
+      "url": "https://github.com/ctresb/leis/pull/20",
+      "head": "00f37f6755d80cef9c9f17c012a6ec03612fd2c4",
+      "base_remota": "a68aa0198c6171d5043628f438238da0ce0e338f",
+      "parecer": "não integrar como está; solução superada no workspace",
+      "fundamento": "Objetivo válido, mas a seleção por versao_texto não distingue retificação avulsa de republicação integral. Reproduzida perda completa do anexo da Lei14.563/2023:9.326→1.383 bytes e420→0 separadores de tabela, retornando ok. Os dados da Lei14.133 também voltariam à edição original em vez da atualizada já recuperada."
+    }
+  ],
+  "prioridade": "Qualificar os lotes Campinas na ordem5→6→17; aproveitar Uberlândia após preservar os organogramas; corrigir o guia. Rejeitar7/8/15/16, reformular9 e não aplicar20 indiscriminadamente."
+}

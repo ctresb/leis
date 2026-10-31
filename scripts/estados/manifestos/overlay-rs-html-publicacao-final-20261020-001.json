@@ -1,0 +1,937 @@
+{
+  "total_candidatos": 11287,
+  "total_retido_conservador": 66,
+  "total_sem_alerta_pendente": 11221,
+  "criterio": "União dos gates finais de epígrafe/identidade, granularidade e objetos aprovados próprios. Retenção conservadora é pendência de prova, não declaração de contaminação/ausência. Pacotes, manifests, corpo e metadados anteriores permanecem intactos.",
+  "overlays": [
+    {
+      "path": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+      "sha256": "1cdbe2f5585821985a9810ef0cfc620113a69b0cb1add296fa091df409feac12"
+    },
+    {
+      "path": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-001.json",
+      "sha256": "97d9108b1c2d80bbe6d2fc75bb1b5e9283546d654269cdfb950b05577b650d70"
+    },
+    {
+      "path": "scripts/estados/manifestos/overlay-rs-html-multiplos-atos-20261020-001.json",
+      "sha256": "9700459e5ffe7e2db6b834d209a15ead2a58f274891d50356778a37120d53dac"
+    }
+  ],
+  "retidos": [
+    {
+      "path": "estaduais/RS/decretos-legislativos/1998/dlg-10159-1998-id4990.md",
+      "sha256_md": "067fb45f1279a46ca02f910e7704c07ebc3084d06b74c86eb4fa97e29ce7dfb0",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=4990&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "tipo da primeira epígrafe divergente",
+            "data literal da epígrafe divergente: 1994-05-05"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1991/dec-33838-1991-id17065.md",
+      "sha256_md": "d0d7a6db6aafe7812b6d5ff2817d046bb0b7fac546583c03e77d9c277598c040",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=17065&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1991-02-19"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1991/dec-34088-1991-id16647.md",
+      "sha256_md": "fe0c5802822f6f3f6a51ff9bfdcf852b9202cd6244e4770f77f4d88a434c8cc2",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=16647&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1991-11-15"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1992/dec-34245-1992-id16087.md",
+      "sha256_md": "23cc06333788791adac1af1f8b09923ec72386fd2754ab8ad16892c3056505f9",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=16087&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1992/dec-34415-1992-id15245.md",
+      "sha256_md": "bdd7bdcad641fc51e5ffc6c0db5afcfc612029fba4671d187019b68c31ef30cf",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=15245&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1993-07-24"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1993/dec-34632-1993-id14842.md",
+      "sha256_md": "0af33906ce431bc9cf42fae99317f17ef6c06d01ffc3faf8bbdb12e255c90ddd",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=14842&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1993-01-19"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1993/dec-34987-1993-id14045.md",
+      "sha256_md": "84f5bff73340a0df43768c667ef5cdcf9ca2fe0d43f2c85b43b4d4c58ed71efd",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=14045&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1993/dec-35009-1993-id14084.md",
+      "sha256_md": "5172ad47d2aa56f67f485717ccd2ced1cdd4f6b7eb16fa3d26fd66669431941a",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=14084&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1993-10-10"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1995/dec-36166-1995-id11600.md",
+      "sha256_md": "db6e4bf720291f163f6b45e7dd50475509f94533a040f489ae72a7e4bdda6ccd",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=11600&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1996-09-05"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1997/dec-37525-1997-id8763.md",
+      "sha256_md": "e665446514713c3dd79cabe13b0ba8f424c17764f6f1b47f6793e55a1d3d36d0",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=8763&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1997-06-02"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1997/dec-37526-1997-id8764.md",
+      "sha256_md": "5dda104c690f500097309a9d62d6e986181b5338318dfadd267bfa6f27070867",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=8764&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1997-06-02"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1997/dec-37537-1997-id8775.md",
+      "sha256_md": "9781d53d6dd44414210adc3ee1b5f72395b10028065ef9ea75296f69da8ea08f",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=8775&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1997-07-05"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1997/dec-37666-1997-id8424.md",
+      "sha256_md": "50effe2e2fc58e5942f6d1be5406de7ec7fb9c91fa80eca2ba1f3674e6699553",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=8424&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1997-08-12"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1997/dec-37699Anex2-1997-id8070.md",
+      "sha256_md": "781453f1f37dd50b425d54ff05ff8ba7a0fdee0242d12d48398f58eb9e558b13",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=8070&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1997/dec-37699Anex3-1997-id8071.md",
+      "sha256_md": "48364beb88f00b078d0a4221dbb6cc0382f2fb5a76dddc3794616ea1196c1f32",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=8071&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1997/dec-37910-1997-id7546.md",
+      "sha256_md": "ce5a750257cdb262bb431afafd134f30789e129386baaf9ffb2c947ad65b4a21",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=7546&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1997-03-07"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1998/dec-38106-1998-id7475.md",
+      "sha256_md": "c2339d6b9a73ce77d5ec83c27d33235c0bb7357366a77a140c2ba6e422b03a79",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=7475&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1998/dec-38172-1998-id7078.md",
+      "sha256_md": "337a126d649bfd7403ed5e27b45a9dc95957356a058a32ba7145d8e26ddebebe",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=7078&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1998/dec-38324-1998-id6746.md",
+      "sha256_md": "9fa52f82a5d3b02faf5ec976879f0ebea4a59297965b0f946e9085c28d3112a3",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=6746&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1999/dec-39581-1999-id4530.md",
+      "sha256_md": "7dd94c05e67f2de5b22ef06b7d1d7394d5ef1fb12a7f0c5f7d309352d7f2d038",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=4530&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1999-06-07"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1999/dec-39629-1999-id4606.md",
+      "sha256_md": "0b0f2b22f54103d67dbc13329a0809b54b597946ab706ee4ac1595be6b2426c4",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=4606&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1995-07-15"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2000/dec-40394-2000-id2604.md",
+      "sha256_md": "fb91db5ba67ffcf94bfb123771bae7a51ffa28c2f09953d24c29ac12519ae7c9",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=2604&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2000-10-26"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2001/dec-40616-2001-id2101.md",
+      "sha256_md": "1823fdd24f8b681b88a6fe488ddec8388c5bbf138acc6bef3e4ef0912307f75f",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=2101&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2001-02-01"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2001/dec-40656-2001-id2141.md",
+      "sha256_md": "6a99e86bf8dfa80174003e74071e63de5c5336aef6e82308983bb1474dcacfd4",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=2141&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2001-03-01"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2001/dec-40662-2001-id2146.md",
+      "sha256_md": "a103623be8978250b2f67e9314a6c35afac441b366a1556342075028fd83723d",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=2146&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2001-03-05"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2001/dec-40698-2001-id2177.md",
+      "sha256_md": "83905556e8e99b5b8f64807c58b3c38cd57e4452586302bb6900699b5638dc49",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=2177&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2001-03-26"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2001/dec-40856-2001-id1882.md",
+      "sha256_md": "e6dffa267e67aba489e7da12bcd3958b3ddfa64e62fa9a14d795b21ef8a3f3d7",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=1882&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2001-07-28"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2001/dec-41161-2001-id49386.md",
+      "sha256_md": "b9ccec48a1ea334328a0e5c12d4395d5d3aae72229de262f495799abdf1fc129",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49386&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2001-10-30"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2002/dec-41324-2002-id1444.md",
+      "sha256_md": "a40e62b2cae26a7f1a9282c260998f8e0feb1f7aaf21c8a4354a551debb1c68d",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=1444&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2002-01-13"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2002/dec-41559-2002-id1235.md",
+      "sha256_md": "2984591f0f543ddc347558afbcbf11019b9ff7e4b97ee0fecaf3e5be9b2d5225",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=1235&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2002-04-24"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2002/dec-41830-2002-id498.md",
+      "sha256_md": "abe9f18e750fefe570bc8fe7328852060d5baa5b66d3973e28153d6fa678aece",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=498&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2002-09-16"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2002/dec-42000-2002-id712.md",
+      "sha256_md": "f53a14ee5722be2c805c447646804a18b424d79b86b97ff3628a55cfbb6ea636",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=712&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2002-12-09"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42211-2003-id481.md",
+      "sha256_md": "f432a4e07edb8cb8570773dc22b858ea622eb8d3d2a02b2d52a39843041aed3b",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=481&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2003-04-10"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42249-2003-id46357.md",
+      "sha256_md": "e5d2723fd050daa79e7f21391d924547820541e5e4f298d2a258843e30bcefeb",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=46357&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2003-05-15"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42282-2003-id46411.md",
+      "sha256_md": "0f29e260e16eabf35435cbc37eb2b3a281da8421323172c4b25f00e0a162873e",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=46411&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-001.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42309-2003-id46469.md",
+      "sha256_md": "dfc586bac0f1d3dd5319df71d208db41957379258a19572434f12266af2f3adb",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=46469&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2003-06-26"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42462-2003-id46706.md",
+      "sha256_md": "8ac689d061bd6a9ab4e22bf70d8fb27fae856da5d81736441fec676af86c5330",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=46706&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42739-2003-id47058.md",
+      "sha256_md": "7291761e0722b244a573228251eb7eee524b16ca88c0b56a0a8bc05067819136",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47058&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2003-12-08"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42788-2003-id47196.md",
+      "sha256_md": "3186bb6adb0f9e7572b9d3ead336e01cfe794e66cc6643aebeefd3cc3f1c653e",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47196&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2003-12-26"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42795-2003-id47178.md",
+      "sha256_md": "8f0ec7bde28748139dd9fce98c40f69840a06bfa746416d65cad137d8e746c81",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47178&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2003-12-30"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-43318-2003-id47915.md",
+      "sha256_md": "1fa519cb32b068f114e341fddd6acd9cdea46778337d31b08d637dcf57cffa85",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47915&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2004-08-26"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-42817-2004-id47204.md",
+      "sha256_md": "cd3aa071677ceeb88fa34f9db9c652244397e70c4fe4b176063764dd4a215eb2",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47204&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-43050-2004-id47507.md",
+      "sha256_md": "eda1097fbcaaa33dbde3f990246309af3aab55143a94a3921341bced3e9d05b9",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47507&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-43075-2004-id47540.md",
+      "sha256_md": "b427e505647b818895c8a75deab7f1b2807a98cdbc3aff3d4577b8956b574904",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47540&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-43097-2004-id47586.md",
+      "sha256_md": "f6783246f844533ab6b181f192ac19a8e0ed1371f4e59de6744065fb49f2000d",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47586&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2004-05-13"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-43223-2004-id47786.md",
+      "sha256_md": "5a59af85691ddf5c6ebfdb4c877720cd2d1118367346e945ee726f76d33699f8",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47786&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-43351-2004-id47967.md",
+      "sha256_md": "14bca3bc51570b39bc7c7f911511eb3207822371d1a5ae6936abde6414d99a99",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47967&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2004-09-17"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-43494-2004-id48183.md",
+      "sha256_md": "5c053559353981e4593f04b3acf7cf54b7c37851b8bbd76b3db9d8441c2169f4",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48183&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-43496-2004-id48185.md",
+      "sha256_md": "b8e40e5316dfef430d15ca24053d13b69b4927a70fcfa20650ff0ba972ea6010",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48185&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-43544-2004-id48325.md",
+      "sha256_md": "9134d8dbe1582a2d1b7f002d55cdc0abef488aad25c1d2067909352819fa31a1",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48325&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-43723-2005-id48507.md",
+      "sha256_md": "12f9d51b7a09fa0dd0dd80b1bde84436d9a76c0584e396a3e67047a939958893",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48507&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2005-04-01"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-43780-2005-id48609.md",
+      "sha256_md": "20c91452d338e1c12bf49917692ff37567f06e2e269946700ea67f1c27362214",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48609&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2005-05-11"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-43948-2005-id48859.md",
+      "sha256_md": "1eb819d325618ffb8138df311639ec090f63dd7c33477fce433b2f7b25cf6ac2",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48859&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2005-07-26"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-43976-2005-id48895.md",
+      "sha256_md": "b95b49762d53167b60558d86bb3ceff05cb0b517bd6b0db8f37bcad066ab0e97",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48895&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2005-08-11"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-43990-2005-id48919.md",
+      "sha256_md": "e55cb09f4beb014b130df2fb0bc7af974e43d0650c4b24146310bf155532be17",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48919&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2005-08-30"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-44201-2005-id49283.md",
+      "sha256_md": "125074c25fca6260e03872c8a8401c7927d5f42dbddc33239ec66a5b2b54b272",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49283&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2005-12-23"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-44209-2005-id49336.md",
+      "sha256_md": "e486e8c11d8b27a99d5b4eacb79547e5a5fabc931035e84c74544fe624cc21aa",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49336&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2005-12-28"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-44210-2005-id49337.md",
+      "sha256_md": "95bf266930b4cfef58655007a6255d4263cda92f751dec3ce3fea240a2452f43",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49337&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2005-12-28"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44332-2006-id49458.md",
+      "sha256_md": "2ffa2e9c4738ad5d6376a55df75a6109ed74c2e00170ec2743eed713791d65f9",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49458&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2006-03-08"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44363-2006-id49495.md",
+      "sha256_md": "5028c5edfe7ac0dce96a11b21878d01310fbd042bf7d8e77b577cf876b325706",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49495&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44426-2006-id49640.md",
+      "sha256_md": "915ec9a4072cc595606105a152256f53dd23ee1ee23ab7d65f785faa82b64a90",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49640&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2006-05-11"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44553-2006-id49905.md",
+      "sha256_md": "5fa7885c1c0bfa7293337d886c566eef167496bab8c4a2e25da20775fcb6e8cf",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49905&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 0006-07-26"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44601-2006-id49967.md",
+      "sha256_md": "5a45955af8c4551aa2fa076e4836d50c93960be879efda7b7b76f089ef0d350c",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49967&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2006-08-22"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2007/dec-44882-2007-id50429.md",
+      "sha256_md": "e8d45b2c32e2c598391c7bd70230afc5328a0d8e5545ecea6d62b597f7b6e5e1",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50429&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2007-02-19"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2007/dec-44883-2007-id50431.md",
+      "sha256_md": "7a8c0f6a7bdef76f983d2951c78deb2135fca75c572f3978e3bf188d8ecda452",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50431&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2007-02-19"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/resolucoes/2002/res-mesa-482-2002-id819.md",
+      "sha256_md": "b307ec96a4ac8fc2701e648dbf8a64cc1ee52304ad89565f39df4de0fbcc83bc",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=819&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    }
+  ]
+}

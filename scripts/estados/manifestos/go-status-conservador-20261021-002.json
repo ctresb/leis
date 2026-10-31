@@ -1,0 +1,2452 @@
+{
+  "preparado_em": "2026-10-21T05:45:09.976395-03:00",
+  "total": 58,
+  "modo": "Proposta privada; nenhum MD canônico alterado; coordenador valida preimagem HEAD antes de promover.",
+  "indice": "estaduais/GO/_indice/legislacoes.json",
+  "sha256_indice": "76faaa85c55454ee0132bdd60f660b10d72730a469817d927f81709856b66c93",
+  "sem_rede": true,
+  "documentos": [
+    {
+      "path": "estaduais/GO/decretos/1999/dec-5073-1999-id61997.md",
+      "id_oficial": "61997",
+      "sha256_preimagem": "31ffdd8c481742fd08d5e5a55587b35f232c5a42680a04c843556d28914080d2",
+      "sha256_candidato": "a9a20d7728c3088f2d5356624c728ec7c8b201f6ced29aac2f24711920890de1",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/decretos/1999/dec-5073-1999-id61997.md.gz",
+      "sha256_backup": "0e34d39df52543f779c8d7b12b7f50391f8312f0034e89a8235eecdb2d47f1db",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/decretos/1999/dec-5073-1999-id61997.md.gz",
+      "sha256_candidato_gzip": "4da0041ab09299ea01fea724a96d513f5a1866a645513ccbec07e2c734715bd3",
+      "cache": "estaduais/GO/_fonte/decretos/1999/dec-5073-1999-id61997.html.gz",
+      "sha256_cache": "d4af5ca144ca97c97f6d95711b8c2ed4c89f804c06042051d0545cc89ebd6247",
+      "sha256_fonte": "7f0477b325f6d593c1f2260433320b2ecbf22288eed207793c7d7c612bebd347",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/decretos/1999/dec-5073-1999-id61997.html.gz.gz",
+      "situacao_literal": "Sem Efeito",
+      "item_indice": {
+        "id": 61997,
+        "ano": 1999,
+        "numero": "5.073",
+        "ementa": " Introduz alterações no Decreto nº 5.027, de 25 de março de 1999. ",
+        "data_legislacao": "09/07/1999",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 3,
+          "nome": "Decreto Numerado"
+        },
+        "diarios": [
+          {
+            "data_diario": "14/07/1999",
+            "numero": null,
+            "suplemento": "Não",
+            "link_download": ""
+          }
+        ],
+        "estado_legislacao": {
+          "id": 20,
+          "nome": "Sem Efeito"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/decretos/2001/dec-5510-2001-id61717.md",
+      "id_oficial": "61717",
+      "sha256_preimagem": "61246e0ea6fe97ea312386515d4668f2efb339e7a67f0924a2b5d2ea9c827890",
+      "sha256_candidato": "98e71a4a00990de0e159cd1ceb7655a6493f6230258eaaca63cac56a39df25bf",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/decretos/2001/dec-5510-2001-id61717.md.gz",
+      "sha256_backup": "5b4c6e98a0ac93e0afff3940e0213a002e53be8e73febd2e34c55f28458b14af",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/decretos/2001/dec-5510-2001-id61717.md.gz",
+      "sha256_candidato_gzip": "75d7016f8188f37083ce6cc73f15f6e081af7eadc6f11c86e3f8f2e9421748c2",
+      "cache": "estaduais/GO/_fonte/decretos/2001/dec-5510-2001-id61717.html.gz",
+      "sha256_cache": "afd5cd676ac8eb18ae0067c4716f04c40cfdb52dc78ef81cd00b4275f67950e7",
+      "sha256_fonte": "c56e444e24e7d8a1cc2fb6c6abb2bcc3abc1fc6b5ade1478afbde371e2bf3652",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/decretos/2001/dec-5510-2001-id61717.html.gz.gz",
+      "situacao_literal": "Declarada Inconstitucional",
+      "item_indice": {
+        "id": 61717,
+        "ano": 2001,
+        "numero": "5.510",
+        "ementa": "Dispõe sobre o pagamento antecipado do ICMS nas aquisições de farinha de trigo e demais produtos que especifica provenientes de outra unidade da Federação ou do exterior.",
+        "data_legislacao": "13/11/2001",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 3,
+          "nome": "Decreto Numerado"
+        },
+        "diarios": [
+          {
+            "data_diario": "21/11/2001",
+            "numero": null,
+            "suplemento": "Não",
+            "link_download": ""
+          }
+        ],
+        "estado_legislacao": {
+          "id": 6,
+          "nome": "Declarada Inconstitucional"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/decretos/2002/dec-5681-2002-id61561.md",
+      "id_oficial": "61561",
+      "sha256_preimagem": "808955048b941decbd1d6ca0bdd15fa1a458ccb629e31b65949a8f3877a0ecc9",
+      "sha256_candidato": "455e469627cd1d60bd783d1c2754b6da10603df010f13b41f5164fab90aa0560",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/decretos/2002/dec-5681-2002-id61561.md.gz",
+      "sha256_backup": "a5052d2394d83d81fc5b91c15bea6d07228cbe161b4bd6fca561e2db7d963899",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/decretos/2002/dec-5681-2002-id61561.md.gz",
+      "sha256_candidato_gzip": "eb3506f666ca118f3279226049372906eb942a9ae1ac17f2d15500d1bbcc0537",
+      "cache": "estaduais/GO/_fonte/decretos/2002/dec-5681-2002-id61561.html.gz",
+      "sha256_cache": "0ce29e5946d6afd048f61e822484841c995efe673dbc185d8d4161a91dde045d",
+      "sha256_fonte": "c003a655abf4379500f85682f09a4ae1f6bda41245f2fa4fac6a6b2dc8373c89",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/decretos/2002/dec-5681-2002-id61561.html.gz.gz",
+      "situacao_literal": "Sem Efeito",
+      "item_indice": {
+        "id": 61561,
+        "ano": 2002,
+        "numero": "5.681",
+        "ementa": " Declara de utilidade pública,     para fins de desapropriação, o imóvel que especifica e dá outras providências. ",
+        "data_legislacao": "20/11/2002",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 3,
+          "nome": "Decreto Numerado"
+        },
+        "diarios": [
+          {
+            "data_diario": "20/11/2002",
+            "numero": null,
+            "suplemento": "Não",
+            "link_download": ""
+          }
+        ],
+        "estado_legislacao": {
+          "id": 20,
+          "nome": "Sem Efeito"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/decretos/2005/dec-6078-2005-id60822.md",
+      "id_oficial": "60822",
+      "sha256_preimagem": "250c3944efcd2fd0c089a53a0cf5badd883d31ee11b350c6015c7c374313a27d",
+      "sha256_candidato": "899b11af54da406ab884620517ce8ca4beddb55e803c877cd51a21b9f5a20152",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/decretos/2005/dec-6078-2005-id60822.md.gz",
+      "sha256_backup": "0fe6fd5d27d40946a72899d62a979ecf5674f756294e07a4ffb5d7a8742b5192",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/decretos/2005/dec-6078-2005-id60822.md.gz",
+      "sha256_candidato_gzip": "9c7d8994f4b05689a5030a7ceff806f3af0c2d9aa1dbb2869f9e0f8da07e1dab",
+      "cache": "estaduais/GO/_fonte/decretos/2005/dec-6078-2005-id60822.html.gz",
+      "sha256_cache": "cf5dd58256ba3033b7773c0437e337f969112d01cf228e2ee5663f1e006e9858",
+      "sha256_fonte": "645811b185216ab32cf21d13687e0eb9b6a483b777f6495791fb78d59a1c3090",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/decretos/2005/dec-6078-2005-id60822.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 60822,
+        "ano": 2005,
+        "numero": "6.078",
+        "ementa": " Dispõe    sobre ponto facultativo nas repartições públicas estaduais e dá outras    providências. ",
+        "data_legislacao": "01/02/2005",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 3,
+          "nome": "Decreto Numerado"
+        },
+        "diarios": [
+          {
+            "data_diario": "10/02/2005",
+            "numero": null,
+            "suplemento": "Não",
+            "link_download": ""
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/decretos/2005/dec-6227-2005-id60968.md",
+      "id_oficial": "60968",
+      "sha256_preimagem": "dbf986612e71e4fb0d4af05b47b921dc15d1e5c1563746d43ad779da8e7e15c1",
+      "sha256_candidato": "dac6ba39e8d6fb7c2db26cfaa296083af18273303c58d5a2ea3e019888448d54",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/decretos/2005/dec-6227-2005-id60968.md.gz",
+      "sha256_backup": "11b110c32599ddc87cc973611652029369277fa8b7a5118cc978b9ada24c8cf2",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/decretos/2005/dec-6227-2005-id60968.md.gz",
+      "sha256_candidato_gzip": "9829485da269ec17b09de2e028c9c26290de17b6809ceccb7064613fdbfce5c0",
+      "cache": "estaduais/GO/_fonte/decretos/2005/dec-6227-2005-id60968.html.gz",
+      "sha256_cache": "6cbc1880a9bd183b2b5d83877aa520d44d65eaeb6ac7062f690957b32fc8dd8f",
+      "sha256_fonte": "d7fbc1f85fb467c1ed3f9db9a348991df33b0f99c29332eb516fcdd5ca1ab58f",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/decretos/2005/dec-6227-2005-id60968.html.gz.gz",
+      "situacao_literal": "Declarada Inconstitucional",
+      "item_indice": {
+        "id": 60968,
+        "ano": 2005,
+        "numero": "6.227",
+        "ementa": "Regulamenta  a Lei nº 15.043, de 21 de dezembro de 2004, que estabelece critérios para o  credenciamento dos Despachantes Autônomos junto aos órgãos públicos do  Estado de Goiás.",
+        "data_legislacao": "26/08/2005",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 3,
+          "nome": "Decreto Numerado"
+        },
+        "diarios": [
+          {
+            "data_diario": "31/08/2005",
+            "numero": null,
+            "suplemento": "Não",
+            "link_download": ""
+          }
+        ],
+        "estado_legislacao": {
+          "id": 6,
+          "nome": "Declarada Inconstitucional"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/decretos/2009/dec-6860-2009-id63325.md",
+      "id_oficial": "63325",
+      "sha256_preimagem": "5274b9f43c6403e334ace93eaa27116993a95575ef4666178ac55d12d38b7883",
+      "sha256_candidato": "aa61d901e2a974b39d9e543dc4a27177b7f93473545a3dd9990514ec9dcf7c1f",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/decretos/2009/dec-6860-2009-id63325.md.gz",
+      "sha256_backup": "ad6b011763f4dc7d36fb10f88c1e24c2dd438d692ed561c91b3e7a7d9fa677d9",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/decretos/2009/dec-6860-2009-id63325.md.gz",
+      "sha256_candidato_gzip": "9de91efa25f951c4ec80795cbaae10e9ea3805af04d76b245ccb1d6499161f69",
+      "cache": "estaduais/GO/_fonte/decretos/2009/dec-6860-2009-id63325.html.gz",
+      "sha256_cache": "ce0fd15b98d7405aa2b2b2c5ecdbda340c2fa725784b5e34768cbfcb7f2e60e4",
+      "sha256_fonte": "5e1383702cfbfa0def26037703828d99c6de448a77d56a853ffa6793ba902e4a",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/decretos/2009/dec-6860-2009-id63325.html.gz.gz",
+      "situacao_literal": "Caducada",
+      "item_indice": {
+        "id": 63325,
+        "ano": 2009,
+        "numero": "6.860",
+        "ementa": "Dispõe sobre a elaboração dos atos de disposição de servidores que especifica",
+        "data_legislacao": "22/01/2009",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 3,
+          "nome": "Decreto Numerado"
+        },
+        "diarios": [
+          {
+            "data_diario": "26/01/2009",
+            "numero": "20.542",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/1399"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 8,
+          "nome": "Caducada"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/decretos/2015/dec-8476-2015-id67556.md",
+      "id_oficial": "67556",
+      "sha256_preimagem": "3ba80e37c1e39980c0ee9e741d6d4f40732acab88f747a471d2a34926b8a6f11",
+      "sha256_candidato": "d7bbcade09785ce5ffe25314a3d82e76f8014c5c3da35715a48645f3e5663531",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/decretos/2015/dec-8476-2015-id67556.md.gz",
+      "sha256_backup": "2c1879129548f93a4d845aa0a9de8d219bb4c84d992b5c692df8fc097815ff82",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/decretos/2015/dec-8476-2015-id67556.md.gz",
+      "sha256_candidato_gzip": "84309a18993c8917c71f2b303822a0aa49585dda0eb60537e10060f9334fac53",
+      "cache": "estaduais/GO/_fonte/decretos/2015/dec-8476-2015-id67556.html.gz",
+      "sha256_cache": "5e19547121bf2800c81b75ea0f5054ca3699c081214031b00d62f5c16fd69c5d",
+      "sha256_fonte": "a6d3828029ee358c8f384b458e0c90d51aa9fdb6175effc86c90e674b8cc45ce",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/decretos/2015/dec-8476-2015-id67556.html.gz.gz",
+      "situacao_literal": "Declarada Inconstitucional",
+      "item_indice": {
+        "id": 67556,
+        "ano": 2015,
+        "numero": "8.476",
+        "ementa": "Regulamenta a Lei nº 18.755, de 30 de dezembro de 2014, e dá outras providências",
+        "data_legislacao": "12/11/2015",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 3,
+          "nome": "Decreto Numerado"
+        },
+        "diarios": [
+          {
+            "data_diario": "13/11/2015",
+            "numero": "22.204",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/1807"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 6,
+          "nome": "Declarada Inconstitucional"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/decretos/2019/dec-9386-2019-id71584.md",
+      "id_oficial": "71584",
+      "sha256_preimagem": "a09ee946339abd3bb23d59e4e635f9b45d7b47175f2fd2ff8861d2e34c8105cf",
+      "sha256_candidato": "a228ed8c6ae8dab70fa85c6cefdf550053795cd0ddd4cd8e78e6d8e65304f6c0",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/decretos/2019/dec-9386-2019-id71584.md.gz",
+      "sha256_backup": "1dfcf2f7c96475816f43e9fdb702afca55e6e1c8f7aba74518489f4a90ef8ddb",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/decretos/2019/dec-9386-2019-id71584.md.gz",
+      "sha256_candidato_gzip": "c5f5976b7a326390043bd3589d9f7bd4cbd634a774ca470ef30c5c270805c3e3",
+      "cache": "estaduais/GO/_fonte/decretos/2019/dec-9386-2019-id71584.html.gz",
+      "sha256_cache": "08e3514596e46ac0268dfd02c1f66dc20cd75fb1152a4723376a1da41f61afba",
+      "sha256_fonte": "d3e47423e488a382588e8376bcbf0f907f9f7c4964ac788cd07d4a109a99f8a8",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/decretos/2019/dec-9386-2019-id71584.html.gz.gz",
+      "situacao_literal": "Caducada",
+      "item_indice": {
+        "id": 71584,
+        "ano": 2019,
+        "numero": "9.386",
+        "ementa": "Dispõe sobre a atribuição temporária, à Secretária de Meio Ambiente, Recursos Hídricos, Infraestrutura, Cidades e Assuntos Metropolitanos, da competência para praticar atos de gestão da Agência Goiana de Transportes e Obras - AGETOP.  \r\n\r\n",
+        "data_legislacao": "11/01/2019",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 3,
+          "nome": "Decreto Numerado"
+        },
+        "diarios": [
+          {
+            "data_diario": "11/01/2019",
+            "numero": "22.970",
+            "suplemento": "Sim",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/3684"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 8,
+          "nome": "Caducada"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/decretos/2019/dec-9387-2019-id71585.md",
+      "id_oficial": "71585",
+      "sha256_preimagem": "c688ff04e8dfcddf589a10e5282b0cb13f9c15438bc4d7e0555808dac4eaf9a4",
+      "sha256_candidato": "bcfd0aa5f220c96cbfe834ad449267e35273d03f3a558566baa686373ba42814",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/decretos/2019/dec-9387-2019-id71585.md.gz",
+      "sha256_backup": "9fb13fda68abc3e5200d744a2d296d611d691554086710955c87ab6f77b26a6b",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/decretos/2019/dec-9387-2019-id71585.md.gz",
+      "sha256_candidato_gzip": "00c0c2d93172fecaaba660f52898dae2066b40591140a7b3c2ee4168a570dece",
+      "cache": "estaduais/GO/_fonte/decretos/2019/dec-9387-2019-id71585.html.gz",
+      "sha256_cache": "86afa5d544c6d3c04ed9eae76d7bb5c10ef892b4aed3e1b2ca9d8d9349193edd",
+      "sha256_fonte": "269051ae6514516a4fea5fe9c1c22c60ae35fc7a8f29d6524d6a55b2159e8e57",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/decretos/2019/dec-9387-2019-id71585.html.gz.gz",
+      "situacao_literal": "Caducada",
+      "item_indice": {
+        "id": 71585,
+        "ano": 2019,
+        "numero": "9.387",
+        "ementa": "Dispõe sobre a atribuição temporária, ao Secretário de Desenvolvimento Econômico, da competência para praticar atos de gestão da Fundação de Amparo à Pesquisa do Estado de Goiás - FAPEG.",
+        "data_legislacao": "11/01/2019",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 3,
+          "nome": "Decreto Numerado"
+        },
+        "diarios": [
+          {
+            "data_diario": "11/01/2019",
+            "numero": "22.970",
+            "suplemento": "Sim",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/3684"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 8,
+          "nome": "Caducada"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/decretos/2019/dec-9388-2019-id71586.md",
+      "id_oficial": "71586",
+      "sha256_preimagem": "3e1e3bb068533312b2f75c07340f1012c8c01fb39c2f83cc7f49c75bc97d80bb",
+      "sha256_candidato": "f1c481c7115c877c42504c59028b98a360af929f69200add38e38064eb3538cc",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/decretos/2019/dec-9388-2019-id71586.md.gz",
+      "sha256_backup": "937d739dc815d3282296f4449bcbdf7f82f9c5cf154cd0b3b8b70cf3b4d267fe",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/decretos/2019/dec-9388-2019-id71586.md.gz",
+      "sha256_candidato_gzip": "d772bd904338ee3acc2390ac20a111e14783ee2824a6b7f452ca14d3540de6c0",
+      "cache": "estaduais/GO/_fonte/decretos/2019/dec-9388-2019-id71586.html.gz",
+      "sha256_cache": "85d8a9c53a95142033bf3bb927604b1ed2d317e75c442ae897ae5f5373052399",
+      "sha256_fonte": "18fedd69f49e7d7852af5de0ddb07cb44c05d545f59804b42aaa3bfb2ff768dc",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/decretos/2019/dec-9388-2019-id71586.html.gz.gz",
+      "situacao_literal": "Caducada",
+      "item_indice": {
+        "id": 71586,
+        "ano": 2019,
+        "numero": "9.388",
+        "ementa": "Dispõe sobre a atribuição temporária, ao Secretário de Desenvolvimento Econômico, Científico e Tecnológico e de Agricultura, Pecuária e Irrigação, da competência para praticar atos de gestão da Agência Goiana de Defesa Agropecuária - AGRODEFESA e da Agência Goiana de Assistência Técnica, Extensão Rural e Pesquisa Agropecuária - EMATER.  \r\n\r\n",
+        "data_legislacao": "11/01/2019",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 3,
+          "nome": "Decreto Numerado"
+        },
+        "diarios": [
+          {
+            "data_diario": "11/01/2019",
+            "numero": "22.970",
+            "suplemento": "Sim",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/3684"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 8,
+          "nome": "Caducada"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/decretos/2019/dec-9390-2019-id71588.md",
+      "id_oficial": "71588",
+      "sha256_preimagem": "c02091d975c47dbb5c96e94f99b441f582d14e5e7e3a5a7ef3fdaba0b3e971f3",
+      "sha256_candidato": "9329f5a1899f3854dcb4e6f0257e272b8bde0719fe57932916928f2db1680072",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/decretos/2019/dec-9390-2019-id71588.md.gz",
+      "sha256_backup": "a8a90c2c2db2486567e776754809948490cf7731c7fc73937de378f687762028",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/decretos/2019/dec-9390-2019-id71588.md.gz",
+      "sha256_candidato_gzip": "8c58ec0a090405104235c760d8856667a9d749767293e1927a68e249ee72fb73",
+      "cache": "estaduais/GO/_fonte/decretos/2019/dec-9390-2019-id71588.html.gz",
+      "sha256_cache": "a4f2bc9216f6086876e3294f49bf7b17d4b18ad30b7255d235288d7db2091134",
+      "sha256_fonte": "8106e11abb2a55ab02c80c6f57669e413600572065e88c316eae889866153e38",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/decretos/2019/dec-9390-2019-id71588.html.gz.gz",
+      "situacao_literal": "Caducada",
+      "item_indice": {
+        "id": 71588,
+        "ano": 2019,
+        "numero": "9.390",
+        "ementa": "Dispõe sobre a atribuição temporária ao Secretário de Estado de Gestão e Planejamento, da competência para a prática dos atos de gestão do Instituto de Assistência dos Servidores Públicos do Estado de Goiás - IPASGO.\r\n\r\n",
+        "data_legislacao": "14/01/2019",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 3,
+          "nome": "Decreto Numerado"
+        },
+        "diarios": [
+          {
+            "data_diario": "14/01/2019",
+            "numero": "22.971",
+            "suplemento": "Sim",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/3686"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 8,
+          "nome": "Caducada"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/decretos/2019/dec-9444-2019-id72412.md",
+      "id_oficial": "72412",
+      "sha256_preimagem": "380127013b78775875fca00ee1b4810c9904cc4627c8ec32866143791f288fb3",
+      "sha256_candidato": "08a3416ceba4646bf44bf74dadc37e4eb2a1c8e750da7b4d561070ee385fc32e",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/decretos/2019/dec-9444-2019-id72412.md.gz",
+      "sha256_backup": "72bde5ef673a4d4b553dd41cf5a003b151f3c4cd3006420b5a115bc61d7a918f",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/decretos/2019/dec-9444-2019-id72412.md.gz",
+      "sha256_candidato_gzip": "e5d3cfb9719edaa68b8d39b6be91466f4662127378ca5755568dc9d0636127cd",
+      "cache": "estaduais/GO/_fonte/decretos/2019/dec-9444-2019-id72412.html.gz",
+      "sha256_cache": "534bb4b79c497cd84966a97070a39361096efbea7f5ac3053e3ded4d1b21d3a3",
+      "sha256_fonte": "3658df53ab61033c1c05d7bcef6f2fbf3c3e091f718b534109049ee192456e49",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/decretos/2019/dec-9444-2019-id72412.html.gz.gz",
+      "situacao_literal": "Sem Efeito",
+      "item_indice": {
+        "id": 72412,
+        "ano": 2019,
+        "numero": "9.444",
+        "ementa": "Estabelece diretrizes para a elaboração do Plano Plurianual 2020-2023 e cria grupo de trabalho que especifica.\r\n\r\n",
+        "data_legislacao": "09/05/2019",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 3,
+          "nome": "Decreto Numerado"
+        },
+        "diarios": [
+          {
+            "data_diario": "10/05/2019",
+            "numero": "23.050",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/3799"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 20,
+          "nome": "Sem Efeito"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/decretos/2019/dec-9457-2019-id72155.md",
+      "id_oficial": "72155",
+      "sha256_preimagem": "cea512e77bb10bf23ffd616cdc9627f00df820f8a4e13789968d681e3990e5ad",
+      "sha256_candidato": "56e482c5abf81513059a201926689f740bfef8abe3083571396e85c0da0f12a5",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/decretos/2019/dec-9457-2019-id72155.md.gz",
+      "sha256_backup": "ff7d0bd872363f5dfd8fb93fff6723572055dba887e64f0a00eb6201abe3c217",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/decretos/2019/dec-9457-2019-id72155.md.gz",
+      "sha256_candidato_gzip": "d5f9d08bfc7e9bb0cace243d7bb48dfddae951b7d1d1ba474512e8ef1fbdbbe8",
+      "cache": "estaduais/GO/_fonte/decretos/2019/dec-9457-2019-id72155.html.gz",
+      "sha256_cache": "335386f26ec24d1b6fa5c62ccfddb37cf8c03da8aaa6ac12c9da48e6c31cc1b6",
+      "sha256_fonte": "38457bab2e24c9fcdb36c7bde8692cf8d46c14a142416ddd71702bebc30b8fcc",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/decretos/2019/dec-9457-2019-id72155.html.gz.gz",
+      "situacao_literal": "Caducada",
+      "item_indice": {
+        "id": 72155,
+        "ano": 2019,
+        "numero": "9.457",
+        "ementa": "Dispõe sobre a atribuição temporária ao Secretário de Estado da Administração de competência para a prática dos atos de gestão da Secretaria-Geral da Governadoria.\r\n\r\n",
+        "data_legislacao": "26/06/2019",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 3,
+          "nome": "Decreto Numerado"
+        },
+        "diarios": [
+          {
+            "data_diario": "27/06/2019",
+            "numero": "23.081",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/3839"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 8,
+          "nome": "Caducada"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/decretos/2022/dec-10027-2022-id105067.md",
+      "id_oficial": "105067",
+      "sha256_preimagem": "b3a7f1a70e0b0b24676cc58f57d6a40c9af9ba43e9bd64209b7d5bb721728152",
+      "sha256_candidato": "9eb94b8a231ae0e4803392a4edc3eb877b7dd11cd98c7a40592e57ac05342d33",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/decretos/2022/dec-10027-2022-id105067.md.gz",
+      "sha256_backup": "a0620fc5cdcb43ced06d533f1ca65972df2208dac9c560ce3a30fef4897a5047",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/decretos/2022/dec-10027-2022-id105067.md.gz",
+      "sha256_candidato_gzip": "0feb446b3533cf098abb320580f2888520d2c7294e285c06827cff11e876b376",
+      "cache": "estaduais/GO/_fonte/decretos/2022/dec-10027-2022-id105067.html.gz",
+      "sha256_cache": "1f51e4f53761dca2106adacd241c10a75ade2f9ec22da31d1673928fbe0b85c5",
+      "sha256_fonte": "f5fedaefd71e4d65acc9c31ea3ed141dc539f7e8eabfb4e896ef5a6aa8453f74",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/decretos/2022/dec-10027-2022-id105067.html.gz.gz",
+      "situacao_literal": "Caducada",
+      "item_indice": {
+        "id": 105067,
+        "ano": 2022,
+        "numero": "10.027",
+        "ementa": "Qualifica como organização social de saúde, no âmbito do Estado de Goiás, a entidade que especifica.",
+        "data_legislacao": "01/02/2022",
+        "link_externo": null,
+        "tipo_legislacao": {
+          "id": 3,
+          "nome": "Decreto Numerado"
+        },
+        "diarios": [
+          {
+            "data_diario": "02/02/2022",
+            "numero": "23.730",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/5049"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 8,
+          "nome": "Caducada"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/decretos/2025/dec-10693-2025-id110689.md",
+      "id_oficial": "110689",
+      "sha256_preimagem": "ae892f2e241cd07f4a52b662207e06596054459d4cef10f908abffec47d1067f",
+      "sha256_candidato": "2dda907d696d4200cd37c3987628bcaad3502226ea121a3a5682877762f88046",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/decretos/2025/dec-10693-2025-id110689.md.gz",
+      "sha256_backup": "9460d79d8689fb3739d627c01d3831ad770d7620591f31d1cd43e6a89058a1eb",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/decretos/2025/dec-10693-2025-id110689.md.gz",
+      "sha256_candidato_gzip": "ffcdfbaf50224130525931de6b38e00b0889fde1fe4a2c847a58b1dd25650485",
+      "cache": "estaduais/GO/_fonte/decretos/2025/dec-10693-2025-id110689.html.gz",
+      "sha256_cache": "7ce0a3af8c1185242a957f8262a03b348deebb5a0b1a32ce75f1e1917562467e",
+      "sha256_fonte": "473e371005e42e731efbd561b6e9f64d8fe00bee2df2da4e553eff4d587fc817",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/decretos/2025/dec-10693-2025-id110689.html.gz.gz",
+      "situacao_literal": "Caducada",
+      "item_indice": {
+        "id": 110689,
+        "ano": 2025,
+        "numero": "10.693",
+        "ementa": "Decreta situação de emergência zoossanitária no Estado de Goiás, de forma preventiva, para a mitigação do risco da influenza aviária de alta patogenicidade.",
+        "data_legislacao": "17/05/2025",
+        "link_externo": null,
+        "tipo_legislacao": {
+          "id": 3,
+          "nome": "Decreto Numerado"
+        },
+        "diarios": [
+          {
+            "data_diario": "17/05/2025",
+            "numero": "24.534",
+            "suplemento": "Sim",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/6655"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 8,
+          "nome": "Caducada"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/decretos/2026/dec-10985-2026-id117347.md",
+      "id_oficial": "117347",
+      "sha256_preimagem": "3abffbf487b7b0386cba87d6168fa00794704ef7ca7bcfdbb474b9a212b7f15b",
+      "sha256_candidato": "e3916e806150d8c50b117d7fad8c8bea495f5c330cd65bf7a7f196588b3fa482",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/decretos/2026/dec-10985-2026-id117347.md.gz",
+      "sha256_backup": "b3ee63bc19f52ec41799e1837a8d71f05108d135ee2efeaec2569fdc746708dc",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/decretos/2026/dec-10985-2026-id117347.md.gz",
+      "sha256_candidato_gzip": "913972fe9e92021df84cba7e0ce4bfc677bed3746763492bc58fcc9f00ab74ba",
+      "cache": "estaduais/GO/_fonte/decretos/2026/dec-10985-2026-id117347.html.gz",
+      "sha256_cache": "0c600584c62098838c05d130f1c468d9ec7ddcc239f46bac7d1ac8275fe34b96",
+      "sha256_fonte": "4a677bece160aa9e96a7c80d048b8d2897f0f3d14ff0ff541840dba51de8564e",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/decretos/2026/dec-10985-2026-id117347.html.gz.gz",
+      "situacao_literal": "Vigente a partir de 09/12/2026",
+      "item_indice": {
+        "id": 117347,
+        "ano": 2026,
+        "numero": "10.985",
+        "ementa": "Altera o Decreto nº 6.777, de 7 de agosto de 2008, que regulamenta a Lei nº 14.765, de 27 de abril de 2004, para adequá-lo às Leis nº 22.585, de 29 de março de 2024, e nº 23.582, de 19 de agosto de 2025.",
+        "data_legislacao": "10/09/2026",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 3,
+          "nome": "Decreto Numerado"
+        },
+        "diarios": [
+          {
+            "data_diario": "10/09/2026",
+            "numero": "24.861",
+            "suplemento": "Sim",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/7357"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 1,
+          "nome": "Vigente a partir de 09/12/2026"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/1901/lei-231-1901-id99327.md",
+      "id_oficial": "99327",
+      "sha256_preimagem": "e8b360205416992dd254f2d7751a8150cc26571c626ea4bbeec5ac90d03564dd",
+      "sha256_candidato": "cc90aef061c5452e627eaee9929f402ee3ccb18800b7ba65d60743b76a5c4c74",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/1901/lei-231-1901-id99327.md.gz",
+      "sha256_backup": "8093d3bcf0850ec241f6669c49fe6909e2e738058c1d5623325ec9890be2e862",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/1901/lei-231-1901-id99327.md.gz",
+      "sha256_candidato_gzip": "5757c3ce0a307e12c519aef9bbcf4eb62a4a489c41428f2ebbfaf4e182a03986",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/1901/lei-231-1901-id99327.html.gz",
+      "sha256_cache": "dafbcac85469c329a17e2e7286d6c7d82643d266916083c27b96614328057869",
+      "sha256_fonte": "5299a77031c43220c38ab254ee976c38436e4447cf4848ff72b0add38ad26f58",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/1901/lei-231-1901-id99327.html.gz.gz",
+      "situacao_literal": "Caducada",
+      "item_indice": {
+        "id": 99327,
+        "ano": 1901,
+        "numero": "231",
+        "ementa": "Codigo do processo criminal do Estado de Goyaz",
+        "data_legislacao": "10/08/1901",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "24/07/1901",
+            "numero": "1",
+            "suplemento": "Não",
+            "link_download": ""
+          }
+        ],
+        "estado_legislacao": {
+          "id": 8,
+          "nome": "Caducada"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/1990/lei-11280-1990-id84605.md",
+      "id_oficial": "84605",
+      "sha256_preimagem": "be6068d2d8c8843711f3b23828496897aaddedee0b571a1caf94d032a2b8b746",
+      "sha256_candidato": "85fab0de8893a33f4f0b5551a23ea2e1d7bc0a84bcf9601216dd0c0e3cec1741",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/1990/lei-11280-1990-id84605.md.gz",
+      "sha256_backup": "c18248ae2023a8e1e18b9eb8eee9ce528151db03f47f44ec451bd122a0701a5c",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/1990/lei-11280-1990-id84605.md.gz",
+      "sha256_candidato_gzip": "2e85d1e2fbb8372170a3c7c1e894bb09c9b36fe329390fcc04eb33b090def028",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/1990/lei-11280-1990-id84605.html.gz",
+      "sha256_cache": "3ce94aaef710d0e775e459e510c06e9637d406333b9e4534b40388493246e4f9",
+      "sha256_fonte": "1e4f4595e97516813b95ad9a33cd310120ebb6a6003f1ee8a8ab87f2888b3a22",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/1990/lei-11280-1990-id84605.html.gz.gz",
+      "situacao_literal": "Declarada Inconstitucional",
+      "item_indice": {
+        "id": 84605,
+        "ano": 1990,
+        "numero": "11.280",
+        "ementa": "Regulamenta a concessão de pensão especial.",
+        "data_legislacao": "04/07/1990",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "12/07/1990",
+            "numero": null,
+            "suplemento": "Não",
+            "link_download": ""
+          }
+        ],
+        "estado_legislacao": {
+          "id": 6,
+          "nome": "Declarada Inconstitucional"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/1991/lei-11642-1991-id84404.md",
+      "id_oficial": "84404",
+      "sha256_preimagem": "7c6471906ca543414c5a70ad4c64ce32d8ccab7f7aaf9ee285f89f8f1e7fedd7",
+      "sha256_candidato": "c3411b1bdc9b81bb59267227130c1a2cb92eb264e4f71547e532adce9a4edb2f",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/1991/lei-11642-1991-id84404.md.gz",
+      "sha256_backup": "f45b457a1cebebf4a8a9d6f4d38877793be1ddb33c0d269ee0b082a241fb229f",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/1991/lei-11642-1991-id84404.md.gz",
+      "sha256_candidato_gzip": "1a4f3a37b4f3a6d8a30ceaf9b387d0ca1fdd656628f8c21804ba4c08f7ee0e71",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/1991/lei-11642-1991-id84404.html.gz",
+      "sha256_cache": "32259416cbe169208364a4600571709d29a8441d13ab18449a34dd81d2e7bc34",
+      "sha256_fonte": "1e36157f2c4f3bf15cfd2af509e5be2b3a4994c08a31167ff7c1a48aeddf3683",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/1991/lei-11642-1991-id84404.html.gz.gz",
+      "situacao_literal": "Declarada Inconstitucional",
+      "item_indice": {
+        "id": 84404,
+        "ano": 1991,
+        "numero": "11.642",
+        "ementa": "Dispõe sobre pensões especiais e de mercê.",
+        "data_legislacao": "26/12/1991",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "27/12/1991",
+            "numero": null,
+            "suplemento": "Não",
+            "link_download": ""
+          }
+        ],
+        "estado_legislacao": {
+          "id": 6,
+          "nome": "Declarada Inconstitucional"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/1995/lei-12603-1995-id82547.md",
+      "id_oficial": "82547",
+      "sha256_preimagem": "ec9578c13a9938306a079901698d5f25dd38179297d54a094741be06c577f376",
+      "sha256_candidato": "a202d5424fff1450dfb2228f6537c484dd43dd50138730dc48985dd8e324b575",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/1995/lei-12603-1995-id82547.md.gz",
+      "sha256_backup": "5082e97ccac237bb15a91a565093099581ef63a852459169afd883667b5d365a",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/1995/lei-12603-1995-id82547.md.gz",
+      "sha256_candidato_gzip": "6acb698d7058022a42dc4fc05e66e00ee06ff62c6fa7f2b4390929930ff6d3ad",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/1995/lei-12603-1995-id82547.html.gz",
+      "sha256_cache": "6453ff60bf7aa805726151213b048dd74f1d0e43364e22d18a12102ca67b73ca",
+      "sha256_fonte": "6a5de7c6379fb8e7587dd63094753aae5a3b9787228ef7420c20090a81dbbfc9",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/1995/lei-12603-1995-id82547.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 82547,
+        "ano": 1995,
+        "numero": "12.603",
+        "ementa": "Introduz alterações na estrutura organizacional básica da administração direta  do Poder Executivo e dá outras providências.",
+        "data_legislacao": "07/04/1995",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "22/02/1996",
+            "numero": null,
+            "suplemento": "Não",
+            "link_download": ""
+          },
+          {
+            "data_diario": "12/04/1995",
+            "numero": null,
+            "suplemento": "Não",
+            "link_download": ""
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/1995/lei-12647-1995-id82591.md",
+      "id_oficial": "82591",
+      "sha256_preimagem": "82feef7c3b8145db45b836532d58deaa0e176d87372871b01312594e86fb42ed",
+      "sha256_candidato": "baee58920c6c08f38d872b181185872a5cdbbfbf55e574fec2eb8ecb67ba3b33",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/1995/lei-12647-1995-id82591.md.gz",
+      "sha256_backup": "1114b4b46e202f577590f88526df374b8d403f0c6b3a84fbe9735c9f371fc8e1",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/1995/lei-12647-1995-id82591.md.gz",
+      "sha256_candidato_gzip": "17b126ec417dc2f451c7511056205710fb769e6d6995f934169692b7e8ab5f67",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/1995/lei-12647-1995-id82591.html.gz",
+      "sha256_cache": "0d4c57c1680483c887fd70fde5fc2487b6b187c34ce8379c8b6cc89152eade36",
+      "sha256_fonte": "e849ca95320afd2033ab365d1f14300b894e934f2fc0cb871f4fb83a180a194b",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/1995/lei-12647-1995-id82591.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 82591,
+        "ano": 1995,
+        "numero": "12.647",
+        "ementa": "Introduz alterações na Lei nº 12.603, de 7 de abril de 1995, e dá outras providências.",
+        "data_legislacao": "10/07/1995",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "13/07/1995",
+            "numero": null,
+            "suplemento": "Não",
+            "link_download": ""
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/1995/lei-12700-1995-id82644.md",
+      "id_oficial": "82644",
+      "sha256_preimagem": "8b569c586c7057a3fed6f647b12299a600c95298c621ab58a55346fd96a9d996",
+      "sha256_candidato": "aab993264ba7744417379b80329ae88d34ab5cfb1916c469ac83c9331b0be4a7",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/1995/lei-12700-1995-id82644.md.gz",
+      "sha256_backup": "7dbb44a6d69c806c7a4af87d678020ac58db4ec32287d4bd9c3843eaec2f1970",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/1995/lei-12700-1995-id82644.md.gz",
+      "sha256_candidato_gzip": "ae39b456e44d6fbe35a248a7dbba74622d9a8aab6f60fac55f0b6eaf6a1e38d2",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/1995/lei-12700-1995-id82644.html.gz",
+      "sha256_cache": "29411b8e04188b0cea127305e3bfc4b8fd626af770fd1017fe642955643f4177",
+      "sha256_fonte": "bbd4d6389482dd96cb11fd57c4386c62de24c76e68e77a7d9a8b1bd920dbd200",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/1995/lei-12700-1995-id82644.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 82644,
+        "ano": 1995,
+        "numero": "12.700",
+        "ementa": "Introduz modificações na Lei nº 12.603, de 7 de abril de 1995 e dá outras providências.",
+        "data_legislacao": "12/09/1995",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "15/09/1995",
+            "numero": null,
+            "suplemento": "Não",
+            "link_download": ""
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/1999/lei-13456-1999-id87085.md",
+      "id_oficial": "87085",
+      "sha256_preimagem": "219ed152fc6f4f6dfc11eef3344c3ba6603e97ba2e091a47f6f0fb79c8efb9ee",
+      "sha256_candidato": "42f273b2dc5d79450bbf0b51ba2d09c1ef43a3b639c96d00e14b0e3429640e4c",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/1999/lei-13456-1999-id87085.md.gz",
+      "sha256_backup": "668d2c39b7022fe91b54fb5af309a092c158d264503864e80a84689755e2b526",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/1999/lei-13456-1999-id87085.md.gz",
+      "sha256_candidato_gzip": "8decf518b8a4cc9d19493d9e2acc29a69013126279f9128ef4fcb49076b8e628",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/1999/lei-13456-1999-id87085.html.gz",
+      "sha256_cache": "9a9eb51be569e77734dfd6f2019b5c076cf287e5a57d21ea1582fdb0f6e22df8",
+      "sha256_fonte": "5338728459f6d266ebfd550924d4e5c2be909dd7f01f1c32dacc45e5f22519ab",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/1999/lei-13456-1999-id87085.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 87085,
+        "ano": 1999,
+        "numero": "13.456",
+        "ementa": "Dispõe sobre a organização da administração direta, autárquica e fundacional do Poder Executivo e dá outras providências",
+        "data_legislacao": "16/04/1999",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "20/04/1999",
+            "numero": null,
+            "suplemento": "Sim",
+            "link_download": ""
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2003/lei-14464-2003-id81089.md",
+      "id_oficial": "81089",
+      "sha256_preimagem": "38e534e228ae8aba6e1af7cab61186792300b7b34a86046b109923742545cac2",
+      "sha256_candidato": "fd5768e30137910d0950b9baee61da81075e07357a592d6bad530b820dfffef6",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2003/lei-14464-2003-id81089.md.gz",
+      "sha256_backup": "a98d098db8efd40db7e75f05dacc2cb3a195e164d7566e6fa39f03369b48d223",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2003/lei-14464-2003-id81089.md.gz",
+      "sha256_candidato_gzip": "a75cfc434024b7be2cb2db3e0b29530cf71d48ce8aefcebaa1d77ad19f38e340",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2003/lei-14464-2003-id81089.html.gz",
+      "sha256_cache": "04843ad257c0703ee9ee20ef2e434e02581a677e044b3b691539294de4e67fdf",
+      "sha256_fonte": "03f844d72b7f76fd9be354c16593db83250f12b0423bc5ff148904e752808c50",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2003/lei-14464-2003-id81089.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 81089,
+        "ano": 2003,
+        "numero": "14.464",
+        "ementa": "Fixa o subsídio de Secretário de Estado e dá outras providências.",
+        "data_legislacao": "07/07/2003",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "10/07/2003",
+            "numero": null,
+            "suplemento": "Não",
+            "link_download": ""
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2004/lei-14814-2004-id80749.md",
+      "id_oficial": "80749",
+      "sha256_preimagem": "8fcf952e57ff1fd2ea848790e7100a0b1141219e8927ee8df228f44a5c833934",
+      "sha256_candidato": "4a9bbb05bde03d843c129ce9b66cf835b3079f26818d0d6ad194937d6389c698",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2004/lei-14814-2004-id80749.md.gz",
+      "sha256_backup": "27910002430f69aed9eec7557b734bee198d278e325ef265a699dc029cdea5cf",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2004/lei-14814-2004-id80749.md.gz",
+      "sha256_candidato_gzip": "40fef0adf7b25ef668d59f7ac303885ea6b2e7899510255121710c661086d686",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2004/lei-14814-2004-id80749.html.gz",
+      "sha256_cache": "851d3b7c1b18e92efe29cbc4502a7ba6082bfeac98ccd58360990b1dc001a13f",
+      "sha256_fonte": "b8fd4d08c1aaf8e6eacace6cf7e64e86f064480e72ecf915b4b365892ad58432",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2004/lei-14814-2004-id80749.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 80749,
+        "ano": 2004,
+        "numero": "14.814",
+        "ementa": "Dispõe sobre os Fundos Rotativos que menciona e dá outras providências.",
+        "data_legislacao": "06/07/2004",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "08/07/2004",
+            "numero": null,
+            "suplemento": "Não",
+            "link_download": ""
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2004/lei-15043-2004-id80978.md",
+      "id_oficial": "80978",
+      "sha256_preimagem": "addeeb437973657555d6fb73dea9fa93c52d390792588f33da6ba39eec5a186c",
+      "sha256_candidato": "0a27f5925ad54ae30bdd86666dbeff48c6a72be90b8b1cbfcca1e87f7525769f",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2004/lei-15043-2004-id80978.md.gz",
+      "sha256_backup": "6eeec6c1d269a2fc5c9e57ed0501a161d56146c9c9af260fccfcbb13fb59b023",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2004/lei-15043-2004-id80978.md.gz",
+      "sha256_candidato_gzip": "5e334509df72c5fab1462b8a13319d8e00278ebab55823126776b12b62aca606",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2004/lei-15043-2004-id80978.html.gz",
+      "sha256_cache": "ce67104c21c905dd94d853cb1053ea7290e62b9448f106df1a2c30f9a28044fe",
+      "sha256_fonte": "51cd163690a304082923e29b7c75b53f619508fd04fcaf147d51e279d4629eb2",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2004/lei-15043-2004-id80978.html.gz.gz",
+      "situacao_literal": "Declarada Inconstitucional",
+      "item_indice": {
+        "id": 80978,
+        "ano": 2004,
+        "numero": "15.043",
+        "ementa": "Estabelece critérios para o credenciamento dos Despachantes Autônomos junto aos órgãos públicos do Estado de Goiás.",
+        "data_legislacao": "21/12/2004",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "22/12/2004",
+            "numero": null,
+            "suplemento": "Não",
+            "link_download": ""
+          }
+        ],
+        "estado_legislacao": {
+          "id": 6,
+          "nome": "Declarada Inconstitucional"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2005/lei-15108-2005-id79914.md",
+      "id_oficial": "79914",
+      "sha256_preimagem": "3a4b9d07aff7dacbd0914ae6ae9f518f3309deddddb3d5073eb7a8d1242d2482",
+      "sha256_candidato": "708fb6560f30684f40c200cce0fb8a825330c441a5c9014b29bce0c8b7b8b60a",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2005/lei-15108-2005-id79914.md.gz",
+      "sha256_backup": "035c55629d2ad208e81e0aee099eb00f4353fd43a23bd98a7c3256bae83c2a64",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2005/lei-15108-2005-id79914.md.gz",
+      "sha256_candidato_gzip": "2bd8d4849ca10a4b6ce773e9c730e040a48c4d40812bff9948bed0244e9da208",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2005/lei-15108-2005-id79914.html.gz",
+      "sha256_cache": "3af18b9d4719c153cd9f2ad28c2449ba6889ab1a0b23fe8c499212c2b25ef0ee",
+      "sha256_fonte": "f3f138a344705110ad6d4f8cb280509ee74bf756394498c19b0d36c226e7a807",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2005/lei-15108-2005-id79914.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 79914,
+        "ano": 2005,
+        "numero": "15.108",
+        "ementa": "Altera os dispositivos que especifica da Lei nº 13.569, de 27 de dezembro de 1999, e o Anexo XXIX da Lei Delegada no 8, de 15 de outubro de 2003.",
+        "data_legislacao": "01/02/2005",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "11/02/2005",
+            "numero": null,
+            "suplemento": "Não",
+            "link_download": ""
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2005/lei-15150-2005-id79645.md",
+      "id_oficial": "79645",
+      "sha256_preimagem": "33737dba53c9fafcb69cb849f16d2ee1c58416e8109e615cbfc34d725c8526f7",
+      "sha256_candidato": "28b840c153f3658dc6cc32bd34c4d55658774cdd5bd3239ad6e05c76af6fd313",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2005/lei-15150-2005-id79645.md.gz",
+      "sha256_backup": "2c1bb607b65ad89a41726e3b5b18b13708864acdd56cf4750a9f5d0a5dc20295",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2005/lei-15150-2005-id79645.md.gz",
+      "sha256_candidato_gzip": "08306e0bf9c880e0f0811a4e40e5dfc605ebaf1beebbec945de715d57f9807fc",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2005/lei-15150-2005-id79645.html.gz",
+      "sha256_cache": "673a4e4e2aa034e5d2a1862bdc9c6fdbcf8536a4476eef59fe8fb14a0c571c02",
+      "sha256_fonte": "7197eab6e0429b3b7241d3733db31544225569da39391ae6c780375f8eccf893",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2005/lei-15150-2005-id79645.html.gz.gz",
+      "situacao_literal": "Declarada Inconstitucional",
+      "item_indice": {
+        "id": 79645,
+        "ano": 2005,
+        "numero": "15.150",
+        "ementa": "Dispõe sobre aposentadoria dos participantes: do serviço notarial e registral, não remunerados pelos cofres públicos; da serventia do foro judicial, admitidos antes da vigência da Lei nº 8.935, de 18 de novembro de 1994 e facultativos com contribuição em dobro, estabelece regras para a fixação e o reajustamento de seus proventos e dá outras providências.",
+        "data_legislacao": "19/04/2005",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "19/04/2005",
+            "numero": null,
+            "suplemento": "Não",
+            "link_download": ""
+          }
+        ],
+        "estado_legislacao": {
+          "id": 6,
+          "nome": "Declarada Inconstitucional"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2005/lei-15236-2005-id80366.md",
+      "id_oficial": "80366",
+      "sha256_preimagem": "345e5794045b10f8c4cf02343e8ae798a9ec6de56f58308e033963843d9b5478",
+      "sha256_candidato": "9a79f9da5fa01997315c0d94421250892dab766b196b30975e22f842822bdf5f",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2005/lei-15236-2005-id80366.md.gz",
+      "sha256_backup": "d170026079cf9f02eb85f1cc5c9658aff968fffb7ebcc546065621e89007168f",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2005/lei-15236-2005-id80366.md.gz",
+      "sha256_candidato_gzip": "461f89d3638fc88e3d1f90872aa63eea9939e946e3369ff99cca76c0c3851033",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2005/lei-15236-2005-id80366.html.gz",
+      "sha256_cache": "f2f7119c975b4fb2143b25dfb4015357e45f44277ca3a0c29dbb664880f95735",
+      "sha256_fonte": "3998f501b0f1fef0d70c881b77da7442324abe601829bac9ea68afba42e5f9e2",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2005/lei-15236-2005-id80366.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 80366,
+        "ano": 2005,
+        "numero": "15.236",
+        "ementa": "Introduz alterações na Lei no 11.180, de 19 de abril de 1990, na Lei no 11.660, de 27 de dezembro de 1991, e na Lei no 14.162, de 4 de junho de 2002.",
+        "data_legislacao": "11/07/2005",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "15/07/2005",
+            "numero": null,
+            "suplemento": "Não",
+            "link_download": ""
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2005/lei-15454-2005-id80543.md",
+      "id_oficial": "80543",
+      "sha256_preimagem": "425d2670dc82ad69c422b1f97429971d5a8062fa75e47e20e2321a4c9fefc197",
+      "sha256_candidato": "c77fe2b9abce11da499c03953d5811d0f0f9e6e98223c465c77f553972a58e8f",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2005/lei-15454-2005-id80543.md.gz",
+      "sha256_backup": "e7a86837613c4640aae836755aaa3ecc4cd4e43af1a45435602186c18691f625",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2005/lei-15454-2005-id80543.md.gz",
+      "sha256_candidato_gzip": "f93be8452c86a5a881a3711c9e757f54f8f974567bf29e011acd133c2ffceaaf",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2005/lei-15454-2005-id80543.html.gz",
+      "sha256_cache": "e38dacba9e869fcc46a7e82bccde1b61d81c9f8e4ca19411af05f5b71183dfb8",
+      "sha256_fonte": "1988800ed13ac6829e5b793f201528cf64e51e2ed4c4b4e603c73993af7c4c06",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2005/lei-15454-2005-id80543.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 80543,
+        "ano": 2005,
+        "numero": "15.454",
+        "ementa": "Altera as Leis nº 14.307, de 12 de novembro de 2002, e 13.194, de 26 de dezembro de 1997, e dá outras providências.",
+        "data_legislacao": "16/11/2005",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "22/11/2005",
+            "numero": null,
+            "suplemento": "Não",
+            "link_download": ""
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2009/lei-16474-2009-id87185.md",
+      "id_oficial": "87185",
+      "sha256_preimagem": "f38fe6c70ec8dba08434b49ab38815986351c1a813da06247d8866a8cb98a7c5",
+      "sha256_candidato": "dd28e8f3f2d893b6cdeb3808f2e3d97e63cbad4a81511bc1429b324445c95d21",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2009/lei-16474-2009-id87185.md.gz",
+      "sha256_backup": "d3d2fb06f3797e6ee5462890ea562362b0003b7e01442cf0fa439a4ec7ead6d2",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2009/lei-16474-2009-id87185.md.gz",
+      "sha256_candidato_gzip": "40cbc3c8cd93601b2f9d12a3f00410a58f9963705f098729604e8b88ee6f29c9",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2009/lei-16474-2009-id87185.html.gz",
+      "sha256_cache": "ce121a13efbfd24dc9c1cb166cf664b795c7f6018ff9006db086471b9b7d2f40",
+      "sha256_fonte": "42be2d38baf0a3f391c3593b4e79a56b7724d62e9b07656678239f0c50547365",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2009/lei-16474-2009-id87185.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 87185,
+        "ano": 2009,
+        "numero": "16.474",
+        "ementa": "Altera a Lei 14.081, de 26 de fevereiro de 2002, e dá outras providências",
+        "data_legislacao": "27/01/2009",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "02/02/2009",
+            "numero": "20.547",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/2071"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2009/lei-16662-2009-id88372.md",
+      "id_oficial": "88372",
+      "sha256_preimagem": "8ef147c8f0286f4f661bac8d6f67adb2cbc307a118b5648a76f278b6a236cee7",
+      "sha256_candidato": "95bc3974fa9a9f913b77972b0af427e2c38e1361600d34ed1f55bab00bca16b4",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2009/lei-16662-2009-id88372.md.gz",
+      "sha256_backup": "008c12a448dc2f01ca4dd023a6a3dc9c552e53e7afda12eb9ea41a609dd10a62",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2009/lei-16662-2009-id88372.md.gz",
+      "sha256_candidato_gzip": "dd8a4bcc8664be903c4ce42cfc03e0198e886f629c4746ffebfd503c9d40ec8d",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2009/lei-16662-2009-id88372.html.gz",
+      "sha256_cache": "6a2cc3fd39343841f41ac56c6ec83fff59c98f79fa90ca12918175451ff7adc1",
+      "sha256_fonte": "5fcd85f5b0677bff5907e83a7a5ae907622d8c3b1a04a3df01f3b2fbc15f363c",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2009/lei-16662-2009-id88372.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 88372,
+        "ano": 2009,
+        "numero": "16.662",
+        "ementa": "Altera a Lei nº 16.272, de 30 de maio de 2008, e dá outras providências",
+        "data_legislacao": "23/07/2009",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "28/07/2009",
+            "numero": "20.665",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/2222"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2012/lei-17688-2012-id89678.md",
+      "id_oficial": "89678",
+      "sha256_preimagem": "f24a3d5f6d85b2340242f22514caaf72b1604b6cf1c1e2c38b708dee7a67e8d6",
+      "sha256_candidato": "386e8909beaf50afe5f466e8d4c1280e316a289a9b9e5eb6a9280c128d895a8d",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2012/lei-17688-2012-id89678.md.gz",
+      "sha256_backup": "233b35d7067e36752cb8872329568f794b09879adcab9de1658f8b2fcf29848b",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2012/lei-17688-2012-id89678.md.gz",
+      "sha256_candidato_gzip": "d963113d2dc6f815dae7f5af63cf80fad0e7b22a444d6bcf544efc9697734e4f",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2012/lei-17688-2012-id89678.html.gz",
+      "sha256_cache": "7bf8e2cf51fceef9514ffb63b132ff727834b1e7f6704c0b1ebc1827e02d84a9",
+      "sha256_fonte": "79841e20da8e2aed310a3b74bf6a5862b812ebda53e604a9b02b73d8a4a50e48",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2012/lei-17688-2012-id89678.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 89678,
+        "ano": 2012,
+        "numero": "17.688",
+        "ementa": "Altera a Lei nº 17.257, de 25 de janeiro de 2011, que dispõe sobre a organização administrativa do Poder Executivo e dá outras providências.",
+        "data_legislacao": "29/06/2012",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "06/07/2012",
+            "numero": "21.381",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/562"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2012/lei-17882-2012-id89941.md",
+      "id_oficial": "89941",
+      "sha256_preimagem": "73c5b3b41259cddcbe8f5182239344c36a60218e3f89c97cd59f2df376eee989",
+      "sha256_candidato": "c7793d94a19a638e51f5829ae244869fb430181293d7024613b374852c3fd4c2",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2012/lei-17882-2012-id89941.md.gz",
+      "sha256_backup": "6a8a7e90434ffa1d48023bcb8f508e2de9b2997b51dd98084179eabe86ea548a",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2012/lei-17882-2012-id89941.md.gz",
+      "sha256_candidato_gzip": "c0b7383f2d5c2107253d012d1acf4a366f23d67d1f5d3ee4df49249eaef072ce",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2012/lei-17882-2012-id89941.html.gz",
+      "sha256_cache": "8c3c75e0fecba146dae02266bc5d9868964df322f36e83a4e821d10a6c2ec2a2",
+      "sha256_fonte": "a2069c7c9e95c2adb47bcf772625804cdf4730b78f41f8260c7e9e42967f7e1e",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2012/lei-17882-2012-id89941.html.gz.gz",
+      "situacao_literal": "Declarada Inconstitucional",
+      "item_indice": {
+        "id": 89941,
+        "ano": 2012,
+        "numero": "17.882",
+        "ementa": "Institui o Serviço de Interesse Militar Voluntário Estadual - SIMVE - na Polícia Militar e no Corpo de Bombeiros Militar do Estado de Goiás e dá outras providências.",
+        "data_legislacao": "27/12/2012",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "27/12/2012",
+            "numero": "21.496",
+            "suplemento": "Sim",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/80"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 6,
+          "nome": "Declarada Inconstitucional"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2013/lei-18024-2013-id90149.md",
+      "id_oficial": "90149",
+      "sha256_preimagem": "fcf8b0eb6822fd8a236138a5c1146f5f823dd18b0b453535cf34a20bc2e280c8",
+      "sha256_candidato": "7a5f50c5a946c1b7107c7707ccb49d051709bfe0edf9c1614e564d8b5a7e3382",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2013/lei-18024-2013-id90149.md.gz",
+      "sha256_backup": "ad624a18375c46b8976e4b3781e1ee8dee45167c91623e272d220ced3ee6f1cc",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2013/lei-18024-2013-id90149.md.gz",
+      "sha256_candidato_gzip": "c12512da3a8533a4dca101e2168550fc23bc71022c8b35b3c0bd20b8235d8609",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2013/lei-18024-2013-id90149.html.gz",
+      "sha256_cache": "16d76ce10a5f9f0ee7ed3e2dc5d8454bd505654b659b74aaeb3246e37749067c",
+      "sha256_fonte": "e8ba3683614d7bd17e2057e7b2279349cdc884e8f601ae548404cfe0462e1ef6",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2013/lei-18024-2013-id90149.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 90149,
+        "ano": 2013,
+        "numero": "18.024",
+        "ementa": "Altera a Lei nÂº 10.460, de 22 de fevereiro de 1988, que institui o Estatuto dos FuncionÃ¡rios PÃºblicos Civis do Estado de GoiÃ¡s e de suas Autarquias e altera a Lei nÂº 14.657, de 08 de janeiro de 2004, que dispÃµe sobre cargos dos Quadros de Pessoal da Diretoria-Geral da PolÃ­cia Civil e da SuperintendÃªncia de PolÃ­cia TÃ©cnica-CientÃ­fica da Secretaria da SeguranÃ§a PÃºblica e JustiÃ§a.",
+        "data_legislacao": "21/05/2013",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "18/06/2013",
+            "numero": "21.610",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/803"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2013/lei-18062-2013-id90169.md",
+      "id_oficial": "90169",
+      "sha256_preimagem": "d53f8e6728c8c6ae1a8f543945be4a1a5ef0c5bdc90c8fbc93b4d37b674de387",
+      "sha256_candidato": "335370fb25984a9f5a6c128a18a9014eb4bc4ca59f124a14cab98e14d2ea945b",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2013/lei-18062-2013-id90169.md.gz",
+      "sha256_backup": "63985f5313e195af863f4ef2d886476a2277baa8f46ea1e243d608a5f10503ce",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2013/lei-18062-2013-id90169.md.gz",
+      "sha256_candidato_gzip": "7599dc4539f8458f729f2a5d795f7961581dfa7aafcf627ebf2f1a38ef824de3",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2013/lei-18062-2013-id90169.html.gz",
+      "sha256_cache": "5392b1fb055439d66b5149da0138e7f502dd8c2871036cd64df383b821c70779",
+      "sha256_fonte": "1d7f61ed7816c13f22d631fa587e6f23d87c62c1014367d911a4782e15a28bcd",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2013/lei-18062-2013-id90169.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 90169,
+        "ano": 2013,
+        "numero": "18.062",
+        "ementa": "Introduz alterações nos textos das Leis que especifica e dá outras providências.",
+        "data_legislacao": "26/06/2013",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "02/07/2013",
+            "numero": "21.620",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/79"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2013/lei-18092-2013-id90202.md",
+      "id_oficial": "90202",
+      "sha256_preimagem": "4d764adb17402ec2db2466d148dbeee2f7a8edeb277a8cf6705c74fab8d97e5e",
+      "sha256_candidato": "5cda30d61eaf5cee64134c3d078a6dd94e57d955a9bd2dc62b63d4fe014a44dc",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2013/lei-18092-2013-id90202.md.gz",
+      "sha256_backup": "bd69c62aaec290308655e4ee2e808fb994396e930ad883d2ad524439237ca674",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2013/lei-18092-2013-id90202.md.gz",
+      "sha256_candidato_gzip": "e5a6bc0835154dda25c07f362104ab26109bf5271ef65f8c6474fc3217045e12",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2013/lei-18092-2013-id90202.html.gz",
+      "sha256_cache": "db3cea3100780ae63adf57d2f4ff7d9841e17add4e5985cbffc6d4608e993087",
+      "sha256_fonte": "a2ca0504b9d1f8f792c47b855c1d12216ec950935d06323235173b5f6e068e80",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2013/lei-18092-2013-id90202.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 90202,
+        "ano": 2013,
+        "numero": "18.092",
+        "ementa": "Introduz alterações nas Leis nºs 10.460, de 22 de fevereiro de 1988, e 13.909, de 25 de setembro de 2001, e dá outras providências.",
+        "data_legislacao": "17/07/2013",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "18/07/2013",
+            "numero": "21.632",
+            "suplemento": "Sim",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/1863"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2013/lei-18170-2013-id90279.md",
+      "id_oficial": "90279",
+      "sha256_preimagem": "d2bd6392b87594fe332bef8602403994531fbb295aba0d8995f178231fa7b361",
+      "sha256_candidato": "08c8bf6efb25e543bb5244c4f580bb6cc139b79466c11f4689750dc402a07597",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2013/lei-18170-2013-id90279.md.gz",
+      "sha256_backup": "f1fd029be8d74144a73b055bcce5bef044508daca1776adf1f801d909dce7b09",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2013/lei-18170-2013-id90279.md.gz",
+      "sha256_candidato_gzip": "8b167329a62f886db56f1adab6f141f3c6f0a3ef9071782607017518a956a36f",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2013/lei-18170-2013-id90279.html.gz",
+      "sha256_cache": "e4ad03306d887c1ea7cd0d9db1d625df040d7a38604a8bf2c45cb0b1b9e706b8",
+      "sha256_fonte": "3091321e951ad6694eed21d22e697d7b85980bd1e34425d8369c37994301af02",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2013/lei-18170-2013-id90279.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 90279,
+        "ano": 2013,
+        "numero": "18.170",
+        "ementa": "Institui o Bônus por Resultados, no âmbito da Agência Goiana de Defesa Agropecuária, e introduz alterações na Lei nº 15.691, de 06 de junho de 2006.",
+        "data_legislacao": "25/09/2013",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "30/09/2013",
+            "numero": "21.683",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/2943"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2013/lei-18286-2013-id90416.md",
+      "id_oficial": "90416",
+      "sha256_preimagem": "ef4281ff6d6c486a5492e038d54382b17cd63bb9350bcd4e4c353c2478a4ab18",
+      "sha256_candidato": "f9da6744499d66d745e6c6f3f5fc88168c359e346935545bf60cd0bea06401e8",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2013/lei-18286-2013-id90416.md.gz",
+      "sha256_backup": "1e9cdbb6c8c1a847aaa2c1606dbc185a0c4e9c41a4fc166d19d3d76b83dcef9c",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2013/lei-18286-2013-id90416.md.gz",
+      "sha256_candidato_gzip": "43ee05091007230b3b4be56f5b8dd19bb5746a89ad11586dec11c9ee19d8bf85",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2013/lei-18286-2013-id90416.html.gz",
+      "sha256_cache": "b6be364ba9dbb05d99939329cd680371d97dccee5f11d4127855945b9e1f09bb",
+      "sha256_fonte": "ed2fbdfbea11280cbc9c50549c15ac3d1a9d088055d398fafe8880c79fc8353a",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2013/lei-18286-2013-id90416.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 90416,
+        "ano": 2013,
+        "numero": "18.286",
+        "ementa": "Modifica a organização administrativa do Poder Executivo e dá outras providências.",
+        "data_legislacao": "30/12/2013",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "30/12/2013",
+            "numero": "21.741",
+            "suplemento": "Sim",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/379"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2013/lei-18306-2013-id90461.md",
+      "id_oficial": "90461",
+      "sha256_preimagem": "27dc2931eaa1f56de409b19926cb1b9f2ee6306a4d7f61056167d95edde62e30",
+      "sha256_candidato": "b569c25591184a9c3c64f7ae75828617ed03c8b617219584c91474568ca7c464",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2013/lei-18306-2013-id90461.md.gz",
+      "sha256_backup": "6d21fdb925c8f0b0a57d7eb60cfa95dae40e77b9e73725f8209c25b17ddd9e16",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2013/lei-18306-2013-id90461.md.gz",
+      "sha256_candidato_gzip": "65f8a7b7158980a4a2f3f800c446f42e5c980019844e8d473f81a42aefc52d82",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2013/lei-18306-2013-id90461.html.gz",
+      "sha256_cache": "86ec51230bb1158b379abc77494d235283a5c4411554404982795097fe337378",
+      "sha256_fonte": "dfb87d0291d3698184c1ac200119e47ebb1a625036c9b090423cae0c69590375",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2013/lei-18306-2013-id90461.html.gz.gz",
+      "situacao_literal": "Declarada Inconstitucional",
+      "item_indice": {
+        "id": 90461,
+        "ano": 2013,
+        "numero": "18.306",
+        "ementa": "Altera a Lei nº 11.280, de 04 de julho de 1990.",
+        "data_legislacao": "30/12/2013",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "31/12/2013",
+            "numero": "21.742",
+            "suplemento": "Sim",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/791"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 6,
+          "nome": "Declarada Inconstitucional"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2014/lei-18755-2014-id91025.md",
+      "id_oficial": "91025",
+      "sha256_preimagem": "ba100ebf88cd827b6f3cc2947697ce8b24fcd4a50956f4d90783b39dfd1b6c38",
+      "sha256_candidato": "07fce080aa1a19df39e6ce004dcc1ac6c0692faf0f5b4d8d34169e045e2c20fb",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2014/lei-18755-2014-id91025.md.gz",
+      "sha256_backup": "8ae927b4e20e6342d693f3501795172f86028d4320c0cce53ea883aa5d4a967f",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2014/lei-18755-2014-id91025.md.gz",
+      "sha256_candidato_gzip": "5187c7ad11b4cd0c05ea073bd6e0903ef8e612dc04f729695db7926d1cff9a93",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2014/lei-18755-2014-id91025.html.gz",
+      "sha256_cache": "8c24a73b9791884e82630f6149d11423bad53428e8979e33ec36d5cdc57d74c9",
+      "sha256_fonte": "5203c96353d4662181dde02accbeb2fbc98db945035dc8cd55539fbbb46bec5b",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2014/lei-18755-2014-id91025.html.gz.gz",
+      "situacao_literal": "Declarada Inconstitucional",
+      "item_indice": {
+        "id": 91025,
+        "ano": 2014,
+        "numero": "18.755",
+        "ementa": "Dispõe sobre a contratação de serviços de transporte de veículos por indústria automobilística beneficiária de incentivo fiscal, tratamento tributário especial e/ou programa de financiamento do Estado de Goiás e dá outras providências",
+        "data_legislacao": "30/12/2014",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "31/12/2014",
+            "numero": "21.991",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/809"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 6,
+          "nome": "Declarada Inconstitucional"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2015/lei-18812-2015-id91346.md",
+      "id_oficial": "91346",
+      "sha256_preimagem": "2ff3d4b56a29b2877f3a18d289b9fa66b5a3f39a00c87aea9fe1b68dbb44d23f",
+      "sha256_candidato": "b26e7201eab4433f9acd546ab0d92a04949e87ef2373344366b9616321cc70ed",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2015/lei-18812-2015-id91346.md.gz",
+      "sha256_backup": "0e644e9e32da31df3d8b1b359735d582adc0fb10f82fb3cec0ea460e62a2e923",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2015/lei-18812-2015-id91346.md.gz",
+      "sha256_candidato_gzip": "705bb3586ff097e0dfd2781e6ead0840ad1cc0377552008b25a7236e64dcdaa1",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2015/lei-18812-2015-id91346.html.gz",
+      "sha256_cache": "a555d542d182b80d75e2de1b0c9cb6ceeec93fd98c8faa3f87b8f3f3a2c4d76c",
+      "sha256_fonte": "ecf24bc9a48ccc7d146ad4f24566ee2b410c0dc307da6b1ff90acea77041c7ff",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2015/lei-18812-2015-id91346.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 91346,
+        "ano": 2015,
+        "numero": "18.812",
+        "ementa": "Transforma em Batalhões da Polícia Militar as Companhias Independentes que menciona e dá outras providências",
+        "data_legislacao": "16/04/2015",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "22/04/2015",
+            "numero": "22.064",
+            "suplemento": "Sim",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/683"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2016/lei-19390-2016-id98705.md",
+      "id_oficial": "98705",
+      "sha256_preimagem": "c1b86dbfa4912e489ff18aa68ededbe69d5c53b932635bdaf4877925d3b27fa1",
+      "sha256_candidato": "f6b84d0ff8ebf8d5fd330d68c4e46ec37716c2fee33a636e05b6ef9345835739",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2016/lei-19390-2016-id98705.md.gz",
+      "sha256_backup": "3b13bdcf767cfaa904ce920cf9069238b50dfa178ca8d3c7f3ee7992ff8e9e27",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2016/lei-19390-2016-id98705.md.gz",
+      "sha256_candidato_gzip": "2a4e8b1b7cc0b32b87b4c8d130d800dc9babab51c20b82fe17886f2e23135e61",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2016/lei-19390-2016-id98705.html.gz",
+      "sha256_cache": "9ffe41c571236e5e6bcc9b406e4b61168f2690d20c6427597429d3d97a44ce83",
+      "sha256_fonte": "cc877efeea9b45a981738b12f3e686c9fdf00d6d89e4be38a10180eeb0b0935d",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2016/lei-19390-2016-id98705.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 98705,
+        "ano": 2016,
+        "numero": "19.390",
+        "ementa": "Promove alterações na organização administrativa da Secretaria de Estado de Segurança Pública e Administração Penitenciária e dá outras providências.",
+        "data_legislacao": "07/07/2016",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "13/07/2016",
+            "numero": "22.364",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/2127"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2016/lei-19463-2016-id98779.md",
+      "id_oficial": "98779",
+      "sha256_preimagem": "89c35ae6a86aefecfa0c0737faafe3ada3fd6b748ee93ce0b84bac0b915a4b87",
+      "sha256_candidato": "a466ec1efaff19b1c4ede9042e7e97d23772d200d247fdf557ebdfd71b9dd878",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2016/lei-19463-2016-id98779.md.gz",
+      "sha256_backup": "83d96e97f51f5956ad0c78c0755d654cf9bfcbbe5a63edc9abd3842f594a6695",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2016/lei-19463-2016-id98779.md.gz",
+      "sha256_candidato_gzip": "067f3662194495421b4db17c1f1049e2e07efcd2c39a8e5ab39e8481264f0b22",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2016/lei-19463-2016-id98779.html.gz",
+      "sha256_cache": "02f12f3052c64539ac52602e8720292545cbab379bbe910f90e53ef2d81e69b0",
+      "sha256_fonte": "3f15e238eef193143450683adc7be97e3fa0ccbc4395a7e98e0388d9720f5613",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2016/lei-19463-2016-id98779.html.gz.gz",
+      "situacao_literal": "Declarada Inconstitucional",
+      "item_indice": {
+        "id": 98779,
+        "ano": 2016,
+        "numero": "19.463",
+        "ementa": "Dispõe sobre a extinção, com a vacância, dos cargos e empregos públicos que especifica, da Agência Goiana de Transportes e Obras, e dá outras providências.",
+        "data_legislacao": "14/10/2016",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "19/10/2016",
+            "numero": "22.431",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/1963"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 6,
+          "nome": "Declarada Inconstitucional"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2016/lei-19468-2016-id98784.md",
+      "id_oficial": "98784",
+      "sha256_preimagem": "90577663494ca7d8d6879a58134c205b3c03f896347adc68393b07eb453dea8e",
+      "sha256_candidato": "3cbf7442d865ba2f6479fe27d4e8a8a3fd8d51e5e7d3beb4a861731761cf2bc8",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2016/lei-19468-2016-id98784.md.gz",
+      "sha256_backup": "39a50605de91db358e6a8da711d952648ce59e9f6e6872f1c0fe00186229860a",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2016/lei-19468-2016-id98784.md.gz",
+      "sha256_candidato_gzip": "4212d71c2a8ef382f2eaec2ab208fb86fb5a2280a15d07bc38bdcba732f2e762",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2016/lei-19468-2016-id98784.html.gz",
+      "sha256_cache": "2f1d2fb06c668939a2cce1d9cb799ebed6677ee5bf3228893bfedc928f2c5846",
+      "sha256_fonte": "4b764cbb4ae08869b64a8c2cee17562f88cb49c4b5d969f55c8e6b18d2ecac1f",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2016/lei-19468-2016-id98784.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 98784,
+        "ano": 2016,
+        "numero": "19.468",
+        "ementa": "Altera a Lei nº 17.257, de 25 de janeiro de 2011, que dispõe sobre a organização administrativa do Poder Executivo e dá outras providências.",
+        "data_legislacao": "27/10/2016",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "01/11/2016",
+            "numero": "22.438",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/2927"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2016/lei-19481-2016-id98797.md",
+      "id_oficial": "98797",
+      "sha256_preimagem": "eeddebaba9cddf5fe113359b66ace7310a168806db5294d18ff9b3ace9d39b0f",
+      "sha256_candidato": "f7e5749b81bca7e38b3af81357c3f4b8ead2a3e876a4e5f0a5feebf0b04f9177",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2016/lei-19481-2016-id98797.md.gz",
+      "sha256_backup": "8d2895fcdbd6b8d9bf65830a810f2d1df2813d5a5030d89eba40d7a5a0e42430",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2016/lei-19481-2016-id98797.md.gz",
+      "sha256_candidato_gzip": "ede4a3eef036a569890a0a427e2487f0a4b35ffd7e02c5e729157783c9904d45",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2016/lei-19481-2016-id98797.html.gz",
+      "sha256_cache": "8dd268f39f9cf827eb9cd33a24704b257a48fc7d21ccd1af83f81ff91463198c",
+      "sha256_fonte": "c1161883a18486b75c19d16133e19fcd06bdf07faef3ac3907196f0cfc835ab5",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2016/lei-19481-2016-id98797.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 98797,
+        "ano": 2016,
+        "numero": "19.481",
+        "ementa": "Altera as Leis nºs 17.257, de 25 de janeiro de 2011, 13.802, de 19 de janeiro de 2001, e 19.260, de 15 de abril de 2016.",
+        "data_legislacao": "10/11/2016",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "10/11/2016",
+            "numero": "22.444",
+            "suplemento": "Sim",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/747"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2016/lei-19561-2016-id98877.md",
+      "id_oficial": "98877",
+      "sha256_preimagem": "01894515e316928571aa1e6dd21ab7b6d5914874a393e94e4dce852f5da08609",
+      "sha256_candidato": "c2d72d92e9bd18021cc16aad1a1e6ee92514ccb0c1060053ac4e2458d5ea36ec",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2016/lei-19561-2016-id98877.md.gz",
+      "sha256_backup": "c288cca29096527e55a2dab4d0674901a3938673baf23282e86eb798ef00f2c9",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2016/lei-19561-2016-id98877.md.gz",
+      "sha256_candidato_gzip": "c459b9c13b96d6b77bc8f90129a55a6b2dfb05c0ba4c16b4b0975dfcaeb28b91",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2016/lei-19561-2016-id98877.html.gz",
+      "sha256_cache": "c05d4c10dc758cda4295ac134d648c0f007bb7f5a175c52c2453834bc4fc671c",
+      "sha256_fonte": "bc2d25ccf7ca29fe36e11f530b0e413d11741c0c7c9177bb357e1d9e377119f9",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2016/lei-19561-2016-id98877.html.gz.gz",
+      "situacao_literal": "Declarada Inconstitucional",
+      "item_indice": {
+        "id": 98877,
+        "ano": 2016,
+        "numero": "19.561",
+        "ementa": "Revoga a lei que especifica e dá outras providências.",
+        "data_legislacao": "27/12/2016",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "29/12/2016",
+            "numero": "22.476",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/3006"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 6,
+          "nome": "Declarada Inconstitucional"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2018/lei-20128-2018-id100004.md",
+      "id_oficial": "100004",
+      "sha256_preimagem": "a48b9f645e121216a8ae5d9488c25819128100cc5b203d725262b2c9d0d6d97c",
+      "sha256_candidato": "35e36c4ca5805e3631a21bcb6198cf68f695e993df254051b20c856d071bf7ea",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2018/lei-20128-2018-id100004.md.gz",
+      "sha256_backup": "11a0f727141c6c633d14b39a96dc2cabae6f93eaa59655fd70a748f7037117ee",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2018/lei-20128-2018-id100004.md.gz",
+      "sha256_candidato_gzip": "2d3e8c53a0c21bf02434526844e8004ce8aaec4f1df633eb3bd928137c6dbe5e",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2018/lei-20128-2018-id100004.html.gz",
+      "sha256_cache": "2a2950e35177d75b58880a5e5301b64b826c5516bff3d92c63bde056c77dd42b",
+      "sha256_fonte": "80d12dd063934cafd9e636afb2f6f65050218b40ce673e0d5f45b8505517cfeb",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2018/lei-20128-2018-id100004.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 100004,
+        "ano": 2018,
+        "numero": "20.128",
+        "ementa": "Altera a Lei nº 17.257, de 25 de janeiro de 2011, na parte em que especifica.",
+        "data_legislacao": "13/06/2018",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "14/06/2018",
+            "numero": "22.828",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/3496"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2018/lei-20242-2018-id100177.md",
+      "id_oficial": "100177",
+      "sha256_preimagem": "c4b8429b9210dcd306a8f570c24a2423809dd9ab0fbd7ec86534f225c7d55fbc",
+      "sha256_candidato": "da42197d870dc21c04b2aad4509398b6ed46e0d5e2b1e0a6ee4fb897da27ef40",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2018/lei-20242-2018-id100177.md.gz",
+      "sha256_backup": "6fdba4f96b39968d4cc44265a4f9637022f8feb6c4a19e82f493669ab1a0ec32",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2018/lei-20242-2018-id100177.md.gz",
+      "sha256_candidato_gzip": "a7f83b727610ebd11d3aa85868b6b9e79fbeca8982ce9c71f46ee7797e7919bb",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2018/lei-20242-2018-id100177.html.gz",
+      "sha256_cache": "b7afece847b9825ce24cd114d2d01380ae1e37bb48f116d40c0cac6505e43db9",
+      "sha256_fonte": "16adbe18b2d393ca9ab445e6819db9094504f2ef0e8088357f696cdf8d0bb016",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2018/lei-20242-2018-id100177.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 100177,
+        "ano": 2018,
+        "numero": "20.242",
+        "ementa": "Altera dispositivo da Lei nº 17.257, de 25 de janeiro de 2011.",
+        "data_legislacao": "24/07/2018",
+        "link_externo": "",
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "27/07/2018",
+            "numero": "22.859",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/3537"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2020/lei-20894-2020-id103557.md",
+      "id_oficial": "103557",
+      "sha256_preimagem": "ebce162f7ec4d623842c3ea23311e2ebfbff8bb6a8352e28aed4c4e4e4e45719",
+      "sha256_candidato": "b5ff23ccf30cf2984681f72c6b8b4aad4465e87de45d948992957bce71641a09",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2020/lei-20894-2020-id103557.md.gz",
+      "sha256_backup": "9a7df39c6ed5c1d507cd92ef279a04dd1eeb3c2c35268135865343cedeb72b48",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2020/lei-20894-2020-id103557.md.gz",
+      "sha256_candidato_gzip": "9ecd9787161665afe888a70b2ae4a8d3e04e75dbb5cd0ddb26d9f8c9d1e1bd39",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2020/lei-20894-2020-id103557.html.gz",
+      "sha256_cache": "f10a682dfcc0d32db1f4f5406390d49f1ded4b1c364d4160e09a0b21e40bed3a",
+      "sha256_fonte": "4108b439f51b550044c9b518a8d3fce99f1cdc911b67c6bf50b08df3b2445819",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2020/lei-20894-2020-id103557.html.gz.gz",
+      "situacao_literal": "Declarada Inconstitucional",
+      "item_indice": {
+        "id": 103557,
+        "ano": 2020,
+        "numero": "20.894",
+        "ementa": "Dispõe sobre normas protetivas aos consumidores filiados às Associações de Socorro Mútuo no Estado de Goiás.",
+        "data_legislacao": "29/10/2020",
+        "link_externo": null,
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "29/10/2020",
+            "numero": "23.417",
+            "suplemento": "Sim",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/4448"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 6,
+          "nome": "Declarada Inconstitucional"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2021/lei-21199-2021-id104690.md",
+      "id_oficial": "104690",
+      "sha256_preimagem": "d88caf4f8e3012385f3b9de4e3d4bd66cb8849cedf0c1e8ea1993b3207f6c8c5",
+      "sha256_candidato": "7d5362d8a7e14b51df400a41a2239176cb7ca33ef1cd0fd2ea894aec5a142ee8",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2021/lei-21199-2021-id104690.md.gz",
+      "sha256_backup": "2daca6f9387ac36534950f6a024d30688d8f4fed78a369da50271a3a22dd91b4",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2021/lei-21199-2021-id104690.md.gz",
+      "sha256_candidato_gzip": "3d8973b48f628b11b648488d67e0f2e78d19aebf47f77fa862f11b0ac0daf70f",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2021/lei-21199-2021-id104690.html.gz",
+      "sha256_cache": "bd5e873ed30e9a448edfe5e8b9460d630012e22a6bc62d88440da665bc85b74a",
+      "sha256_fonte": "69d2a3a1a192e532185dc2c2e816695e39fccf361ef4c32384656ca3f14a98fd",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2021/lei-21199-2021-id104690.html.gz.gz",
+      "situacao_literal": "Declarada Inconstitucional",
+      "item_indice": {
+        "id": 104690,
+        "ano": 2021,
+        "numero": "21.199",
+        "ementa": "Altera as Leis nº 8.033, de 02 de dezembro de 1975, que dispõe sobre o Estatuto dos Policiais-Militares do Estado de Goiás e dá outras providências; e nº 11.416, de 05 de fevereiro de 1991, que baixa o Estatuto dos Bombeiros Militares do Estado.",
+        "data_legislacao": "15/12/2021",
+        "link_externo": null,
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "16/12/2021",
+            "numero": "23.698",
+            "suplemento": "Sim",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/4987"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 6,
+          "nome": "Declarada Inconstitucional"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2022/lei-21397-2022-id105588.md",
+      "id_oficial": "105588",
+      "sha256_preimagem": "80ae2f25cbd599361c35d13df9b5e5e9a270d17ac89ce15e47eee7a88dbc8b9b",
+      "sha256_candidato": "519001aa960e13461c9fcc1f072024ff97a336bee2660617a5e247871d239d5f",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2022/lei-21397-2022-id105588.md.gz",
+      "sha256_backup": "6db3270a1b0aa015f64a99dae5b66015cf219b6712af588effbddc9be869235a",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2022/lei-21397-2022-id105588.md.gz",
+      "sha256_candidato_gzip": "5ac4800cb12088201145b700bddd56913a4086df822ff7336abdc1cc0682af9c",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2022/lei-21397-2022-id105588.html.gz",
+      "sha256_cache": "4c417471a905ad91e2cf7fad73055ee3ce1ffcd0b75342f37c96317cb0018bef",
+      "sha256_fonte": "64c1c377996dd6ccd830525963eeed48d50dea26dd868422b011935606dce872",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2022/lei-21397-2022-id105588.html.gz.gz",
+      "situacao_literal": "Caducada",
+      "item_indice": {
+        "id": 105588,
+        "ano": 2022,
+        "numero": "21.397",
+        "ementa": "Dispõe sobre a revisão contratual de ajustes firmados pela Agência Goiana de Infraestrutura e Transportes – GOINFRA.",
+        "data_legislacao": "13/05/2022",
+        "link_externo": null,
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "16/05/2022",
+            "numero": "23.797",
+            "suplemento": "Sim",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/5167"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 8,
+          "nome": "Caducada"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2022/lei-21410-2022-id105607.md",
+      "id_oficial": "105607",
+      "sha256_preimagem": "3a97f67d87af1c88007b607abee11bb2c2eca91c90c0f7f6c1bdd3e9d17ec8f9",
+      "sha256_candidato": "5cdc0e425d332c4bb57632adcaeddef1b20f4f27b7e6147fe15ef87700909dc4",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2022/lei-21410-2022-id105607.md.gz",
+      "sha256_backup": "9960736088be4c6b5c4076f3b07b65682c00829a996784b509a49e5335df5b8f",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2022/lei-21410-2022-id105607.md.gz",
+      "sha256_candidato_gzip": "3c53b98bfb7182bdb53258e9baa59f0fabd3da703c890171411c2673e4959df9",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2022/lei-21410-2022-id105607.html.gz",
+      "sha256_cache": "ce80ea455c388705cdeb649d084cf31ae02ddb638173e77847a8346ddde2b80d",
+      "sha256_fonte": "d869f48748b13b2fe09f5a89fd06f20e2d99dd0fbf06f17635e731000613f789",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2022/lei-21410-2022-id105607.html.gz.gz",
+      "situacao_literal": "Declarada Inconstitucional",
+      "item_indice": {
+        "id": 105607,
+        "ano": 2022,
+        "numero": "21.410",
+        "ementa": "Institui a remissão tributária que especifica.",
+        "data_legislacao": "18/05/2022",
+        "link_externo": null,
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "20/05/2022",
+            "numero": "23.801",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/5173"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 6,
+          "nome": "Declarada Inconstitucional"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2023/lei-21784-2023-id106701.md",
+      "id_oficial": "106701",
+      "sha256_preimagem": "5943af922ad7f2e19e4842ebf847ef1454e0bc686c4376977dbec4ba887a9e4f",
+      "sha256_candidato": "085d0d27a74336b2b78ababb60e0641b4f455f9fd56a2d2315771c129bd515db",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2023/lei-21784-2023-id106701.md.gz",
+      "sha256_backup": "683c18d928da31c5d904fa6d35bdc74767f75f39f058154e8140d4b3a9e64c07",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2023/lei-21784-2023-id106701.md.gz",
+      "sha256_candidato_gzip": "bc1d855cd67ff83ac1d15434b7e71b220bb25ad332f33b133812f6262a3f3c8b",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2023/lei-21784-2023-id106701.html.gz",
+      "sha256_cache": "6133cebd6a11ee3758dfcf326a7c5678f7d6b9dbebec39ec99fcb5854fb1147a",
+      "sha256_fonte": "27c70d15d7651d78ca4f563ac0111f305e0b3afa08311d5d131a43028a6cf9d7",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2023/lei-21784-2023-id106701.html.gz.gz",
+      "situacao_literal": "Declarada Inconstitucional",
+      "item_indice": {
+        "id": 106701,
+        "ano": 2023,
+        "numero": "21.784",
+        "ementa": "Proíbe visitas íntimas nos estabelecimentos penitenciários do Estado de Goiás.",
+        "data_legislacao": "17/01/2023",
+        "link_externo": null,
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "18/01/2023",
+            "numero": "23.963",
+            "suplemento": "Sim",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/5491"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 6,
+          "nome": "Declarada Inconstitucional"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2023/lei-21831-2023-id106864.md",
+      "id_oficial": "106864",
+      "sha256_preimagem": "27252fd49b95eac4702a6f8ec2a5ddbb75ff56da1b5cabfa481c86449a4d77a4",
+      "sha256_candidato": "abb4bd43d783d5b8a7e20684d6f4e2c209d9f5a634ac3cf1938532ae2e2362b3",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2023/lei-21831-2023-id106864.md.gz",
+      "sha256_backup": "4fe31eecf6c6e7a61855b888857edb3cd7b474a15c2b07d4c77e4e81556c2067",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2023/lei-21831-2023-id106864.md.gz",
+      "sha256_candidato_gzip": "79e66e6ce28806074abc08f5c523e7691b0e01644038b2cad09fee22b3a29a9e",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2023/lei-21831-2023-id106864.html.gz",
+      "sha256_cache": "6bf2fd81be392136b2279871e0634dd07451a2e416dba9ff478ed04672d66c83",
+      "sha256_fonte": "5fa084578658b7ae7df9a4aed6b1361e35b07a530996e7cbd1518dcd13c7a51b",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2023/lei-21831-2023-id106864.html.gz.gz",
+      "situacao_literal": "Declarada Inconstitucional",
+      "item_indice": {
+        "id": 106864,
+        "ano": 2023,
+        "numero": "21.831",
+        "ementa": "Dispõe sobre a natureza da contraprestação pelo exercício de cargos em comissão e de funções de natureza administrativa ou de representação, de caráter temporário ou eventual, por membros e servidores do Poder Judiciário do Estado de Goiás.",
+        "data_legislacao": "26/03/2023",
+        "link_externo": null,
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "27/03/2023",
+            "numero": "24.009",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/5587"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 6,
+          "nome": "Declarada Inconstitucional"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2023/lei-21833-2023-id106865.md",
+      "id_oficial": "106865",
+      "sha256_preimagem": "be57ca7d235fdfc7e5976c6e59dd1b7342d17203c017926ffd719340f4eb4741",
+      "sha256_candidato": "766f2707bcdbfb942afa36edbb67aef422b910282888746b5a18cf5cd12d1d61",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2023/lei-21833-2023-id106865.md.gz",
+      "sha256_backup": "7ea4711c9988b5ca56a0d6f4181565c6889ec46779eb07439645a1259ce42a5d",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2023/lei-21833-2023-id106865.md.gz",
+      "sha256_candidato_gzip": "7192d353d582d7edc93e62c0a0904d83991f0abb745a56b72c9c41eaacfa3eba",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2023/lei-21833-2023-id106865.html.gz",
+      "sha256_cache": "349ae9841d0a41b25b64f16ab5496d43467b0dd6e6f1d21123ba459822ec75ef",
+      "sha256_fonte": "21eca730044498079feb2549d992e0ab706b7cb17158eb899ddc551be30f7733",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2023/lei-21833-2023-id106865.html.gz.gz",
+      "situacao_literal": "Declarada Inconstitucional",
+      "item_indice": {
+        "id": 106865,
+        "ano": 2023,
+        "numero": "21.833",
+        "ementa": "Dispõe sobre a natureza da contraprestação pelo exercício de cargos em comissão e de funções de natureza administrativa ou de representação pelos membros e servidores do Tribunal de Contas dos Municípios do Estado de Goiás e pelos procuradores do Ministério Público de Contas.",
+        "data_legislacao": "26/03/2023",
+        "link_externo": null,
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "27/03/2023",
+            "numero": "24.009",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/5587"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 6,
+          "nome": "Declarada Inconstitucional"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2024/lei-22640-2024-id108727.md",
+      "id_oficial": "108727",
+      "sha256_preimagem": "935bbea064e83d5e8cb6ff973c2e3cfab1c1ecdd9ed2b604f87e7ef0e405dcb4",
+      "sha256_candidato": "1f7fc60095d260140361e1a276dda8f1fe113b90e19abfe912816e6e35d74e08",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/leis-ordinarias/2024/lei-22640-2024-id108727.md.gz",
+      "sha256_backup": "716d09365931a789d5234f69a3a2b2f20a4805575dbfcfac76c5c861d3ffe7f9",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/leis-ordinarias/2024/lei-22640-2024-id108727.md.gz",
+      "sha256_candidato_gzip": "c003c6fa8753a7d96c1ec3dd56eaf8e19fd4c4b712e990a255fb55acc252db79",
+      "cache": "estaduais/GO/_fonte/leis-ordinarias/2024/lei-22640-2024-id108727.html.gz",
+      "sha256_cache": "b646c6877a4ad74274cddc2132b93b72838a5bfc2052df5e2ef2078a9da6d119",
+      "sha256_fonte": "4d41940f715a87352777ac357f3c7e5ed0b59031ed846ca12b6b6730b8971655",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/leis-ordinarias/2024/lei-22640-2024-id108727.html.gz.gz",
+      "situacao_literal": "Vigente a partir de 30/04/2027",
+      "item_indice": {
+        "id": 108727,
+        "ano": 2024,
+        "numero": "22.640",
+        "ementa": "Dispõe sobre medida de alerta e prevenção dos riscos decorrentes da queima do carvão vegetal.",
+        "data_legislacao": "29/04/2024",
+        "link_externo": null,
+        "tipo_legislacao": {
+          "id": 2,
+          "nome": "Lei Ordinária"
+        },
+        "diarios": [
+          {
+            "data_diario": "29/04/2024",
+            "numero": "24.275",
+            "suplemento": "Sim",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/6121"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 1,
+          "nome": "Vigente a partir de 30/04/2027"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    },
+    {
+      "path": "estaduais/GO/portarias/2026/port-orc-1-2026-id113456.md",
+      "id_oficial": "113456",
+      "sha256_preimagem": "4cc1274122e6f30ffad078c5be02712d901678bb4de6c27271e0da3771d8e841",
+      "sha256_candidato": "a4e5aeccd8d5d6e696a8719728d3da0da845ab7ca52f2a3aba2711c50ea27b24",
+      "backup": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/preimagens/estaduais/GO/portarias/2026/port-orc-1-2026-id113456.md.gz",
+      "sha256_backup": "7e911b373ef6c7d9d35868f00ffa46ff17d952851b3aeab3bec5b5ce6b210602",
+      "candidato": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/candidatos/estaduais/GO/portarias/2026/port-orc-1-2026-id113456.md.gz",
+      "sha256_candidato_gzip": "180b14fd3085c3d45678eb9612f2dd6864563cc934af605ce86cc58c8eb51f76",
+      "cache": "estaduais/GO/_fonte/portarias/2026/port-orc-1-2026-id113456.html.gz",
+      "sha256_cache": "14b1715381e01923b4ecced2a0194fe46fb6703df286870945ed8669aa88f9c8",
+      "sha256_fonte": "7a71a60dff4e84f2456262281fd50717456a04db0b076158708f1354a4ebfe00",
+      "backup_fonte": "estaduais/GO/_fonte/auditorias/status-conservador-20261021-002/fontes/estaduais/GO/_fonte/portarias/2026/port-orc-1-2026-id113456.html.gz.gz",
+      "situacao_literal": "Revogada Parcialmente",
+      "item_indice": {
+        "id": 113456,
+        "ano": 2026,
+        "numero": "1",
+        "ementa": "Ficam abertos à ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, TRIBUNAL DE CONTAS DOS MUNICÍPIOS, TRIBUNAL DE CONTAS DO ESTADO, créditos suplementares no valor global de R$ 27.786.607,53 (vinte e sete milhões setecentos e oitenta e seis mil seiscentos e sete reais e cinquenta e três centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.",
+        "data_legislacao": "21/01/2026",
+        "link_externo": null,
+        "tipo_legislacao": {
+          "id": 6,
+          "nome": "Portaria Orçamentária"
+        },
+        "diarios": [
+          {
+            "data_diario": "25/02/2026",
+            "numero": "24.726",
+            "suplemento": "Não",
+            "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/7070"
+          }
+        ],
+        "estado_legislacao": {
+          "id": 4,
+          "nome": "Revogada Parcialmente"
+        }
+      },
+      "evidencia": "Situação literal coincide entre metadado canônico e índice oficial preservado. Inconstitucionalidade, sem efeito e vigência futura não provam revogação integral; troca apenas revogada false para null. Não altera status literal, corpo, edição, número, data ou baixado_em.",
+      "corpo_byte_a_byte_igual": true,
+      "nao_e_mascara_texto": true
+    }
+  ]
+}

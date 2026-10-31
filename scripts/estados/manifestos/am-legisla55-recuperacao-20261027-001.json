@@ -1,0 +1,23 @@
+{
+  "recuperado_em": "2026-10-27T16:26:15.851730-03:00",
+  "total": 55,
+  "replay_aceitos": 55,
+  "dispositivo_proprio": 55,
+  "HEAD": "15eb09b618ff08a38c4dfee06a91bd139d093f5d",
+  "HEAD_ausentes": 55,
+  "aliases": 0,
+  "testes": 26,
+  "sem_promocao": true,
+  "sem_alteracao_canonicos_snapshots": true,
+  "mapas_persistentes": "estaduais/AM/_fonte/auditorias/recuperacao-am55-20261027-001",
+  "sha256_pacote": "37cf087df4a5e8acf6afce5b67b6023f716d7889e0ce0b1880d5ff9067508716",
+  "resumo": "estaduais/AM/_fonte/auditorias/recuperacao-am55-20261027-001/resumo-HEAD-atual.json",
+  "sha256_resumo": "5cdaf1729bf7faa56156bd9be8d7fbea06a15dded9e05a63fe92775e45d1ac12",
+  "QA_central": "_fonte/operacao_root_20261027/dependencias-qa.json",
+  "codigo": {
+    "scripts/estados/reexecutar_am55_recuperado.py": "e56cdbfed3309e612096c091c8635877f82e3945564118374ed4dfa13c8b8741",
+    "scripts/estados/snapshots/am55_recuperacao_20261027_001/reexecutar_am55_recuperado.py": "e56cdbfed3309e612096c091c8635877f82e3945564118374ed4dfa13c8b8741"
+  },
+  "comando_replay_unico": "PYTHONPATH=\"$PWD/scripts/bin/qa-20261027/python\" /Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/estados/snapshots/am55_recuperacao_20261027_001/reexecutar_am55_recuperado.py --pacote estaduais/AM/_fonte/auditorias/recuperacao-am55-20261027-001/pacote.json --head _fonte/operacao_root_20261027/am55-head-entrada.json --saida NOVO.jsonl --resumo NOVO-resumo.json",
+  "limite_prova_codigo": "29 hashes no recibo original +2 no recibo suplementar. Três helpers HEAD não tinham mapa SHA persistido: comparados byte a byte aos módulos próprios e novamente fixados em27/10, sem afirmar hash histórico perdido."
+}

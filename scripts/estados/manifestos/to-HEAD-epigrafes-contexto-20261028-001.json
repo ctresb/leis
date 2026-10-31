@@ -1,0 +1,1657 @@
+{
+  "preparado_em": "2026-10-28T10:58:53.271387-03:00",
+  "HEAD": "7b390204c0c3d7cbe3a7e78a779e5e1bba175e92",
+  "entrada": "estaduais/TO/_fonte/auditorias/to186-recortes-promocao-dry-run-20261028-001/HEAD-inventario.jsonl.gz",
+  "sha256_entrada": "b49c8b9b972e78fbd8d1a9111df3bd3e0bf1180952bf0cf26aec169d42bc0f9a",
+  "total_blobs": 2607,
+  "total_prospectivos": 717,
+  "sem_epigrafe_proxima": 60,
+  "divergencias_primeira_ocorrencia_numero": [
+    {
+      "path": "estaduais/TO/leis-ordinarias/1992/lei-488-1992.md",
+      "oid": "5f76106e361b8b9597671c3a9459937a20792f2b",
+      "sha256_md": "5e0ba68e16c54681234b6670f8b226d93118b1e0cf37323c298d9e9597cd7068",
+      "meta": {
+        "titulo": "Lei nº 488 de 1992 (ordinária)",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "488",
+        "data": "1992-04-09",
+        "ementa": "Declara de utilidade pública estadual a Associação Comunitária dos Moradores de Dois Irmãos do Tocantins - ACMDI.",
+        "versao_texto": "PDF do portal da Assembleia Legislativa",
+        "fonte": "https://www.al.to.leg.br/arquivo/6745",
+        "baixado_em": "2026-10-15"
+      },
+      "sha256_corpo_sem_H1": "67609f43c1f558be2ea8e886fb27b380df98137847f54e406eb10a8575a19a01",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "388",
+          "data_literal": ", DE 09 DE ABRIL DE 1992",
+          "ano_literal": "1992",
+          "offset": 0,
+          "trecho": "LEI Nº 388, DE 09 DE ABRIL DE 1992. Publicado no Diário Oficial nº 134\n\nAltera a Lei nº 348/91, de 24 de dezembro de 1991, que estabelece o Orçamento Geral do Estado.\n\nFaço saber que o Governador do Estado do Tocantins, adotou a M"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "348",
+          "data_literal": null,
+          "ano_literal": null,
+          "offset": 81,
+          "trecho": "LEI Nº 388, DE 09 DE ABRIL DE 1992. Publicado no Diário Oficial nº 134\n\nAltera a Lei nº 348/91, de 24 de dezembro de 1991, que estabelece o Orçamento Geral do Estado.\n\nFaço saber que o Governador do Estado do Tocantins, adotou a Medida Provisória nº 122, de 24 de março de 1992, e a Assembléia Legislativa do Es"
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "388",
+        "data_literal": ", DE 09 DE ABRIL DE 1992",
+        "ano_literal": "1992",
+        "offset": 0,
+        "trecho": "LEI Nº 388, DE 09 DE ABRIL DE 1992. Publicado no Diário Oficial nº 134\n\nAltera a Lei nº 348/91, de 24 de dezembro de 1991, que estabelece o Orçamento Geral do Estado.\n\nFaço saber que o Governador do Estado do Tocantins, adotou a M"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/1993/lei-537-1993.md",
+      "oid": "a1aa6d050a4b3b2224a969d7d0ba6a7e10fe8fd6",
+      "sha256_md": "f442a3b3c1a10f2d0a836f4d7784886fad750720aec911b923d0dac35794c26f",
+      "meta": {
+        "titulo": "Lei nº 537 de 1993 (ordinária)",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "537",
+        "data": "1993-04-30",
+        "ementa": "Disciplina a percepção da vantagem remuneratória que indica e dá outras providências.",
+        "versao_texto": "PDF do portal da Assembleia Legislativa",
+        "fonte": "https://www.al.to.leg.br/arquivo/6794",
+        "baixado_em": "2026-10-15"
+      },
+      "sha256_corpo_sem_H1": "9924bd4f9b24f2fea6b73f47522ad4c0a1de313565b448b7c59ceeee9cb54b02",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "255",
+          "data_literal": ", de 20 de fevereiro de 1991",
+          "ano_literal": "1991",
+          "offset": 722,
+          "trecho": "car, a serviço, para fora do País, terão direito à vantagem remuneratória de que trata o art. 84 da Lei nº 255, de 20 de fevereiro de 1991, observado o que dispõe o art. 85 do mesmo diploma.\n\n**Parágrafo único.** O Chefe do Poder Executivo baixará, periodicamente, a tabela dos valores a serem pagos por dia em que for devido o be"
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "255",
+        "data_literal": ", de 20 de fevereiro de 1991",
+        "ano_literal": "1991",
+        "offset": 722,
+        "trecho": "car, a serviço, para fora do País, terão direito à vantagem remuneratória de que trata o art. 84 da Lei nº 255, de 20 de fevereiro de 1991, observado o que dispõe o art. 85 do mesmo diploma.\n\n**Parágrafo único.** O Chefe do Poder Executivo baixará, periodicamente, a tabela dos valores a serem pagos por dia em que for devido o be"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/1993/lei-631-1993.md",
+      "oid": "69e754f849f643488bcc4191bac1a940997e70a6",
+      "sha256_md": "58603830563806ba9f68c684ea670c020af13af49322d0cd7ca02f94f61e600e",
+      "meta": {
+        "titulo": "Lei nº 631 de 1993 (ordinária)",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "631",
+        "data": "1993-12-21",
+        "ementa": "Determina a obrigatoriedade da pesagem do botijão de gás vazio na presença do consumidor e dá outras providências.",
+        "versao_texto": "PDF do portal da Assembleia Legislativa",
+        "fonte": "https://www.al.to.leg.br/arquivo/6887",
+        "baixado_em": "2026-10-15"
+      },
+      "sha256_corpo_sem_H1": "b8036ae3636f738293e5fc92e4524c9da2495e9091497b960871e3f7a44f7d79",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "615",
+          "data_literal": "DE 21 DE DEZEMBRO DE 1993",
+          "ano_literal": "1993",
+          "offset": 0,
+          "trecho": "LEI Nº 615 DE 21 DE DEZEMBRO DE 1993 Publicado no Diário Oficial nº 295\n\nEstima a receita e fixa a despesa, estabelecendo o programa de trabalho para o exercício de 1994.\n\nO Governador do Estado do Tocantins,\n\nFaço saber que a Ass"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "579",
+          "data_literal": null,
+          "ano_literal": null,
+          "offset": 1102,
+          "trecho": "iadas nesta Lei foram estabelecidas em consonância com a lei de diretrizes orçamentárias para 1994 (Lei nº 579/93, de 24 de agosto de 1993).\n\n### TÍTULO I Dos Orçamentos Fiscal e da Seguridade Social\n\n**Art. 2º.** A receita total é estimada, no mesmo valor da despesa total, em CR$ 38.249.330.800,00 (trinta e oito bilhões, duzent"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4320",
+          "data_literal": ", de 17 de março de 1964",
+          "ano_literal": "1964",
+          "offset": 5621,
+          "trecho": " Reserva de Contingência;\n\nb) de excesso de arrecadação, nos termos do artigo 43 § 1º, inciso II da Lei nº 4.320, de 17 de março de 1964;\n\nc) de anulação parcial de dotações orçamentárias autorizadas por esta Lei;\n\nd) de saldo de exercícios anteriores dos orçamentos das Entidades Supervisionadas e de excesso de arrecadação dos rec"
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "615",
+        "data_literal": "DE 21 DE DEZEMBRO DE 1993",
+        "ano_literal": "1993",
+        "offset": 0,
+        "trecho": "LEI Nº 615 DE 21 DE DEZEMBRO DE 1993 Publicado no Diário Oficial nº 295\n\nEstima a receita e fixa a despesa, estabelecendo o programa de trabalho para o exercício de 1994.\n\nO Governador do Estado do Tocantins,\n\nFaço saber que a Ass"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/1998/lei-979-1998.md",
+      "oid": "af5dbc5478c787980f48a6969391359ef851d03d",
+      "sha256_md": "7b9bd6ab79122675ae63f61604419e29ae00e3051d3691343b07b904cf3f2cd1",
+      "meta": {
+        "titulo": "Lei nº 979 de 1998 (ordinária)",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "979",
+        "data": "1998-04-30",
+        "ementa": "Declara de utilidade pública a Associação Comunitária de Bairros de Arapoema, com sede em Arapoema-TO.",
+        "versao_texto": "PDF do portal da Assembleia Legislativa",
+        "fonte": "https://www.al.to.leg.br/arquivo/7231",
+        "baixado_em": "2026-10-15"
+      },
+      "sha256_corpo_sem_H1": "f0778c7461df2211cf28a3c147ff35de22fca39697aa438513176cec6f6bc363",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "978",
+          "data_literal": ", DE 30 DE ABRIL DE 1998",
+          "ano_literal": "1998",
+          "offset": 0,
+          "trecho": "LEI Nº 978, DE 30 DE ABRIL DE 1998. Publicado no Diário Oficial nº 689 Revogada pela da Lei nº 1036, de 22/12/1998.\n\nAltera a redação dos arts. 1º e 2º da Lei nº 886, de 28 de dezembro de 1996.\n\nO Governador do Estado do Tocantins"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "1036",
+          "data_literal": null,
+          "ano_literal": null,
+          "offset": 88,
+          "trecho": "LEI Nº 978, DE 30 DE ABRIL DE 1998. Publicado no Diário Oficial nº 689 Revogada pela da Lei nº 1036, de 22/12/1998.\n\nAltera a redação dos arts. 1º e 2º da Lei nº 886, de 28 de dezembro de 1996.\n\nO Governador do Estado do Tocantins, Faço saber que a Assembléia Legislativa do Estado do Tocantins, aprova e eu sanciono a "
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "886",
+          "data_literal": ", de 28 de dezembro de 1996",
+          "ano_literal": "1996",
+          "offset": 155,
+          "trecho": " Oficial nº 689 Revogada pela da Lei nº 1036, de 22/12/1998.\n\nAltera a redação dos arts. 1º e 2º da Lei nº 886, de 28 de dezembro de 1996.\n\nO Governador do Estado do Tocantins, Faço saber que a Assembléia Legislativa do Estado do Tocantins, aprova e eu sanciono a seguinte Lei:\n\n**Art. 1°.** A Lei n.º 886, de 28 de dezembro de 19"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "886",
+          "data_literal": ", de 28 de dezembro de 1996",
+          "ano_literal": "1996",
+          "offset": 349,
+          "trecho": "Assembléia Legislativa do Estado do Tocantins, aprova e eu sanciono a seguinte Lei:\n\n**Art. 1°.** A Lei n.º 886, de 28 de dezembro de 1996, alterada pela Lei n.º 918 de 18 de julho de 1997, passa a viger com as seguintes alterações:\n\nI - altera a redação da alínea “b” do inciso III e acrescenta os incisos IV e V ao\n\nart. 1º:\n\n**A"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "918",
+          "data_literal": "de 18 de julho de 1997",
+          "ano_literal": "1997",
+          "offset": 403,
+          "trecho": "e eu sanciono a seguinte Lei:\n\n**Art. 1°.** A Lei n.º 886, de 28 de dezembro de 1996, alterada pela Lei n.º 918 de 18 de julho de 1997, passa a viger com as seguintes alterações:\n\nI - altera a redação da alínea “b” do inciso III e acrescenta os incisos IV e V ao\n\nart. 1º:\n\n**Art. 1º** ............................................."
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "978",
+        "data_literal": ", DE 30 DE ABRIL DE 1998",
+        "ano_literal": "1998",
+        "offset": 0,
+        "trecho": "LEI Nº 978, DE 30 DE ABRIL DE 1998. Publicado no Diário Oficial nº 689 Revogada pela da Lei nº 1036, de 22/12/1998.\n\nAltera a redação dos arts. 1º e 2º da Lei nº 886, de 28 de dezembro de 1996.\n\nO Governador do Estado do Tocantins"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/1998/lei-984-1998.md",
+      "oid": "bd48dd7500fa783aebe9b86bb05f1a49ee60505b",
+      "sha256_md": "44b6a66931d9b42a1f7f77fb289b3f1f6fe8c6311df7e96f355274d86efcb043",
+      "meta": {
+        "titulo": "Lei nº 984 de 1998 (ordinária)",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "984",
+        "data": "1998-05-28",
+        "ementa": "Modifica os parágrafos 1o e 2o do art. 79 e o art. 80 da Lei nº 255, de 20 de fevereiro de 1991, e dá outras providências.",
+        "versao_texto": "PDF do portal da Assembleia Legislativa",
+        "fonte": "https://www.al.to.leg.br/arquivo/7236",
+        "baixado_em": "2026-10-15"
+      },
+      "sha256_corpo_sem_H1": "1131879df4119e01d2d9777e0b19db6ca128031caa359f0b6d5d33d48d0814ba",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "982",
+          "data_literal": ", DE 28 DE MAIO DE 1998",
+          "ano_literal": "1998",
+          "offset": 0,
+          "trecho": "LEI Nº 982, DE 28 DE MAIO DE 1998. Publicado no Diário Oficial nº 701\n\nCria o Departamento de Estradas de Rodagem do Estado do Tocantins, remaneja e cria os cargos em comissão que especifica e adota outras providências.\n\nFaço sabe"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "982",
+          "data_literal": ", DE 28 DE MAIO DE 1998",
+          "ano_literal": "1998",
+          "offset": 7107,
+          "trecho": "xiliar VI # DAD-6 03 Auxiliar V # DAD-5 02 T O T A L 455\n\n# Cargos vinculados ao SEI.\n\nANEXO III DA LEI Nº 982, DE 28 DE MAIO DE 1998.\n\nSECRETARIA DA AGRICULTURA\n\nDENOMINAÇÃO DE CARGOS SÍMB. QTD. Secretário Executivo DAS-5 01 Secretário de Gabinete III DAD-10 01 Secretário de Gabinete II DAD-9 01 Motorista de Representação DAD-6"
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "982",
+        "data_literal": ", DE 28 DE MAIO DE 1998",
+        "ano_literal": "1998",
+        "offset": 0,
+        "trecho": "LEI Nº 982, DE 28 DE MAIO DE 1998. Publicado no Diário Oficial nº 701\n\nCria o Departamento de Estradas de Rodagem do Estado do Tocantins, remaneja e cria os cargos em comissão que especifica e adota outras providências.\n\nFaço sabe"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2022/lei-ordinaria-3902-2022-id365.md",
+      "oid": "0da33f87db1749871ec364a608305358450a37f3",
+      "sha256_md": "24a9f22219d844b563ce2d9ea51e18c13a5ba689c1454d877b483237d481912e",
+      "meta": {
+        "titulo": "Lei Ordinária nº 3.902, de 31 de março de 2022",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "3902",
+        "data": "2022-03-31",
+        "ementa": "Dispõe sobre a organização da Administração Direta e Indireta do Poder Executivo Estadual, altera a Lei Estadual nº 3.421, de 8 de março de 2019, e adota outras providências.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "",
+        "fonte": "https://sapl.al.to.leg.br/norma/365",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2022/365/autografo_de_lei_18-2022_000647.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "0ddad6905c14fda25cf86d9aa427e5d8b6606f78c4ceb5a95a2fc747b0f429df",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "18",
+          "data_literal": ", de 30 de março de 2022",
+          "ano_literal": "2022",
+          "offset": 111,
+          "trecho": "ido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.\n\n| Fls.\\_\n\nAUTÓGRAFO DE LEI N° 18, de 30 de março de 2022. Dispõe sobre a organização da Administração Direta e Indireta do Poder Executivo Estadual, altera a Lei Estadual nº 3.421, de 8 de março de 2019, e adota outras providências. A Assembleia Legisl"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "18",
+          "data_literal": ", de 30 de março de 2022",
+          "ano_literal": "2022",
+          "offset": 11973,
+          "trecho": "ado VALDEMAR JÚNIOR Deputado JAIR FARIAS 2° Secretário 1ª Secretário\n\nFIs.\n\nANEXO I AO AUTÓGRAFO DE LEI N° 18, de 30 de março de 2022. \"ANEXO I À LEI N 3.421, DE 8 DE MARÇO DE 2019. QUADRO DA ESTRUTURA ADMINISTRATIVA ADMINISTRAÇÃO DIRETA\"\n\nI - Governadoria:\n\na) Secretaria Executiva da Governadoria;\n\nb) Casa Civil;\n\nc) Casa Mili"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "3421",
+          "data_literal": ", DE 8 DE MARÇO DE 2019",
+          "ano_literal": "2019",
+          "offset": 12019,
+          "trecho": "cretário 1ª Secretário\n\nFIs.\n\nANEXO I AO AUTÓGRAFO DE LEI N° 18, de 30 de março de 2022. \"ANEXO I À LEI N 3.421, DE 8 DE MARÇO DE 2019. QUADRO DA ESTRUTURA ADMINISTRATIVA ADMINISTRAÇÃO DIRETA\"\n\nI - Governadoria:\n\na) Secretaria Executiva da Governadoria;\n\nb) Casa Civil;\n\nc) Casa Militar;\n\nd) Controladoria-Geral do Estado;\n\ne) Secr"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "18",
+          "data_literal": ", de 30 de março de 2022",
+          "ano_literal": "2022",
+          "offset": 14958,
+          "trecho": "ralizadas Assessor de Assuntos Institucionais e Representação em Brasília\n\nANEXO II AO AUTÓGRAFO DE LEI N° 18, de 30 de março de 2022. Assessor Especial de Imprensa do Gabinete do Governador\n\nANEXO II À LEI 3.421, DE 8 DE MARÇO DE 2019. QUADRO DA ESTRUTURA ADMINISTRATIVA RELAÇÃO DE CARGOS Assessor Especial do Gabinete do Govern"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "18",
+          "data_literal": ", de 30 de março de 2022",
+          "ano_literal": "2022",
+          "offset": 41535,
+          "trecho": " Gerência de Economia Criativa (NR)\n\n¡DIRLEG-AL FIs. 102 (NR) QUANTIDADE\n\nANEXO III AO AUTÓGRAFO DE LEI N° 18, de 30 de março de 2022. TABELA | - FUNÇÕES COMISSIONADAS DE ADMINISTRAÇÃO - \"ANEXO IV À LEI N 3.421, DE 8 DE MARÇO DE 2019. FCA DO ESTADO DO TOCANTINS\n\nVALOR (R$) 1.200,00 1.600.00 1.000.00 400.00 600,00 800.00 SÍMBOLO"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "3421",
+          "data_literal": ", DE 8 DE MARÇO DE 2019",
+          "ano_literal": "2019",
+          "offset": 41634,
+          "trecho": " LEI N° 18, de 30 de março de 2022. TABELA | - FUNÇÕES COMISSIONADAS DE ADMINISTRAÇÃO - \"ANEXO IV À LEI N 3.421, DE 8 DE MARÇO DE 2019. FCA DO ESTADO DO TOCANTINS\n\nVALOR (R$) 1.200,00 1.600.00 1.000.00 400.00 600,00 800.00 SÍMBOLO FCA-2 FCA-4 FCA-5 FCA-3 FCA-6 FCA-1\n\nFlS.æ 400,00 2.600,00 VALOR UNIT. VALOR UNIT. 600,00 600.00 1.2"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "3421",
+          "data_literal": ", DE 8 DE MARÇO DE 2019",
+          "ano_literal": "2019",
+          "offset": 42009,
+          "trecho": "SSIONADAS ESPECIAIS FC-EDUCAÇÃO-1 FC-EDUCAÇÃO-3 FC-EDUCAÇÃO-2 FC-FAZENDA-2 FC-FAZENDA-1 'ANEXO IV À LEI N 3.421, DE 8 DE MARÇO DE 2019. SÍMBOLO SÍMBOLO\n\nDISTRIBUIÇÃO SECRETARIA DA EDUCAÇÃO SECRETARIA DA FAZENDA DISTRIBUIÇÃO\n\nCoordenador Regional de Administração Supervisor da Agência de Atendimento Coordenador Regional de Arrecad"
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "18",
+        "data_literal": ", de 30 de março de 2022",
+        "ano_literal": "2022",
+        "offset": 111,
+        "trecho": "ido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.\n\n| Fls.\\_\n\nAUTÓGRAFO DE LEI N° 18, de 30 de março de 2022. Dispõe sobre a organização da Administração Direta e Indireta do Poder Executivo Estadual, altera a Lei Estadual nº 3.421, de 8 de março de 2019, e adota outras providências. A Assembleia Legisl"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2022/lei-ordinaria-3909-2022-id362.md",
+      "oid": "83d877274a86907399238e7bc4c88c9cde905520",
+      "sha256_md": "dd40f158a2832e1cb96a6f3ee13162be74abef5e5e8b4ea9d8cba76974e30490",
+      "meta": {
+        "titulo": "Lei Ordinária nº 3.909, de 01 de abril de 2022",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "3909",
+        "data": "2022-04-01",
+        "ementa": "Dispõe sobre a revisão geral da remuneração dos servidores do Quadro de Cargos Efetivos e do Quadro de Cargos de Provimento em Comissão do Poder Judiciário do Estado do Tocantins, e adota outras providências.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "",
+        "fonte": "https://sapl.al.to.leg.br/norma/362",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2022/362/autografo_de_lei_24-2022_000637.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "5e4024e3cea7d8b1562f82cf6b7fc60de3f25047bd2c476a141b88d5b98fb045",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "24",
+          "data_literal": ", de 30 de março de 2022",
+          "ano_literal": "2022",
+          "offset": 104,
+          "trecho": "xto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.\n\nS\n\nAUTÓGRAFO DE LEI N° 24, de 30 de março de 2022. Dispõe sobre a revisão geral da remuneração dos servidores do Quadro de Cargos Efetivos e do Quadro de Cargos de Provimento em Comissão do Poder Judiciário do Estado do Tocantins, e adota outras"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "2409",
+          "data_literal": ", de 16 de dezembro de 2010",
+          "ano_literal": "2010",
+          "offset": 896,
+          "trecho": "* A revisão é concedida sobre os valores dos vencimentos constantes nos Anexos IV, V, VII e VIII da Lei n° 2.409, de 16 de dezembro de 2010, que passam a vigorar, respectivamente, na conformidade dos Anexos I, II, III e IV a esta Lei.\n\n**Art. 2°** No exercício de 2022 as despesas decorrentes desta Lei serão custeadas com recursos "
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "24",
+          "data_literal": ", de 30 de março de 2022",
+          "ano_literal": "2022",
+          "offset": 1604,
+          "trecho": " JÚNIOR Deputado JAIR FARIAS 2° Secretário 1ª Secretário\n\n[DIRLEG-AL\n\nFIs.\n\nANEXO I AO AUTÓGRAFO DE LEI N° 24, de 30 de março de 2022. \"ANEXO IV A LEI N° 2.409, DE 16 DE NOVEMBRO DE 2010 CARREIRA DE NIVEL SUPERIOR PADRÃO\n\nCLASSE\n\nR$ 21.544,69 C R$ 20.325,18 R$ 18.646,95\n\nR$ 20.518,75 R$ 17.759,0ąłć R$ 19.357,31 C\n\nR$ 19.541,67 "
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "2409",
+          "data_literal": ", DE 16 DE NOVEMBRO DE 2010",
+          "ano_literal": "2010",
+          "offset": 1651,
+          "trecho": "ecretário\n\n[DIRLEG-AL\n\nFIs.\n\nANEXO I AO AUTÓGRAFO DE LEI N° 24, de 30 de março de 2022. \"ANEXO IV A LEI N° 2.409, DE 16 DE NOVEMBRO DE 2010 CARREIRA DE NIVEL SUPERIOR PADRÃO\n\nCLASSE\n\nR$ 21.544,69 C R$ 20.325,18 R$ 18.646,95\n\nR$ 20.518,75 R$ 17.759,0ąłć R$ 19.357,31 C\n\nR$ 19.541,67 R$ 16.913,34 R$ 18.435,54\n\nC R$ 16.107,9ął\n\nR$ 17."
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "24",
+          "data_literal": ", de 30 de março de 2022",
+          "ano_literal": "2022",
+          "offset": 3020,
+          "trecho": "6,65 R$ 6.824,54 R$ 6.438,25\n\nR$ 5.625,38 R$ 6.499,56 R$ 6.131,66\n\nA ỊNR)\n\nANEXO II AO AUTÓGRAFO DE LEI N° 24, de 30 de março de 2022.\n\nDIRLEG-AT FIs. 3.7\n\n\"ANEXO V À LEI N° 2.409, DE 16 DE NOVEMBRO DE 2010 CARGOS DE PROVIMENTO EM COMISSÃO VALOR VALOR VALOR NOME DO CARGO SIMBOLO QTD MAI/22 JAN/2022 MAIO/2019 R$ 24.804,92 R$ 21."
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "2409",
+          "data_literal": ", DE 16 DE NOVEMBRO DE 2010",
+          "ano_literal": "2010",
+          "offset": 3087,
+          "trecho": "A ỊNR)\n\nANEXO II AO AUTÓGRAFO DE LEI N° 24, de 30 de março de 2022.\n\nDIRLEG-AT FIs. 3.7\n\n\"ANEXO V À LEI N° 2.409, DE 16 DE NOVEMBRO DE 2010 CARGOS DE PROVIMENTO EM COMISSÃO VALOR VALOR VALOR NOME DO CARGO SIMBOLO QTD MAI/22 JAN/2022 MAIO/2019 R$ 24.804,92 R$ 21.468,69 DAJ-11 R$ 23.400,87\n\nDIRETOR-GERAL CHEFE DE GABINETE DA PRESIDÊ"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "24",
+          "data_literal": ", de 30 de março de 2022",
+          "ano_literal": "2022",
+          "offset": 12625,
+          "trecho": "R$ 1.803,57 FC-2 R$ 1.403,24 R$ 1.342,48 R$ 1.551,10\n\nFC-1 \"(NR)\n\nFls.\\_\n\nANEXO III AO AUTÓGRAFO DE LEI N° 24, de 30 de março de 2022. \"ANEXO VII À LEI N° 2.409, DE 16 DE NOVEMBRO DE 2010. CARGOS EM REGIME DE EXTINÇÃO TABELA I OFICIAL DE JUSTIÇA AVALIADOR, ESCRIVÃO, ESCRIVÃO SECRETARIO E CONTADOR/DISTRIBUIDOR PADRÃO CLASSE\n\nR$ "
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "2409",
+          "data_literal": ", DE 16 DE NOVEMBRO DE 2010",
+          "ano_literal": "2010",
+          "offset": 12673,
+          "trecho": "1,10\n\nFC-1 \"(NR)\n\nFls.\\_\n\nANEXO III AO AUTÓGRAFO DE LEI N° 24, de 30 de março de 2022. \"ANEXO VII À LEI N° 2.409, DE 16 DE NOVEMBRO DE 2010. CARGOS EM REGIME DE EXTINÇÃO TABELA I OFICIAL DE JUSTIÇA AVALIADOR, ESCRIVÃO, ESCRIVÃO SECRETARIO E CONTADOR/DISTRIBUIDOR PADRÃO CLASSE\n\nR$ 20.325,18 R$ 21.544,69 R$ 18.646,9Ęł\n\nC R$ 20.518,7"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "24",
+          "data_literal": ", de 30 de março de 2022",
+          "ano_literal": "2022",
+          "offset": 14137,
+          "trecho": "2.584,40\n\nR$ 2.461,33 R$ 2.843,82 R$ 2.682,85 A \"(NR)\n\nDIRLEG-A 1 Fis. 43\n\nANEXO IV AO AUTÓGRAFO DE LEI N° 24, de 30 de março de 2022. \"ANEXO VIII À LEI N° 2.409, DE 16 DE NOVEMBRO DE 2010. CARGOS EM REGIME DE EXTINÇÃO OFICIAL DE REGISTRO CIVIL E DEPOSITÁRIO PUBLICO, PORTEIROS DOS AUDITÓRIOS/DISTRIBUIDOR E PORTEIRO DOS AUDITÓRI"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "2409",
+          "data_literal": ", DE 16 DE NOVEMBRO DE 2010",
+          "ano_literal": "2010",
+          "offset": 14186,
+          "trecho": "(NR)\n\nDIRLEG-A 1 Fis. 43\n\nANEXO IV AO AUTÓGRAFO DE LEI N° 24, de 30 de março de 2022. \"ANEXO VIII À LEI N° 2.409, DE 16 DE NOVEMBRO DE 2010. CARGOS EM REGIME DE EXTINÇÃO OFICIAL DE REGISTRO CIVIL E DEPOSITÁRIO PUBLICO, PORTEIROS DOS AUDITÓRIOS/DISTRIBUIDOR E PORTEIRO DOS AUDITÓRIOS PADRÃO\n\nCLASSE R$ 12.140,28 R$ 12.868,69\n\nR$ 11.1"
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "24",
+        "data_literal": ", de 30 de março de 2022",
+        "ano_literal": "2022",
+        "offset": 104,
+        "trecho": "xto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.\n\nS\n\nAUTÓGRAFO DE LEI N° 24, de 30 de março de 2022. Dispõe sobre a revisão geral da remuneração dos servidores do Quadro de Cargos Efetivos e do Quadro de Cargos de Provimento em Comissão do Poder Judiciário do Estado do Tocantins, e adota outras"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2022/lei-ordinaria-3918-2022-id381.md",
+      "oid": "7cbd98a8ccb177b4f0edda883a6fb27cfea2cc90",
+      "sha256_md": "126426f2919ade9ce0a297257c311af86c536a34938242ce8e93d27a3f9ca2be",
+      "meta": {
+        "titulo": "Lei Ordinária nº 3.918, de 08 de abril de 2022",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "3918",
+        "data": "2022-04-08",
+        "ementa": "Declara de utilidade pública estadual o Instituto Criativo do Tocantins.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "",
+        "fonte": "https://sapl.al.to.leg.br/norma/381",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2022/381/autografo_de_lei_31-2022_000683.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "565c0991446f2f52d73f8e2264ed334bf0055159ba4796018cfbae3aa070af53",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "31",
+          "data_literal": ", de 30 de março de 2022",
+          "ano_literal": "2022",
+          "offset": 158,
+          "trecho": "ter erros de reconhecimento.\n\nDIRLEG-AL | Fls.\\_ ESTADO DO TOCANTINS PODER LEGISLATIVO AUTÓGRAFO DE LEI Nº 31, de 30 de março de 2022. Declara de utilidade pública estadual o Instituto Criativo do Tocantins. A Assembleia Legislativa do Estado do Tocantins aprova e eu sanciono a seguinte Lei:\n\n**Art. 1°** Fica declarada de utili"
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "31",
+        "data_literal": ", de 30 de março de 2022",
+        "ano_literal": "2022",
+        "offset": 158,
+        "trecho": "ter erros de reconhecimento.\n\nDIRLEG-AL | Fls.\\_ ESTADO DO TOCANTINS PODER LEGISLATIVO AUTÓGRAFO DE LEI Nº 31, de 30 de março de 2022. Declara de utilidade pública estadual o Instituto Criativo do Tocantins. A Assembleia Legislativa do Estado do Tocantins aprova e eu sanciono a seguinte Lei:\n\n**Art. 1°** Fica declarada de utili"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2023/lei-ordinaria-1-2023-id518.md",
+      "oid": "f7c6f98a8f581cb615bb866ca73b6b25fec6cf31",
+      "sha256_md": "d0c533c601a9da4cea4e0ca5784ed300062e7cc95a9b5872dd3e36819e3fb916",
+      "meta": {
+        "titulo": "Lei Ordinária nº 1, de 27 de janeiro de 2023",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "1",
+        "data": "2023-01-27",
+        "ementa": "Altera a Lei nº 3.756, de 04 de janeiro de 2021.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "DOE 6.234",
+        "fonte": "https://sapl.al.to.leg.br/norma/518",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2023/518/lei_4057-2022.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "9de9e61af8329a54c33567748d49093c5c5a7d074198fc076e78c509107281b5",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4057",
+          "data_literal": ", DE 21 DE DEZEMBRO DE 2022",
+          "ano_literal": "2022",
+          "offset": 0,
+          "trecho": "LEI Nº 4.057, DE 21 DE DEZEMBRO DE 2022. Publicado no Diário Oficial nº 6.234 de 21/12/2022.\n\nAltera a Lei nº 3.756, de 04 de janeiro de 2021.\n\nO GOVERNADOR DO ESTADO DO TOCANTINS,\n\nFaço saber que a ASSEMBLEIA LEGISLATIVA DO ESTADO "
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "3756",
+          "data_literal": ", de 04 de janeiro de 2021",
+          "ano_literal": "2021",
+          "offset": 103,
+          "trecho": " Nº 4.057, DE 21 DE DEZEMBRO DE 2022. Publicado no Diário Oficial nº 6.234 de 21/12/2022.\n\nAltera a Lei nº 3.756, de 04 de janeiro de 2021.\n\nO GOVERNADOR DO ESTADO DO TOCANTINS,\n\nFaço saber que a ASSEMBLEIA LEGISLATIVA DO ESTADO DO TOCANTINS decreta e eu sanciono a seguinte Lei:\n\n**Art. 1º** A ementa da Lei nº 3.756, de 04 de jane"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "3756",
+          "data_literal": ", de 04 de janeiro de 2021",
+          "ano_literal": "2021",
+          "offset": 308,
+          "trecho": "A LEGISLATIVA DO ESTADO DO TOCANTINS decreta e eu sanciono a seguinte Lei:\n\n**Art. 1º** A ementa da Lei nº 3.756, de 04 de janeiro de 2021 passa a vigorar com a seguinte redação: “Denomina o Parque Agrotecnológico do Estado do Tocantins, localizado no município de Palmas.”\n\n**Art. 2º** O art. 1º da Lei nº 3.756, de 04 de janeiro d"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "3756",
+          "data_literal": ", de 04 de janeiro de 2021",
+          "ano_literal": "2021",
+          "offset": 508,
+          "trecho": "rotecnológico do Estado do Tocantins, localizado no município de Palmas.”\n\n**Art. 2º** O art. 1º da Lei nº 3.756, de 04 de janeiro de 2021 passa a vigorar com a seguinte redação: “Art. 1º Fica denominado “Parque Agrotecnológico Engenheiro Agrônomo Mauro Medanha” o Parque Agrotecnológico do Estado do Tocantins, localizado no municí"
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "4057",
+        "data_literal": ", DE 21 DE DEZEMBRO DE 2022",
+        "ano_literal": "2022",
+        "offset": 0,
+        "trecho": "LEI Nº 4.057, DE 21 DE DEZEMBRO DE 2022. Publicado no Diário Oficial nº 6.234 de 21/12/2022.\n\nAltera a Lei nº 3.756, de 04 de janeiro de 2021.\n\nO GOVERNADOR DO ESTADO DO TOCANTINS,\n\nFaço saber que a ASSEMBLEIA LEGISLATIVA DO ESTADO "
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2023/lei-ordinaria-4188-2023-id616.md",
+      "oid": "5cfce28c6bbdeccdfb654365e1496bbdac46a3cf",
+      "sha256_md": "cb2dd8ec6c25015e7ffa9cebfceacfdc04376e13f1a301fe5d7882e63c0da7a7",
+      "meta": {
+        "titulo": "Lei Ordinária nº 4.188, de 03 de fevereiro de 2023",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "4188",
+        "data": "2023-02-03",
+        "ementa": "Assegura o direito à Pessoa com deficiência auditiva ou de afonia, a capacidade plena e independente de acionarem os canais de emergência no âmbito do Estado do Tocantins.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "DOE nº 6239",
+        "fonte": "https://sapl.al.to.leg.br/norma/616",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2023/616/lei_4088-2022.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "7525c04a754da373378212082d4a0e9bf4e701c12adf4d77707a1c994bd2c90d",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4088",
+          "data_literal": ", DE 28 DE DEZEMBRO DE 2022",
+          "ano_literal": "2022",
+          "offset": 0,
+          "trecho": "LEI Nº 4.088, DE 28 DE DEZEMBRO DE 2022. Publicado no Diário Oficial nº 6.239 de 29/12/2022.\n\nAssegura o direito à Pessoa com deficiência auditiva ou de afonia, a capacidade plena e independente de acionarem os canais de emergência "
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "4088",
+        "data_literal": ", DE 28 DE DEZEMBRO DE 2022",
+        "ano_literal": "2022",
+        "offset": 0,
+        "trecho": "LEI Nº 4.088, DE 28 DE DEZEMBRO DE 2022. Publicado no Diário Oficial nº 6.239 de 29/12/2022.\n\nAssegura o direito à Pessoa com deficiência auditiva ou de afonia, a capacidade plena e independente de acionarem os canais de emergência "
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2023/lei-ordinaria-4231-2023-id693.md",
+      "oid": "bbbeb34ddb8246bc616ba0cc43100a2ec91e5800",
+      "sha256_md": "0f051b91e8b93d0474dd11867b127416a1fce6cc8bc1e0bf812530931a3a8227",
+      "meta": {
+        "titulo": "Lei Ordinária nº 4.231, de 20 de junho de 2023",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "4231",
+        "data": "2023-06-20",
+        "ementa": "Dispõe sobre o subsídio dos membros do Ministério Público do Estado do Tocantins.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "DOE",
+        "fonte": "https://sapl.al.to.leg.br/norma/693",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2023/693/lei_4180-2023_65475.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "0d70674ea1454559d91768009b53396cf4f93a7bce2a68ea6e17edb054520a9c",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4180",
+          "data_literal": ", DE 23 DE JUNHO DE 2023",
+          "ano_literal": "2023",
+          "offset": 0,
+          "trecho": "LEI Nº 4.180, DE 23 DE JUNHO DE 2023. Publicado no Diário Oficial nº 6.355 de 23/06/2023.\n\nDispõe sobre o subsídio dos membros do Ministério Público do Estado do Tocantins.\n\nO GOVERNADOR DO ESTADO DO TOCANTINS,\n\nFaço saber que a ASS"
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "4180",
+        "data_literal": ", DE 23 DE JUNHO DE 2023",
+        "ano_literal": "2023",
+        "offset": 0,
+        "trecho": "LEI Nº 4.180, DE 23 DE JUNHO DE 2023. Publicado no Diário Oficial nº 6.355 de 23/06/2023.\n\nDispõe sobre o subsídio dos membros do Ministério Público do Estado do Tocantins.\n\nO GOVERNADOR DO ESTADO DO TOCANTINS,\n\nFaço saber que a ASS"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2023/lei-ordinaria-4350-2023-id632.md",
+      "oid": "72d7d46c6bc5af20a80cd0a897f5564a804c3d86",
+      "sha256_md": "7bb43a4712d6019ddb377ef13d6307f0548a62a4069d050185cd9aee63f87b48",
+      "meta": {
+        "titulo": "Lei Ordinária nº 4.350, de 24 de março de 2023",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "4350",
+        "data": "2023-03-24",
+        "ementa": "Altera o art. 1º-A da Lei nº 1.303, de 20 de março de 2002, que reduz a base de cálculo, concede isenção e crédito presumido de ICMS nas operações que especifica.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "Diário Oficial do Estado do Tocantins",
+        "fonte": "https://sapl.al.to.leg.br/norma/632",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2023/632/lei_4139-2023_62674.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "8c5f68261d8e8fcbc88e3bde122e91d91d6c3d0891a30ebb45700b7ccc97b2a9",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4139",
+          "data_literal": ", DE 22 DE MARÇO DE 2023",
+          "ano_literal": "2023",
+          "offset": 0,
+          "trecho": "LEI Nº 4.139, DE 22 DE MARÇO DE 2023. Publicado no Diário Oficial nº 6.297 de 24/03/2023.\n\nAltera o art. 1º-A da Lei nº 1.303, de 20 de março de 2002, que reduz a base de cálculo, concede isenção e crédito presumido de ICMS nas oper"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "1303",
+          "data_literal": ", de 20 de março de 2002",
+          "ano_literal": "2002",
+          "offset": 113,
+          "trecho": " DE 22 DE MARÇO DE 2023. Publicado no Diário Oficial nº 6.297 de 24/03/2023.\n\nAltera o art. 1º-A da Lei nº 1.303, de 20 de março de 2002, que reduz a base de cálculo, concede isenção e crédito presumido de ICMS nas operações que especifica.\n\nFaço saber que o Governador do Estado do Tocantins adotou a Medida Provisória n° 31, de 27"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "1303",
+          "data_literal": ", de 20 de março de 2002",
+          "ano_literal": "2002",
+          "offset": 594,
+          "trecho": "o no §3º, do art. 27 da Constituição Estadual, promulgo a seguinte Lei:\n\n**Art. 1º** O art. 1º-A da Lei no 1.303, de 20 de março de 2002, passa a vigorar com as seguintes alterações:\n\n“Art. 1º-A. ...........................................................................................................................\n\nI .-......."
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "4139",
+        "data_literal": ", DE 22 DE MARÇO DE 2023",
+        "ano_literal": "2023",
+        "offset": 0,
+        "trecho": "LEI Nº 4.139, DE 22 DE MARÇO DE 2023. Publicado no Diário Oficial nº 6.297 de 24/03/2023.\n\nAltera o art. 1º-A da Lei nº 1.303, de 20 de março de 2002, que reduz a base de cálculo, concede isenção e crédito presumido de ICMS nas oper"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2023/lei-ordinaria-4351-2023-id633.md",
+      "oid": "5d4131c8813728856a1325d83ce73120a9d0362f",
+      "sha256_md": "a73a56758a42f4a48db12bc6d075aead9181abced82f3e2523f68259399f65a6",
+      "meta": {
+        "titulo": "Lei Ordinária nº 4.351, de 24 de março de 2023",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "4351",
+        "data": "2023-03-24",
+        "ementa": "Altera o art. 71 da Lei nº 1.287, de 28 de dezembro de 2001, que dispõe sobre o Código Tributário do Estado do Tocantins.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "Diário Oficial do Estado do Tocantins",
+        "fonte": "https://sapl.al.to.leg.br/norma/633",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2023/633/lei_4140-2023_62675.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "1291607c50cd4bbf203e3737e74173506f03feb8b3dbef8da01a9c2e515de027",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4140",
+          "data_literal": ", DE 22 DE MARÇO DE 2023",
+          "ano_literal": "2023",
+          "offset": 0,
+          "trecho": "LEI Nº 4.140, DE 22 DE MARÇO DE 2023. Publicado no Diário Oficial nº 6.297 de 24/03/2023.\n\nAltera o art. 71 da Lei nº 1.287, de 28 de dezembro de 2001, que dispõe sobre o Código Tributário do Estado do Tocantins.\n\nFaço saber que o G"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "1287",
+          "data_literal": ", de 28 de dezembro de 2001",
+          "ano_literal": "2001",
+          "offset": 111,
+          "trecho": "0, DE 22 DE MARÇO DE 2023. Publicado no Diário Oficial nº 6.297 de 24/03/2023.\n\nAltera o art. 71 da Lei nº 1.287, de 28 de dezembro de 2001, que dispõe sobre o Código Tributário do Estado do Tocantins.\n\nFaço saber que o Governador do Estado do Tocantins adotou a Medida Provisória n° 32, de 27 de dezembro de 2022, a Assembleia Legi"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "1287",
+          "data_literal": ", de 28 de dezembro de 2001",
+          "ano_literal": "2001",
+          "offset": 551,
+          "trecho": "sto no §3º, do art. 27 da Constituição Estadual, promulgo a seguinte Lei:\n\n**Art. 1º** O art. 71 da Lei nº 1.287, de 28 de dezembro de 2001, passa a vigorar com as seguintes alterações:\n\n“Art. 71. ......................................................................................................................................."
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "4140",
+        "data_literal": ", DE 22 DE MARÇO DE 2023",
+        "ano_literal": "2023",
+        "offset": 0,
+        "trecho": "LEI Nº 4.140, DE 22 DE MARÇO DE 2023. Publicado no Diário Oficial nº 6.297 de 24/03/2023.\n\nAltera o art. 71 da Lei nº 1.287, de 28 de dezembro de 2001, que dispõe sobre o Código Tributário do Estado do Tocantins.\n\nFaço saber que o G"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2023/lei-ordinaria-4352-2023-id634.md",
+      "oid": "a5cd6bc59acd0b7ae474dc78aafcc1067de2e268",
+      "sha256_md": "cee14f20935538dd451ec9a8f3e828c7f6e1103e68e141bb25b7a91a6004f008",
+      "meta": {
+        "titulo": "Lei Ordinária nº 4.352, de 24 de março de 2023",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "4352",
+        "data": "2023-03-24",
+        "ementa": "Altera o art. 27 da Lei nº 1.287, de 28 de dezembro de 2001, que dispõe sobre o Código Tributário do Estado do Tocantins.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "Diário Oficial do Estado do Tocantins",
+        "fonte": "https://sapl.al.to.leg.br/norma/634",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2023/634/lei_4141-2023_62676.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "c1f525ac593acb74ad21848061c23f23eac44a8d31cfce4227510c424a658809",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4141",
+          "data_literal": ", DE 22 DE MARÇO DE 2023",
+          "ano_literal": "2023",
+          "offset": 0,
+          "trecho": "LEI Nº 4.141, DE 22 DE MARÇO DE 2023. Publicado no Diário Oficial nº 6.297 de 24/03/2023.\n\nAltera o art. 27 da Lei nº 1.287, de 28 de dezembro de 2001, que dispõe sobre o Código Tributário do Estado do Tocantins.\n\nFaço saber que o G"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "1287",
+          "data_literal": ", de 28 de dezembro de 2001",
+          "ano_literal": "2001",
+          "offset": 111,
+          "trecho": "1, DE 22 DE MARÇO DE 2023. Publicado no Diário Oficial nº 6.297 de 24/03/2023.\n\nAltera o art. 27 da Lei nº 1.287, de 28 de dezembro de 2001, que dispõe sobre o Código Tributário do Estado do Tocantins.\n\nFaço saber que o Governador do Estado do Tocantins adotou a Medida Provisória n° 33, de 29 de dezembro de 2022, a Assembleia Legi"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "1287",
+          "data_literal": ", de 28 de dezembro de 2001",
+          "ano_literal": "2001",
+          "offset": 551,
+          "trecho": "sto no §3º, do art. 27 da Constituição Estadual, promulgo a seguinte Lei:\n\n**Art. 1º** O art. 27 da Lei nº 1.287, de 28 de dezembro de 2001, passa a vigorar com as seguintes alterações:\n\n“Art. 27. ..............................................................................................................................\n\n......."
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "4141",
+        "data_literal": ", DE 22 DE MARÇO DE 2023",
+        "ano_literal": "2023",
+        "offset": 0,
+        "trecho": "LEI Nº 4.141, DE 22 DE MARÇO DE 2023. Publicado no Diário Oficial nº 6.297 de 24/03/2023.\n\nAltera o art. 27 da Lei nº 1.287, de 28 de dezembro de 2001, que dispõe sobre o Código Tributário do Estado do Tocantins.\n\nFaço saber que o G"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2023/lei-ordinaria-4354-2023-id644.md",
+      "oid": "63790f9f69a60e1a0de784b4ed325f2c5c1139d0",
+      "sha256_md": "7d90ba10b70cf1a17cab9d843cb3eec72c9ba49f4f9f3358e35cb74405be1b48",
+      "meta": {
+        "titulo": "Lei Ordinária nº 4.354, de 26 de maio de 2023",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "4354",
+        "data": "2023-05-26",
+        "ementa": "Altera a Lei nº 3.421, de 8 de março de 2019, que dispõe sobre a organização da Administração Direta e Indireta do Poder Executivo Estadual, e adota outras providências.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "DOE",
+        "fonte": "https://sapl.al.to.leg.br/norma/644",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2023/644/lei_4151-2023_63459.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "f31b1d1aed21fd46adc2e6f2765710feb1ef6c7e07c72b3a3cfdac22ffad7a9f",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4151",
+          "data_literal": ", DE 28 DE ABRIL DE 2023",
+          "ano_literal": "2023",
+          "offset": 0,
+          "trecho": "LEI Nº 4.151, DE 28 DE ABRIL DE 2023. Publicado no Diário Oficial nº 6.318 de 28/04/2023.\n\nAltera a Lei nº 3.421, de 8 de março de 2019, que dispõe sobre a organização da Administração Direta e Indireta do Poder Executivo Estadual, "
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "3421",
+          "data_literal": ", de 8 de março de 2019",
+          "ano_literal": "2019",
+          "offset": 100,
+          "trecho": "LEI Nº 4.151, DE 28 DE ABRIL DE 2023. Publicado no Diário Oficial nº 6.318 de 28/04/2023.\n\nAltera a Lei nº 3.421, de 8 de março de 2019, que dispõe sobre a organização da Administração Direta e Indireta do Poder Executivo Estadual, e adota outras providências.\n\nO GOVERNADOR DO ESTADO DO TOCANTINS, Faço saber que a ASSEMBLEIA LEGIS"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "3421",
+          "data_literal": ", de 8 de março de 2019",
+          "ano_literal": "2019",
+          "offset": 1109,
+          "trecho": "bservando-se valores e símbolos, que integram os órgãos de que tratam este artigo são constantes da Lei nº 3.421, de 8 de março de 2019.\n\n**Art. 3º** A Companhia Imobiliária do Estado do Tocantins - TERRATINS, de que trata a\n\nLei nº 2.616, de 8 de agosto de 2012, passa a denominar-se Companhia Imobiliária de Participações, Investi"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "2616",
+          "data_literal": ", de 8 de agosto de 2012",
+          "ano_literal": "2012",
+          "offset": 1235,
+          "trecho": "o de 2019.\n\n**Art. 3º** A Companhia Imobiliária do Estado do Tocantins - TERRATINS, de que trata a\n\nLei nº 2.616, de 8 de agosto de 2012, passa a denominar-se Companhia Imobiliária de Participações, Investimento e Parcerias - Tocantins Parcerias.\n\n**Art. 4º** A Lei nº 3.421, de 8 de março de 2019, passa a vigorar com as seguintes "
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "3421",
+          "data_literal": ", de 8 de março de 2019",
+          "ano_literal": "2019",
+          "offset": 1397,
+          "trecho": "panhia Imobiliária de Participações, Investimento e Parcerias - Tocantins Parcerias.\n\n**Art. 4º** A Lei nº 3.421, de 8 de março de 2019, passa a vigorar com as seguintes alterações: “...........................................................................................................................................\n\nArt. 2º."
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "2616",
+          "data_literal": ", de 8 de agosto de 2012",
+          "ano_literal": "2012",
+          "offset": 20068,
+          "trecho": " pessoal é o previsto na legislação trabalhista e nas normas acidentárias, nos termos do art. 11 da Lei no 2.616, de 8 de agosto de 2012; ............................................................................................................................................. ...................................................."
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "3421",
+          "data_literal": ", de 8 de março de 2019",
+          "ano_literal": "2019",
+          "offset": 20423,
+          "trecho": "........................................................”(NR)\n\n**Art. 5º** Os Anexos I, II e III da Lei nº 3.421, de 8 de março de 2019, passam a vigorar com as alterações constantes dos Anexos I, II e III a esta Lei.\n\nParágrafo Único. São acrescentadas as Funções Comissionadas Especiais da Agência de Transporte, Obras e Infraestr"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "3421",
+          "data_literal": ", de 8 de março de 2019",
+          "ano_literal": "2019",
+          "offset": 20688,
+          "trecho": "Comissionadas Especiais da Agência de Transporte, Obras e Infraestrutura à Tabela IV do Anexo IV da Lei nº 3.421, de 8 de março de 2019, nos termo do Anexo IV a esta.\n\n**Art. 6º** O art. 2º da Lei nº 2.732, de 4 de junho de 2013, passa a vigorar com as seguintes alterações: “........................................................"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "2732",
+          "data_literal": ", de 4 de junho de 2013",
+          "ano_literal": "2013",
+          "offset": 20781,
+          "trecho": " IV da Lei nº 3.421, de 8 de março de 2019, nos termo do Anexo IV a esta.\n\n**Art. 6º** O art. 2º da Lei nº 2.732, de 4 de junho de 2013, passa a vigorar com as seguintes alterações: “...........................................................................................................................................\n\nXI - rea"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4151",
+          "data_literal": ", DE 28 DE ABRIL DE 2023",
+          "ano_literal": "2023",
+          "offset": 23848,
+          "trecho": "ência, 135º da República e 35º do Estado.\n\nWANDERLEI BARBOSA CASTRO Governador do Estado\n\nANEXO I À LEI Nº 4.151, DE 28 DE ABRIL DE 2023 “ANEXO I À LEI Nº 3.421, DE 8 DE MARÇO DE 2019.\n\nQUADRO DA ESTRUTURA ADMINISTRATIVA ADMINISTRAÇÃO DIRETA\n\nI – Governadoria:\n\na) Secretaria Executiva da Governadoria;\n\nb) Casa Civil;\n\nc) Casa Mili"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "3421",
+          "data_literal": ", DE 8 DE MARÇO DE 2019",
+          "ano_literal": "2019",
+          "offset": 23896,
+          "trecho": "RLEI BARBOSA CASTRO Governador do Estado\n\nANEXO I À LEI Nº 4.151, DE 28 DE ABRIL DE 2023 “ANEXO I À LEI Nº 3.421, DE 8 DE MARÇO DE 2019.\n\nQUADRO DA ESTRUTURA ADMINISTRATIVA ADMINISTRAÇÃO DIRETA\n\nI – Governadoria:\n\na) Secretaria Executiva da Governadoria;\n\nb) Casa Civil;\n\nc) Casa Militar;\n\nd) Controladoria-Geral do Estado;\n\ne) Secr"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4151",
+          "data_literal": ", DE 28 DE ABRIL DE 2023",
+          "ano_literal": "2023",
+          "offset": 26358,
+          "trecho": "o do Tocantins - JUCETINS;\n\nXVIII – Universidade Estadual do Tocantins – UNITINS.” (NR)\n\nANEXO II À LEI Nº 4.151, DE 28 DE ABRIL DE 2023 “ANEXO II À LEI No 3.421, de 8 de março de 2019.\n\nQUADRO DA ESTRUTURA ADMINISTRATIVA\n\nI – ADMINISTRAÇÃO DIRETA\n\n1 - GOVERNADORIA\n\n1.1 - SECRETARIA EXECUTIVA DA GOVERNADORIA DENOMINAÇÃO DA UNIDADE"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "3421",
+          "data_literal": ", de 8 de março de 2019",
+          "ano_literal": "2019",
+          "offset": 26407,
+          "trecho": "Estadual do Tocantins – UNITINS.” (NR)\n\nANEXO II À LEI Nº 4.151, DE 28 DE ABRIL DE 2023 “ANEXO II À LEI No 3.421, de 8 de março de 2019.\n\nQUADRO DA ESTRUTURA ADMINISTRATIVA\n\nI – ADMINISTRAÇÃO DIRETA\n\n1 - GOVERNADORIA\n\n1.1 - SECRETARIA EXECUTIVA DA GOVERNADORIA DENOMINAÇÃO DA UNIDADE RELAÇÃO DE CARGOS SÍMBOLO QUANT. Gabinete do Sec"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4151",
+          "data_literal": ", DE 28 DE ARRIL DE 2023",
+          "ano_literal": "2023",
+          "offset": 79523,
+          "trecho": "................................................................................” (NR)\n\nANEXO III À LEI Nº 4.151, DE 28 DE ARRIL DE 2023\n\n“ANEXO III À LEI Nº 3.421, de 8 de março de 2019.\n\nTABELA DE SÍMBOLOS E VALORES DOS SUBSÍDIOS DOS CARGOS DE PROVIMENTO EM COMISSÃO DE DIREÇÃO, CHEFIA E ASSESSORAMENTO INTEGRANTES DA ESTRUTURA AD"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "3421",
+          "data_literal": ", de 8 de março de 2019",
+          "ano_literal": "2019",
+          "offset": 79574,
+          "trecho": ".............................” (NR)\n\nANEXO III À LEI Nº 4.151, DE 28 DE ARRIL DE 2023\n\n“ANEXO III À LEI Nº 3.421, de 8 de março de 2019.\n\nTABELA DE SÍMBOLOS E VALORES DOS SUBSÍDIOS DOS CARGOS DE PROVIMENTO EM COMISSÃO DE DIREÇÃO, CHEFIA E ASSESSORAMENTO INTEGRANTES DA ESTRUTURA ADMINISTRATIVA DO PODER EXECUTIVO\n\nNível dos Cargos S"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4151",
+          "data_literal": ", DE 28 DE ABRIL DE 2023",
+          "ano_literal": "2023",
+          "offset": 80367,
+          "trecho": ".................................................................................” (NR)\n\nANEXO IV À LEI Nº 4.151, DE 28 DE ABRIL DE 2023\n\n“ANEXO IV À LEI Nº 3.421, de 8 de março de 2019.\n\n................................................................................................................................................"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "3421",
+          "data_literal": ", de 8 de março de 2019",
+          "ano_literal": "2019",
+          "offset": 80417,
+          "trecho": "...............................” (NR)\n\nANEXO IV À LEI Nº 4.151, DE 28 DE ABRIL DE 2023\n\n“ANEXO IV À LEI Nº 3.421, de 8 de março de 2019.\n\n................................................................................................................................................... .............................................."
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "4151",
+        "data_literal": ", DE 28 DE ABRIL DE 2023",
+        "ano_literal": "2023",
+        "offset": 0,
+        "trecho": "LEI Nº 4.151, DE 28 DE ABRIL DE 2023. Publicado no Diário Oficial nº 6.318 de 28/04/2023.\n\nAltera a Lei nº 3.421, de 8 de março de 2019, que dispõe sobre a organização da Administração Direta e Indireta do Poder Executivo Estadual, "
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2023/lei-ordinaria-4355-2023-id659.md",
+      "oid": "0b2c679960f18ee2f14390a8db50a2e8a4be7a3a",
+      "sha256_md": "8f8c1b3fe354f688bd20ebf6de813a45ead1765d4b14772eb07ca48a215ba5a2",
+      "meta": {
+        "titulo": "Lei Ordinária nº 4.355, de 20 de junho de 2023",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "4355",
+        "data": "2023-06-20",
+        "ementa": "Altera o art. 36 da Lei nº 2.575, de 20 de abril de 2012, que dispõe sobre as promoções na Polícia Militar do Estado do Tocantins - PM/TO, e adota outra providência.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "DOE",
+        "fonte": "https://sapl.al.to.leg.br/norma/659",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2023/659/lei_4173-2023_65468.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "099e1f82d96bbb25746482514b85a552178b0a5fa147b41ec2427f2f530cb54f",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4173",
+          "data_literal": ", DE 20 DE JUNHO DE 2023",
+          "ano_literal": "2023",
+          "offset": 0,
+          "trecho": "LEI Nº 4.173, DE 20 DE JUNHO DE 2023. Publicado no Diário Oficial nº 6.355 de 23/06/2023.\n\nAltera o art. 36 da Lei no 2.575, de 20 de abril de 2012, que dispõe sobre as promoções na Polícia Militar do Estado do Tocantins – PM/TO, e "
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "2575",
+          "data_literal": ", de 20 de abril de 2012",
+          "ano_literal": "2012",
+          "offset": 111,
+          "trecho": "3, DE 20 DE JUNHO DE 2023. Publicado no Diário Oficial nº 6.355 de 23/06/2023.\n\nAltera o art. 36 da Lei no 2.575, de 20 de abril de 2012, que dispõe sobre as promoções na Polícia Militar do Estado do Tocantins – PM/TO, e adota outra providência.\n\nFaço saber que o Governador do Estado do Tocantins adotou a Medida Provisória n° 6, d"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "2575",
+          "data_literal": ", de 20 de abril de 2012",
+          "ano_literal": "2012",
+          "offset": 591,
+          "trecho": "sto no §3º, do art. 27 da Constituição Estadual, promulgo a seguinte Lei:\n\n**Art. 1º** O art. 36 da Lei nº 2.575, de 20 de abril de 2012, passa a vigorar com a seguinte alteração:\n\n“Art. 36...........................................................................................................................\n\nI -..............."
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "2575",
+          "data_literal": ", de 20 de abril de 2012",
+          "ano_literal": "2012",
+          "offset": 1233,
+          "trecho": " em vigor na data de sua publicação.\n\n**Art. 3º** É revogada a alínea “f” do inciso I do art. 36 da Lei nº 2.575, de 20 de abril de 2012.\n\nPalácio Deputado João D’Abreu, em Palmas, aos 20 dias do mês de junho de 2023; 202º da Independência, 135º da República e 35º do Estado.\n\nDeputado AMÉLIO CAYRES Presidente\n"
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "4173",
+        "data_literal": ", DE 20 DE JUNHO DE 2023",
+        "ano_literal": "2023",
+        "offset": 0,
+        "trecho": "LEI Nº 4.173, DE 20 DE JUNHO DE 2023. Publicado no Diário Oficial nº 6.355 de 23/06/2023.\n\nAltera o art. 36 da Lei no 2.575, de 20 de abril de 2012, que dispõe sobre as promoções na Polícia Militar do Estado do Tocantins – PM/TO, e "
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2023/lei-ordinaria-4356-2023-id649.md",
+      "oid": "02fed8fac6c156160cd433cb4712fa825700ef7a",
+      "sha256_md": "877343e78f760abfbcc2d147427af5feca0cc77e4616168f8ce131562cc6613f",
+      "meta": {
+        "titulo": "Lei Ordinária nº 4.356, de 18 de julho de 2023",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "4356",
+        "data": "2023-07-18",
+        "ementa": "Altera os Anexos II e III da Lei nº 2.859, de 30 de abril de 2014, e o Anexo Único da Lei Estadual nº 3.422, de 8 de março de 2019, e adota outras providências.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "Diário Oficial do Estado do Tocantins",
+        "fonte": "https://sapl.al.to.leg.br/norma/649",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2023/649/lei_4189-2023_65856.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "85e13aa6737087e53d066ff98fcf475d3c0e6b4f35fa43410c0740a1b8820424",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4189",
+          "data_literal": ", DE 18 DE JULHO DE 2023",
+          "ano_literal": "2023",
+          "offset": 0,
+          "trecho": "LEI Nº 4.189, DE 18 DE JULHO DE 2023. Publicado no Diário Oficial nº 6.372 de 19/07/2023.\n\nAltera os Anexos II e III da Lei nº 2.859, de 30 de abril de 2014, e o Anexo Único da Lei Estadual nº 3.422, de 8 de março de 2019, e adota o"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "2859",
+          "data_literal": ", de 30 de abril de 2014",
+          "ano_literal": "2014",
+          "offset": 120,
+          "trecho": "DE JULHO DE 2023. Publicado no Diário Oficial nº 6.372 de 19/07/2023.\n\nAltera os Anexos II e III da Lei nº 2.859, de 30 de abril de 2014, e o Anexo Único da Lei Estadual nº 3.422, de 8 de março de 2019, e adota outras providências.\n\nO GOVERNADOR DO ESTADO DO TOCANTINS,\n\nFaço saber que a ASSEMBLEIA LEGISLATIVA DO ESTADO DO TOCANTIN"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "2859",
+          "data_literal": ", de 30 de abril de 2014",
+          "ano_literal": "2014",
+          "offset": 427,
+          "trecho": "IVA DO ESTADO DO TOCANTINS decreta e eu sanciono a seguinte Lei:\n\n**Art. 1º** Os Anexos II e III da Lei nº 2.859, de 30 de abril de 2014, passam a vigorar na conformidade do Anexo I a esta Lei.\n\n**Art. 2º** O Anexo Único da Lei nº 3.422, de 8 de março de 2019, passa a vigorar na conformidade do disposto no Anexo II a esta Lei.\n\n**"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "3422",
+          "data_literal": ", de 8 de março de 2019",
+          "ano_literal": "2019",
+          "offset": 551,
+          "trecho": "bril de 2014, passam a vigorar na conformidade do Anexo I a esta Lei.\n\n**Art. 2º** O Anexo Único da Lei nº 3.422, de 8 de março de 2019, passa a vigorar na conformidade do disposto no Anexo II a esta Lei.\n\n**Art. 3º** Esta Lei entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de abril de 2023.\n\nPalácio Ar"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4189",
+          "data_literal": ", DE 18 DE JULHO DE 2023",
+          "ano_literal": "2023",
+          "offset": 955,
+          "trecho": "ência, 135º da República e 35º do Estado.\n\nWANDERLEI BARBOSA CASTRO Governador do Estado\n\nANEXO I À LEI Nº 4.189, DE 18 DE JULHO DE 2023.\n\n“ANEXO II À LEI Nº 2.859, DE 30 DE ABRIL DE 2014\n\nTABELA I - PROFESSOR DA EDUCAÇÃO BÁSICA - (JORNADA DE TRABALHO DE 40 HORAS SEMANAIS)\n\nREFERÊNCIA NÍVEL CARGO FORMAÇÃO A B C D E F G H I J\n\nLICE"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "2859",
+          "data_literal": ", DE 30 DE ABRIL DE 2014",
+          "ano_literal": "2014",
+          "offset": 1006,
+          "trecho": "I BARBOSA CASTRO Governador do Estado\n\nANEXO I À LEI Nº 4.189, DE 18 DE JULHO DE 2023.\n\n“ANEXO II À LEI Nº 2.859, DE 30 DE ABRIL DE 2014\n\nTABELA I - PROFESSOR DA EDUCAÇÃO BÁSICA - (JORNADA DE TRABALHO DE 40 HORAS SEMANAIS)\n\nREFERÊNCIA NÍVEL CARGO FORMAÇÃO A B C D E F G H I J\n\nLICENCIATURA PLENA OU Professor da BACHARELADO COM I Ed"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4189",
+          "data_literal": ", DE 18 DE JULHO DE 2023",
+          "ano_literal": "2023",
+          "offset": 9314,
+          "trecho": "1 2.988,13 3.107,66 3.231,96 3.361,24 3.495,70 3.635,52 3.780,94 3.932,19 4.089,46\n\n”NR\n\nANEXO II À LEI Nº 4.189, DE 18 DE JULHO DE 2023.\n\n“ANEXO ÚNICO À LEI No 3.422, de 8 de março de 2019.\n\nTabela de Funções-ContrataçãoTemporária Área: ADMINISTRAÇÃO Função Remuneração Mensal (180 h) Requisitos Auxiliar I 1.320,00 Alfabetizado Au"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "3422",
+          "data_literal": ", de 8 de março de 2019",
+          "ano_literal": "2019",
+          "offset": 9368,
+          "trecho": "2 3.780,94 3.932,19 4.089,46\n\n”NR\n\nANEXO II À LEI Nº 4.189, DE 18 DE JULHO DE 2023.\n\n“ANEXO ÚNICO À LEI No 3.422, de 8 de março de 2019.\n\nTabela de Funções-ContrataçãoTemporária Área: ADMINISTRAÇÃO Função Remuneração Mensal (180 h) Requisitos Auxiliar I 1.320,00 Alfabetizado Auxiliar II 1.320,00 Ensino Fundamental Auxiliar III R$1"
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "4189",
+        "data_literal": ", DE 18 DE JULHO DE 2023",
+        "ano_literal": "2023",
+        "offset": 0,
+        "trecho": "LEI Nº 4.189, DE 18 DE JULHO DE 2023. Publicado no Diário Oficial nº 6.372 de 19/07/2023.\n\nAltera os Anexos II e III da Lei nº 2.859, de 30 de abril de 2014, e o Anexo Único da Lei Estadual nº 3.422, de 8 de março de 2019, e adota o"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2023/lei-ordinaria-4357-2023-id660.md",
+      "oid": "09765dcb3d7cfb1620b26a3dbc7d2d5315d93184",
+      "sha256_md": "a1b00d59580a98c07472d97f9d8d2838377852add589dd60256135a8fc5e3242",
+      "meta": {
+        "titulo": "Lei Ordinária nº 4.357, de 20 de junho de 2023",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "4357",
+        "data": "2023-06-20",
+        "ementa": "Altera a Lei n° 1.287, de 28 de dezembro de 2021, e a Lei n° 1.385, de 9 de julho de 2003, e adota outra providência.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "DOE",
+        "fonte": "https://sapl.al.to.leg.br/norma/660",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2023/660/lei_4174-2023_65469.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "30d0d09f8433740c1988b3d5450f59892be92733d5242a6c39140660cd753c87",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4174",
+          "data_literal": ", DE 20 DE JUNHO DE 2023",
+          "ano_literal": "2023",
+          "offset": 0,
+          "trecho": "LEI Nº 4.174, DE 20 DE JUNHO DE 2023. Publicado no Diário Oficial nº 6.355 de 23/06/2023.\n\nAltera a Lei nº 1.287, de 28 de dezembro de 2001, e a Lei nº 1.385, de 9 de julho de 2003, e adota outra providência.\n\nFaço saber que o Gover"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "1287",
+          "data_literal": ", de 28 de dezembro de 2001",
+          "ano_literal": "2001",
+          "offset": 100,
+          "trecho": "LEI Nº 4.174, DE 20 DE JUNHO DE 2023. Publicado no Diário Oficial nº 6.355 de 23/06/2023.\n\nAltera a Lei nº 1.287, de 28 de dezembro de 2001, e a Lei nº 1.385, de 9 de julho de 2003, e adota outra providência.\n\nFaço saber que o Governador do Estado do Tocantins adotou a Medida Provisória n° 9, de 25 de abril de 2023, a Assembleia L"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "1385",
+          "data_literal": ", de 9 de julho de 2003",
+          "ano_literal": "2003",
+          "offset": 145,
+          "trecho": "do no Diário Oficial nº 6.355 de 23/06/2023.\n\nAltera a Lei nº 1.287, de 28 de dezembro de 2001, e a Lei nº 1.385, de 9 de julho de 2003, e adota outra providência.\n\nFaço saber que o Governador do Estado do Tocantins adotou a Medida Provisória n° 9, de 25 de abril de 2023, a Assembleia Legislativa do Estado do Tocantins aprovou e e"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "1287",
+          "data_literal": ", de 28 de dezembro de 2001",
+          "ano_literal": "2001",
+          "offset": 543,
+          "trecho": "sto no §3º, do art. 27 da Constituição Estadual, promulgo a seguinte Lei:\n\n**Art. 1º** O art. 27 da Lei nº 1.287, de 28 de dezembro de 2001, passa a vigorar com a seguinte redação: “Art. 27. .......................................................................................................................... .................."
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "1385",
+          "data_literal": ", de 9 de julho de 2003",
+          "ano_literal": "2003",
+          "offset": 1374,
+          "trecho": "....................................................................”(NR)\n\n**Art. 2º** O art. 4º da Lei nº 1.385, de 9 de julho de 2003, passa a vigorar com a seguinte redação: “Art. 4º .......................................................................................................................... ......................."
+        },
+        {
+          "tipo": "Lei Complementar",
+          "numero": "192",
+          "data_literal": null,
+          "ano_literal": null,
+          "offset": 2277,
+          "trecho": "Lei entra em vigor na data de sua publicação, produzindo efeitos enquanto vigorar as disposições da Lei Complementar nº 192/22 e a partir:\n\nI - de 1º de maio para óleo diesel A, B100, óleo diesel B, GLP, GLGNn, GLGNi e GLP/GLGN;\n\nII - de 1º de junho para a gasolina e o etanol anidro combustível.\n\n**Art. 4º** Fica revogado o inciso VIII do §1"
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "4174",
+        "data_literal": ", DE 20 DE JUNHO DE 2023",
+        "ano_literal": "2023",
+        "offset": 0,
+        "trecho": "LEI Nº 4.174, DE 20 DE JUNHO DE 2023. Publicado no Diário Oficial nº 6.355 de 23/06/2023.\n\nAltera a Lei nº 1.287, de 28 de dezembro de 2001, e a Lei nº 1.385, de 9 de julho de 2003, e adota outra providência.\n\nFaço saber que o Gover"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2023/lei-ordinaria-4358-2023-id665.md",
+      "oid": "b332ddb34cbee4d450dda1548a2d3ac605af1ffa",
+      "sha256_md": "a310c053c62c173d157dd65322242de56a4c2df3e9ac382bd14a49a121e9f01f",
+      "meta": {
+        "titulo": "Lei Ordinária nº 4.358, de 20 de junho de 2023",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "4358",
+        "data": "2023-06-20",
+        "ementa": "Altera o Anexo III da Lei nº 3.421, de 8 de março de 2023, que dispõe sobre a organização da Administração Direta e Indireta do Poder Executivo Estadual, e adota outras providências.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "DOE",
+        "fonte": "https://sapl.al.to.leg.br/norma/665",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2023/665/lei_4176-2023_65471.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "b2be104fefce4e2bd17aba50eb883aef24b878c81a5651a7fedeac67be7f6b19",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4176",
+          "data_literal": ", DE 20 DE JUNHO DE 2023",
+          "ano_literal": "2023",
+          "offset": 0,
+          "trecho": "LEI Nº 4.176, DE 20 DE JUNHO DE 2023. Publicado no Diário Oficial nº 6.355 de 23/06/2023.\n\nAltera o Anexo III da Lei no 3.421, de 8 de março de 2023, que dispõe sobre a organização da Administração Direta e Indireta do Poder Executi"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "3421",
+          "data_literal": ", de 8 de março de 2023",
+          "ano_literal": "2023",
+          "offset": 113,
+          "trecho": " DE 20 DE JUNHO DE 2023. Publicado no Diário Oficial nº 6.355 de 23/06/2023.\n\nAltera o Anexo III da Lei no 3.421, de 8 de março de 2023, que dispõe sobre a organização da Administração Direta e Indireta do Poder Executivo Estadual, e adota outras providências.\n\nFaço saber que o Governador do Estado do Tocantins adotou a Medida Pro"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "3421",
+          "data_literal": ", de 8 de março de 2019",
+          "ano_literal": "2019",
+          "offset": 611,
+          "trecho": "o no §3º, do art. 27 da Constituição Estadual, promulgo a seguinte Lei:\n\n**Art. 1º** O Anexo III da Lei no 3.421, de 8 de março de 2019, passa a vigorar com a alteração constante do Anexo Único a esta Lei.\n\n**Art. 2º** Esta Lei entra em vigor na data de sua publicação. Palácio Deputado João D’Abreu, em Palmas, aos 20 dias do mês d"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4176",
+          "data_literal": null,
+          "ano_literal": null,
+          "offset": 968,
+          "trecho": "Independência, 135º da República e 35º do Estado.\n\nDeputado AMÉLIO CAYRES Presidente\n\nANEXO ÚNICO À LEI Nº 4.176, 20 DE JUNHO DE 2023.\n\n“ANEXO III À LEI Nº 3.421, DE 8 DE MARÇO DE 2019.\n\nTABELA DE SÍMBOLOS E VALORES DOS SUBSÍDIOS DOS CARGOS DE PROVIMENTO EM COMISSÃO DE DIREÇÃO, CHEFIA E ASSESSORAMENTO INTEGRANTES DA ESTRUTURA ADMI"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "3421",
+          "data_literal": ", DE 8 DE MARÇO DE 2019",
+          "ano_literal": "2019",
+          "offset": 1017,
+          "trecho": "\n\nDeputado AMÉLIO CAYRES Presidente\n\nANEXO ÚNICO À LEI Nº 4.176, 20 DE JUNHO DE 2023.\n\n“ANEXO III À LEI Nº 3.421, DE 8 DE MARÇO DE 2019.\n\nTABELA DE SÍMBOLOS E VALORES DOS SUBSÍDIOS DOS CARGOS DE PROVIMENTO EM COMISSÃO DE DIREÇÃO, CHEFIA E ASSESSORAMENTO INTEGRANTES DA ESTRUTURA ADMINISTRATIVA DO PODER EXECUTIVO\n\nNível dos Cargos S"
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "4176",
+        "data_literal": ", DE 20 DE JUNHO DE 2023",
+        "ano_literal": "2023",
+        "offset": 0,
+        "trecho": "LEI Nº 4.176, DE 20 DE JUNHO DE 2023. Publicado no Diário Oficial nº 6.355 de 23/06/2023.\n\nAltera o Anexo III da Lei no 3.421, de 8 de março de 2023, que dispõe sobre a organização da Administração Direta e Indireta do Poder Executi"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2023/lei-ordinaria-4359-2023-id662.md",
+      "oid": "455395636190332a059e36c1627feac563029b34",
+      "sha256_md": "45d97a0f99ac8cd8c9f45434cef66f43cd8e24620bdd4d5787e05b192865bbfc",
+      "meta": {
+        "titulo": "Lei Ordinária nº 4.359, de 20 de junho de 2023",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "4359",
+        "data": "2023-06-20",
+        "ementa": "Institui a Indenização por Procedimentos Obstétricos - IPO e adota outras providências.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "DOE",
+        "fonte": "https://sapl.al.to.leg.br/norma/662",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2023/662/lei_4177-2023_65485.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "9dedca10e55b383c55f82249081c0d92dc9dfd20e371adbd3a5e1a1cdd5e2968",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4177",
+          "data_literal": ", DE 20 DE JUNHO DE 2023",
+          "ano_literal": "2023",
+          "offset": 0,
+          "trecho": "LEI Nº 4.177, DE 20 DE JUNHO DE 2023. Publicado no Diário Oficial nº 6.355 de 23/06/2023.\n\nInstitui a Indenização por Procedimentos Obstétricos – IPO e adota outras providências.\n\nFaço saber que o Governador do Estado do Tocantins a"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4177",
+          "data_literal": ", DE 20 DE JUNHO DE 2023",
+          "ano_literal": "2023",
+          "offset": 7189,
+          "trecho": "Independência, 135º da República e 35º do Estado.\n\nDeputado AMÉLIO CAYRES Presidente\n\nANEXO ÚNICO À LEI Nº 4.177, DE 20 DE JUNHO DE 2023.\n\nQuadro de Valores da Indenização por Procedimentos Obstétricos - IPO\n\n0310010039 Parto Normal 0310010047 Parto Normal em Gestação de Alto Risco 0310010055 Parto Normal em Centro de Parto Normal"
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "4177",
+        "data_literal": ", DE 20 DE JUNHO DE 2023",
+        "ano_literal": "2023",
+        "offset": 0,
+        "trecho": "LEI Nº 4.177, DE 20 DE JUNHO DE 2023. Publicado no Diário Oficial nº 6.355 de 23/06/2023.\n\nInstitui a Indenização por Procedimentos Obstétricos – IPO e adota outras providências.\n\nFaço saber que o Governador do Estado do Tocantins a"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2023/lei-ordinaria-4360-2023-id645.md",
+      "oid": "580db7a1ac3117cc3e4f41fba5dcdeb5498d9c63",
+      "sha256_md": "c8dd40d971b9ee60277f04f61d3110f68f7969f90c6b30ee9afc85d7e8ed8475",
+      "meta": {
+        "titulo": "Lei Ordinária nº 4.360, de 14 de julho de 2023",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "4360",
+        "data": "2023-07-14",
+        "ementa": "Reajusta os benefícios de aposentadoria e pensão por morte, mantidos pelo Instituto de Gestão Previdenciária do Estado do Tocantins - Igeprev-Tocantins, na forma que especifica, e adota outra providência.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "Diário Oficial do Estado do Tocantins",
+        "fonte": "https://sapl.al.to.leg.br/norma/645",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2023/645/lei_4184-2023_65852.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "6189db35be093d659e06346ff55474ef97f4a055d0833549ffa48dbf4f77fb3a",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4184",
+          "data_literal": ", DE 14 DE JULHO DE 2023",
+          "ano_literal": "2023",
+          "offset": 0,
+          "trecho": "LEI Nº 4.184, DE 14 DE JULHO DE 2023. Publicado no Diário Oficial nº 6.372 de 19/07/2023.\n\nReajusta os benefícios de aposentadoria e pensão por morte, mantidos pelo Instituto de Gestão Previdenciária do Estado do Tocantins – IGEPREV"
+        },
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4184",
+          "data_literal": ", DE 14 DE JULHO DE 2023",
+          "ano_literal": "2023",
+          "offset": 1695,
+          "trecho": "a, 135º da República e 35º do Estado.\n\nWANDERLEI BARBOSA CASTRO Governador do Estado\n\nANEXO ÚNICO À LEI Nº 4.184, DE 14 DE JULHO DE 2023.\n\nDATA DE INÍCIO DO BENEFÍCIO REAJUSTE(%)\n\n5,93 Até janeiro de 2022 5,23 fevereiro de 2022 4,19 março de 2022 abril de 2022 2,43\n\nmaio de 2022 1,38 junho de 2022 0,93\n\njulho de 2022 0,30\n\nagosto "
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "4184",
+        "data_literal": ", DE 14 DE JULHO DE 2023",
+        "ano_literal": "2023",
+        "offset": 0,
+        "trecho": "LEI Nº 4.184, DE 14 DE JULHO DE 2023. Publicado no Diário Oficial nº 6.372 de 19/07/2023.\n\nReajusta os benefícios de aposentadoria e pensão por morte, mantidos pelo Instituto de Gestão Previdenciária do Estado do Tocantins – IGEPREV"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2023/lei-ordinaria-4363-2023-id635.md",
+      "oid": "a151382d3233022ee082d5e172ed380c618f3d10",
+      "sha256_md": "7024d776c47f61655304fdabda7a33bc1357d30c2cb877930ad5595ecfb0aa47",
+      "meta": {
+        "titulo": "Lei Ordinária nº 4.363, de 09 de maio de 2023",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "4363",
+        "data": "2023-05-09",
+        "ementa": "Denomina Professora Oneide da Cruz Mousinho a Escola de Tempo Integral, localizada na Vila Cidinha em Araguatins - TO.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "DOE",
+        "fonte": "https://sapl.al.to.leg.br/norma/635",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2023/635/lei_4147-2023_63016.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "ba433655d5d407a6be871377a0f5837a0b676f6e8f13a346a4fc72d22a2d0218",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4147",
+          "data_literal": ", DE 12 DE ABRIL DE 2023",
+          "ano_literal": "2023",
+          "offset": 0,
+          "trecho": "LEI Nº 4.147, DE 12 DE ABRIL DE 2023. Publicado no Diário Oficial nº 6.309 de 14/04/2023.\n\nDá nome a Escola Estadual de Tempo Integral de Araguatins-TO, no Setor Vila Cidinha.\n\nO GOVERNADOR DO ESTADO DO TOCANTINS,\n\nFaço saber que a "
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "4147",
+        "data_literal": ", DE 12 DE ABRIL DE 2023",
+        "ano_literal": "2023",
+        "offset": 0,
+        "trecho": "LEI Nº 4.147, DE 12 DE ABRIL DE 2023. Publicado no Diário Oficial nº 6.309 de 14/04/2023.\n\nDá nome a Escola Estadual de Tempo Integral de Araguatins-TO, no Setor Vila Cidinha.\n\nO GOVERNADOR DO ESTADO DO TOCANTINS,\n\nFaço saber que a "
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2023/lei-ordinaria-4364-2023-id651.md",
+      "oid": "f091a4dcd9837f9bab55ea4fe799332a2a08713d",
+      "sha256_md": "d637d975f12100d06495c86e1ef1c7c646c2576550d6df07e389418361ee69d2",
+      "meta": {
+        "titulo": "Lei Ordinária nº 4.364, de 20 de julho de 2023",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "4364",
+        "data": "2023-07-20",
+        "ementa": "Institui no Calendário Cultural do Estado do Tocantins a Expedição Ecológica \"Amigos do Rio Bananal\", no município de Goianorte.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "Diário Oficial do Estado do Tocantins",
+        "fonte": "https://sapl.al.to.leg.br/norma/651",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2023/651/lei_4202-2023_65846.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "fec906fd2b459f902074fcf2f8c80925bb7f2b75eaca36bc80ae1888a3fae574",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4202",
+          "data_literal": ", DE 20 DE JULHO DE 2023",
+          "ano_literal": "2023",
+          "offset": 0,
+          "trecho": "LEI Nº 4.202, DE 20 DE JULHO DE 2023. Publicado no Diário Oficial nº 6.374 de 21/07/2023.\n\nInstitui no Calendário Cultural do Estado do Tocantins, a Expedição Ecológica “Amigos do Rio Bananal”, no município de Goianorte.\n\nO GOVERNAD"
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "4202",
+        "data_literal": ", DE 20 DE JULHO DE 2023",
+        "ano_literal": "2023",
+        "offset": 0,
+        "trecho": "LEI Nº 4.202, DE 20 DE JULHO DE 2023. Publicado no Diário Oficial nº 6.374 de 21/07/2023.\n\nInstitui no Calendário Cultural do Estado do Tocantins, a Expedição Ecológica “Amigos do Rio Bananal”, no município de Goianorte.\n\nO GOVERNAD"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2023/lei-ordinaria-4365-2023-id656.md",
+      "oid": "2cb892c17f33c18293682fe43dd3471b8b667dbe",
+      "sha256_md": "4fc49f39ea4da37e9f0dbc0e4dc4c33152e563b268e8555d749b5bc62942f173",
+      "meta": {
+        "titulo": "Lei Ordinária nº 4.365, de 18 de julho de 2023",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "4365",
+        "data": "2023-07-18",
+        "ementa": "Autoriza transferências de recursos públicos a título de subvenções sociais, auxílios ou contribuições correntes e de capital, por meio de emendas parlamentares, à Federação Cultural em Defesa Contra a Fome do Estado do Tocantins.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "Diário Oficial do Estado do Tocantins",
+        "fonte": "https://sapl.al.to.leg.br/norma/656",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2023/656/lei_4192-2023_65859.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "bba9dc4bb9072da4222a205011908387412f5f2d2255a741bde72c284d6fe050",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4192",
+          "data_literal": ", DE 18 DE JULHO DE 2023",
+          "ano_literal": "2023",
+          "offset": 0,
+          "trecho": "LEI Nº 4.192, DE 18 DE JULHO DE 2023. Publicado no Diário Oficial nº 6.372 de 19/07/2023.\n\nAutoriza transferências de recursos públicos a título de subvenções sociais, auxílios ou contribuições correntes e de capital, por meio de em"
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "4192",
+        "data_literal": ", DE 18 DE JULHO DE 2023",
+        "ano_literal": "2023",
+        "offset": 0,
+        "trecho": "LEI Nº 4.192, DE 18 DE JULHO DE 2023. Publicado no Diário Oficial nº 6.372 de 19/07/2023.\n\nAutoriza transferências de recursos públicos a título de subvenções sociais, auxílios ou contribuições correntes e de capital, por meio de em"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2023/lei-ordinaria-4366-2023-id652.md",
+      "oid": "c7e39b077fe42841c3fbabf14055a1cac45b8289",
+      "sha256_md": "02028bded117b998a2efac3bed80aac3b0885a0bf424abcbbf6dccfb9c0bf0e9",
+      "meta": {
+        "titulo": "Lei Ordinária nº 4.366, de 20 de julho de 2023",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "4366",
+        "data": "2023-07-20",
+        "ementa": "Concede atendimento prioritário à pessoa com anemia falciforme nos estabelecimentos que especifica, e dá outras providências.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "Diário Oficial do Estado do Tocantins",
+        "fonte": "https://sapl.al.to.leg.br/norma/652",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2023/652/lei_4203-2023_65847.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "3ab7b8d5f75f38bf783e5e9756325dc3831151f04f62aa6f94184ea2737c5132",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4203",
+          "data_literal": ", DE 20 DE JULHO DE 2023",
+          "ano_literal": "2023",
+          "offset": 0,
+          "trecho": "LEI Nº 4.203, DE 20 DE JULHO DE 2023. Publicado no Diário Oficial nº 6.374 de 21/07/2023.\n\nConcede atendimento prioritário à pessoa com anemia falciforme nos estabelecimentos que especifica, e dá outras providências.\n\nO GOVERNADOR D"
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "4203",
+        "data_literal": ", DE 20 DE JULHO DE 2023",
+        "ano_literal": "2023",
+        "offset": 0,
+        "trecho": "LEI Nº 4.203, DE 20 DE JULHO DE 2023. Publicado no Diário Oficial nº 6.374 de 21/07/2023.\n\nConcede atendimento prioritário à pessoa com anemia falciforme nos estabelecimentos que especifica, e dá outras providências.\n\nO GOVERNADOR D"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2024/lei-ordinaria-4528-2024-id1018.md",
+      "oid": "fa54db6b8e75bfbb89c0608d16047ef9ef208d3e",
+      "sha256_md": "68db3c0e88877101bb9866bd2d3e3065aa891040d681daa70636123d6a00ca82",
+      "meta": {
+        "titulo": "Lei Ordinária nº 4.528, de 30 de setembro de 2024",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "4528",
+        "data": "2024-09-30",
+        "ementa": "Dispõe sobre a facilitação e do acesso a meios e formas de pagamento digital para quitação de débitos de natureza tributária.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "DOE nº 6.668",
+        "fonte": "https://sapl.al.to.leg.br/norma/1018",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2024/1018/lei_4528-2024.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "cf94436ca63a838731e3350f7d1623813d86ee0743be9484032028f03eb053a9",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4358",
+          "data_literal": "DE 8 DE JANEIRO DE 2024",
+          "ano_literal": "2024",
+          "offset": 0,
+          "trecho": "LEI Nº 4.358 DE 8 DE JANEIRO DE 2024. Publicado no Diário Oficial nº 6.485 de 08/01/2024.\n\nInstitui a Campanha de Incentivo à Instalação de Fossas Sépticas Biodigestoras nas Áreas Rurais do Estado do Tocantins.\n\nO GOVERNADOR DO ESTA"
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "4358",
+        "data_literal": "DE 8 DE JANEIRO DE 2024",
+        "ano_literal": "2024",
+        "offset": 0,
+        "trecho": "LEI Nº 4.358 DE 8 DE JANEIRO DE 2024. Publicado no Diário Oficial nº 6.485 de 08/01/2024.\n\nInstitui a Campanha de Incentivo à Instalação de Fossas Sépticas Biodigestoras nas Áreas Rurais do Estado do Tocantins.\n\nO GOVERNADOR DO ESTA"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2025/lei-ordinaria-4640-2025-id1108.md",
+      "oid": "5b12d9ca29ad066706286764e639eef99ba83d6d",
+      "sha256_md": "4d11e3419e775b3c4234d27a54640dd56e0c4e7f99d63f19d5bcbc42e8d0607d",
+      "meta": {
+        "titulo": "Lei Ordinária nº 4.640, de 17 de janeiro de 2025",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "4640",
+        "data": "2025-01-17",
+        "ementa": "Declara Patrimônio Cultural Imaterial Gastronômico e Ambiental do Estado do Tocantins o Pequi.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "DOE 6.738",
+        "fonte": "https://sapl.al.to.leg.br/norma/1108",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2025/1108/lei_4644.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "a90b5431dc1c8ec87a12b8aaef8f6c46b6ce66c5e91c5d9d4a99dd0ab0d6d3b6",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4644",
+          "data_literal": ", DE 17 DE JANEIRO DE 2025",
+          "ano_literal": "2025",
+          "offset": 0,
+          "trecho": "LEI Nº 4.644, DE 17 DE JANEIRO DE 2025. Publicado no Diário Oficial nº 6.738 de 17/01/2025.\n\nInstitui a Campanha Coração de Mulher no âmbito do Estado do Tocantins.\n\nO GOVERNADOR DO ESTADO DO TOCANTINS\n\nFaço saber que a ASSEMBLEIA L"
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "4644",
+        "data_literal": ", DE 17 DE JANEIRO DE 2025",
+        "ano_literal": "2025",
+        "offset": 0,
+        "trecho": "LEI Nº 4.644, DE 17 DE JANEIRO DE 2025. Publicado no Diário Oficial nº 6.738 de 17/01/2025.\n\nInstitui a Campanha Coração de Mulher no âmbito do Estado do Tocantins.\n\nO GOVERNADOR DO ESTADO DO TOCANTINS\n\nFaço saber que a ASSEMBLEIA L"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2025/lei-ordinaria-4887-2025-id1351.md",
+      "oid": "50ac1154db8e66c905f0ac090de85016c10f2c69",
+      "sha256_md": "c82bc988e66228da87ca5a57f36e1318b291d406278ab9b35c22d1bb24aed878",
+      "meta": {
+        "titulo": "Lei Ordinária-ALTO nº 4.887, de 09 de dezembro de 2025",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "4887",
+        "data": "2025-12-09",
+        "ementa": "Concede o Título de Cidadão Tocantinense ao Sr. Wagner Martins Borges, Presidente do Sindicato Rural de Araguaína.",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "DOE n. 6947",
+        "fonte": "https://sapl.al.to.leg.br/norma/1351",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2025/1351/lei_4884-2025.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "0d797d7139c5924dedf0de4469c86f15bbfb2d551ab93f045f3fccbc5248e20a",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "4884",
+          "data_literal": ", DE 26 DE NOVEMBRO DE 2025",
+          "ano_literal": "2025",
+          "offset": 0,
+          "trecho": "LEI Nº 4.884, DE 26 DE NOVEMBRO DE 2025 Autor: Deputado Gipão Publicada no Diário Oficial n° 6.947, de 26/11/2025\n\nConcede Título de Cidadão Tocantinense ao Senhor Wagner Martins Borges.\n\nO VICE-GOVERNADOR DO ESTADO DO TOCANTINS, no"
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "4884",
+        "data_literal": ", DE 26 DE NOVEMBRO DE 2025",
+        "ano_literal": "2025",
+        "offset": 0,
+        "trecho": "LEI Nº 4.884, DE 26 DE NOVEMBRO DE 2025 Autor: Deputado Gipão Publicada no Diário Oficial n° 6.947, de 26/11/2025\n\nConcede Título de Cidadão Tocantinense ao Senhor Wagner Martins Borges.\n\nO VICE-GOVERNADOR DO ESTADO DO TOCANTINS, no"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2026/lei-ordinaria-5096-2026-id1620.md",
+      "oid": "f4a9f936c1d0a48d3bc3a40c7e3b0d4589e85dff",
+      "sha256_md": "111912fde20bb6f8d52483e84db5cb519a3b85b05112825c1f7bed05cb334dc0",
+      "meta": {
+        "titulo": "Lei Ordinária-ALTO nº 5.096, de 27 de julho de 2026",
+        "uf": "TO",
+        "tipo": "Lei Ordinária",
+        "numero": "5096",
+        "data": "2026-07-27",
+        "ementa": "Dispõe sobre o incentivo à utilização da Musicoterapia como tratamento terapêutico complementar de pessoas com deficiência, síndromes e/ou Transtorno do Espectro Autista (TEA), no âmbito do Estado do Tocantins",
+        "versao_texto": "original (arquivo anexado ao SAPL)",
+        "publicacao": "DOE 7.111",
+        "fonte": "https://sapl.al.to.leg.br/norma/1620",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2026/1620/lei_5090.pdf",
+        "baixado_em": "2026-10-13"
+      },
+      "sha256_corpo_sem_H1": "afd07a7530e36e6614484997a804cc1cab72b2821e73155e984518d2b8a00ea5",
+      "epigrafes": [
+        {
+          "tipo": "Lei Ordinária",
+          "numero": "5090",
+          "data_literal": ", DE 27 DE JULHO DE 2026",
+          "ano_literal": "2026",
+          "offset": 0,
+          "trecho": "LEI Nº 5.090, DE 27 DE JULHO DE 2026 Publicado no Diário Oficial nº 7.111, de 29/07/2026\n\nDispõe sobre o incentivo à utilização da Musicoterapia como tratamento terapêutico complementar de pessoas com deficiência, síndromes e/ou Tra"
+        }
+      ],
+      "primeira_proxima": {
+        "tipo": "Lei Ordinária",
+        "numero": "5090",
+        "data_literal": ", DE 27 DE JULHO DE 2026",
+        "ano_literal": "2026",
+        "offset": 0,
+        "trecho": "LEI Nº 5.090, DE 27 DE JULHO DE 2026 Publicado no Diário Oficial nº 7.111, de 29/07/2026\n\nDispõe sobre o incentivo à utilização da Musicoterapia como tratamento terapêutico complementar de pessoas com deficiência, síndromes e/ou Tra"
+      },
+      "limite": "Primeira ocorrência literal próxima pode ser citação se o cabeçalho do original foi perdido; alerta contextual, sem inferência de identidade ou corte."
+    }
+  ],
+  "alertas_candidatos": [],
+  "limite": "Inventário literal dos blobs integrais, incluindo epígrafes secundárias; coincidências e divergências não provam duplicação, erro ou necessidade de máscara. Nenhum canônico alterado."
+}

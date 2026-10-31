@@ -1,0 +1,22 @@
+{
+  "url": "https://sapl.al.am.leg.br/norma/15043",
+  "http": 200,
+  "url_final": "https://sapl.al.am.leg.br/norma/15043",
+  "headers": {
+    "date": "Wed, 21 Oct 2026 08:56:20 GMT",
+    "content-type": "text/html; charset=utf-8",
+    "content-length": "21260",
+    "vary": "Accept-Encoding,Accept-Language, Cookie",
+    "x-frame-options": "ALLOWALL",
+    "content-language": "pt-br",
+    "x-request-id": "abb5e65a-4049-4e04-8642-4faf780661ef",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "x-envoy-upstream-service-time": "131",
+    "x-volterra-location": "sp4-sao",
+    "server": "volt-adc",
+    "connection": "close"
+  },
+  "capturado_em": "2026-10-21T05:56:20.625432-03:00",
+  "cache": "estaduais/AM/_indice/retomada-20261021-001/norma15043.html.gz",
+  "sha256_fonte": "2e336569254563463f8fe691df53109872aad044cb2b845670dae52c640997f8"
+}

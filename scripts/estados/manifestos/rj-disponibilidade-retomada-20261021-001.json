@@ -1,0 +1,13 @@
+{
+  "verificado_em": "2026-10-21T03:26:23.162342-03:00",
+  "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL0xlaU9yZEludD9PcGVuRm9ybSZTdGFydD0xMzg3",
+  "rota": "/contlei.nsf/LeiOrdInt?OpenForm&Start=1387",
+  "criterio": "Uma consulta pública oficial após timeout TLS anterior, sem autenticação alternativa nem bypass.",
+  "http": 200,
+  "bytes": 119950,
+  "sha256_fonte": "20a831fdff2f92be825921ac7d0a7680342ad5aa1b214cef1b6cba9d555df73b",
+  "cache": "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RJ/_indice/paginas-wrapper/LeiOrdInt/582d05b2532e0da173bc90842cf774398472cf16850cc542da872f33538fb0dd.html.gz",
+  "itens": 15,
+  "proximo": "/contlei.nsf/LeiOrdInt?OpenForm&Start=1401",
+  "disponivel": true
+}
