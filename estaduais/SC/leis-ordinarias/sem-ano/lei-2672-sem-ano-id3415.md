@@ -1,0 +1,40 @@
+---
+titulo: "LEI Nº 2.672"
+uf: "SC"
+tipo: "Lei Ordinária"
+numero: "2672"
+data: ""
+revogada: true
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/3415"
+baixado_em: 2026-10-16
+---
+# LEI Nº 2.672
+
+LEI N° 2.672
+
+REVOGADA pela Lei Complementar Nº 657/2015
+
+LEI PROMULGADA Nº 694, de 24 de abril de 1961
+
+Procedência: Dep. Fernando Viegas
+
+Natureza: PL 290/60
+
+DA. 708 de 8/5/61
+
+Fonte: ALESC/Div. Documentação
+
+Inclui no Plano Rodoviário do Estado a Estrada Municipal de Perdidas, no Município de São José.
+
+O DEPUTADO JOÃO ESTIVALET PIRES PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SANTA CATARINA, de conformidade com § 3º do art. 28 e art. 29 da Constituição do Estado, faz saber que a Assembléia Legislativa decretou e eu promulgo a seguinte Lei:
+
+**Art. 1º** Fica o Poder Executivo autorizado a incluir no Plano Rodoviário do Estado a estrada de Perdidas, com início no distrito de Garcia, Município de São José, até o distrito de Antônio Carlos, localidade de Santa Maria, em Biguaçú.
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+PALÁCIO DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SANTA CATARINA, em Florianópolis, 24 de abril de 1961
+
+JOÃO ESTIVALET PIRES
+
+Presidente

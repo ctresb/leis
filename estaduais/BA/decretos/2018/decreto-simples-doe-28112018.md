@@ -1,0 +1,114 @@
+---
+titulo: "Decreto nº s/n, de 27/11/2018"
+uf: "BA"
+tipo: "Decreto"
+numero: ""
+data: 2018-11-27
+ementa: ""
+publicacao: "DOE quarta-feira, 28 de Novembro de 2018"
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-simples-doe-28112018"
+baixado_em: 2026-10-16
+---
+# Decreto nº s/n, de 27/11/2018
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+considerar exonerada, a pedido, com efeito a partir de 24.11.2018, CLARISSA SILVA BARBOZA DE AQUINO ASSIZ do cargo de Coordenador II, símbolo DAS-3, da Diretoria de Gestão Financeira Previdenciária e Investimentos, da Superintendência de Previdência, da Secretaria da Administração.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 27 de novembro de 2018.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+exonerar, a pedido, ROBERTA PINHEIRO DE AZEVEDO MENDES do cargo de Coordenador III, símbolo DAI-4, da Superintendência de Patrimônio, da Secretaria da Administração.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 27 de novembro de 2018.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+nomear ROBERTA PINHEIRO DE AZEVEDO MENDES para o cargo de Coordenador II, símbolo DAS-3, da Diretoria de Gestão Financeira Previdenciária e Investimentos, da Superintendência de Previdência, da Secretaria da Administração.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 27 de novembro de 2018.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+nomear MICHELINE SOUZA SANTOS TRINDADE para o cargo de Coordenador III, símbolo DAI-4, da Superintendência de Patrimônio, da Secretaria da Administração.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 27 de novembro de 2018.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+considerar exonerado, a pedido, com efeito a partir de 18.11.2018, RAFAEL DE OLIVEIRA GAMA SANTOS do cargo de Coordenador II, símbolo DAS-3, da Superintendência de Recursos Humanos, da Secretaria da Saúde.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 27 de novembro de 2018.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+nomear LEANDRO CONCEIÇÃO PEREIRA para o cargo de Coordenador II, símbolo DAS-3, da Superintendência de Recursos Humanos, da Secretaria da Saúde.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 27 de novembro de 2018.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+conceder, com base nos artigos 2º e 3º do Decreto nº 18.283, de 23 de março de 2018, a MEDALHA DO MÉRITO POLICIAL CIVIL "CRUZ DA ORDEM", instituída no âmbito da Polícia Civil da Bahia às Personalidades, Delegados de Polícia, Investigadores, Escrivães, e demais servidores da organização policial civil a seguir nominados:
+
+RUI COSTA DOS SANTOS, JOÃO FELIPE DE SOUZA LEÃO, MAURÍCIO TELES BARBOSA, GENERAL ARTUR COSTA MOURA, ALMIRANTE DE ESQUADRA ALMIR GARNIER SANTOS, CEL. AV. JOSÉ HENRIQUE KAIPPER, OTTO ROBERTO MENDONÇA DE ALENCAR, JAQUES WAGNER, ÂNGELO MARIO CORONEL DE AZEVEDO MARTINS, GESIVALDO NASCIMENTO BRITTO, EDIENE SANTOS LOUSADO, CLÉRISTON CAVALCANTE DE MACEDO, PAULO MORENO CARVALHO, EMERSON WENDT, MANOEL VITÓRIO DA SILVA FILHO, BRUNO DAUSTER MAGALHÃES E SILVA, EDELVINO DA SILVA GÓES FILHO, JULIETA PALMEIRA, NESTOR DUARTE GUIMARÃES NETO, NELSON VICENTE PORTELA PELEGRINO, MANOEL ISIDORIO SANTANA JÚNIOR, ARY PEREIRA DE OLIVEIRA, CEL/PM, ANSELMO ALVES BRANDÃO, PERITO CRIMINAL ÉLSON JEFFERSON NEVES DA SILVA, CEL/BM FRANCISCO LUIZ TELES DE MACÊDO, CEL/PM CARLOS AUGUSTO GOMES SOUZA E SILVA, PRF VIRGÍLIO DE PAULA TOURINHO, DPC/PF DANIEL JUSTO MADRUGA, DPC FRANCISCO DE SOUZA ANDRADE NETO, GERALDO ALVES FERREIRA JÚNIOR, CEL/PM ANTÔNIO JOSÉ BARBOSA REIS, JOSÉ ROBERTO ALVES DOS SANTOS, NELSON GASPAR ALVARES PIRES NETO, ROGÉRIO MAGNO DE ALMEIDA MEDEIROS, TEN/CEL PM ANTÔNIO CARLOS SILVA MAGALHÃES, TEN/CEL PM MARCOS ANTONIO OLIVEIRA DA CONCEIÇÃO, MARIA DO CARMO FREAZA GARCIA CERVIÑO, JUSSARA MARIA SALGADO LOBO, CEL/PM PAULO DE TARSO ALONSO UZEDA, CEL/PM PAULO JOSÉ REIS DE AZEVEDO COUTINHO, CEL/PM HUMBERTO COSTA STURARO FILHO, TEN/CEL PM FRANCISCO LUIS DA FONSECA ISSA, TEN/CEL PM DANIEL DA SILVA SANTOS JÚNIOR, TEN/CEL PM DAVID OLIVEIRA LANZILLOT, TEN/CEL BM ADSON MARCHESINI, DPC BERNARDINO BRITO FILHO, cadastro nº 20.279.961-5, DPC HELOÍSA CAMPOS DE BRITO, cadastro nº 20.281.570-4, DPC KÁTIA MARIA BRASIL ABUDE, cadastro nº 20.279.595-4, DPC GILDÉCIO JOSÉ DE SOUZA, cadastro nº 20.289.176-8, DPC ELAINE NOGUEIRA DA SILVA, cadastro nº 20.377.130-1, DPC JOSÉ EDUARDO DE OLIVEIRA BARBOSA, cadastro nº 20.373.005-4, DPC IVO CARVALHO TOURINHO, cadastro nº 20.373.036-3, DPC JOSÉ ALVES BEZERRA JÚNIOR, cadastro nº 20.373.843-4, DPC MARCELO COSTA SANSÃO, cadastro nº 20.373.707-2, DPC MARIA FERNANDA PORFÍRIO DE SOUZA, cadastro nº 20.289.338-8, DPC FLÁVIO AUGUSTO DE ANDRADE GÓES, cadastro nº 20.373.604-2, DPC FRANCISCO JOSÉ DE OLIVEIRA GUEDES CHAGAS, cadastro nº 20.147.909-2, DPC ANDRE AUGUSTO DE MENDONÇA VIANNA, cadastro nº 20.373.220-0, DPC MÁRCIA XAVIER BARBOSA, cadastro nº 20.281.600-1, DPC ÉLVIO BRANDÃO DE OLIVEIRA, cadastro nº 20.409.765-3, DPC FABIO SANTOS DA SILVA, cadastro nº 20.409.999-8, DPC GABRIELA CALDAS ROSA DE MACEDO, cadastro nº 20.431.225-7, DPC ANDRÉ AUGUSTO BARRETO DE OLIVEIRA, cadastro nº 20.279.387-1, DPC MAURÍCIO RIBEIRO CHAOUÍ, cadastro nº 20.279.614-6, DPC ALTAMIRANDO ALVES RODRIGUES, cadastro nº 20.104.620-5, DPC JOSELITO BISPO DA SILVA, cadastro nº 20.055.515-4, DPC HÉLIO JORGE OLIVEIRA PAIXÃO, cadastro nº 20.279.585-7, IPC VALTER SOUZA BARBOSA, cadastro nº 20.303.646-8, DPC MIRELA SANTANA MATOS VENTURA, cadastro nº 20.409.633-0, DPC MOISÉS NUNES DAMASCENO, cadastro nº 20.373.313-3, DPC EVY SILVA NERY JÚNIOR PATERNOSTRO, cadastro nº 20.373.026-6, DPC FELIPE NERI DA SILVA NETO, cadastro nº 20.409.815-4, DPC ANDRÉ ARAGÃO LIMA, cadastro nº 20.373.936-7, DPC FABIANO SANTOS AURICH, cadastro nº 20.441.885-9, DPC NEI SANTANA DE ANDRADE BRITO, cadastro nº 20.313.008-4, DPC ROBERTO DA SILVA LEAL, cadastro nº 20.409.642-9, DPC ACÁCIA DE OLIVEIRA NUNES, cadastro nº 20.340.109-5, DPC ANDREA GONÇALVES CARDOSO D'OLIVEIRA, cadastro nº 20.279.635-8, DPC EDILAMAR CALAZANS MATOS DE OLIVEIRA, cadastro nº 20.170.949-7, DPC LÍGIA ELVIRA MACEDO TEIXEIRA, cadastro nº 20.279.483-5, DPC MARIA DA PAIXÃO SILVA, cadastro nº 20.279.794-8, DPC ANÍSIO AMARAL VIANNA FILHO, cadastro nº 20.373.376-9, DPC GIOVANNI IRAN BARRETO NASCIMENTO, cadastro nº 20.441.439-2, DPC RAUL JOSÉ SARLI, cadastro nº 20.102.166-1, DPC RUY PEREIRA DA PAZ, cadastro nº 20.126.642-3, DPC EZERLINA ROCHA, cadastro nº 20.373.018-5, DPC MARIA DANIELLE SOUSA MONTEIRO, cadastro nº 20.409.807-3, DPC MARIA SELMA PEREIRA LIMA, cadastro nº 20.441.349-3, DPC ROGÉRIA DA SILVA ARAÚJO, cadastro nº 20.289.358-2, DPC ANA CAROLINA REZENDE MIDLEJ OLIVEIRA, cadastro nº 20.373.207-2, DPC MARCUS VINÍCIUS ALMEIDA COSTA, cadastro nº 20.373.568-0, DPC JAMAL YOUSSEF AMAD, cadastro nº 20.373.935-9, PERITO CRIMINAL OSVALDO SILVA, cadastro nº 20.452.711-1, EPC LENÍCIA MIRANDA DOS SANTOS, cadastro nº 20.143.723-6, EPC SANDRA SANTOS ANDRADE, cadastro nº 20.211.831-4, EPC RITA DE CASSIA RIBEIRO SOUZA, cadastro nº 20.217.346-1 (post mortem), EPC ROSÁLIA RIBEIRO DE JESUS, cadastro nº 20.211.835-6, EPC ALEX MARCEDO SILVA, cadastro nº 20.302.288-3, EPC LUCIANO OLIVEIRA DE SIQUEIRA, cadastro nº 20.303.953-9, EPC CARLA CRISTINA BISPO TUPINAMBÁ, cadastro nº 20.303.131-1, EPC ZENAIDE PEREIRA DE SOUZA, cadastro nº 20.415.725-9, EPC TERLINDALVA REIS NUNES SILVA, cadastro nº 20.440.303-2, IPC JOSÉ FRANCISCO SOUZA, cadastro nº 20.055.509-9, IPC HUMBERTO BRITO DE CARVALHO, cadastro nº 20.074.414-3, IPC PAULO ROBERTO DA CRUZ PORTELA, cadastro nº 20.115.637-7, IPC ANTONIO RAIMUNDO NOVAES DE SANTANA, cadastro nº 20.122.766-5, IPC JOSÉ PEDRO DOS SANTOS FILHO, cadastro nº 20.122.907-3, IPC GILDETE RAMOS DO NASCIMENTO, cadastro nº 20.122.922-7, IPC LUIZ HENRIQUE DOS SANTOS, cadastro nº 20.147.126-4, IPC CARLOS ALBERTO OLIVEIRA SANTANA, cadastro nº 20.176.651-2, IPC MARCIANO JOSÉ BATISTA CEUTA, cadastro nº 20.302.684-5, IPC ZILMARCSON MENEZES DE BRITO, cadastro nº 20.302.921-7, IPC EMANOEL SANTOS LEAL, cadastro nº 20.303.259-5, IPC NEY CLÁUDIO CRUZ PERAZZO MACEDO, cadastro nº 20.304.169-1, IPC LUIS FERNANDO BASTOS FIGUEIREDO, cadastro nº 20.345.894-5, IPC ADMILSON FEITOZA BORGES, cadastro nº 20.346.220-3, IPC RADIMAK SOUZA LOPES, cadastro nº 20.412.134-7, IPC JOSÉ CARLOS LOPES DE SOUZA, cadastro nº 20.435.436-4, GERALDO BORGES DA SILVA, cadastro nº 20.089.153-4, VANDSON DE BRITO DÓREA, cadastro nº 20.123.547-2 (post mortem), JURACI FONSECA LEBOREIRO, cadastro nº 20.126.700-5 (post mortem), ANTONIO CARLOS BRAGA ROCHA, cadastro nº 20.154.809-5 e LUIZ EDUARDO LEAL DE ARAÚJO, cadastro nº 20.329.424-4.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 27 de novembro de 2018.
+
+RUI COSTA
+
+Governador
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

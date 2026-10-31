@@ -1,0 +1,62 @@
+---
+titulo: "Decreto nº 7256, de 23/03/1998"
+uf: "BA"
+tipo: "Decreto"
+numero: "7256"
+data: 1998-03-23
+ementa: "Declara de interesse social, para fins de desapropriação, a área de terra que indica e dá outras providências."
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-7256-de-23-de-marco-de-1998"
+baixado_em: 2026-10-16
+---
+# Decreto nº 7256, de 23/03/1998
+
+DECRETO Nº 7.256 DE 23 DE MARÇO DE 1998
+
+Declara de interesse social, para fins de desapropriação, a área de terra que indica e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, e tendo em vista o disposto no art. 164, inciso IV, da Constituição Estadual , Decreto-Lei nº 3.365, de 21 de junho de 1941,
+
+D E C R E T A
+
+**Art. 1º** - Fica declarada de interesse social, para fins de desapropriação, a área de terra, com as acessões e benfeitorias nela existentes, medindo 43.764.500,00 mÂ², pertencente a quem de direito, situada no município de Ponto Novo-BA, compreendida dentro da poligonal caracterizada conforme planilha que constitui o anexo único deste Decreto.
+
+**Parágrafo único** - A área de terra de que trata este artigo destina-se ao reassentamento de produtores rurais cujas terras serão totalmente atingidas pela barragem de Ponto Novo e à realização de obras complementares.
+
+**Art. 2º** - Fica a Secretaria da Agricultura, Irrigação e Reforma Agrária, com o apoio da Companhia de Engenharia Rural da Bahia, da estrutura da Secretaria de Recursos Hídricos, Saneamento e Habitação, autorizada a promover os atos administrativos e judiciais, se necessário em caráter de urgência, com vistas à efetivação da desapropriação de que trata este Decreto, providenciado, inclusive, a liquidação e o pagamento das indenizações, utilizando-se, para tanto, dos recursos de que dispuser.
+
+Redação do art. 2º de acordo com o art. 1º do Decreto nº 7.410, de 14 de agosto de 1998 . Redação original: "Art. 2º - Fica a Companhia de Engenharia Rural da Bahia, da estrutura da Secretaria de Recursos Hídricos, Saneamento e Habitação autorizada a promover os atos administrativos e judiciais, se necessário em caráter de urgência, com vistas à efetivação da desapropriação de que trata este Decreto, providenciado, inclusive, a liquidação e o pagamento das indenizações, utilizando-se , para tanto, dos recursos de que dispuser."
+
+**Art. 3º** - Este Decreto entrará em vigor na data de sua publicação.
+
+**Art. 4º** - Revogam-se as disposições em contrário.
+
+PALÃCIO DO GOVERNO DO ESTADO DA BAHIA, em 23 de março de 1998.
+
+PAULO SOUTO
+
+Governador
+
+Pedro Henrique Lino de Souza
+
+Secretário de Governo
+
+Roberto Moussallem de Andrade
+
+Secretário de Recursos Hídricos, Saneamento e Habitação
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

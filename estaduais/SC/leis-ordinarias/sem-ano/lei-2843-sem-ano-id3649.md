@@ -1,0 +1,44 @@
+---
+titulo: "LEI Nº 2.843"
+uf: "SC"
+tipo: "Lei Ordinária"
+numero: "2843"
+data: ""
+revogada: true
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/3649"
+baixado_em: 2026-10-16
+---
+# LEI Nº 2.843
+
+LEI N° 2.843 (Esta Lei não existe, vide Lei promulgada n° 765/61)
+
+REVOGADA pela Lei Complementar Nº 657/2015
+
+LEI PROMULGADA N° 765, de 12 de outubro de 1961
+
+Procedência: Dep. Fernando Viegas
+
+Natureza: PL 162/61
+
+DA. 738 de 27/10/61
+
+Fonte: ALESC/Div. Documentação
+
+Autoriza a concessão de auxílio para a construção da Catedral de Joinville.
+
+O DEPUTADO JOÃO ESTIVALETE PIRES PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SANTA CATARINA, de conformidade com o dispositivo no § 3° do art. 28 e art. 29 da Constituição do Estado, faz saber que a Assembléia Legislativa decretou e eu promulgo a seguinte Lei:
+
+**Art. 1°** Fica o Chefe do Poder Executivo autorizado a conceder, no corrente ano, um auxílio de Cr$ 1.000.000,00 (um milhão de cruzeiros) à Diocese de Joinville, como auxílio para a construção da catedral daquela cidade.
+
+**Art. 2°** O Orçamento do Estado consignará até o final da obra, um auxílio de igual importância, com o mesmo destino.
+
+**Art. 3°** O auxílio de que trata a presente Lei correrá à conta da rubrica 2-0-00, do orçamento destinado à Secretaria da Viação, no presente exercício.
+
+**Art. 4°** Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+PALÁCIO DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SANTA CATARINA, em Florianópolis, 12 de outubro de 1961
+
+JOÃO ESTIVALETE PIRES
+
+Presidente

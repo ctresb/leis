@@ -1,0 +1,42 @@
+---
+titulo: "LEI Nº 2.665"
+uf: "SC"
+tipo: "Lei Ordinária"
+numero: "2665"
+data: ""
+revogada: true
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/3392"
+baixado_em: 2026-10-16
+---
+# LEI Nº 2.665
+
+LEI Nº 2.665
+
+REVOGADA pela Lei Complementar Nº 657/2015
+
+LEI PROMULGADA Nº 678, de 17 de fevereiro de 1961
+
+Procedência: Dep. Paulino Búrigo
+
+Natureza: PL 347/60 de 17/2/61
+
+DA. 694 de 24/2/61
+
+Fonte: ALESC/Div. Documentação
+
+Auxílio de Cr$ 300.000,00 (trezentos mil cruzeiros ) à Liga de Amadores Brasileiros de Radio Emissão.
+
+O DEPUTADO RUY HÜLSE, PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SANTA CATARINA, de conformidade com o § 3º dos arts. 28 e 29, da Constituição do Estado, faz saber que a Assembléia Legislativa decretou e eu promulgo a seguinte lei:
+
+**Art. 1º** Fica o Poder Executivo autorizado a conceder um auxílio de Cr$ 300.000,00 (trezentos mil cruzeiros) à Liga de Amadores Brasileiros de Rádio Emissão, seção de Santa Catarina.
+
+**Art. 2º** A despesa decorrente da aplicação desta Lei correrá à conta da dotação específica do Orçamento em vigor.
+
+**Art. 3º** Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+PALÁCIO DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SANTA CATARINA, em Florianópolis, 17 de fevereiro de 1961
+
+RUY HÜLSE
+
+Presidente

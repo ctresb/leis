@@ -1,0 +1,464 @@
+---
+titulo: "Decreto nº s/n, de 16/01/2019"
+uf: "BA"
+tipo: "Decreto"
+numero: ""
+data: 2019-01-16
+ementa: ""
+publicacao: "DOE quinta-feira, 17 de Janeiro de 2019"
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-simples-doe-17012019"
+baixado_em: 2026-10-16
+---
+# Decreto nº s/n, de 16/01/2019
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições, à vista da orientação da Procuradoria Geral do Estado e demais elementos constantes do Processo SEI nº 006.0434.2019.0000236-78,
+
+R E S O L V E
+
+converter, em definitiva, a nomeação de JAIRO FARIAS CAMPOS para o cargo de Investigador de Polícia Civil, da lotação da Polícia Civil da Bahia, da estrutura da Secretaria da Segurança Pública, publicada no D.O.E. de 15.02.2017, em razão do trânsito em julgado da decisão judicial, proferida nos autos da Ação Ordinária nº 0350791-28.2013.8.05.0001, que tramitou na 5ª Vara da Fazenda Pública da Comarca de Salvador.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 16 de janeiro de 2019.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições, à vista da orientação da Procuradoria Geral do Estado e demais elementos constantes do Processo SEI nº 006.0434.2019.0000198-16,
+
+R E S O L V E
+
+converter, em definitiva, a nomeação de ADELSON LIBÓRIO ALVES para o cargo de Investigador de Polícia Civil, da lotação da Polícia Civil da Bahia, da estrutura da Secretaria da Segurança Pública, publicada no D.O.E. de 05.12.2013, em razão do trânsito em julgado da decisão judicial, proferida nos autos do Mandado de Segurança nº 0001808-45.2011.8.05.0000, que tramitou no Tribunal de Justiça do Estado da Bahia.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 16 de janeiro de 2019.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições, e à vista do constante do Processo SEI nº 009.0241.2019.0000347-21,
+
+R E S O L V E
+
+nomear JOANA COSTA PINHEIRO para, na condição de suplente, compor o Conselho Previdenciário do Estado - CONPREV, vinculado à Secretaria da Administração, como representante da Superintendência de Previdência - SUPREV/SAEB.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 16 de janeiro de 2019.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições, no uso de suas atribuições, à vista do Incidente de Uniformização de Orientação Jurídica da Procuradoria Geral do Estado contida no processo nº PGE 2017291529-0 (SEI nº 030.0149.2018.0007282-07),
+
+R E S O L V E
+
+promover, pelo critério de antiguidade, em caráter provisório e na condição sub judice, ao posto de 1º Tenente do QOPM, com efeito a partir de 14.12.2018, os Aspirantes-a-Oficial ANDERSON SANTOS DOS REIS, matrícula nº 30.576.192-1, ANDRÉ EDUARDO ROCHA CÉSAR, matrícula nº 30.505.062-1, e FABIANO FRANCISCO DOS SANTOS, matrícula nº 30.513.706-7, com base no inciso I do "caput" e no § 1º, ambos do art. 126, no "caput" do art. 135, e no "caput" do art. e 137, todos da Lei nº 7.990, de 27 de dezembro de 2001.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 16 de janeiro de 2019.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+promover, pelo critério de antiguidade, ao posto de 1º Tenente do QOPM, com efeito a partir de 14.12.2018, os Aspirantes-a-Oficial VALTER SANTOS DE JESUS JUNIOR, matrícula nº 30.507.585-9; FÁBIO HIVES BARBOSA REBOUÇAS, matrícula nº 30.505.637-6; FABRÍCIO EVERTON SANTOS SOUSA, matrícula nº 30.562.871-7; MACSUARA FREIRE PASSOS, matrícula nº 30.507.459-4; EDVAN MARCOS AZEVEDO DE ALMEIDA, matrícula nº 30.479.945-0; DANILO SILVA DE JESUS, matrícula nº 30.564.266-4; WALACE ALMEIDA SIMAS, matrícula nº 30.562.920-0; THEOFILO FERNANDO SILVA NASCIMENTO, matrícula nº 30.564.275-3; OSÉIAS SANTOS VARGES, matrícula nº 30.481.315-7; MATEUS GREC CARVALHO DE MARINHO QUEIROZ, matrícula nº 30.581.978-2; ERNANI RÉGIS SCHETTINI, matrícula nº 30.389.675-4; IRIS FONSECA CORREIA, matrícula nº 30.582.001-8; TIAGO BACELAR ANDRADE PEDREIRA, matrícula nº 30.582.002-6; EUDALDO BARROS DE SOUZA NETO, matrícula nº 30.564.371-7; LUIZ CABRAL DE CARVALHO NETO, matrícula nº 30.581.989-7; MARCUS EDMILSON LIMA DE OLIVEIRA, matrícula nº 30.388.931-7; ISMAEL DOS SANTOS NETO, matrícula nº 30.563.418-2; REGINALDO ALVES DE JESUS, matrícula nº 30.295.335.9; KENNEDY MATOS COELHO TOSTA, matrícula nº 30.582.003-4; ELDER FRANÇA LIRA, matrícula nº 30.581.996-0; LORRUAMA CARINE DO VALE COSTA, matrícula nº 30.581.986-3; THAYRON CLARO SILVA E SILVA, matrícula nº 30.564.830-1; THIAGO DE JESUS SANTOS, matrícula nº 30.581.991-0; LEONARDO OLIVEIRA LEMOS, matrícula nº 30.480.633-8; HÉLIO NERY DOS SANTOS JUNIOR, matrícula nº 30.581.994-4; JONAS OLIVEIRA NETO, matrícula nº 30.564.115-5; LUCAS MARQUES PIMENTA, matrícula nº 30.582.000-0; JAGUARACI BAHIA BARBOSA, matrícula nº 30.437.161-8; MILTON FERRAZ DE ANDRADE JUNIOR, matrícula nº 30.389.627-5; PAULO RICARDO DA SILVA RODRIGUES, matrícula nº 30.507.768-1; DANIEL DA COSTA ALVAREZ , matrícula nº 30.581.998-6; DIEGO RENAN COSTA DOS SANTOS, matrícula nº 30.581.983-9; TALLES THAUAN LEITE SOUZA, matrícula nº 30.564.612-1; PEDRO PINHEIRO DORIA PINTO, matrícula nº 30.581.992- 8; ANTONIO ROQUE DIAS SOUZA JUNIOR, matrícula nº 30.481.397-9; YAGO RHAYNAN RODRIGUES AMORIM SANTANA, matrícula nº 30.563.494-6; BRUNO SANTOS PARANAGUÁ, matrícula nº 30.563.414-0; MATHEUS ARAÚJO MELO, matrícula nº 30.581.993-6; HARRYSON LEMOS NUNES, matrícula nº 30.581.985-5; HUDSON MATOS CUNHA, matrícula nº 30.564.476-3; RAFAEL LIMA SALGADO, matrícula nº 30.481.224-0; THIAGO RODRIGUES MOURA, matrícula nº 30.573.751-6; PAULA PIRES DE JESUS, matrícula nº 30.576.209-0; ALEXANDRE BISET QUEIROZ, matrícula nº 30.480.334-8; AMAURI PLÁCIDO DA SILVA NETO, matrícula nº 30.581.981-3; LUCIANO LIBARINO NEVES, matrícula nº 30.507.174-0, LUIS FERNANDO ROSA ANDRADE MACIEL, matrícula nº 30.581.979-0; GABRIEL OLIVEIRA TUDELLA, matrícula nº 30.581.995-2; JOYCE NÁDILA LIMA SERTÃO, matrícula nº 30.564.410-3; ANDRÉ LUIS REIS MENEZES, matrícula nº 30.564.250-9; ABRAHÃO TRINDADE EVANGELISTA, matrícula nº 30.581.980-5; ADAILTON PIRES DOS SANTOS, matrícula nº 30.563.091-8; IAN DIÓGENES PITÁGORAS RIBEIRO, matrícula nº 30.563.420-5; DIOGO VASCONCELOS DE ALMEIDA, matrícula nº 30.581.990-2; JOSÉ RAIMUNDO DA SILVA LOPES, matrícula nº 30.513.406-9; GILMARCOS LIMA DA SILVA, matrícula nº 30.506.531-7; HEDLEI RICHARD TAIRO NOGUEIRA DE LIMA, matrícula nº 30.581.982-1; ALISSON DE JESUS SOARES, matrícula nº 30.483.384-8; RELSTON GUSMÃO DE SANTANA SILVA, matrícula nº 30.581.999-4; NARCISO FELIX DE CARVALHO NETO, matrícula nº 30.507.052-4; GABRIEL GONÇALVES PENNA, matrícula nº 30.581.977-4; LEO JAIME CERQUEIRA PENA, matrícula nº 30.564.291-5; EDUARDO SILVA BRITO, matrícula nº 30.479.136-3; ROMARIO SILVA ANDRADE, matrícula nº 30.387.952-4; DANILLO MARQUES DOS SANTOS SOUZA, matrícula nº 30.507.382-3; REJANE LUZ LOPES, matrícula nº 30.581.984-7, CAIO SENA GOMES DA COSTA, matrícula nº 30.507.740-3; SAMANTA GOMES DE SOUZA ALMEIDA, matrícula nº 30.564.036-1; ARTUR OLIVEIRA DE ANDRADE, matrícula nº 30.581.997-8; ARNALDO JOSÉ GOMES CHAGAS TEODOZIO, matrícula nº 30.581.976-6; RENÉ AUGUSTO DE ALMEIDA SCALDAFERRI, matrícula nº 30.563.056-0; VALBER SILVA DOS SANTOS, matrícula nº 30.564.590-5; JOSÉ HENRIQUE OLIVEIRA SANTOS JUNIOR, matrícula nº 30.562.906-4; WESLEY ROBSON BENIZ DE MEDEIROS, matrícula nº 30.582.462-2; MASSILEANDRO AMORIM OLIVEIRA, matrícula nº 30.507.232-2; PAULO CÉZAR MIRANDA ASSIS, matrícula n.º 30.562.938-1; LUCAS MUELLER AMORIM, matrícula nº 30.581.987-1; JOSÉ ANÍSIO ARAUJO ALBUQUERQUE, matrícula nº 30.563.662-1, e PHILIPE MATHEUS MONTEIRO MOREIRA, matrícula nº 30.581.988-9, com base no inciso I do "caput" e no § 1º, ambos do art. 126, no "caput" do art. 135, e no "caput" do art. e 137, todos da Lei nº 7.990, de 27 de dezembro de 2001.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 16 de janeiro de 2019.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+exonerar LUCIANA ARAUJO DOS SANTOS do cargo de Inspetor da Rede Física, símbolo DAI-4, da Coordenação Executiva de Infraestrutura da Rede Física, da Secretaria da Educação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 16 de janeiro de 2019.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+nomear MARCEL LOUIS ROGER BRIOUDE para o cargo de Inspetor da Rede Física, símbolo DAI-4, da Coordenação Executiva de Infraestrutura da Rede Física, da Secretaria da Educação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 16 de janeiro de 2019.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+nomear VICTOR DE LIMA PINHO FRANCO para o cargo de Assessor Administrativo, símbolo DAI-4, da Secretaria da Educação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 16 de janeiro de 2019.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+nomear DIEGO LOPEZ MARTINEZ para o cargo de Assessor Administrativo, símbolo DAI-4, da Secretaria da Educação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 16 de janeiro de 2019.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+nomear EDILENE SANTOS E SANTOS para o cargo de Coordenador II, símbolo DAS-3, da Secretaria da Educação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 16 de janeiro de 2019.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+nomear MÁRCIO PEREIRA TEIXEIRA para o cargo de Coordenador II, símbolo DAS-3, da Secretaria da Educação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 16 de janeiro de 2019.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+nomear EVERTON OLIVEIRA SANTOS para o cargo de Coordenador II, símbolo DAS-3, da Secretaria da Educação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 16 de janeiro de 2019.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+nomear LUCIANA SANTOS OLIVEIRA para o cargo de Coordenador II, símbolo DAS-3, da Secretaria da Educação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 16 de janeiro de 2019.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+considerar nomeados, com efeito a partir de 01.01.2019, para o cargo de Assessor Administrativo, símbolo DAI-4, da Secretaria da Educação, os servidores a seguir indicados:
+
+**NOME**
+
+MARCIA PATRICIA MUNIZ BARRETO
+
+EMERSON SILVA DOS SANTOS
+
+RENATA FIGUEIREDO ROHRS
+
+NARRIMAN SAMIRA OLIVEIRA SANTOS
+
+ISABELA DE ALMEIDA MORAES
+
+FERNANDO LEITE MONTALVAO
+
+ANA CAROLINA DOS SANTOS DE JESUS
+
+ANA PAULA DOS SANTOS PINHEIRO
+
+ANDERSON MACIEL FRANCA
+
+ANDREIA SANTOS SANTANA
+
+CELESTE ALVES SANTOS
+
+EDNEIA OLIVEIRA ANDRADE
+
+EDILSON RAYMUNDO SILVA DE OLIVEIRA
+
+ELINALVA SOUSA FALCAO
+
+FRANCINE DE JESUS TORRES
+
+GRACIA FONSECA
+
+GILBERTO CARDOSO DE ALMEIDA
+
+JOAO LINO NASCIMENTO NETO
+
+JOSE SILVA LIMA JUNIOR
+
+KATIA LORENA RIBEIRO MIRANDA
+
+LENILDES MOREIRA
+
+LORENA LISBOA SOUZA
+
+NADJANE NASCIMENTO DE MORAES
+
+NEUCILENE PEREIRA DE OLIVEIRA
+
+PATRICIA SANTOS ANUNCIACAO
+
+SANDRA MARIA MORAIS JOAZEIRO
+
+CACILDA LIMA LEITE
+
+ANA SUELI PEDREIRA DOS SANTOS
+
+AURINA REGO ALMEIDA
+
+ANDERSON PASSOS DOS SANTOS
+
+GESSICA MIRANDA SANTOS
+
+GILMARA SANTOS DE SOUZA
+
+NILSON PEREIRA DE SOUZA JUNIOR
+
+ROSEANA MASCARENHAS NILO
+
+RAQUEL MORAES DE SOUZA
+
+SAULO BISPO DE DEUS
+
+VALTER JOSE DOS SANTOS SILVA
+
+MARINEIVA DE JESUS CARDOSO MATOS
+
+ELAINE OLIVEIRA DA SILVA
+
+ANDRE ANTONIO SANTOS ADORNO
+
+CARLOS CESAR CASTRO DAS CHAGAS
+
+CLAUDINE PIRES MENDES DE OLIVEIRA
+
+EDSON VIANA MACIEL
+
+ROSARIA VALERIA DA SILVA DOS SANTOS
+
+ALINE DE SANTANA SANTOS
+
+CAROLINA PEREIRA DE ARAGAO
+
+FRANCISCA DOS SANTOS MORENO DA PAIXAO
+
+ARICLEIDE BISPO GOMES SANTOS
+
+MARCELLE MELO DE LIMA SANTOS
+
+DANIELE OLIVEIRA SENA
+
+ADEILDA MELO DA SILVA
+
+NAIARA FELIX DE ARAUJO
+
+ÉRICA DE OLIVEIRA SANTOS
+
+REGIANE VILA VERDE FIGUEIREDO
+
+MARCO ANTONIO MARTINS ROCHA FILHO
+
+CARLA SILVA ALEXANDRIA
+
+OTÁVIO JOSÉ CARVALHO DO VALLE
+
+EDMILSON SOARES BEZERRA
+
+ANDRÉ CORTES RIBEIRO
+
+SARA BARRETO SANTOS
+
+ADRIANO REIS REGO CAVALCANTE
+
+DANIELA COELHO MORAES
+
+LEONARDO JOSÉ NAVARRO DE ALMEIDA MOTTA
+
+AYSLAN ARLENN PEREIRA DA SILVA
+
+VANESSA PINTO DE OLIVEIRA
+
+JOCASTA RABELO GONÇALVES
+
+GESCA ISIS BARBOSA FILGUEIRAS DOS SANTOS
+
+ANA PATRICIA BARBOSA E SILVA
+
+ALINE RIBEIRO SANT’ANNA
+
+JAQUELINE ANDRADE SOUZA
+
+NATÁLIA SOUZA SANTOS
+
+ITANIA MENDES FERRER
+
+ALAN SÃO RICARDO SOUZA
+
+DANIELE SANTANA DOS SANTOS
+
+MONICA JESUS DOS SANTOS
+
+ANTONIO CIPRIANO DOS SANTOS
+
+DANIELA DA SILVA MOTA
+
+MARCELO GONCALVES DOS SANTOS SENA
+
+ROSANA SILVA PITANGA
+
+VANESSA LIMA DOS SANTOS
+
+LORENA VAZ GONCALVES
+
+EMANUELA ANDRADE LIMA OLIVEIRA
+
+DANIELA BATISTA FAGUNDES
+
+GILIARDES DOS SANTOS ALMEIDA
+
+JUDINEI SILVA DE JESUS
+
+ERISNALVA GUSMÃO RAMOS
+
+AMANNDA SANTOS CERQUEIRA MOURA
+
+JULINHA COELHO MIRANDA
+
+MARIA DE LOURDES CASTRO DOS SANTOS
+
+MACYGLENDA GOMES GUIMARAES ALVES
+
+PAULO SERGIO AMARAL
+
+ANAIDE DA SILVA FERNANDES
+
+REGINALDO BRANDAO DA SILVA
+
+ADILIO SILVA SOARES
+
+ANA CRISTINA SANTOS DO NASCIMENTO
+
+ROUSE MARIA DE SANTANA SANTOS
+
+DIEGO MARCONE NEVES DE SOUZA SANTOS
+
+ODINAELTON CARVALHO DE MORAIS
+
+GISELDA VIEIRA FEITOSA DE ALMEIDA
+
+LILIAN LEAO RODRIGUES
+
+IRANA MAIRA RODRIGUES DE MELO RIGAUD
+
+ADRIANA ALMEIDA DA SILVA
+
+CHARILMA DA SILVA FREITAS
+
+ANA PAULA DE JESUS OLIVEIRA
+
+ANTONIO MARCOS ALMEIDA SAMPAIO
+
+RICARDO DO NASCIMENTO DE SANTANA
+
+REVARDIANNY ASSUNCAO GOMES
+
+TAIS DOS SANTOS BRANDAO BORGES
+
+MATHEUS SANTIAGO ROSAS DE SOUSA
+
+GILBERTO RODRIGUES DOS SANTOS
+
+PAULO ROBERTO SANTIAGO DE CARVALHO NOBRE CASTRO
+
+VIVIANE PEREIRA DE SANTANA
+
+UBIRATAN JEREMIAS DOS SANTOS JUNIOR
+
+MARYGLORIA RODRIGUES SANTOS
+
+IATINE GOMES SANTOS
+
+ALISSON SALES SOUZA
+
+GILBERTO LUIZ DOS SANTOS FILHO
+
+CRISTINA SILVA DA CONCEICAO
+
+VANESSA ANDRADE BARRETO
+
+MICHELE SILVA DE ALMEIDA RIBEIRO
+
+ITANA CLAUDIA SAO PEDRO DOS SANTOS
+
+SAIONARA CAJAZEIRA RIBEIRO SANTOS
+
+VERONICA MARQUES DO ESPIRITO SANTO
+
+EDUARDO DE CARVALHO LIMA
+
+TATYANA OLIVEIRA DE ALMEIDA
+
+MARILIA VIEIRA DE LIMA
+
+FABIANA OLIVEIRA DA SILVA
+
+GISELA LEITE SANTANA
+
+SERGIO LUIS PEREIRA DE ANDRADE JUNIOR
+
+SARAH MASCARENHAS DE SOUZA CARNEIRO
+
+LIVIA CARINE VALE DOS SANTOS FERNANDES
+
+TAISE PASSOS TRAVASSOS GOMES DE OLIVEIRA
+
+BRUNO SILVA SANTOS
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 16 de janeiro de 2019.
+
+RUI COSTA
+
+Governador
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

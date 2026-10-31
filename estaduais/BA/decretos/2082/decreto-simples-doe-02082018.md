@@ -1,0 +1,148 @@
+---
+titulo: "Decreto nº s/n, de 01/08/2018"
+uf: "BA"
+tipo: "Decreto"
+numero: ""
+data: 2018-08-01
+ementa: ""
+publicacao: "DOE quinta-feira, 2 de Agosto de 2018"
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-simples-doe-02082018"
+baixado_em: 2026-10-16
+---
+# Decreto nº s/n, de 01/08/2018
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+considerar exonerada, a pedido, com efeito a partir de 26.07.2018, LUANA RIBEIRO SOUSA do cargo de Assessor Técnico, símbolo DAS-3, da Coordenação de Contratos e Convênios, da Diretoria Geral, da Secretaria de Cultura.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 01 de agosto de 2018.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+considerar nomeada, com efeito a partir de 26.07.2018, PAULA ELIZABETE DA SILVA DANTAS para o cargo de Assessor Técnico, símbolo DAS-3, da Coordenação de Contratos e Convênios, da Diretoria Geral, da Secretaria de Cultura.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 01 de agosto de 2018.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+exonerar, a pedido, LUCAS GUERRIERI VILAS BOAS do cargo de Coordenador I, símbolo DAS-2C, da Superintendência de Economia Solidária e Cooperativismo, da Secretaria do Trabalho, Emprego, Renda e Esporte.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 01 de agosto de 2018.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+exonerar, a pedido, KARINE CONCEIÇÃO DE OLIVEIRA do cargo de Coordenador Técnico, símbolo DAS-2D, da Superintendência de Economia Solidária e Cooperativismo, da Secretaria do Trabalho, Emprego, Renda e Esporte.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 01 de agosto de 2018.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+exonerar, a pedido, EFSON BATISTA LIMA do cargo de Coordenador II, símbolo DAS-3, da Superintendência de Economia Solidária e Cooperativismo, da Secretaria do Trabalho, Emprego, Renda e Esporte.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 01 de agosto de 2018.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+considerar exonerada, a pedido, com efeito a partir de 19.07.2018, SARA NOGUEIRA LIMA ARGOLLO do cargo de Coordenador II, símbolo DAS-3, da Diretoria Geral, da Secretaria do Trabalho, Emprego, Renda e Esporte.(Retificado no DOE de 11.08.2018. Na exoneração da Secretaria do Trabalho, Emprego, Renda e Esporte, publicado no D.O.E. de 02.08.2018:ONDE SE LÊ:...Sara Nogueira Lima Argolo…LEIA-SE:...Sara Nogueira Lima Argollo…)
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 01 de agosto de 2018.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+nomear EFSON BATISTA LIMA para o cargo de Coordenador I, símbolo DAS-2C, da Superintendência de Economia Solidária e Cooperativismo, da Secretaria do Trabalho, Emprego, Renda e Esporte.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 01 de agosto de 2018.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+nomear LUCAS GUERRIERI VILAS BOAS para o cargo de Coordenador Técnico, símbolo DAS-2D, da Superintendência de Economia Solidária e Cooperativismo, da Secretaria do Trabalho, Emprego, Renda e Esporte.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 01 de agosto de 2018.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+nomear KARINE CONCEIÇÃO DE OLIVEIRA para o cargo de Coordenador II, símbolo DAS-3, da Superintendência de Economia Solidária e Cooperativismo, da Secretaria do Trabalho, Emprego, Renda e Esporte.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 01 de agosto de 2018.
+
+RUI COSTA
+
+Governador
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+R E S O L V E
+
+nomear LAIS MARINS ALVES para o cargo de Coordenador II, símbolo DAS-3, da Diretoria Geral, da Secretaria do Trabalho, Emprego, Renda e Esporte.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 01 de agosto de 2018.
+
+RUI COSTA
+
+Governador
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

@@ -1,0 +1,58 @@
+---
+titulo: "Decreto nº 11095, de 04/06/2008"
+uf: "BA"
+tipo: "Decreto"
+numero: "11095"
+data: 2008-06-04
+ementa: "Altera o Regimento da Secretaria de Ciência, Tecnologia e Inovação, aprovado pelo Decreto nº 9.369, de 11 de março de 2005."
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-11095-de-04-de-junho-de-2008"
+baixado_em: 2026-10-16
+---
+# Decreto nº 11095, de 04/06/2008
+
+DECRETO Nº 11.095 DE 04 DE JUNHO DE 2008
+
+Altera o Regimento da Secretaria de Ciência, Tecnologia e Inovação, aprovado pelo Decreto nº 9.369, de 11 de março de 2005.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições,
+
+D E C R E T A
+
+**Art. 1º** - A alínea "a" do inciso I do art. 3º do Regimento da Secretaria de Ciência, Tecnologia e Inovação, aprovado pelo Decreto nº 9.369, de 11 de março de 2005, passa a vigorar com a seguinte redação:
+
+a) Conselho Estadual de Ciência e Tecnologia, presidido pelo Governador do Estado e com a composição de mais 17 (dezessete) membros nomeados, com seus suplentes, pelo presidente do Conselho, observado o seguinte critério de proporcionalidade:
+
+**Art. 2º** - Este Decreto entrará em vigor na data de sua publicação.
+
+**Art. 3º** - Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 04 de junho de 2008.
+
+JAQUES WAGNER
+
+Governador
+
+Eva Maria Cella Dal Chiavon
+
+Secretária da Casa Civil
+
+Ildes Ferreira de Oliveira
+
+Secretário de Ciência, Tecnologia e Inovação
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

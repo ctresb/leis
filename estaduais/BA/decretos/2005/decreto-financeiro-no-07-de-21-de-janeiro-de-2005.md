@@ -1,0 +1,204 @@
+---
+titulo: "Decreto nº 07, de 21/01/2005"
+uf: "BA"
+tipo: "Decreto"
+numero: "07"
+data: 2005-01-21
+ementa: "Aprova a programação da execução orçamentária e financeira do Poder Executivo, seus órgãos, entidades e fundos, para o exercício 2005, e dá outras providências."
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-financeiro-no-07-de-21-de-janeiro-de-2005"
+baixado_em: 2026-10-16
+---
+# Decreto nº 07, de 21/01/2005
+
+DECRETO FINANCEIRO Nº 07 DE 21 DE JANEIRO DE 2005
+
+Aprova a programação da execução orçamentária e financeira do Poder Executivo, seus órgãos, entidades e fundos, para o exercício 2005, e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, com fundamento no disposto nos arts. 8º e 13 da Lei Complementar Federal nº 101, de 04 de maio de 2000, na Lei Federal nº 4.320, de 17 de março de 1964, e na Lei nº 2.322, de 11 de abril de 1966 , com suas alterações, e objetivando assegurar o cumprimento das metas fiscais na execução dos orçamentos fiscal e da seguridade social de 2005, em conformidade com o art. 11 da Lei nº 9.291, de 29 dezembro de 2004 ,
+
+D E C R E T A
+
+**Art. 1º** - Fica aprovada a programação da execução orçamentária e financeira, para o exercício de 2005, compreendendo o fluxo bimestral de receita e o cronograma de execução mensal de desembolso relativo às despesas com pessoal e encargos sociais, atividades de manutenção, atividades finalísticas, projetos e operações especiais, na forma dos Anexos I e II deste Decreto.
+
+**Parágrafo único** ? Na execução e alteração da programação orçamentária e financeira aprovada por este ato, observar-se-á o disposto no Decreto n.º 8.116, de 22 de janeiro de 2002 .
+
+**Art. 2º** - Este Decreto entrará em vigor na data de sua publicação, retroagindo seus efeitos a 1º de janeiro do exercício de 2005.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 21 de janeiro de 2005.
+
+PAULO SOUTO
+
+Governador
+
+Ruy Tourinho
+
+Secretário de Governo
+
+Armando Avena Filho
+
+Secretário do Planejamento
+
+Eraldo Tinoco Melo
+
+Secretário de Infra-Estrutura
+
+Sérgio Ferreira
+
+Secretário da Justiça e Direitos Humanos
+
+Roberto Moussallem de Andrade
+
+Secretário de Desenvolvimento Urbano
+
+José Luiz Pérez Garrido
+
+Secretário da Indústria, Comércio e Mineração
+
+José Antonio Rodrigues Alves
+
+Secretário da Saúde
+
+Eduardo Oliveira Santos
+
+Secretário do Trabalho e Ação Social
+
+Albérico Mascarenhas
+
+Secretário da Fazenda
+
+Marcelo Barros
+
+Secretário da Administração
+
+Sônia Maria Moreira de Souza Bastos
+
+Secretária da Cultura e Turismo, em exercício
+
+Pedro Barbosa de Deus
+
+Secretário da Agricultura, Irrigação e Reforma Agrária
+
+Anaci Bispo Paim
+
+Secretária da Educação
+
+Clodoveo Piazza
+
+Secretário de Combate à Pobreza e às Desigualdades Sociais
+
+Jorge Khoury Hedaye
+
+Secretário de Meio Ambiente e Recursos Hídricos
+
+Edson Sá Rocha
+
+Secretário da Segurança Pública
+
+Rafael Esmeraldo Lucchesi Ramacciotti
+
+Secretário de Ciência, Tecnologia e Inovação
+
+DECRETO FINANCEIRO Nº 07 DE 21 DE JANEIRO DE 2005
+
+Aprova a programação da execução orçamentária e financeira do Poder Executivo, seus órgãos, entidades e fundos, para o exercício 2005, e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, com fundamento no disposto nos arts. 8º e 13 da Lei Complementar Federal nº 101, de 04 de maio de 2000, na Lei Federal nº 4.320, de 17 de março de 1964, e na Lei nº 2.322, de 11 de abril de 1966 , com suas alterações, e objetivando assegurar o cumprimento das metas fiscais na execução dos orçamentos fiscal e da seguridade social de 2005, em conformidade com o art. 11 da Lei nº 9.291, de 29 dezembro de 2004 ,
+
+D E C R E T A
+
+**Art. 1º** - Fica aprovada a programação da execução orçamentária e financeira, para o exercício de 2005, compreendendo o fluxo bimestral de receita e o cronograma de execução mensal de desembolso relativo às despesas com pessoal e encargos sociais, atividades de manutenção, atividades finalísticas, projetos e operações especiais, na forma dos Anexos I e II deste Decreto.
+
+**Parágrafo único** ? Na execução e alteração da programação orçamentária e financeira aprovada por este ato, observar-se-á o disposto no Decreto n.º 8.116, de 22 de janeiro de 2002 .
+
+**Art. 2º** - Este Decreto entrará em vigor na data de sua publicação, retroagindo seus efeitos a 1º de janeiro do exercício de 2005.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 21 de janeiro de 2005.
+
+PAULO SOUTO
+
+Governador
+
+Ruy Tourinho
+
+Secretário de Governo
+
+Armando Avena Filho
+
+Secretário do Planejamento
+
+Eraldo Tinoco Melo
+
+Secretário de Infra-Estrutura
+
+Sérgio Ferreira
+
+Secretário da Justiça e Direitos Humanos
+
+Roberto Moussallem de Andrade
+
+Secretário de Desenvolvimento Urbano
+
+José Luiz Pérez Garrido
+
+Secretário da Indústria, Comércio e Mineração
+
+José Antônio Rodrigues Alves
+
+Secretário da Saúde
+
+Eduardo Oliveira Santos
+
+Secretário do Trabalho e Ação Social
+
+Albérico Mascarenhas
+
+Secretário da Fazenda
+
+Marcelo Barros
+
+Secretário da Administração
+
+Sônia Maria Moreira de Souza Bastos
+
+Secretária da Cultura e Turismo, em exercício
+
+Pedro Barbosa de Deus
+
+Secretário da Agricultura, Irrigação e Reforma Agrária
+
+Anaci Bispo Paim
+
+Secretária da Educação
+
+Clodoveo Piazza
+
+Secretário de Combate à Pobreza e às Desigualdades Sociais
+
+Jorge Khoury Hedaye
+
+Secretário de Meio Ambiente e Recursos Hídricos
+
+Edson Sá Rocha
+
+Secretário da Segurança Pública
+
+Rafael Esmeraldo Lucchesi Ramacciotti
+
+Secretário de Ciência, Tecnologia e Inovação
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

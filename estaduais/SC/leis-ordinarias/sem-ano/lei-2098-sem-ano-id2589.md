@@ -1,0 +1,46 @@
+---
+titulo: "LEI Nº 2.098, de 8 de setembro de 1959"
+uf: "SC"
+tipo: "Lei Ordinária"
+numero: "2098"
+data: ""
+revogada: true
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/2589"
+baixado_em: 2026-10-16
+---
+# LEI Nº 2.098, de 8 de setembro de 1959
+
+LEI Nº 2.098, de 8 setembro de 1858
+
+REVOGADA pela Lei Nº 657/2015
+
+Esta Lei foi vetada
+
+Ver Lei Promulgada 444/59
+
+LEI PROMULGADA N 444, de 21 de setembro de 1959
+
+Procedência: Dep. Tupy Barreto
+
+Natureza: PL/227/59
+
+DA. 538 de 28/09/59
+
+Fonte: ALESC/Div. Documentação
+
+Autoriza concessão de auxílio ao Ginásio São Luiz, de Jaraguá do Sul.
+
+O DEPUTADO WALTER ROUSSENQ PRESIDENTE EM EXERCÍCIO DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SANTA CATARINA, de conformidade com o inciso II do art. 22, da Constituição do Estado, faz saber que a Assembléia Legislativa decretou e eu promulgo a seguinte Lei:
+
+**Art. 1º** Fica o Govêrno do Estado autorizado a conceder um auxílio de quinhentos mil cruzeiros (Cr$ 500.000,00) ao Ginásio São Luiz, de Jaraguá do Sul, para prosseguimento das obras do referido estabelecimento de ensino.
+
+**Art. 2°** As despesas decorrentes do presente projeto, correrão por conta do provável excesso de arrecadação.
+
+**Art. 3º** Esta lei entra em vigor na data da sua publicação, revogadas as disposições em contrário.
+
+Palácio da Assembléia Legislativa do Estado de Santa Catarina, em Florianópolis, 21 de setembro de 1959
+
+WALTER ROUSSENQ
+
+Presidente em exercício

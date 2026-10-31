@@ -1,0 +1,83 @@
+---
+titulo: "Decreto nº 3148, de 06/06/1994"
+uf: "BA"
+tipo: "Decreto"
+numero: "3148"
+data: 1994-06-06
+ementa: "Altera o 2º Plano Trimestral de Aplicação da Secretaria de Energia, Transportes e Comunicações, e determina outras providências."
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-3148-de-06-de-junho-de-1994"
+baixado_em: 2026-10-16
+---
+# Decreto nº 3148, de 06/06/1994
+
+DECRETO Nº 3.148 DE 06 DE JUNHO DE 1994
+
+Altera o 2º Plano Trimestral de Aplicação da Secretaria de Energia, Transportes e Comunicações, e determina outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, com fundamento no que dispõe o artigo 27, parágrafos 3º e 5º da Lei nº 2.322/66 , com a redação dada pela Lei nº 3.737/79 ,
+
+D E C R E T A
+
+**Art. 1º** - O 2º Plano Trimestral de Aplicação da Secretaria de Energia, Transportes e Comunicações, aprovado pelo Decreto nº 3.021, de 11 de abril de 1994 , passa a vigorar com as modificações constantes do quadro anexo , que integra este decreto.
+
+**Art. 2º** - Este decreto entra em vigor na data da sua publicação, retroagindo seues efeitos a 03 de junho do corrente ano7.
+
+**Art. 3º** - Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 06 de junho de 1994.
+
+ANTONIO IMBASSAHY
+
+Governador
+
+Luiz Antonio Vasconcellos Carreira
+
+Secretário do Planejamento, Ciência e Tecnologia
+
+Rodolpho Tourinho Neto
+
+Secretário da Fazenda
+
+Raimundo Mendes de Brito
+
+Secretário de Energia, Transportes e Comunicações
+
+## ANEXO
+
+DECRETO Nº 3.148 DE 06 DE JUNHO DE 1994
+
+Altera o 2º Plano Trimestral de Aplicação da Secretaria de Energia, Transportes e Comunicações, e determina outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, com fundamento no que dispõe o artigo 27, parágrafos 3º e 5º da Lei nº 2.322/66 , com a redação dada pela Lei nº 3.737/79 ,
+
+D E C R E T A
+
+**Art. 1º** - O 2º Plano Trimestral de Aplicação da Secretaria de Energia, Transportes e Comunicações, aprovado pelo Decreto nº 3.021, de 11 de abril de 1994 , passa a vigorar com as modificações constantes do quadro anexo , que integra este decreto.
+
+**Art. 2º** - Este decreto entra em vigor na data da sua publicação, retroangindo seus efeitos a 03 de junho do corrente ano.
+
+**Art. 3º** - Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 06 de junho de 1994.
+
+ANTONIO IMBASSAHY
+
+Governador
+
+Luiz Antonio Vasconcellos Carreira
+
+Secretário do Planejamento, Ciência e Tecnologia
+
+Rodolpho Tourinho Neto
+
+Secretário da Fazenda
+
+Raimundo Mendes de Brito
+
+Secretário de Energia, Transportes e Comunicações
+
+(\*)Republicado por haver saído com incorreções
+
+## ANEXO

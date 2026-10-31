@@ -1,0 +1,247 @@
+---
+titulo: "Decreto nº 111, de 18/09/2020"
+uf: "BA"
+tipo: "Decreto"
+numero: "111"
+data: 2020-09-18
+ementa: "Abre aos Orçamentos Fiscal e da Seguridade Social crédito suplementar, na forma que indica, e dá outras providências."
+publicacao: "DOE sábado, 19 de Setembro de 2020"
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-financeiro-no-111-de-18-de-setembro-de-2020"
+baixado_em: 2026-10-16
+---
+# Decreto nº 111, de 18/09/2020
+
+**DECRETO FINANCEIRO Nº 111 DE 18 DE SETEMBRO DE 2020**
+
+**Abre aos Orçamentos Fiscal e da Seguridade Social crédito suplementar, na forma que indica, e dá outras providências.**
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições, e com fundamento nas disposições dos arts. 58 e 62 da Lei nº 2.322, de 11 de abril de 1966, e suas alterações posteriores, e na autorização do art. 6º da Lei nº 14.184, de 10 de janeiro de 2020,
+
+**D E C R E T A**
+
+**Art. 1º -** Fica aberto aos Orçamentos Fiscal e da Seguridade Social, aprovado pela Lei nº 14.184, de 10 de janeiro de 2020, o crédito suplementar a favor da(s) Unidade(s) Orçamentária(s) na forma do Anexo I deste Decreto, no valor de R$11.874.000,00 (onze milhões e oitocentos e setenta e quatro mil reais).
+
+**Art. 2º** - Os recursos para atender ao disposto no artigo anterior, no mesmo valor, decorrerão da(s) fonte(s) de financiamento indicada(s) no Anexo II deste Decreto.
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 18 de setembro de 2020.
+
+***RUI COSTA***
+
+***Governador***
+
+**Carlos Mello**
+
+**Walter de Freitas Pinheiro**
+
+Secretário da Casa Civil em exercício
+
+Secretário do Planejamento
+
+**Manoel Vitório da Silva Filho**
+
+**Fábio Vilas-Boas Pinto**
+
+Secretário da Fazenda
+
+Secretário da Saúde
+
+## Anexo I — Suplementar
+
+**Orçamentos Fiscal e da Seguridade Social**
+
+**Programa de Trabalho (Especificação)**
+
+**Esfera**
+
+**Natureza de Despesa**
+
+**Fonte de Recursos**
+
+**Em R$**
+
+**Reforço**
+
+**3.17.000**
+
+**Secretaria do Planejamento**
+
+**210.000,00**
+
+**3.17.101**
+
+**Assessoria de Planejamento e Gestão - SEPLAN**
+
+**210.000,00**
+
+04.121.315.7814
+
+Elaboração de Estudo do Plano de Desenvolvimento Integrado
+
+F
+
+3.3.80
+
+100
+
+200.000,00
+
+04.305.314.5365
+
+Apoio a Ações de Combate à Pandemia da Covid-19
+
+S
+
+3.3.90
+
+100
+
+10.000,00
+
+**3.19.000**
+
+**Secretaria da Saúde**
+
+**11.664.000,00**
+
+**3.19.601**
+
+**Fundo Estadual de Saúde**
+
+**11.664.000,00**
+
+10.305.313.5366
+
+Implementação de Ações para Enfrentamento à Covid-19
+
+S
+
+3.3.90
+
+286
+
+11.664.000,00
+
+**Total Reforço**
+
+**11.874.000,00**
+
+## Anexo II — Fonte de Financiamento
+
+**Orçamentos Fiscal e da Seguridade Social**
+
+**Programa de Trabalho (Especificação)**
+
+**Esfera**
+
+**Natureza de Despesa**
+
+**Fonte de Recursos**
+
+**Em R$**
+
+**Valor**
+
+**3.17.000**
+
+**Secretaria do Planejamento**
+
+**210.000,00**
+
+**3.17.101**
+
+**Assessoria de Planejamento e Gestão - SEPLAN**
+
+**210.000,00**
+
+04.121.315.4817
+
+Fomento a Consórcio Público
+
+F
+
+3.3.90
+
+100
+
+40.000,00
+
+04.121.315.6652
+
+Funcionamento do Conselho Estadual de Desenvolvimento Territorial - Cedeter
+
+F
+
+3.3.90
+
+100
+
+52.000,00
+
+04.128.315.7926
+
+Capacitação de Técnico na Área de Consórcio Público
+
+F
+
+3.3.90
+
+100
+
+80.000,00
+
+04.128.315.7962
+
+Capacitação na Área de Planejamento e Gestão Estratégica
+
+F
+
+3.3.90
+
+100
+
+28.000,00
+
+04.122.502.2000
+
+Manutenção de Serviços Técnico e Administrativo
+
+F
+
+3.3.90
+
+100
+
+10.000,00
+
+**Total Anulação**
+
+**210.000,00**
+
+**Excesso de Arrecadação da Entidade**
+
+**11.664.000,00**
+
+**3.19.000**
+
+**Secretaria da Saúde**
+
+**11.664.000,00**
+
+3.19.601
+
+Fundo Estadual de Saúde
+
+11.664.000,00
+
+286
+
+11.664.000,00
+
+**Total Financiamento**
+
+**11.874.000,00**
+
+&lt;div class="field

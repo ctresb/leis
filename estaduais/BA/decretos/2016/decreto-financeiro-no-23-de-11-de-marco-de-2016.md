@@ -1,0 +1,102 @@
+---
+titulo: "Decreto nº 23, de 11/03/2016"
+uf: "BA"
+tipo: "Decreto"
+numero: "23"
+data: 2016-03-11
+ementa: "Abre aos Orçamentos Fiscal e da Seguridade Social crédito suplementar, na forma que indica, e dá outras providências."
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-financeiro-no-23-de-11-de-marco-de-2016"
+baixado_em: 2026-10-16
+---
+# Decreto nº 23, de 11/03/2016
+
+DECRETO FINANCEIRO Nº 23 DE 11 DE MARÇO DE 2016
+
+Nota: Anexos disponíveis no Download
+
+Abre aos Orçamentos Fiscal e da Seguridade Social crédito suplementar, na forma que indica, e dá outras providências.
+
+O VICE-GOVERNADOR, NO EXERCÍCIO DO CARGO DE GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, e com fundamento nas disposições dos arts. 58 e 62, da Lei nº 2.322, de 11 de abril de 1966, e suas alterações posteriores, e na autorização do art. 6º, da Lei nº 13.470, de 30 de dezembro de 2015,
+
+D E C R E T A
+
+**Art. 1º** - Fica aberto aos Orçamentos Fiscal e da Seguridade Social, aprovado pela Lei nº 13.470, de 30 de dezembro de 2015, o crédito suplementar a favor da(s) Unidade(s) Orçamentária(s) na forma do Anexo I deste Decreto, no valor de R$47.587.496,00 (quarenta e sete milhões e quinhentos e oitenta e sete mil e quatrocentos e noventa e seis reais).
+
+**Art. 2º** - Os recursos para atender ao disposto no artigo anterior, no mesmo valor, decorrerão da(s) fonte(s) de financiamento indicada(s) no Anexo II deste Decreto.
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 11 de março de 2016.
+
+João Leão
+
+Governador em exercício
+
+Carlos Mello
+
+Secretário da Casa Civil em exercício
+
+Cláudio Ramos Peixoto
+
+Secretário do Planejamento em exercício
+
+Manoel Vitório da Silva Filho
+
+Secretário da Fazenda
+
+Maria Olívia Santana
+
+Secretária de Políticas para as Mulheres
+
+João Vitor de Castro Lino Bonfim
+
+Secretário da Agricultura, Pecuária, Irrigação, Pesca e Aquicultura
+
+Osvaldo Barreto Filho
+
+Secretário da Educação
+
+Fábio Vilas-Boas Pinto
+
+Secretário da Saúde
+
+Manoel Gomes de Mendonça Neto
+
+Secretário de Ciência, Tecnologia e Inovação
+
+Carlos Martins Marques de Santana
+
+Secretário de Desenvolvimento Urbano
+
+Marcus Benício Foltz Cavalcanti
+
+Secretário de Infraestrutura
+
+Cássio Ramos Peixoto
+
+Secretário de Infraestrutura Hídrica e Saneamento
+
+José Geraldo dos Reis Santos
+
+Secretário de Justiça, Direitos Humanos e Desenvolvimento Social
+
+Nelson Pellegrino
+
+Secretário de Turismo
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

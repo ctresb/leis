@@ -5,11 +5,12 @@ tipo: "Constituição Estadual"
 numero: ""
 data: "1989-10-05"
 ementa: ""
-versao_texto: "Texto articulado SAPL; vigência da versão indicada a partir de 16/12/2025; anotações identificadas até EC 71, de 16/12/2025"
+versao_texto: "Texto articulado SAPL; vigência da versão indicada a partir de 16/12/2025; anotações identificadas até EC 72, de 16/12/2025"
 vigencia_versao: "2025-12-16"
-limitacao_compilacao: "Incorporação da EC 72, de 16/12/2025, não verificada."
+limitacao_compilacao: "EC 72/2025 incorporada no art. 179-B, caput e § 2º, com anotações expressas da fonte; atualizações posteriores não certificadas."
 fonte: "https://sapl.al.pi.leg.br/ta/42/text"
 baixado_em: "2026-10-15"
+revogada: null
 ---
 # Constituição do Estado do Piauí
 

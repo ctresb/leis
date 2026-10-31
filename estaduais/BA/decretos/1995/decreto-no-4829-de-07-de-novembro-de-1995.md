@@ -1,0 +1,114 @@
+---
+titulo: "Decreto nº 4829, de 07/11/1995"
+uf: "BA"
+tipo: "Decreto"
+numero: "4829"
+data: 1995-11-07
+ementa: "Altera, na Secretaria da Agricultura, Irrigação e Reforma Agrária, o Orçamento Analítico do Poder Executivo na forma que indica e dá outras providências."
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-4829-de-07-de-novembro-de-1995"
+baixado_em: 2026-10-16
+---
+# Decreto nº 4829, de 07/11/1995
+
+DECRETO Nº 4.829 DE 07 DE NOVEMBRO DE 1995
+
+Altera, na Secretaria da Agricultura, Irrigação e Reforma Agrária, o Orçamento Analítico do Poder Executivo na forma que indica e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, com fundamento no artigo 27, parágrafo 3º, da Lei nº 2.322/66 , segundo as alterações introduzidas pela Lei nº 3.737, de 30.11.79 , tendo em vista o disposto na Lei nº 6.588/94, em seu art. 22, inciso II e parágrafo 1º ,
+
+D E C R E T A
+
+**Art. 1º** - Ficam alterados, na Secretaria da Agricultura, Irrigação e Reforma Agrária, na forma abaixo indicada, os custos das seguintes atividades:
+
+| UNI. ORÇ. | PROJETO/ ATIVIDADE | NAT. DA DESPESA | FONTE DE RECURSOS | VALOR DO ACRÉSC. R$1,00 | VALOR DA REDUÇÃO R$1,00 |
+| --- | --- | --- | --- | --- | --- |
+| 10.02 | 04150882.292 | 3.4.90.36 | 00 | 2.075 |  |
+|  |  | 3.4.90.30 | 00 |  | 2.075 |
+|  | 04140802.302 | 3.4.90.33 | 00 | 3.000 |  |
+|  |  | 3.4.90.39 | 00 |  | 3.000 |
+|  | 08140802.306 | 3.4.90.32 | 00 | 270.000 |  |
+|  |  | 3.4.90.39 | 00 |  | 200.000 |
+|  |  | 3.4.13.41 | 00 |  | 70.000 |
+|  |  |  | TOTAL | 275.075 | 275.075 |
+
+**Art. 2º** - Este decreto entra em vigor na data da sua publicação.
+
+**Art. 3º** - Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 07 de novembro de 1995.
+
+PAULO SOUTO
+
+Governador
+
+Luiz Antonio Vasconcellos Carreira
+
+Secretário do Planejamento, Ciência e Tecnologia
+
+Rodolpho Tourinho Neto
+
+Secretário da Fazenda
+
+Pedro Barbosa de Deus
+
+Secretário da Agricultura, Irrigação e Reforma Agrária
+
+DECRETO Nº 4.829 DE 07 DE NOVEMBRO DE 1995
+
+Altera, na Secretaria da Agricultura, Irrigação e Reforma Agrária, o Orçamento Analítico do Poder Executivo na forma que indica e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, com fundamento no artigo 27, parágrafo 3º, da Lei nº 2.322/66 , segundo as alterações introduzidas pela Lei nº 3.737, de 30.11.79 , tendo em vista o disposto na Lei nº 6.588/94, em seu art. 22, inciso II e parágrafo 1º ,
+
+D E C R E T A
+
+**Art. 1º** - Ficam alterados na Secretaria da Agricultura, Irrigação e Reforma Agrária, na forma abaixo indicada, os custos das seguintes atividades:
+
+| UNI. ORÇ. | PROJETO/ ATIVIDADE | NAT. DA DESPESA | FONTE DE RECURSOS | VALOR DO ACRÉSC. R$1,00 | VALOR DA REDUÇÃO R$1,00 |
+| --- | --- | --- | --- | --- | --- |
+| 10.02 | 04150882.292 | 3.4.90.36 | 00 | 2.075 |  |
+|  |  | 3.4.90.30 | 00 |  | 2.075 |
+|  | 04140802.302 | 3.4.90.33 | 00 | 3.000 |  |
+|  |  | 3.4.90.39 | 00 |  | 3.000 |
+|  | 04140802.306 | 3.4.90.32 | 00 | 270.000 |  |
+|  |  | 3.4.90.39 | 00 |  | 200.000 |
+|  |  | 3.4.13.41 | 00 |  | 70.000 |
+|  |  |  | TOTAL | 275.075 | 275.075 |
+
+**Art. 2º** - Este decreto entra em vigor na data da sua publicação.
+
+**Art. 3º** - Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 07 de novembro de 1995.
+
+PAULO SOUTO
+
+Governador
+
+Luiz Antonio Vasconcellos Carreira
+
+Secretário do Planejamento, Ciência e Tecnologia
+
+Rodolpho Tourinho Neto
+
+Secretário da Fazenda
+
+Pedro Barbosa de Deus
+
+Secretário da Agricultura, Irrigação e Reforma Agrária
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

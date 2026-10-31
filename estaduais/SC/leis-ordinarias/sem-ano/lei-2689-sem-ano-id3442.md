@@ -1,0 +1,175 @@
+---
+titulo: "LEI Nº 2.689"
+uf: "SC"
+tipo: "Lei Ordinária"
+numero: "2689"
+data: ""
+revogada: true
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/3442"
+baixado_em: 2026-10-16
+---
+# LEI Nº 2.689
+
+LEI N° 2.689 (Esta lei não existe, Vide Lei Promulgada n. 712/61)
+
+REVOGADA pela Lei Complementar Nº 657/2015
+
+LEI PROMULGADA N° 712, de 17 de maio de 1961
+
+Procedência: Dep. Luiz Meneguzzi
+
+Natureza: PL 61/61
+
+DA. 713 de 25/05/61
+
+Fonte: ALESC/Div. Documentação
+
+Autoriza a abertura de Crédito especial.
+
+O DEPUTADO JOÃO ESTIVALETE PIRES PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SANTA CATARINA, de conformidade com § 3° do art. 28 e art. 29 da Constituição do Estado, faz saber que a Assembléia Legislativa decretou e eu promulgo a seguinte Lei:
+
+**Art. 1º** Fica o Poder Executivo autorizado a abrir o crédito especial de dois milhões, setecentos e sessenta e dois mil oitocentos e quarenta e um cruzeiros e noventa centavos, (Cr$ 2.762.841,90), para pagamento das dívidas de exercícios findos abaixo discriminadas:
+
+Relação de pagamento
+
+| Ademar Gomes | 1959 | CR$ 3.200,00 |
+| --- | --- | --- |
+| Adriano Mosimann | 1954/56 | CR$ 82.692,00 |
+| Albina Pedruzzi | 1956 | CR$ 1.176,00 |
+| Alda Coelho Amorim | 1954/57 | CR$ 21.263,60 |
+| Aldo Flores da Cunha | 1959 | CR$ 200,00 |
+| Alfério Angelin Minella | 1958 | CR$ 2.650,00 |
+| Alice Maria da Luz | 1956/58 | CR$ 10.800,00 |
+| Almerinda Durante de Morais | 1959 | CR$ 6.300,00 |
+| Alípia da Costa Pereira | 1956 | CR$ 7.700,00 |
+| Almedina Ferreira Martins | 1958 | CR$ 10.560,00 |
+| Amélia Bittencourt | 1958 | CR$ 2.040,00 |
+| Amélia Maria Luiz Dresch | 1958 | CR$ 6.875,00 |
+| Ana Iêda Sivieri Daniel | 1958 | CR$ 1.378,00 |
+| Ana Lima de Jesus Albuquerque | 1958 | CR$ 9.000,00 |
+| Ana Matos Ribeiro | 1958/59 | CR$ 2.400,00 |
+| Antenor José Coelho | 1959 | CR$ 600,00 |
+| Aquilino Háas | 1956/58 | CR$ 12.150,00 |
+| Araceli Rodrigues Friedrisch | 1958 | CR$ 1.019,10 |
+| Araceli Rodrigues Friedrisch | 1958 | CR$ 280,00 |
+| Araci Grein de Barros | 1957 | CR$ 300,00 |
+| Araguessi Rocha Corrêa | 1958 | CR$ 10.920,00 |
+| Argemiro Graciliano de Quadros | 1956/57 | CR$ 800,00 |
+| Aristides Ternes Adriani | 1958 | CR$ 390,00 |
+| Augusta Abry | 1958/59 | CR$ 62.500,00 |
+| Bento Vieira Stingelin | 1959 | CR$ 1.800,00 |
+| Brazauto Peças Catarinense & Cia Ltda. | 1958 | CR$ 41.837,00 |
+| Casemiro Darabas | 1958 | CR$ 361.541,00 |
+| Catarina Barbosa | 1957 | CR$ 6.690,00 |
+| Cirildo Menonsin | 1956/58 | CR$ 4.151,50 |
+| Ciro Motta | 1959 | CR$ 1.080,00 |
+| Clarisse de Oliveira Rodrigues | 1959 | CR$ 6.000,00 |
+| Custódia Marcolino da Silva | 1959 | CR$ 9.600,00 |
+| Delfoncio Apolinário de Almeida | 1958 | CR$ 1.650,00 |
+| Delinda Antônia Sartor | 1959 | CR$ 5.440,00 |
+| Dilma Campos Coan | 1958 | CR$ 1.950,00 |
+| Dionízio Calixto de Lima | 1959 | CR$ 200,00 |
+| Elpídio Antônio Lobo | 1959 | CR$ 200,00 |
+| Érica Pfeiffer | 1958 | CR$ 7.280,00 |
+| Escola Normal São Luiz – pp. Padre Wendelino Wiemes | 1958 | CR$ 75.000,00 |
+| Eurico Queluz | 1958 | CR$ 4.300,80 |
+| Flávio Pizzolo | 1958 | CR$ 1.350,00 |
+| Francisca Otília Belmiro | 1958 | CR$ 12.000,00 |
+| Francisco Genaro Cardoso | 1956/57 | CR$ 28.935,50 |
+| Francisco Rangel | 1955/59 | CR$ 200.342,60 |
+| Germano Scherer | 1959 | CR$ 2.500,00 |
+| Hailton Alberton | 1958 | CR$ 21.250,00 |
+| Helena Prada Bittencourt | 1957/58 | CR$ 1.800,00 |
+| Henrique Carlos Rogge | 1957/58 | CR$ 3.300,00 |
+| Hilda Daniel | 1958 | CR$ 14.820,00 |
+| Ida Rizzieri de Luca | 1956/58 | CR$ 5.250,00 |
+| Inácio Dell’Antônio | 1959 | CR$ 16.200,00 |
+| Inair Maciel Paese | 1956 | CR$ 1.000,00 |
+| Inez C. Baniffi | 1958 | CR$ 630,00 |
+| Irene Teixeira Jungles | 1956/58 | CR$ 16.800,00 |
+| Irmã Áurea Maria Melo | 1958 | CR$ 500,00 |
+| Irmã Heiss Gewenr | 1958 | CR$ 250,00 |
+| Irmãos Amin | 1957 | CR$ 81.906,40 |
+| Isabel Jeanett Duarte | 1958 | CR$ 720,00 |
+| Jaime Vieira do Amaral | 1959 | CR$ 3.000,00 |
+| João Corfu | 1959 | CR$ 288.100,00 |
+| João Hermínio Ziliotto | 1958 | CR$ 1.890,00 |
+| João Honório da Silva | 1954/56 | CR$ 3.060,00 |
+| João Jovino da Silva | 1959 | CR$ 19,30 |
+| João Pereira da Silva | 1957 | CR$ 1.043,20 |
+| João Virgílio Marques | 1956/58 | CR$ 1.320,00 |
+| José Alcibiades de Souza Moreira | 1957 | CR$ 1.050,00 |
+| José Borgonha | 1958 | CR$ 600,00 |
+| José Dell’Antônio | 1957 | CR$ 2.400,00 |
+| José Izidoro Copi | 1957 | CR$ 1.500,00 |
+| José João Flôr Filho | 1959 | CR$ 1.200,00 |
+| Juvenal Pereira de Souza | 1957 | CR$ 1.566,00 |
+| Laline Terezinha Maestri | 1958 | CR$ 1.680,00 |
+| Laudelina Lima Varela | 1958 | CR$ 1.650,00 |
+| Léa Destri | 1958 | CR$ 600,00 |
+| Leonilda Xavier | 1958 | CR$ 1.200,00 |
+| Letícia Mattos Moura | 1960 | CR$ 30.385,00 |
+| Libia Bittencourt Corrêa | 1957/58 | CR$ 2.250,00 |
+| Lídia Schuta Zeczkowski | 1957 | CR$ 3.950,00 |
+| Lourival Goulart Barreto | 1958 | CR$ 1.650,00 |
+| Luiza Dalva Búrigo | 1958 | CR$ 5.141,00 |
+| Luiza Mendes Zarbato | 1958 | CR$ 16.800,00 |
+| Luzia Joana da Silva | 1958 | CR$ 5.196,60 |
+| Madalena Alves | 1958 | CR$ 19.045,20 |
+| Manoel Satiro Senhorinha | 1959 | CR$ 200,00 |
+| Maria Catarina Perito | 1958 | CR$ 9.000,00 |
+| Maria Dorivirges Cardoso | 1957/58 | CR$ 12.000,00 |
+| Maria de Faveri Cechinel | 1958 | CR$ 330,00 |
+| Maria Fernandes Soares | 1958/59 | CR$ 9.000,00 |
+| Maria Heinzen Cardoso | 1958 | CR$ 1.800,00 |
+| Maria Ligia Matos dos Santos | 1958 | CR$ 4.500,00 |
+| Maria de Lurdes Reis Fortunato | 1958 | CR$ 1.200,00 |
+| Maria Matté | 1958 | CR$ 10.395,00 |
+| Maria dos Passos Siqueira Silva | 1958 | CR$ 900,00 |
+| Maria dos Prazeres Cardoso | 1958 | CR$ 1.350,00 |
+| Maria Teixeira Gonçalves | 1958 | CR$ 7.950,00 |
+| Maria Terezinha Medeiros | 1957 | CR$ 300,00 |
+| Maria Selma Rodrigues | 1958 | CR$ 3.000,00 |
+| Nair Luciaangeli Fiorenza | 1956/58 | CR$ 4.200,00 |
+| Natalina Cardoso Aguiar | 1959 | CR$ 900,00 |
+| Neldez Pscheidt | 1958/59 | CR$ 2.040,00 |
+| Nicea Regina Peressoni Castro | 1958 | CR$ 38.476,50 |
+| Nilson André Pacheco | 1959 | CR$ 600,00 |
+| Octávio de Oliveira | 1954/56 | CR$ 90.756,00 |
+| Olávio Eugênio Felício | 1958 | CR$ 2.100,00 |
+| Oldemar da Silva Feijó | 1958/59 | CR$ 2.400,00 |
+| Organização D. finitiv S/A | 1959 | CR$ 68.400,00 |
+| Orli Mathilde Bora | 1959 | CR$ 6.887,00 |
+| Osvaldo Santos Thizon | 1959 | CR$ 6.115,00 |
+| Paulo de Tarso da Luz Fontes | 1958/59 | CR$ 15.000,00 |
+| Paulo de Tarso da Luz Fontes | 1958/59 | CR$ 18.839,00 |
+| Pdero Keretz Sobrinho | 1954 | CR$ 665,00 |
+| Pedro Severino da Luz | 1958 | CR$ 4.500,00 |
+| Real S/A Transportes Aéreos | 1959 | CR$ 10.303,20 |
+| Remington Rand do Brasil S/A | 1956/59 | CR$ 549.967,80 |
+| Robélia de Sá Faraco | 1959 | CR$ 2.000,00 |
+| Roberto Müller | 1958 | CR$ 3.160,00 |
+| Rosa Uliane Philipi | 1958 | CR$ 1.250,00 |
+| Salvador Bissoli | 1957 | CR$ 6.300,00 |
+| Sibila Arendarchutk Orchulhakl | 1958 | CR$ 1.300,00 |
+| Sirilo Menoncin | 1958 | CR$ 3.825,00 |
+| Sirley Zanini | 1958 | CR$ 1.155,00 |
+| Sodorina Joana dos Santos Assunção | 1958 | CR$ 450,00 |
+| Valdomira Zortéa | 1958 | CR$ 600,00 |
+| Vanilda Paula de Ávila | 1956 | CR$ 7.342,60 |
+| Vitoria Geraldi | 1958 | CR$ 3.900,00 |
+| Vitória Polli | 1958/59 | CR$ 83.250,00 |
+| Waldemar Schlesser | 1958 | CR$ 75.000,00 |
+| Yara Maria Camargo França | 1958 | CR$ 76.950,00 |
+| Zeneyde Fernandes Araújo | 1958 | CR$ 1.800,00 |
+| Zélia Milles | 1956 | CR$ 1.200,00 |
+| Zoê Silva Alves | 1958 | CR$ 17.500,00 |
+
+**Art. 2º** Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+PALÁCIO DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SANTA CATARINA, em Florianópolis, 17 de maio de 1961
+
+JOÃO ESTIVALETE PIRES
+
+Presidente

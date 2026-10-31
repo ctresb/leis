@@ -1,10 +1,10 @@
 # Progresso
 
-Gerado em 31/10/2026 19:04:14 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 31/10/2026 19:08:51 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
-**1.203.665 documentos · 1.092.207 / ~11.768.799 nas séries com meta (9.3%) · 9.095 sem meta**
+**1.290.360 documentos · 1.171.708 / ~11.768.799 nas séries com meta (10.0%) · 9.095 sem meta**
 
 ![progresso](progresso.svg)
 
@@ -14,7 +14,7 @@ Há 7.637 pendências de integralidade registradas em [registro auditável](scri
 
 Planalto, Senado, Câmara e assembleias.
 
-488.885 documentos · 482.552 / ~574.766 nas séries com meta (84.0%) · 0 sem meta
+490.370 documentos · 482.843 / ~574.766 nas séries com meta (84.0%) · 0 sem meta
 
 ### Constituição Federal
 
@@ -75,23 +75,23 @@ Planalto, Senado, Câmara e assembleias.
 
 ### Leis estaduais e distritais
 
-301.550 documentos · 295.230 / ~347.467 nas séries com meta (85.0%) · 0 sem meta
+303.035 documentos · 295.521 / ~347.467 nas séries com meta (85.1%) · 0 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
 | ✅ | Constituições estaduais e Lei Orgânica do DF | 27 | 27 | `estaduais/*/constituicao`, `estaduais/*/lei-organica` | Assembleias e Casas Civis |
 | 🟦 | Constituições estaduais históricas | 9 | 40 | `estaduais/*/constituicoes-historicas` | Assembleias |
 | 🟦 | Emendas constitucionais estaduais | 2.023 | 2.200 | `estaduais/*/emendas-constitucionais` | Assembleias |
-| 🟦 | Leis ordinárias estaduais | 279.355 | 330.000 | `estaduais/*/leis-ordinarias` | 19 scripts, uma fonte por UF |
+| 🟦 | Leis ordinárias estaduais | 279.646 | 330.000 | `estaduais/*/leis-ordinarias` | 19 scripts, uma fonte por UF |
 | 🟦 | Leis complementares estaduais | 12.616 | 14.000 | `estaduais/*/leis-complementares` | 19 scripts, uma fonte por UF |
 | ✅ | Decretos-leis e leis delegadas estaduais | 6.666 | 600 | `estaduais/*/decretos-lei`, `estaduais/*/leis-delegadas`, `estaduais/*/decretos-lei-complementares` | Assembleias |
-| ✅ | Leis promulgadas, constitucionais e emendas à Lei Orgânica | 854 | 600 | `estaduais/*/leis-promulgadas`, `estaduais/*/leis-constitucionais`, `estaduais/*/emendas-lei-organica` | Assembleias |
+| ✅ | Leis promulgadas, constitucionais e emendas à Lei Orgânica | 2.048 | 600 | `estaduais/*/leis-promulgadas`, `estaduais/*/leis-constitucionais`, `estaduais/*/emendas-lei-organica` | Assembleias |
 
 ## Fase 2 — infralegal e jurisprudência
 
 Diários oficiais e portais de órgãos e tribunais.
 
-676.024 documentos · 573.441 / ~861.320 nas séries com meta (66.6%) · 6.553 sem meta
+761.234 documentos · 652.651 / ~861.320 nas séries com meta (75.8%) · 6.553 sem meta
 
 ### Infralegal — tributário
 
@@ -272,20 +272,20 @@ Diários oficiais e portais de órgãos e tribunais.
 
 ### Infralegal estadual
 
-400.385 documentos · 388.204 / ~577.054 nas séries com meta (67.3%) · 0 sem meta
+485.595 documentos · 467.414 / ~577.054 nas séries com meta (81.0%) · 0 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
-| 🟦 | Decretos dos governadores (27 UF) | 307.827 | 400.000 | `estaduais/*/decretos`, `estaduais/*/decretos-nao-numerados` | Casas Civis e diários oficiais estaduais |
+| 🟦 | Decretos dos governadores (27 UF) | 377.021 | 400.000 | `estaduais/*/decretos`, `estaduais/*/decretos-nao-numerados` | Casas Civis e diários oficiais estaduais |
 | ⬜️ | Regulamentos do ICMS (RICMS das 27 UF) | 0 | 27 | `estaduais/*/regulamentos` | Secretarias de Fazenda |
-| 🟦 | Instruções normativas e portarias das SEFAZ | 1.432 | 50.000 | `estaduais/*/instrucoes-normativas` | Secretarias de Fazenda |
+| 🟦 | Instruções normativas e portarias das SEFAZ | 1.519 | 50.000 | `estaduais/*/instrucoes-normativas` | Secretarias de Fazenda |
 | ⬜️ | Resoluções e decisões normativas dos TCE | 0 | 10.000 | `estaduais/*/resolucoes-tce` | Tribunais de Contas estaduais |
 | ⬜️ | Resoluções e provimentos dos TJ e das Corregedorias | 0 | 8.000 | `estaduais/*/resolucoes-tj` | Tribunais de Justiça |
-| 🟦 | Regimentos internos das Assembleias | 18 | 27 | `estaduais/*/regimentos` | Assembleias |
-| 🟦 | Decretos legislativos estaduais | 17.353 | 20.000 | `estaduais/*/decretos-legislativos` | Assembleias (SAPL e sistemas próprios) |
-| ✅ | Resoluções das Assembleias | 37.181 | 25.000 | `estaduais/*/resolucoes` | Assembleias (SAPL e sistemas próprios) |
-| 🟦 | Portarias das administrações estaduais e distrital | 33.821 | 60.000 | `estaduais/*/portarias` | SINJ-DF, Legisla Goiás e sistemas equivalentes |
-| 🟦 | Deliberações, súmulas administrativas, provimentos e pareceres normativos | 2.753 | 4.000 | `estaduais/*/deliberacoes`, `estaduais/*/sumulas`, `estaduais/*/provimentos`, `estaduais/*/pareceres-normativos` | SINJ-DF, Legisla Goiás e sistemas equivalentes |
+| ✅ | Regimentos internos das Assembleias | 31 | 27 | `estaduais/*/regimentos` | Assembleias |
+| 🟦 | Decretos legislativos estaduais | 18.415 | 20.000 | `estaduais/*/decretos-legislativos` | Assembleias (SAPL e sistemas próprios) |
+| ✅ | Resoluções das Assembleias | 43.177 | 25.000 | `estaduais/*/resolucoes` | Assembleias (SAPL e sistemas próprios) |
+| 🟦 | Portarias das administrações estaduais e distrital | 41.834 | 60.000 | `estaduais/*/portarias` | SINJ-DF, Legisla Goiás e sistemas equivalentes |
+| 🟦 | Deliberações, súmulas administrativas, provimentos e pareceres normativos | 3.598 | 4.000 | `estaduais/*/deliberacoes`, `estaduais/*/sumulas`, `estaduais/*/provimentos`, `estaduais/*/pareceres-normativos` | SINJ-DF, Legisla Goiás e sistemas equivalentes |
 
 ## Fase 3 — direito municipal
 
@@ -334,9 +334,9 @@ Diários oficiais e portais de órgãos e tribunais.
 | `reguladores/atos-do-poder-executivo/deliberacoes` | 9 |
 | `reguladores/ministerio-da-seguranca-publica/resolucoes` | 5 |
 | `reguladores/ministerio-da-economia/sumulas` | 4 |
-| `reguladores/ministerio-extraordinario-da-seguranca-p/resolucoes` | 2 |
-| `reguladores/secretaria-especial-da-cultura/portarias` | 2 |
 | `reguladores/ministerio-da-economia/recomendacoes` | 2 |
+| `reguladores/secretaria-especial-da-cultura/portarias` | 2 |
+| `reguladores/ministerio-extraordinario-da-seguranca-p/resolucoes` | 2 |
 | `reguladores/ministerio-da-economia/atos-normativos` | 1 |
-| `scripts/dados/federal730-export-publicacao-20261028-001` | 1 |
 | `reguladores/ministerio-da-seguranca-publica/instrucoes-normativas` | 1 |
+| `scripts/dados/federal730-export-publicacao-20261028-001` | 1 |
