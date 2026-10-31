@@ -1,0 +1,181 @@
+{
+  "escopo": "Replay independente de seis MD congelados, sem alterar qualquer MD, manifesto original ou fonte.",
+  "resumo": {
+    "auditados": 6,
+    "sem_divergencia": 2,
+    "pendentes": 4
+  },
+  "registros": [
+    {
+      "path": "federal/_candidatos_dec_sn_20261020_001/dec-sn-2010-09-01-s3.md",
+      "sha256_md": "e3a7f59cb209a8e6e02746eb1d48863d4ba08ebf05bc0c8814cb3447603822bb",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/dnn/dnn12847.htm",
+      "sha256_fonte_html": "ea62b15b88142e29c71e15c15e55300b14d45b24403fbc6b41d357c18a059c74",
+      "texto_com_pontuacao_igual": true,
+      "assinatura_numerica_igual": true,
+      "contexto_numerico_igual": true,
+      "commonmark_independente_igual": false,
+      "normalizacoes_apresentacao": [],
+      "nota_pdf_comprovada": null
+    },
+    {
+      "path": "federal/_candidatos_dec_sn_20261020_001/dec-sn-2010-11-12-s11.md",
+      "sha256_md": "da2a167c3e175a785a96eed5c0b40a1f8982474400a43ce0b919bf82b55c36e3",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/dnn/dnn12932.htm",
+      "sha256_fonte_html": "5c53acad8058553df72eb306e05b635284d77c4b9d46f5df69ae4887e891d0af",
+      "texto_com_pontuacao_igual": true,
+      "assinatura_numerica_igual": true,
+      "contexto_numerico_igual": true,
+      "commonmark_independente_igual": false,
+      "normalizacoes_apresentacao": [],
+      "nota_pdf_comprovada": null
+    },
+    {
+      "path": "federal/_candidatos_dec_sn_20261020_001/dec-sn-2010-11-12-s12.md",
+      "sha256_md": "ba367087723576ee23f120c45fe1ca64415d851f19d8a4ec1c5e09fe4b3a2dee",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/dnn/dnn12933.htm",
+      "sha256_fonte_html": "48869b3e6737cf24e081962a2e147b93bb7e49f5f46246fe2e4869461ccc08d5",
+      "texto_com_pontuacao_igual": true,
+      "assinatura_numerica_igual": true,
+      "contexto_numerico_igual": true,
+      "commonmark_independente_igual": false,
+      "normalizacoes_apresentacao": [],
+      "nota_pdf_comprovada": null
+    },
+    {
+      "path": "federal/_candidatos_dec_sn_20261020_002/dec-sn-2010-09-14-s0.md",
+      "sha256_md": "3ed08291c348e26aa1888a09642344efe43bbc0f002b7ca13e0be779a36e0639",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/dnn/dnn12857.htm",
+      "sha256_fonte_html": "06208d6bfc0c8a23c3800ad52f27595e7441ee27e0aba5a0f80a4758b35e68ef",
+      "texto_com_pontuacao_igual": true,
+      "assinatura_numerica_igual": true,
+      "contexto_numerico_igual": true,
+      "commonmark_independente_igual": true,
+      "normalizacoes_apresentacao": [],
+      "nota_pdf_comprovada": null,
+      "celulas_literais_doc_lo_iguais_md": true,
+      "celulas_literais_doc_textutil_iguais_lo": true,
+      "linhas_por_tabela": [
+        207,
+        27,
+        205,
+        38
+      ],
+      "celulas_por_tabela": [
+        499,
+        142,
+        558,
+        157
+      ]
+    },
+    {
+      "path": "federal/resolucoes-congresso/1993/rrc-1-1993-11-18.md",
+      "sha256_md": "35bed053d288a1d16c8ddbbcf346560668012123b59235bcc4ff31e33434a9ba",
+      "fonte": "https://legis.senado.leg.br/norma/589229/publicacao/15784462",
+      "sha256_fonte_html": "9cb6ce113efc8cffe81a911bd8de5491a4e6abf54985a89fccdd44c975172ea1",
+      "texto_com_pontuacao_igual": true,
+      "assinatura_numerica_igual": true,
+      "contexto_numerico_igual": true,
+      "commonmark_independente_igual": false,
+      "normalizacoes_apresentacao": [
+        {
+          "markdown": "TÍTULO I — DA REVISÃO CONSTITUCIONAL",
+          "fonte": "TÍTULO I DA REVISÃO CONSTITUCIONAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULo II — DOS TRABALHOS DE REVISÃO CONSTITUCIONAL",
+          "fonte": "TÍTULo II DOS TRABALHOS DE REVISÃO CONSTITUCIONAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULo I — Da Direção dos Trabalhos",
+          "fonte": "CAPÍTULo I Da Direção dos Trabalhos",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — Da Discussão das Propostas de Emenda e da Votação",
+          "fonte": "CAPÍTULO II Da Discussão das Propostas de Emenda e da Votação",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — Dos Destaques",
+          "fonte": "CAPÍTULO III Dos Destaques",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Dos Processos de Votação",
+          "fonte": "Seção I Dos Processos de Votação",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Da Verificação de Votação",
+          "fonte": "Seção II Da Verificação de Votação",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — Do Adiamento da Discussão ou da Votação",
+          "fonte": "CAPÍTULO V Do Adiamento da Discussão ou da Votação",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — Da Retirada de Proposição",
+          "fonte": "CAPÍTULO VI Da Retirada de Proposição",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VII — Das Questões de Ordem",
+          "fonte": "CAPÍTULO VII Das Questões de Ordem",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO III — Disposições Gerais",
+          "fonte": "TÍTULO III Disposições Gerais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO I — Da Divulgação dos Trabalhos",
+          "fonte": "CAPÍTULO I Da Divulgação dos Trabalhos",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — Da Alteração destas Normas",
+          "fonte": "CAPÍTULO II Da Alteração destas Normas",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — Disposições Finais",
+          "fonte": "CAPÍTULO III Disposições Finais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "nota_pdf_comprovada": null
+    },
+    {
+      "path": "federal/resolucoes-congresso/1993/rrc-2-1993-12-07.md",
+      "sha256_md": "9a6f38bc9d043faaddec1cc4fc08d7f84958ac2d97b7d99d1bf26c286a539eba",
+      "fonte": "https://www.senado.leg.br/publicacoes/anais/constituinte/diarios-revisionais/Diarios_dos_trabalhos_revisionais_1994_no_16_03FEV1994.pdf",
+      "sha256_fonte_html": "fb756496cb5de0343d9eff2c9ba28e43c45f1b0f0562eb28d3898ecbeb1b8399",
+      "texto_com_pontuacao_igual": true,
+      "assinatura_numerica_igual": true,
+      "contexto_numerico_igual": true,
+      "commonmark_independente_igual": true,
+      "normalizacoes_apresentacao": [],
+      "nota_pdf_comprovada": "O fac-símile do Diário dos Trabalhos Revisionais de 3 de fevereiro de 1994, página inicial (página 563 no cadastro), republica integralmente esta resolução por omissão da publicação de 8 de dezembro de 1993, página 215. A expressão \"passam a ser\" segue o fac-símile, conferido visualmente; o HTML Sigen omite o \"a\". O HTML original permanece preservado no recibo, sem alteração."
+    }
+  ],
+  "commonmark": {
+    "motor": "marked",
+    "versao": "17.0.5",
+    "opcoes": {
+      "gfm": false,
+      "pedantic": false,
+      "breaks": false
+    }
+  },
+  "normalizacao_rcc2": "A única palavra ausente no Sigen (a em passam a ser) segue o fac-símile e a nota editorial já conferidos visualmente pelo coordenador. A nota editorial explícita é excluída apenas da comparação com o texto normativo.",
+  "receipts": {
+    "path": "federal/_receipts_pontuacao_sn_rrc6_20261020_001.jsonl.gz",
+    "sha256": "657019e9c61932f6b8090c8a01bf3222a5104cd8588baf406501324d591c5714"
+  }
+}

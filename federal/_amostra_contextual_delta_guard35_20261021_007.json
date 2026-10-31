@@ -1,0 +1,2691 @@
+{
+  "metodo": "51 caminhos selecionados deterministicamente em todos os seis estratos preliminares, incluindo bordas e posições igualmente espaçadas; lidos comando, contexto anterior e término. Conferidos também os riscos de citações e listas; nenhum falso positivo foi confirmado nesta amostra. Isto não atesta os demais 6.649 casos.",
+  "resumo": {
+    "revisados": 51,
+    "ausencia_objeto_na_transcricao_confirmada_na_amostra": 51,
+    "falsos_positivos_confirmados_na_amostra": 0
+  },
+  "registros": [
+    {
+      "path": "federal/decretos/1950/dec-29004-1950-12-19.md",
+      "sha256_md": "b4b797d4ba2d6b407c454e61f64389b111d0d522d1b9dad642f4ba1ce9c64443",
+      "sha256_fonte_html": "4e7185c5d710aa45fddbe248d2f766f7ff36f56c06571c81a94ef580e0b8d853",
+      "urn": "urn:lex:br:federal:decreto:1950-12-19;29004",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1950-12-19;29004",
+      "estrato": "sem_rotulo_final_comprovado_revisao_individual",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": false,
+        "comando_direto_no_bloco": false,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": false
+      },
+      "trecho_artigo": "",
+      "placeholder_terminal": "<<anexo>>clbr vol. 08 ano 1950 pags. 389 a 392 tabelas.\n",
+      "apos_fecho": [],
+      "evidencia_guard": {
+        "motivo": "Relação própria que determina a alteração da tabela pelo presente decreto substituída por placeholder terminal; referência bibliográfica não reproduz os nomes ou dados exigidos pelo comando.",
+        "remissao": "art. 1º fica alterada, na forma da relacao anexa, a tabela de extranumerario-mensalista da universidade de recife.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1950 pags. 389 a 392 tabelas.\n",
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": false,
+      "prefixo_assinaturas_estrutural": false,
+      "prefixo_anterior_rotulos": [],
+      "sufixo_desde_primeiro_rotulo": [],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1972/dec-70852-1972-07-20.md",
+      "sha256_md": "9d4a829e45e363ae78c5d48d6d23f54fd202413d56d0b24eebada68ecf60595e",
+      "sha256_fonte_html": "3f58afc8270f47701fee20f2214c5ca64252723b1029461db036afdac4e13410",
+      "urn": "urn:lex:br:federal:decreto:1972-07-20;70852",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1972-07-20;70852",
+      "estrato": "rotulos_finais_vazios_demais_contextos_requerem_revisao",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": false,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 7º para efeito de acompanhamento global os titulares dos orgaos relacionados no anexo i deste decreto encaminharao, atraves das secretarias-gerais dos ministerios a que estiverem vinculados ou sujeitos a supervisao, ou diretamente nos outros casos, ao orgao central do sistema de planejamento e orcamento, ate o dia 31 de janeiro e 31 de julho de cada ano, relatorios sobre a execucao de politicas sob sua responsabilidade correspondentes ao exercicio e ao semestre anterior, respectivamente.",
+      "placeholder_terminal": "<<tabela>>\n",
+      "apos_fecho": [
+        "emilio g. medici",
+        "alfredo buzaid",
+        "mario gibson barboza",
+        "antonio delfim netto",
+        "mario david andreazza",
+        "l. f. cirne lima",
+        "jarbas g passarinho",
+        "julio barata",
+        "mario lemos",
+        "marcus vinicius pratini de moraes",
+        "antonio dias leite junior",
+        "joao paulo dos reis velloso",
+        "jose costa cavalcanti",
+        "hygino c. corsetti",
+        "<<anexo>>",
+        "<<tabela>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "rmos previstos no artigo anterior.\nart. 7º para efeito de acompanhamento global os titulares dos orgaos relacionados no anexo i deste decreto encaminharao, atraves das secretarias-gerais dos ministerios a que estiverem vinculados ou sujeitos a supervisao, ou di",
+        "fecho": "brasilia, 20 de julho de 1972; 151º da independencia e 84º da republica.",
+        "apos_fecho": [
+          "emilio g. medici",
+          "alfredo buzaid",
+          "mario gibson barboza",
+          "antonio delfim netto",
+          "mario david andreazza",
+          "l. f. cirne lima",
+          "jarbas g passarinho",
+          "julio barata",
+          "mario lemos",
+          "marcus vinicius pratini de moraes",
+          "antonio dias leite junior",
+          "joao paulo dos reis velloso",
+          "jose costa cavalcanti",
+          "hygino c. corsetti",
+          "<<anexo>>",
+          "<<tabela>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "emilio g. medici",
+        "alfredo buzaid",
+        "mario gibson barboza",
+        "antonio delfim netto",
+        "mario david andreazza",
+        "l. f. cirne lima",
+        "jarbas g passarinho",
+        "julio barata",
+        "mario lemos",
+        "marcus vinicius pratini de moraes",
+        "antonio dias leite junior",
+        "joao paulo dos reis velloso",
+        "jose costa cavalcanti",
+        "hygino c. corsetti"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexo>>",
+        "<<tabela>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1979/dec-83396-1979-05-02.md",
+      "sha256_md": "39a88bed7dbc5be3e3fd2ad4e47a6f7fb20742a635b9182835095cbd8dd975b0",
+      "sha256_fonte_html": "5a249e2e27096b445ebe8a720de0cd0d13011300cbcc2a1ec9c2ddcee3a31d58",
+      "urn": "urn:lex:br:federal:decreto:1979-05-02;83396",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1979-05-02;83396",
+      "estrato": "rotulos_finais_vazios_demais_contextos_requerem_revisao",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": false,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 4º os valores das diarias corresponderao aos percentuais especificados no anexo i deste decreto, calculados sobre o maior valor de referencia fixado pelo poder executivo para efeito do disposto no artigo 2º da lei nº 6.205, de 29 de abril de 1975, exceto na hipotese prevista no § 1º deste artigo.",
+      "placeholder_terminal": "<<tabelas>>\n",
+      "apos_fecho": [
+        "joao b. de figueiredo",
+        "petronio portella",
+        "<<tabelas>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "storia, fora da zona considerada urbana.\nart. 4º os valores das diarias corresponderao aos percentuais especificados no anexo i deste decreto, calculados sobre o maior valor de referencia fixado pelo poder executivo para efeito do disposto no artigo 2º da lei n",
+        "fecho": "brasilia, em 02 de maio de 1979; 158º da independencia e 91º da republica.",
+        "apos_fecho": [
+          "joao b. de figueiredo",
+          "petronio portella",
+          "<<tabelas>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "joao b. de figueiredo",
+        "petronio portella"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<tabelas>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1982/dec-87373-1982-07-08.md",
+      "sha256_md": "5193bf003d601ad6af57e45f4647f76b505d089f51d3625cae7486b3a470274a",
+      "sha256_fonte_html": "94983b8d01eafa0bdda0830f2bf10dd01b99ec2a9db0678a5cd2a1c24935b53d",
+      "urn": "urn:lex:br:federal:decreto:1982-07-08;87373",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1982-07-08;87373",
+      "estrato": "rotulos_finais_vazios_demais_contextos_requerem_revisao",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": false,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 2º - as classes integrantes da categoria funcional de fonoaudiologo distribuir-se-ao na forma do anexa deste decreto.",
+      "placeholder_terminal": "<<tabela>>\n",
+      "apos_fecho": [
+        "joao figueiredo",
+        "ibrahim abi-ackel",
+        "<<anexo>>",
+        "<<tabela>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "da fala e da voz.\nart. 2º - as classes integrantes da categoria funcional de fonoaudiologo distribuir-se-ao na forma do anexa deste decreto.\nart. 3º - o ingresso na categoria funcional de fonoaudiologo far-se-a na classe inicial mediante concurso publico de p",
+        "fecho": "brasilia, em 08 de julho de 1982; 161º da independencia e 94º da republica.",
+        "apos_fecho": [
+          "joao figueiredo",
+          "ibrahim abi-ackel",
+          "<<anexo>>",
+          "<<tabela>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "joao figueiredo",
+        "ibrahim abi-ackel"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexo>>",
+        "<<tabela>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1983/dec-88911-1983-10-24.md",
+      "sha256_md": "a6d2261018907978c3e19d83115e43fdd0b85744205d96bbeea9482e616a63a4",
+      "sha256_fonte_html": "6462e6f2271615260fe151d0042a94b6e3f3176d7d24348b0da5dc54d0ff87b2",
+      "urn": "urn:lex:br:federal:decreto:1983-10-24;88911",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1983-10-24;88911",
+      "estrato": "rotulos_finais_vazios_demais_contextos_requerem_revisao",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": false,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 2º - as classes integrantes da categoria funcional prevista no artigo anterior distribuir-se-ao na forma do anexo deste decreto.",
+      "placeholder_terminal": "<<tabelas>>\n",
+      "apos_fecho": [
+        "<<anexo>>",
+        "<<tabelas>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "latos.\nart. 2º - as classes integrantes da categoria funcional prevista no artigo anterior distribuir-se-ao na forma do anexo deste decreto.\nart. 3º - o ingresso na categoria funcional de que trata este decreto far-se-a na classe inicial, mediante concurso pu",
+        "fecho": "brasilia, em 24 de outubro de 1983; 162º da independencia e 95º da republica.",
+        "apos_fecho": [
+          "<<anexo>>",
+          "<<tabelas>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": false,
+      "prefixo_anterior_rotulos": [],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexo>>",
+        "<<tabelas>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1988/dec-97086-1988-11-22.md",
+      "sha256_md": "2a84a180f2b0e7e2df974b4463e425095aeaab8db6b8f06adf24216a560725e0",
+      "sha256_fonte_html": "98a0e0ca8c14669091a2fd1eea9902cfa1139a8e35b411568db0d9f4fd482fb1",
+      "urn": "urn:lex:br:federal:decreto:1988-11-22;97086",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1988-11-22;97086",
+      "estrato": "rotulos_finais_vazios_demais_contextos_requerem_revisao",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": false,
+        "comando_direto_no_bloco": false,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "",
+      "placeholder_terminal": "<<tabelas>>\n",
+      "apos_fecho": [
+        "jose sarney",
+        "mailson ferreira da nobrega",
+        "joao batista de abreu",
+        "<<tabelas>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "s mil cruzados), para reforco das dota­coes orcamentarias - grupo outras despesas correntes e de capital - indicadas no anexo i deste decreto.\nart. 2° os recursos necessarios a execucao do disposto no artigo anterior sao os previstos no decreto n° 96.940, de 07",
+        "fecho": "brasilia, 22 de novembro de 1988; 167° da independencia e 100° da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "mailson ferreira da nobrega",
+          "joao batista de abreu",
+          "<<tabelas>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "jose sarney",
+        "mailson ferreira da nobrega",
+        "joao batista de abreu"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<tabelas>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/2008/dec-6589-2008-10-01.md",
+      "sha256_md": "2ad6613833f800f0a59d237d24d01740d8469827a0443ce5d96aa80238249350",
+      "sha256_fonte_html": "a55797702a020e50722849ab5c26439f1baa6c8d054c5ba4a23edb015f444473",
+      "urn": "urn:lex:br:federal:decreto:2008-10-01;6589",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2008-10-01;6589",
+      "estrato": "rotulos_finais_vazios_demais_contextos_requerem_revisao",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": false,
+        "comando_direto_no_bloco": false,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "",
+      "placeholder_terminal": "<<anexos>>\n",
+      "apos_fecho": [
+        "luiz inacio lula da silva",
+        "guido mantega",
+        "paulo bernardo silva",
+        "<<anexos>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "r com a seguinte redacao:\n“b) ampliar os limites estabelecidos para os orgaos e unidades orcamentarias relacionados nos anexos i e ii deste decreto, ate o montante de r$ 8.135.100.000,00 (oito bilhoes, cento e trinta e cinco milhoes e cem mil reais) e r$ 10.617.013.0",
+        "fecho": "brasilia, 1º de outubro de 2008; 187o da independencia e 120o da republica.",
+        "apos_fecho": [
+          "luiz inacio lula da silva",
+          "guido mantega",
+          "paulo bernardo silva",
+          "<<anexos>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "luiz inacio lula da silva",
+        "guido mantega",
+        "paulo bernardo silva"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexos>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/2009/dec-6993-2009-10-28.md",
+      "sha256_md": "a00fbbfc3ef89064b428f23d4c44b450b490eb5addfe19ee3936e7749d912cfc",
+      "sha256_fonte_html": "00e50229a457dfbecd221a0c0e711459d54a2c477c8908e5fd69abd4c75095d9",
+      "urn": "urn:lex:br:federal:decreto:2009-10-28;6993",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2009-10-28;6993",
+      "estrato": "rotulos_finais_vazios_demais_contextos_requerem_revisao",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": false,
+        "comando_direto_no_bloco": false,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "",
+      "placeholder_terminal": "<<anexo>>\n",
+      "apos_fecho": [
+        "luiz inacio lula da silva",
+        "guido mantega",
+        "paulo bernardo silva",
+        "<<anexo>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "om as seguintes redacoes:\n“b) ampliar os limites estabelecidos para os orgaos e unidades orcamentarias relacionados nos anexos i e ii deste decreto, ate o montante de r$ 18.325.719.910,00 (dezoito bilhoes, trezentos e vinte e cinco milhoes, setecentos e dezenove mil,",
+        "fecho": "brasilia, 28 de outubro de 2009; 188o da independencia e 121o da republica.",
+        "apos_fecho": [
+          "luiz inacio lula da silva",
+          "guido mantega",
+          "paulo bernardo silva",
+          "<<anexo>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "luiz inacio lula da silva",
+        "guido mantega",
+        "paulo bernardo silva"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexo>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1951/dec-29638-1951-06-05.md",
+      "sha256_md": "92888f2c97a1e8d552f9e06ae4a702a7b07ac118d76ef1334af79b68adec2ea2",
+      "sha256_fonte_html": "02b03e601f5c4cd9757082267a2a62d5ee48324f46a30d29881471a7a7be0d68",
+      "urn": "urn:lex:br:federal:decreto:1951-06-05;29638",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-06-05;29638",
+      "estrato": "risco_citacao_ou_alteracao_de_outro_decreto",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": true,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": false,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º ficam extintas e suprimidas na tabela unica de mensalistas do ministerio da fazenda, as funcoes constantes do anexo i deste decreto, cujos ocupantes foram admitidos a titulo precario na forma do artigo 2º do decreto-lei nº 5.175, de 7 de janeiro de 1943, e a data de sua admissao nao mantinham qualquer relacao de emprego com o servico publico federal.",
+      "placeholder_terminal": null,
+      "apos_fecho": [
+        "getulio vargas",
+        "horacio lafer"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": ":\nart. 1º ficam extintas e suprimidas na tabela unica de mensalistas do ministerio da fazenda, as funcoes constantes do anexo i deste decreto, cujos ocupantes foram admitidos a titulo precario na forma do artigo 2º do decreto-lei nº 5.175, de 7 de janeiro de 19",
+        "fecho": "rio de janeiro, 5 de junho de 1951, 130º da independencia e 63º da republica.",
+        "apos_fecho": [
+          "getulio vargas",
+          "horacio lafer"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": false,
+      "prefixo_assinaturas_estrutural": false,
+      "prefixo_anterior_rotulos": [],
+      "sufixo_desde_primeiro_rotulo": [],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A citação de outro decreto não é o referente exclusivo: o comando exige expressamente anexo deste decreto, que não aparece. Nos atos de alteração, a substituição pelo anexo atual é distinta da citação ao ato alterado."
+    },
+    {
+      "path": "federal/decretos/1976/dec-77209-1976-02-20.md",
+      "sha256_md": "3c2fea38737aa02ab276c24e6b1e2b54ce5e578be8db856af008d2c004bbc8ac",
+      "sha256_fonte_html": "7b930209e253cf3f7e6a87245161642c37adde73b7524f32bd8ff565518247d7",
+      "urn": "urn:lex:br:federal:decreto:1976-02-20;77209",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1976-02-20;77209",
+      "estrato": "risco_citacao_ou_alteracao_de_outro_decreto",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": true,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": false,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º sao transpostos e transformados, na forma do anexo i, para as categorias funcionais de agente administrativo e datilografo do grupo servicos auxiliares, codigo: lt-sa-800; tecnico de administracao, tecnico em assuntos educacionais e assistente social, do grupo outras atividades de nivel superior, codigo: lt-ns-900; tecnico de contabilidade e telefonista, do grupo outras atividades de nivel medio, codigo: lt-nm-1000; procurador autarquico do grupo servicos juridicos, codigo: lt-sj-1100 e motorista oficial e agente de portaria, do grupo servicos de transporte oficial e portaria, codigo: lt-tp-1200, da tabela permanente do instituto nacional de alimentacao e nutricao, os empregos cujos ocupantes se habilitaram no processo seletivo de que trata o decreto numero 75.239, de 16 de janeiro de 1975, conforme relacao nominal constante do anexo ii deste decreto.",
+      "placeholder_terminal": null,
+      "apos_fecho": [
+        "ernesto geisel",
+        "paulo de almeida machado",
+        "joao paulo dos reis velloso",
+        "os anexos mencionados no presente decreto foram publicados no d.o. de 24-2-76 (suplemento)."
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "processo seletivo de que trata o decreto numero 75.239, de 16 de janeiro de 1975, conforme relacao nominal constante do anexo ii deste decreto.\nart. 2º ficam extintos e suprimidos da tabela permanente do instituto nacional de alimentacao e nutricao os empregos r",
+        "fecho": "brasilia, 20 de fevereiro de 1976; 155º da independencia e 88º da republica.",
+        "apos_fecho": [
+          "ernesto geisel",
+          "paulo de almeida machado",
+          "joao paulo dos reis velloso",
+          "os anexos mencionados no presente decreto foram publicados no d.o. de 24-2-76 (suplemento)."
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": false,
+      "prefixo_assinaturas_estrutural": false,
+      "prefixo_anterior_rotulos": [],
+      "sufixo_desde_primeiro_rotulo": [],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A citação de outro decreto não é o referente exclusivo: o comando exige expressamente anexo deste decreto, que não aparece. Nos atos de alteração, a substituição pelo anexo atual é distinta da citação ao ato alterado."
+    },
+    {
+      "path": "federal/decretos/1976/dec-78885-1976-12-02.md",
+      "sha256_md": "e1ba9eddb2630cc1528fcc8a78205e914e44e8e31792339b82412942248f8604",
+      "sha256_fonte_html": "c908d033ffb379b2779a27ecbf056dc691f8f01a8ee40c5b523e3d05e390953c",
+      "urn": "urn:lex:br:federal:decreto:1976-12-02;78885",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1976-12-02;78885",
+      "estrato": "risco_citacao_ou_alteracao_de_outro_decreto",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": true,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": false,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º sao transpostos e transformados, na forma de anexo i, para as categorias funcionais de artifice de mecanica, artifice de eletricidade e comunicacoes e artifice de artes graficas do grupo artesanato, codigo: lt-art-700; agente administrativo do grupo de servicos auxiliares, codigo: lt-sa-800; medico, odontologo, economista e contador do grupo outras atividades de nivel superior, codigo: lt-ns-900; auxiliar de enfermagem, agente de telecomunicacoes e eletricidade, taquigrafo, tecnico de contabilidade, agente de mecanizacao de apoio e telefonista do grupo outras atividades de nivel medio codigo: lt-nm-1000; procurador autarquico do grupo servicos juridicos, codigo: lt-sj-1100 e motorista oficial e agente de portaria do grupo servicos de transporte oficial e portaria, codigo: lt-tp-1200, da tabela permanente da superintendencia nacional da marinha mercante, os empregos cujos ocupantes se habilitaram no processo seletivo de que trata o decreto numero 75.239, de 16 de janeiro de1975, conforme relacao nominal constante do anexo ii deste decreto.",
+      "placeholder_terminal": null,
+      "apos_fecho": [
+        "ernesto geisel",
+        "dyrceu araujo nogueira",
+        "os anexos mencionados no presente decreto foram publicados no d.o. de 7-12-76 (suplemento)."
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": " processo seletivo de que trata o decreto numero 75.239, de 16 de janeiro de1975, conforme relacao nominal constante do anexo ii deste decreto.\nart. 2º ficam extintos e suprimidos os empregos relacionados no anexo iv deste decreto, pertencentes a tabela provisor",
+        "fecho": "brasilia, 2 de dezembro de 1976; 155º da independencia e 88º da republica.",
+        "apos_fecho": [
+          "ernesto geisel",
+          "dyrceu araujo nogueira",
+          "os anexos mencionados no presente decreto foram publicados no d.o. de 7-12-76 (suplemento)."
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": false,
+      "prefixo_assinaturas_estrutural": false,
+      "prefixo_anterior_rotulos": [],
+      "sufixo_desde_primeiro_rotulo": [],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A citação de outro decreto não é o referente exclusivo: o comando exige expressamente anexo deste decreto, que não aparece. Nos atos de alteração, a substituição pelo anexo atual é distinta da citação ao ato alterado."
+    },
+    {
+      "path": "federal/decretos/1977/dec-80144-1977-08-11.md",
+      "sha256_md": "fe73b4993d7470c9b8b0ccdf1c48940ab3ec67ec45befbea7af3341d74c6fa3f",
+      "sha256_fonte_html": "03bcae84488f4ec880814406e370a23a0f773eb356d0c6a3d490c68f849467b8",
+      "urn": "urn:lex:br:federal:decreto:1977-08-11;80144",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1977-08-11;80144",
+      "estrato": "risco_citacao_ou_alteracao_de_outro_decreto",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": true,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º ficam incluidos, mediante transposicao, na forma dos anexos i e ii deste decreto, nas categorias funcionais de enfermeiro do grupo outras atividades de nivel superior, codigo: ns-900, pesquisador em ciencias da saude do grupo de pesquisa cientifica e tecnologica, codigo:pct-200, e tecnico em radiologia do grupo outras atividades de nivel medio, codigo: nm-1000, do quadro permanente do hospital das forcas armadas, de que trata o decreto nº 75.471, de 12 de marco de 1975, cargos com os respectivos ocupantes, amparados pela lei nº 6.184, de 11 de dezembro de 1974.",
+      "placeholder_terminal": "<<tabelas>>\n",
+      "apos_fecho": [
+        "ernesto geisel",
+        "moacyr barcellos potyguara",
+        "os anexos mencionados no presente decreto foram publicados no d.o de 16-8-77",
+        "<<tabelas>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "rocessos dasp nºs 9.352-77, 9.853-77 e 20.371-76,\ndecreta:\nart. 1º ficam incluidos, mediante transposicao, na forma dos anexos i e ii deste decreto, nas categorias funcionais de enfermeiro do grupo outras atividades de nivel superior, codigo: ns-900, pesquisador em c",
+        "fecho": "brasilia, 11 de agosto de 1977; 156º da independencia e 89º da republica.",
+        "apos_fecho": [
+          "ernesto geisel",
+          "moacyr barcellos potyguara",
+          "os anexos mencionados no presente decreto foram publicados no d.o de 16-8-77",
+          "<<tabelas>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": false,
+      "prefixo_anterior_rotulos": [
+        "ernesto geisel",
+        "moacyr barcellos potyguara",
+        "os anexos mencionados no presente decreto foram publicados no d.o de 16-8-77"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<tabelas>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A citação de outro decreto não é o referente exclusivo: o comando exige expressamente anexo deste decreto, que não aparece. Nos atos de alteração, a substituição pelo anexo atual é distinta da citação ao ato alterado."
+    },
+    {
+      "path": "federal/decretos/1977/dec-81047-1977-12-15.md",
+      "sha256_md": "4c3a5c929027245354f0e9ee261c5dc1a91f0c435577411adb1efc0ac4876494",
+      "sha256_fonte_html": "6df6eabd59da7a2681a0b59f06ae116d61f8097328244a5a2d8a8849d6002bbe",
+      "urn": "urn:lex:br:federal:decreto:1977-12-15;81047",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1977-12-15;81047",
+      "estrato": "risco_citacao_ou_alteracao_de_outro_decreto",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": true,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": false,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º - fica incluido, mediante transformacao, na forma do anexo i deste decreto, na categoria funcional de agente administrativo, codigo: sa-801, do quadro permanente do ministerio publico do distrito federal e dos territorios, de que trata o decreto nº 78.972, de 20 de dezembro de 1976, cargo com o respectivo ocupante, amparado pela lei nº 6.184, de 11 de dezembro de 1974.",
+      "placeholder_terminal": null,
+      "apos_fecho": [
+        "ernesto geisel",
+        "armando falcao",
+        "os anexos mencionados no presente decreto foram publicados no d.o. de 16-12-77."
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": " processo dasp nº 0642, de 13 de janeiro de 1977,\ndecreta:\nart. 1º - fica incluido, mediante transformacao, na forma do anexo i deste decreto, na categoria funcional de agente administrativo, codigo: sa-801, do quadro permanente do ministerio publico do distrit",
+        "fecho": "brasilia, em 15 de dezembro de 1977; 156º da independencia e 89º da republica.",
+        "apos_fecho": [
+          "ernesto geisel",
+          "armando falcao",
+          "os anexos mencionados no presente decreto foram publicados no d.o. de 16-12-77."
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": false,
+      "prefixo_assinaturas_estrutural": false,
+      "prefixo_anterior_rotulos": [],
+      "sufixo_desde_primeiro_rotulo": [],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A citação de outro decreto não é o referente exclusivo: o comando exige expressamente anexo deste decreto, que não aparece. Nos atos de alteração, a substituição pelo anexo atual é distinta da citação ao ato alterado."
+    },
+    {
+      "path": "federal/decretos/1982/dec-87012-1982-03-15.md",
+      "sha256_md": "980f4d8ab78b0635b4c98b27ccef3f29c00167ef957a07ca78a0852c509d98fe",
+      "sha256_fonte_html": "df2919286697579b394efb2ff3d1b74447beb02d1cda7807db8aa2dfbcc04e54",
+      "urn": "urn:lex:br:federal:decreto:1982-03-15;87012",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1982-03-15;87012",
+      "estrato": "risco_citacao_ou_alteracao_de_outro_decreto",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": true,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º - ficam criados, na forma do anexo deste decreto, na tabela permanente da escola tecnica federal de mato grosso, 59 (cinquenta e nove) empregos de professor da carreira de magisterio de 1º e 2º graus, a serem providos por professores colaboradores admitidos ate 31 de dezembro de 1979, amparados pelo disposto no artigo 16 do decreto nº 85.712, de 16 de fevereiro de 1981.",
+      "placeholder_terminal": "<<anexo>>\n",
+      "apos_fecho": [
+        "joao figueiredo",
+        "rubem ludwig",
+        "<<anexo>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": " de fevereiro de 1981, e o que consta do processo dasp nº 2.299, de 1982,\ndecreta:\nart. 1º - ficam criados, na forma do anexo deste decreto, na tabela permanente da escola tecnica federal de mato grosso, 59 (cinquenta e nove) empregos de professor da carreira",
+        "fecho": "brasilia, em 15 de marco de 1982; 161º da independencia e 94º da republica.",
+        "apos_fecho": [
+          "joao figueiredo",
+          "rubem ludwig",
+          "<<anexo>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "joao figueiredo",
+        "rubem ludwig"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexo>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A citação de outro decreto não é o referente exclusivo: o comando exige expressamente anexo deste decreto, que não aparece. Nos atos de alteração, a substituição pelo anexo atual é distinta da citação ao ato alterado."
+    },
+    {
+      "path": "federal/decretos/1990/dec-99195-1990-03-28.md",
+      "sha256_md": "ceb3606df80a59d34811398d51b81301c8b5a958d450ca9cef26a94438a8bbaa",
+      "sha256_fonte_html": "444eaa670aa4a5a0af29a8e3ca68630f53f09980bbaf0c96e203a8e6a3bc4eb3",
+      "urn": "urn:lex:br:federal:decreto:1990-03-28;99195",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1990-03-28;99195",
+      "estrato": "risco_citacao_ou_alteracao_de_outro_decreto",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": true,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1° os anexos i e ii do decreto n° 99.180, de 15 de marco de 1990, passam a vigorar de acordo com o disposto nos anexos i e ii deste decreto.",
+      "placeholder_terminal": "<<tabelas>>\n",
+      "apos_fecho": [
+        "fernando collor",
+        "bernardo cabral",
+        "<<tabelas>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "a:\nart. 1° os anexos i e ii do decreto n° 99.180, de 15 de marco de 1990, passam a vigorar de acordo com o disposto nos anexos i e ii deste decreto.\nart. 2° este decreto entra em vigor na data de sua publicacao.",
+        "fecho": "brasilia, 28 de marco de 1990; 169° da independencia e 102° da republica.",
+        "apos_fecho": [
+          "fernando collor",
+          "bernardo cabral",
+          "<<tabelas>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "fernando collor",
+        "bernardo cabral"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<tabelas>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A citação de outro decreto não é o referente exclusivo: o comando exige expressamente anexo deste decreto, que não aparece. Nos atos de alteração, a substituição pelo anexo atual é distinta da citação ao ato alterado."
+    },
+    {
+      "path": "federal/decretos/2013/dec-8091-2013-09-03.md",
+      "sha256_md": "1f3e1236e3b68a0ad7f34f267eeec66e9872dc739f8b37f7870b1c3015ef12bb",
+      "sha256_fonte_html": "7598f78ce3149cae704ff107d94163bd5806ab67e9034c95a09a806607ef7dd4",
+      "urn": "urn:lex:br:federal:decreto:2013-09-03;8091",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2013-09-03;8091",
+      "estrato": "risco_citacao_ou_alteracao_de_outro_decreto",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": false,
+        "risco_citacao_ou_alteracao": true,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": true,
+        "tabela_html_presente": false,
+        "placeholder_terminal": false,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 3º o anexo ii ao decreto nº 6.563, de 2008, passa a vigorar na forma do anexo i deste decreto.",
+      "placeholder_terminal": null,
+      "apos_fecho": [
+        "michel temer",
+        "miriam belchior"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "ivadas, nacionais ou internacionais.\" (nr)\nart. 3º o anexo ii ao decreto nº 6.563, de 2008, passa a vigorar na forma do anexo i deste decreto.\nart. 4º os apostilamentos decorrentes das alteracoes processadas deverao ocorrer no prazo de vinte dias, contado da da",
+        "fecho": "brasilia, 3 de setembro de 2013; 192º da independencia e 125º da republica.",
+        "apos_fecho": [
+          "michel temer",
+          "miriam belchior"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": false,
+      "prefixo_assinaturas_estrutural": false,
+      "prefixo_anterior_rotulos": [],
+      "sufixo_desde_primeiro_rotulo": [],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A citação de outro decreto não é o referente exclusivo: o comando exige expressamente anexo deste decreto, que não aparece. Nos atos de alteração, a substituição pelo anexo atual é distinta da citação ao ato alterado."
+    },
+    {
+      "path": "federal/decretos/1951/dec-29651-1951-06-08.md",
+      "sha256_md": "3bb03b4abf041a3b24d707346df41c14864ce1506607525999efdbb575853ca3",
+      "sha256_fonte_html": "e65871614b5d519ed7cddfd3c33818d7c58a1b25a362807b87f62472738daa72",
+      "urn": "urn:lex:br:federal:decreto:1951-06-08;29651",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-06-08;29651",
+      "estrato": "modelo_grafico_revisao_documental",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": true,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": false
+      },
+      "trecho_artigo": "art. 1º fica aprovado o regulamento da inspecao industrial e sanitaria dos produtos de origem animal que com este baixa assinado pelo ministro de estado dos negocios da agricultura, a ser aplicado nos estabelecimentos que realizem comercio interestadual ou internacional, nos termos do artigo 4º, alinea \"a\" da lei n. 1.283, de 18 de dezembro de 1950.",
+      "placeholder_terminal": "<<anexo>>clbr vol. 06 ano 1951 figuras.\n",
+      "apos_fecho": [],
+      "evidencia_guard": {
+        "motivo": "Objeto gráfico do regulamento próprio indicado apenas por placeholder bibliográfico; descrição textual ou outras tabelas não comprovam a reprodução dos desenhos, símbolos, carimbos ou figuras.",
+        "lacuna": "<<anexo>>clbr vol. 06 ano 1951 figuras.",
+        "estado": "revisao_documental_necessaria"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": false,
+      "prefixo_assinaturas_estrutural": false,
+      "prefixo_anterior_rotulos": [],
+      "sufixo_desde_primeiro_rotulo": [],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "Regulamento próprio aprovado e transcrito, mas símbolo/figuras/carimbos aparecem somente em ponteiros CLBR. As descrições e tabelas textuais do regulamento não reproduzem os desenhos exigidos."
+    },
+    {
+      "path": "federal/decretos/1951/dec-30163-1951-11-13.md",
+      "sha256_md": "57ceca9624266518da019331c0dd38a701bcb98123d39d120cbb0e5236fd318d",
+      "sha256_fonte_html": "02a1ad184caef03314aef1abe038813d4838a3b660989092cfe540dcbe195c6b",
+      "urn": "urn:lex:br:federal:decreto:1951-11-13;30163",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-11-13;30163",
+      "estrato": "modelo_grafico_revisao_documental",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": true,
+        "lista_numerada_antes_do_fecho": true,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": false
+      },
+      "trecho_artigo": "art. 1º fica aprovado o regulamento de uniformes do pessoal do exercito (1ª parte), que com este baixa, assinado pelo general de divisao newton estillac leal, ministro de estado da guerra.",
+      "placeholder_terminal": "<<anexo>>clbr vol. 08 ano 1951 pags. 117 a 140 figuras.\n",
+      "apos_fecho": [],
+      "evidencia_guard": {
+        "motivo": "Objeto gráfico do regulamento próprio indicado apenas por placeholder bibliográfico; descrição textual ou outras tabelas não comprovam a reprodução dos desenhos, símbolos, carimbos ou figuras.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1951 pags. 93 simbolo fig. 01",
+        "estado": "revisao_documental_necessaria"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": false,
+      "prefixo_assinaturas_estrutural": false,
+      "prefixo_anterior_rotulos": [],
+      "sufixo_desde_primeiro_rotulo": [],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "Regulamento próprio aprovado e transcrito, mas símbolo/figuras/carimbos aparecem somente em ponteiros CLBR. As descrições e tabelas textuais do regulamento não reproduzem os desenhos exigidos."
+    },
+    {
+      "path": "federal/decretos/1952/dec-30691-1952-03-29.md",
+      "sha256_md": "724eb74c69a8df6a8c49d7d0e0c769841f0aca3754c3cb18255a099fbe5db51b",
+      "sha256_fonte_html": "0ef7060e6f7d6a23a8f677c88ffee93c186c646c0671a1d4170f50baedfec429",
+      "urn": "urn:lex:br:federal:decreto:1952-03-29;30691",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-03-29;30691",
+      "estrato": "modelo_grafico_revisao_documental",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": true,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": false
+      },
+      "trecho_artigo": "art. 1º fica aprovado o novo regulamento de inspecao industrial e sanitaria de produtos de origem animal que com este baixa assinado pelo ministro de estados dos negocios da agricultura, a ser aplicado nos estabelecimentos que realizem comercio interestadual ou internacional nos termos do artigo 4º, alinea \"a\", da lei nº 1.283, de 18 de dezembro de 1950.",
+      "placeholder_terminal": "<<anexo>>clbr vol. 06 ano 1952 pags. 486 a 492 carimbos.\n",
+      "apos_fecho": [],
+      "evidencia_guard": {
+        "motivo": "Objeto gráfico do regulamento próprio indicado apenas por placeholder bibliográfico; descrição textual ou outras tabelas não comprovam a reprodução dos desenhos, símbolos, carimbos ou figuras.",
+        "lacuna": "<<anexo>>clbr vol. 06 ano 1952 pags. 486 a 492 carimbos.",
+        "estado": "revisao_documental_necessaria"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": false,
+      "prefixo_assinaturas_estrutural": false,
+      "prefixo_anterior_rotulos": [],
+      "sufixo_desde_primeiro_rotulo": [],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "Regulamento próprio aprovado e transcrito, mas símbolo/figuras/carimbos aparecem somente em ponteiros CLBR. As descrições e tabelas textuais do regulamento não reproduzem os desenhos exigidos."
+    },
+    {
+      "path": "federal/decretos/1951/dec-29672-1951-06-15.md",
+      "sha256_md": "d7a84046cd7f044e72771549567cc71115dd05f121c0a4201fd2df55603fc453",
+      "sha256_fonte_html": "94d87fefa4bbe0ec92c14447a2b646d52addfe565daf3439b7715570492275d2",
+      "urn": "urn:lex:br:federal:decreto:1951-06-15;29672",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-06-15;29672",
+      "estrato": "sem_rotulo_final_comprovado_revisao_individual",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": false,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º serao mantidas na atual tabela unica de mensalistas (t.u.m.) do ministerio da guerra, com os respectivos ocupantes, ate a realizacao de provas publicas de habilitacao para o seu preenchimento e consequente inclusao na nova t.u.m. a ser oportunidade organizada para aquele ministerio, as funcoes constantes do anexo deste decreto.",
+      "placeholder_terminal": null,
+      "apos_fecho": [
+        "getulio vargas",
+        "newton estilac leal"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "to e consequente inclusao na nova t.u.m. a ser oportunidade organizada para aquele ministerio, as funcoes constantes do anexo deste decreto.\n§ 1º realizadas as provas, os atuais ocupantes das funcoes a que se refere este artigo, se nao satisfizerem as condico",
+        "fecho": "rio de janeiro, 15 de junho de 1951; 130º da independencia e 63º da republica.",
+        "apos_fecho": [
+          "getulio vargas",
+          "newton estilac leal"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": false,
+      "prefixo_assinaturas_estrutural": false,
+      "prefixo_anterior_rotulos": [],
+      "sufixo_desde_primeiro_rotulo": [],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1977/dec-80799-1977-11-22.md",
+      "sha256_md": "8d7539a4d35ee2f77540e79a9a7e7aee930b32cdeb94f02e06b338e31f294bb1",
+      "sha256_fonte_html": "cbcdf2aa74170ee4caee0384eb180a3aa1a47d7fd609158c12beb97c5a30a968",
+      "urn": "urn:lex:br:federal:decreto:1977-11-22;80799",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1977-11-22;80799",
+      "estrato": "sem_rotulo_final_comprovado_revisao_individual",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": false,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º - sao transformados, na forma do anexo i, para a categoria funcional de fiscal de tributos federais, do grupo tributacao, arrecadacao e fiscalizacao, codigo: taf-600, do quadro permanente do ministerio da fazenda, os cargos cujos ocupantes concorrem a categoria funcional diversa daquela em que, originariamente, seriam incluidos e que se habilitaram em processo seletivo proprio, conforme relacao nominal constante no anexo ii deste decreto.",
+      "placeholder_terminal": null,
+      "apos_fecho": [
+        "ernesto geisel",
+        "mario henrique simonsen",
+        "os anexos mencionados no presente decreto foram publicados no d.o. de 24-11-77."
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "ginariamente, seriam incluidos e que se habilitaram em processo seletivo proprio, conforme relacao nominal constante no anexo ii deste decreto.\nart. 2º - ficam excluidos do anexo iii do decreto nº 80.368, de 20 de setembro de 1977, os cargos e seus respectivos o",
+        "fecho": "brasilia, 22 de novembro de 1977; 156º da independencia e 89º da republica.",
+        "apos_fecho": [
+          "ernesto geisel",
+          "mario henrique simonsen",
+          "os anexos mencionados no presente decreto foram publicados no d.o. de 24-11-77."
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": false,
+      "prefixo_assinaturas_estrutural": false,
+      "prefixo_anterior_rotulos": [],
+      "sufixo_desde_primeiro_rotulo": [],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1980/dec-85224-1980-10-01.md",
+      "sha256_md": "974249043d1e91c398fd9be26642c5b7f24ebb65b4cd4849abbf0e746c9c5776",
+      "sha256_fonte_html": "77cf77c266dcb743cc5f0040581bb1b2b30826b9ac48798e0e0b24e8241dbac8",
+      "urn": "urn:lex:br:federal:decreto:1980-10-01;85224",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1980-10-01;85224",
+      "estrato": "sem_rotulo_final_comprovado_revisao_individual",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": false,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º - fica aberto ao ministerio da saude em favor do instituto nacional de alimentacao e nutricao-inan, o credito suplementar no valor de cr$ 788.000.000,00 (setecentos e oitenta e oito milhoes de cruzeiros), para reforco de dotacoes orcamentarias indicadas no anexo i deste decreto.",
+      "placeholder_terminal": null,
+      "apos_fecho": [
+        "joao figueiredo",
+        "eduardo pereira de carvalho",
+        "waldir mendes arcoverde",
+        "antonio delfim netto"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": " 788.000.000,00 (setecentos e oitenta e oito milhoes de cruzeiros), para reforco de dotacoes orcamentarias indicadas no anexo i deste decreto.\nart. 2º - os recursos necessarios a execucao do disposto no artigo anterior decorrerao de anulacao parcial das dotacoe",
+        "fecho": "brasilia, em 1º de outubro de 1980; 159º da independencia e 92º da republica.",
+        "apos_fecho": [
+          "joao figueiredo",
+          "eduardo pereira de carvalho",
+          "waldir mendes arcoverde",
+          "antonio delfim netto"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": false,
+      "prefixo_assinaturas_estrutural": false,
+      "prefixo_anterior_rotulos": [],
+      "sufixo_desde_primeiro_rotulo": [],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1981/dec-86467-1981-10-14.md",
+      "sha256_md": "e8a1b0bbee6efcc313414d9d0065dc55ab806c7682c3de49ba4177e1e59d2a71",
+      "sha256_fonte_html": "c49d9e13e26457d0cc347284ba512295a62fa61d21a8218b56925d4c2404c77c",
+      "urn": "urn:lex:br:federal:decreto:1981-10-14;86467",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1981-10-14;86467",
+      "estrato": "comando_proprio_e_rotulos_finais_vazios_sem_representacao_identificada",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": false,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º - fica aberto ao ministerio da fazenda em favor de diversas unidades orcamentarias, o credito suplementar no valor de cr$ 3.740.710.000,00 (tres bilhoes, setecentos e quarenta milhoes e setecentos e dez mil cruzeiros), para reforco de dotacoes orcamentarias indicadas no anexo i deste decreto.",
+      "placeholder_terminal": null,
+      "apos_fecho": [
+        "aureliano chaves",
+        "ernane galveas",
+        "jose flavio pecora",
+        "<<anexos>>",
+        "tabelas"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "s, setecentos e quarenta milhoes e setecentos e dez mil cruzeiros), para reforco de dotacoes orcamentarias indicadas no anexo i deste decreto.\nart. 2º - os recursos necessarios a execucao do disposto no artigo anterior decorrerao de anulacao parcial das dotacoe",
+        "fecho": "brasilia, em 14 de outubro de 1981; 160º da independencia e 93º da republica.",
+        "apos_fecho": [
+          "aureliano chaves",
+          "ernane galveas",
+          "jose flavio pecora",
+          "<<anexos>>",
+          "tabelas"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": true,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "aureliano chaves",
+        "ernane galveas",
+        "jose flavio pecora"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexos>>",
+        "tabelas"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1982/dec-87921-1982-12-14.md",
+      "sha256_md": "b2de933ae9b515a536b97819a0ce1ed2546252f600e99da6babb97b6db9c8486",
+      "sha256_fonte_html": "1c63a2ff0b837a9f2a836eab5f297a210bfcf6be61945abe56eb291cc29a59d8",
+      "urn": "urn:lex:br:federal:decreto:1982-12-14;87921",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1982-12-14;87921",
+      "estrato": "comando_proprio_e_rotulos_finais_vazios_sem_representacao_identificada",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": false,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º - fica aberto ao ministerio da agricultura em favor de diversas unidades orcamentarias o credito suplementar no valor de cr$ 143.000.000,00 (cento e quarenta e tres milhoes de cruzeiros), para reforco de dotacoes orcamentarias indicadas no anexo i deste decreto.",
+      "placeholder_terminal": null,
+      "apos_fecho": [
+        "joao figueiredo",
+        "ernane galveas",
+        "delfim netto",
+        "<<anexo>>",
+        "(tabela)"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": " cr$ 143.000.000,00 (cento e quarenta e tres milhoes de cruzeiros), para reforco de dotacoes orcamentarias indicadas no anexo i deste decreto.\nart. 2º - os recursos necessarios a execucao do disposto no artigo anterior decorrerao de anulacao parcial das dotacoe",
+        "fecho": "brasilia, em 14 de dezembro de 1982; 161º da independencia e 94º da republica.",
+        "apos_fecho": [
+          "joao figueiredo",
+          "ernane galveas",
+          "delfim netto",
+          "<<anexo>>",
+          "(tabela)"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": true,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "joao figueiredo",
+        "ernane galveas",
+        "delfim netto"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexo>>",
+        "(tabela)"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1984/dec-89714-1984-05-29.md",
+      "sha256_md": "2ac0e7397f53c0aef19a48cecc1b223687c36ac7e8f3362263264c0b30b09ea6",
+      "sha256_fonte_html": "f2824af11c3b61225f33d13d253da7e46bc7caac6c144ee4a1ea3d02d8a25835",
+      "urn": "urn:lex:br:federal:decreto:1984-05-29;89714",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1984-05-29;89714",
+      "estrato": "comando_proprio_e_rotulos_finais_vazios_sem_representacao_identificada",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": false,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º - fica aberto ao ministerio da educacao e cultura, em favor de diversas unidades o credito suplementar no valor de cr$ 624.803.500.000,00 (seiscentos e vinte e quatro bilhoes, oitocentos e tres milhoes e quinhentos mil cruzeiros), para reforco de dotacoes orcamentarias indicadas no anexo i deste decreto.",
+      "placeholder_terminal": null,
+      "apos_fecho": [
+        "aureliano chaves",
+        "ernane galveas",
+        "jose flavio pecora",
+        "<<anexo>>",
+        "tabela"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "tro bilhoes, oitocentos e tres milhoes e quinhentos mil cruzeiros), para reforco de dotacoes orcamentarias indicadas no anexo i deste decreto.\nart. 2º - os recursos necessarios a execucao do disposto no artigo anterior serao provenientes do excesso de arrecadac",
+        "fecho": "brasilia, em 29 de maio de 1984; 163º da independencia e 96º da republica.",
+        "apos_fecho": [
+          "aureliano chaves",
+          "ernane galveas",
+          "jose flavio pecora",
+          "<<anexo>>",
+          "tabela"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": true,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "aureliano chaves",
+        "ernane galveas",
+        "jose flavio pecora"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexo>>",
+        "tabela"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1984/dec-90547-1984-11-26.md",
+      "sha256_md": "28c5d5628279741b668a9d452442c0c529aa18fa1018b77e3824898bc9a8fb2e",
+      "sha256_fonte_html": "2bf38cc80b8f5168241fdf3a2d539ba76c05234bdb71e3147c42c5d5555e8881",
+      "urn": "urn:lex:br:federal:decreto:1984-11-26;90547",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1984-11-26;90547",
+      "estrato": "comando_proprio_e_rotulos_finais_vazios_sem_representacao_identificada",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": false,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º - fica aberto a presidencia da republica, em favor do hospital das forcas armadas, o credito suplementar no valor de cr$ 796.600.000 (setecentos e noventa e seis milhoes e seiscentos mil cruzeiros) para reforco de dotacoes orcamentarias indicadas no anexo i deste decreto.",
+      "placeholder_terminal": null,
+      "apos_fecho": [
+        "joao figueiredo",
+        "ernane galveas",
+        "delfim netto",
+        "<<anexos i e ii>>",
+        "tabelas."
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "00 (setecentos e noventa e seis milhoes e seiscentos mil cruzeiros) para reforco de dotacoes orcamentarias indicadas no anexo i deste decreto.\nart. 2º - os recursos necessarios a execucao do disposto no artigo anterior decorrerao de anulacao parcial da dotacao ",
+        "fecho": "brasilia, em 26 de novembro de 1984; 163º da independencia e 96º da republica.",
+        "apos_fecho": [
+          "joao figueiredo",
+          "ernane galveas",
+          "delfim netto",
+          "<<anexos i e ii>>",
+          "tabelas."
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": true,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "joao figueiredo",
+        "ernane galveas",
+        "delfim netto"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexos i e ii>>",
+        "tabelas."
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1986/dec-93226-1986-09-08.md",
+      "sha256_md": "7b2482ff8436ae5bd8a684ed4ef31f75549108ef851e37e3f5e4a443015d2419",
+      "sha256_fonte_html": "20a87ad0014f2b84824d9127d002faeba94a01118d965fd6c019588b62505a7f",
+      "urn": "urn:lex:br:federal:decreto:1986-09-08;93226",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1986-09-08;93226",
+      "estrato": "comando_proprio_e_rotulos_finais_vazios_sem_representacao_identificada",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": false,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º - fica aberto ao ministerio da educacao, em favor do centro nacional de educacao especial e da coordenacao de aperfeicoamento de pessoal de nivel superior, o credito suplementar de cz$ 725.000,00 (setecentos e vinte e cinco mil cruzados), para reforco de dotacoes orcamentarias indicadas no anexo i deste decreto.",
+      "placeholder_terminal": null,
+      "apos_fecho": [
+        "jose sarney",
+        "dilson domingos funaro",
+        "joao sayad",
+        "<<anexos i e ii>>",
+        "tabelas."
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "mentar de cz$ 725.000,00 (setecentos e vinte e cinco mil cruzados), para reforco de dotacoes orcamentarias indicadas no anexo i deste decreto.\nart. 2º - os recursos decorrerao de anulacao parcial das dotacoes orcamentarias indicadas no anexo ii deste decreto e ",
+        "fecho": "brasilia, em 08 de setembro de 1986; 165º da independencia e 98º da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "dilson domingos funaro",
+          "joao sayad",
+          "<<anexos i e ii>>",
+          "tabelas."
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": true,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "jose sarney",
+        "dilson domingos funaro",
+        "joao sayad"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexos i e ii>>",
+        "tabelas."
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1987/dec-95163-1987-11-09.md",
+      "sha256_md": "e0d91839d49cf127e91d38e4209e6ff67ce0d5f45458448cc53336c8677d0b6b",
+      "sha256_fonte_html": "531a7491e6a7ccfefca0d5bf1375ca821cebf3d0eb0ca39b8003c3dad23c8915",
+      "urn": "urn:lex:br:federal:decreto:1987-11-09;95163",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1987-11-09;95163",
+      "estrato": "comando_proprio_e_rotulos_finais_vazios_sem_representacao_identificada",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": false,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º fica aberto ao ministerio dos transportes, em favor da secretaria-geral, o credito suplementar de cz$ 500.000.000,00 (quinhentos milhoes de cruzados), para reforco de dotacao orcamentaria indicada no anexo i deste decreto.",
+      "placeholder_terminal": null,
+      "apos_fecho": [
+        "jose sarney",
+        "luiz carlos bresser pereira",
+        "geraldo de alencar",
+        "<<anexo>>",
+        "o anexo esta publicado no d.o. de 10-11-87.",
+        "tabelas"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "to suplementar de cz$ 500.000.000,00 (quinhentos milhoes de cruzados), para reforco de dotacao orcamentaria indicada no anexo i deste decreto.\nart. 2º os recursos necessarios a execucao do disposto no artigo anterior decorrerao do excesso de arrecadacao da cont",
+        "fecho": "brasilia, 9 de novembro de 1987; 166º da independencia e 99º da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "luiz carlos bresser pereira",
+          "geraldo de alencar",
+          "<<anexo>>",
+          "o anexo esta publicado no d.o. de 10-11-87.",
+          "tabelas"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": true,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "jose sarney",
+        "luiz carlos bresser pereira",
+        "geraldo de alencar"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexo>>",
+        "o anexo esta publicado no d.o. de 10-11-87.",
+        "tabelas"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1988/dec-96730-1988-09-20.md",
+      "sha256_md": "38668e27d9e782f673c542eb104ce755693dbf856d3298f2a610135c4a3b1e7d",
+      "sha256_fonte_html": "ece3fbf629c663b2d1cc704f54f2cb10c854ff94b3dbacd992c58bb4790d14b5",
+      "urn": "urn:lex:br:federal:decreto:1988-09-20;96730",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1988-09-20;96730",
+      "estrato": "comando_proprio_e_rotulos_finais_vazios_sem_representacao_identificada",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": false,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º fica aberto a encargos financeiros da uniao - recursos sob supervisao do ministerio da fazenda, o credito suplementar no valor de cz$ 29.535.989.000,00 (vinte e nove bilhoes, quinhentos e trinta e cinco milhoes, novecentos e oitenta e nove mil cruzados), para reforco das dotacoes orcamentarias indicadas no anexo i deste decreto.",
+      "placeholder_terminal": null,
+      "apos_fecho": [
+        "jose sarney",
+        "mailson ferreira da nobrega",
+        "joao batista de abreu",
+        "<<anexo>>",
+        "<<tabela>>",
+        "republicado no dofc de 22/09/1988, pagina 18365, coluna 1."
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "trinta e cinco milhoes, novecentos e oitenta e nove mil cruzados), para reforco das dotacoes orcamentarias indicadas no anexo i deste decreto.\nart. 2º os recursos necessarios a execucao do disposto no artigo anterior originam-se do produto de operacoes de credi",
+        "fecho": "brasilia, em 20 de setembro de 1988; 167º da independencia e 100º da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "mailson ferreira da nobrega",
+          "joao batista de abreu",
+          "<<anexo>>",
+          "<<tabela>>",
+          "republicado no dofc de 22/09/1988, pagina 18365, coluna 1."
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": true,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "jose sarney",
+        "mailson ferreira da nobrega",
+        "joao batista de abreu"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexo>>",
+        "<<tabela>>",
+        "republicado no dofc de 22/09/1988, pagina 18365, coluna 1."
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1989/dec-98178-1989-09-22.md",
+      "sha256_md": "06daa6d3927262b9bb8ca84623480bf19b21082668f04fc893cbeec7caa3dde1",
+      "sha256_fonte_html": "3e296b33b07677c3c3723ff46634c4041fd52de0c674c76072776fdd21f34c03",
+      "urn": "urn:lex:br:federal:decreto:1989-09-22;98178",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1989-09-22;98178",
+      "estrato": "comando_proprio_e_rotulos_finais_vazios_sem_representacao_identificada",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": false,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1° fica aberto ao ministerio da agricultura, em favor do departamento nacional de obras de saneamento, o credito suplementar de ncz$ 1.000.000,00 (um milhao de cruzados novos), para reforco de dotacao orcamentaria indicada no anexo i deste decreto.",
+      "placeholder_terminal": null,
+      "apos_fecho": [
+        "jose sarney",
+        "paulo cesar ximenes alves ferreira",
+        "joao batista de abreu",
+        "<<anexos>>",
+        "os anexos estao publicados no do de 26‑9‑89.",
+        "tabelas"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "redito suplementar de ncz$ 1.000.000,00 (um milhao de cruzados novos), para reforco de dotacao orcamentaria indicada no anexo i deste decreto.\nart. 2° os recursos necessarios a execucao do disposto no artigo anterior decorrerao de anulacao parcial da dotacao or",
+        "fecho": "brasilia, 22 de setembro de 1989; 168° da independencia e 101º da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "paulo cesar ximenes alves ferreira",
+          "joao batista de abreu",
+          "<<anexos>>",
+          "os anexos estao publicados no do de 26‑9‑89.",
+          "tabelas"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": true,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "jose sarney",
+        "paulo cesar ximenes alves ferreira",
+        "joao batista de abreu"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexos>>",
+        "os anexos estao publicados no do de 26‑9‑89.",
+        "tabelas"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/2011/dec-7622-2011-11-22.md",
+      "sha256_md": "ae29fbafc9665de464b02c706056b3f67234c7af90bc381bc22c932c431a9d08",
+      "sha256_fonte_html": "8351a948214c1d03d828ca12e32f2cca5c4fbfe5dc52e60b6bb758dcffbcc08f",
+      "urn": "urn:lex:br:federal:decreto:2011-11-22;7622",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2011-11-22;7622",
+      "estrato": "rotulos_finais_vazios_demais_contextos_requerem_revisao",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": false,
+        "comando_direto_no_bloco": false,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": false,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "",
+      "placeholder_terminal": null,
+      "apos_fecho": [
+        "dilma rousseff",
+        "miriam belchior",
+        "anexo"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "aria interministerial, poderao ampliar os limites estabelecidos para os orgaos e unidades orcamentarias relacionados no anexo ii deste decreto, ate o montante de r$ 3.936.208.000,00 (tres bilhoes, novecentos e trinta e seis milhoes, duzentos e oito mil reais).\n.",
+        "fecho": "brasilia, 22 de novembro de 2011; 190º da independencia e 123º da republica.",
+        "apos_fecho": [
+          "dilma rousseff",
+          "miriam belchior",
+          "anexo"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "dilma rousseff",
+        "miriam belchior"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "anexo"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1957/dec-40923-1957-02-13.md",
+      "sha256_md": "9bb7c799c6be74cd26573f72a6dee253da2b56fee8a423c86d4ce3cf41394c1b",
+      "sha256_fonte_html": "b5926bb921ed39023ee0617226c180653a32488271f3179443ae91a00787d19e",
+      "urn": "urn:lex:br:federal:decreto:1957-02-13;40923",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1957-02-13;40923",
+      "estrato": "comando_proprio_e_rotulos_finais_vazios_sem_representacao_identificada",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 2º ficam transferidas, da tabela numerica de mensalista do departamento de imprensa nacional, para a tabela unica de extranumerario-mensalista do ministerio da justica e negocios interiores, passando a integrar as series funcionais correspondentes, as funcoes a que se refere o anexo i deste decreto.",
+      "placeholder_terminal": "<<anexo>>\n",
+      "apos_fecho": [
+        "juscelino kubitschek",
+        "nereu ramos",
+        "<<anexo>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "a justica e negocios interiores, passando a integrar as series funcionais correspondentes, as funcoes a que se refere o anexo i deste decreto.\nart. 3º fica igualmente transferida uma funcao do encarregado, ref. 20 da tabela numerica especial de extranumerario-m",
+        "fecho": "rio de janeiro, em 13 de fevereiro de 1957, 136º da independencia e 69º da republica.",
+        "apos_fecho": [
+          "juscelino kubitschek",
+          "nereu ramos",
+          "<<anexo>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": true,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "juscelino kubitschek",
+        "nereu ramos"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexo>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1979/dec-84056-1979-10-08.md",
+      "sha256_md": "7edecdc76074f1bb5a1ae0be1c7cbfef722ca3b0d97b3d9ebc264cc7d6f502a3",
+      "sha256_fonte_html": "4eecb679a33b95b417dd2cd77bf6b1fc010244efadef3c0e92befb7c0dd0ce05",
+      "urn": "urn:lex:br:federal:decreto:1979-10-08;84056",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1979-10-08;84056",
+      "estrato": "comando_proprio_e_rotulos_finais_vazios_sem_representacao_identificada",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º - fica aberto ao ministerio das relacoes exteriores o credito suplementar no valor de cr$26.361.000,00 (vinte e seis milhoes, trezentos e sessenta e um mil cruzeiros), para reforco de dotacoes orcamentarias indicadas no anexo i deste decreto.",
+      "placeholder_terminal": "<<tabelas>>\n",
+      "apos_fecho": [
+        "joao figueiredo",
+        "r. s. guerreiro",
+        "marcio j. de andrade fortes",
+        "delfim neto",
+        "<<tabelas>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "00 (vinte e seis milhoes, trezentos e sessenta e um mil cruzeiros), para reforco de dotacoes orcamentarias indicadas no anexo i deste decreto.\nart. 2º - os recursos necessarios a execucao do disposto no artigo anterior decorrerao de anulacao parcial das dotacoe",
+        "fecho": "brasilia, em 08 de outubro de 1979; 158º da independencia e 91º da republica.",
+        "apos_fecho": [
+          "joao figueiredo",
+          "r. s. guerreiro",
+          "marcio j. de andrade fortes",
+          "delfim neto",
+          "<<tabelas>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": true,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "joao figueiredo",
+        "r. s. guerreiro",
+        "marcio j. de andrade fortes",
+        "delfim neto"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<tabelas>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1980/dec-85029-1980-08-12.md",
+      "sha256_md": "18baa104250ab1014020967640258e00972b4bd241d0608a20ca66e6d27ebb67",
+      "sha256_fonte_html": "77425eacefcb2be887e6abfad00da323f218f524bfc9d5817d2e1fc867f1fa6c",
+      "urn": "urn:lex:br:federal:decreto:1980-08-12;85029",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1980-08-12;85029",
+      "estrato": "comando_proprio_e_rotulos_finais_vazios_sem_representacao_identificada",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º - fica aberto ao ministerio do interior em favor da secretaria-geral, o credito suplementar no valor de cr$2.700.000.000,00 (dois bilhoes e setecentos milhoes de cruzeiros), para reforco de dotacao orcamentaria indicada no anexo i deste decreto.",
+      "placeholder_terminal": "<<tabelas>>\n",
+      "apos_fecho": [
+        "joao figueiredo",
+        "ernane galveas",
+        "mario david andreazza",
+        "antonio delfim netto",
+        "<<tabelas>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": " cr$2.700.000.000,00 (dois bilhoes e setecentos milhoes de cruzeiros), para reforco de dotacao orcamentaria indicada no anexo i deste decreto.\nart. 2º - os recursos necessario a execucao do disposto no artigo anterior decorrerao de anulacao parcial da dotacao o",
+        "fecho": "brasilia, em 12 de agosto de 1980; 159º da independencia e 92º da republica.",
+        "apos_fecho": [
+          "joao figueiredo",
+          "ernane galveas",
+          "mario david andreazza",
+          "antonio delfim netto",
+          "<<tabelas>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": true,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "joao figueiredo",
+        "ernane galveas",
+        "mario david andreazza",
+        "antonio delfim netto"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<tabelas>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1982/dec-87369-1982-07-06.md",
+      "sha256_md": "a5226adf3d8ffcdc04cc2818e0fb6f229bfe5ec7891d24d587190d953892aed7",
+      "sha256_fonte_html": "ebeca8586595eca8f234166a63cc841788f7145bb7c3cd2851d195fb22d6c820",
+      "urn": "urn:lex:br:federal:decreto:1982-07-06;87369",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1982-07-06;87369",
+      "estrato": "comando_proprio_e_rotulos_finais_vazios_sem_representacao_identificada",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º - fica aberto ao ministerio do interior, em favor da secretaria geral - entidades supervisionadas o credito suplementar no valor de cr$ 5.228.000.000,00 (cinco bilhoes e duzentos e vinte e oito milhoes de cruzeiros), para reforco de dotacoes orcamentarias indicadas no anexo i deste decreto.",
+      "placeholder_terminal": "<<tabela>>\n",
+      "apos_fecho": [
+        "joao figueiredo",
+        "ernane galveas",
+        "delfim netto",
+        "<<anexos>>",
+        "<<tabela>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": ",00 (cinco bilhoes e duzentos e vinte e oito milhoes de cruzeiros), para reforco de dotacoes orcamentarias indicadas no anexo i deste decreto.\nart. 2º - os recursos necessarios a execucao do disposto no artigo anterior decorrerao de anulacao parcial da dotacao ",
+        "fecho": "brasilia, em 06 de julho de 1982; 161º da independencia e 94º da republica.",
+        "apos_fecho": [
+          "joao figueiredo",
+          "ernane galveas",
+          "delfim netto",
+          "<<anexos>>",
+          "<<tabela>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": true,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "joao figueiredo",
+        "ernane galveas",
+        "delfim netto"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexos>>",
+        "<<tabela>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1983/dec-88876-1983-10-17.md",
+      "sha256_md": "ffe0bd8b0ae89f48696be50379e1b90d1c7102eadfb87d478102c2d76ef1feca",
+      "sha256_fonte_html": "10c1579ae5c0f6b63b9c8db30ec75903d89a130f573c656099570f99eca48649",
+      "urn": "urn:lex:br:federal:decreto:1983-10-17;88876",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1983-10-17;88876",
+      "estrato": "comando_proprio_e_rotulos_finais_vazios_sem_representacao_identificada",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º - fica aberto ao ministerio da saude, o credito suplementar no valor de cr$ 15.360.000,00 (quinze milhoes trezentos e sessenta mil cruzeiros), em favor da secretaria de controle interno e secretaria nacional de acoes basica de saude, para reforco de dotacoes orcamentarias indicadas no anexo i deste decreto.",
+      "placeholder_terminal": "<<tabelas>>\n",
+      "apos_fecho": [
+        "joao figueiredo",
+        "ernane galveas",
+        "delfim netto",
+        "<<anexos>>",
+        "<<tabelas>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "de controle interno e secretaria nacional de acoes basica de saude, para reforco de dotacoes orcamentarias indicadas no anexo i deste decreto.\nart. 2º - os recursos necessarios a execucao do disposto no artigo anterior decorrerao de anulacao parcial das dotacoe",
+        "fecho": "brasilia, em 17 de outubro de 1983; 162º da independencia e 95º da republica.",
+        "apos_fecho": [
+          "joao figueiredo",
+          "ernane galveas",
+          "delfim netto",
+          "<<anexos>>",
+          "<<tabelas>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": true,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "joao figueiredo",
+        "ernane galveas",
+        "delfim netto"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexos>>",
+        "<<tabelas>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1985/dec-91701-1985-09-27.md",
+      "sha256_md": "21fbea54cee3b9c7ea30895d76053a25e58abea61bf8c66c5ecae072ca4795ad",
+      "sha256_fonte_html": "a435d1b815b9e44af151dc5777e44563733a07cb2e6a3af761b2026941de9b8e",
+      "urn": "urn:lex:br:federal:decreto:1985-09-27;91701",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1985-09-27;91701",
+      "estrato": "comando_proprio_e_rotulos_finais_vazios_sem_representacao_identificada",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º fica aberto ao ministerio da agricultura, em favor de diversas unidades orcamentarias, o credito suplementar no valor de cr$ 114.378.000 (cento e quatorze milhoes, trezentos e setenta e oito mil cruzeiros), para reforco de dotacoes orcamentarias indicadas no anexo i deste decreto.",
+      "placeholder_terminal": "<<tabela>>\n",
+      "apos_fecho": [
+        "jose sarney",
+        "dilson domingos funaro",
+        "joao sayad",
+        "<<anexos>>",
+        "<<tabela>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "ento e quatorze milhoes, trezentos e setenta e oito mil cruzeiros), para reforco de dotacoes orcamentarias indicadas no anexo i deste decreto.\nart. 2º os recursos necessarios a execucao do disposto no artigo anterior decorrerao de anulacao parcial das dotacoes ",
+        "fecho": "brasilia, 27 de setembro de 1985; 164º da independencia e 97º da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "dilson domingos funaro",
+          "joao sayad",
+          "<<anexos>>",
+          "<<tabela>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": true,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "jose sarney",
+        "dilson domingos funaro",
+        "joao sayad"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexos>>",
+        "<<tabela>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1986/dec-92725-1986-05-30.md",
+      "sha256_md": "db04b808ba557084daff712fb65dd96a0755374f8794f068766e67fbd364223d",
+      "sha256_fonte_html": "8b747f5f413f72b935244c7ab6cd62ec6f5053251b7831e57875197f8f2da8c1",
+      "urn": "urn:lex:br:federal:decreto:1986-05-30;92725",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1986-05-30;92725",
+      "estrato": "comando_proprio_e_rotulos_finais_vazios_sem_representacao_identificada",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º fica aberto a justica militar e ao tribunal federal de recursos, em favor de diversas unidades orcamentarias, o credito suplementar de cz$3.123.890,00 (tres milhoes, cento e vinte e tres mil e oitocentos e noventa cruzados), para reforco das dotacoes orcamentarias indicadas no anexo i deste decreto.",
+      "placeholder_terminal": "<<tabelas>>\n",
+      "apos_fecho": [
+        "jose sarney",
+        "dilson domingos funaro",
+        "joao sayad",
+        "<<tabelas>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "ilhoes, cento e vinte e tres mil e oitocentos e noventa cruzados), para reforco das dotacoes orcamentarias indicadas no anexo i deste decreto.\nart. 2º os recursos decorrerao de anulacao parcial das dotacoes indicadas no anexo ii deste decreto e no montante espe",
+        "fecho": "brasilia, 30 de maio de 1986; 165º da independencia e 98º da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "dilson domingos funaro",
+          "joao sayad",
+          "<<tabelas>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": true,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "jose sarney",
+        "dilson domingos funaro",
+        "joao sayad"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<tabelas>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1987/dec-94174-1987-04-02.md",
+      "sha256_md": "9908988475d9683a859e65551f62ec148ed4921dd2c87c633eaca6582b88c202",
+      "sha256_fonte_html": "372ee394fbaf66108968f23514cf5b80d93f727104fad21efca3e2316531fad8",
+      "urn": "urn:lex:br:federal:decreto:1987-04-02;94174",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1987-04-02;94174",
+      "estrato": "comando_proprio_e_rotulos_finais_vazios_sem_representacao_identificada",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1° sao criadas, transformadas e reclassificadas funcoes, na forma do anexo i deste decreto, para composicao das categorias direcao intermediaria, codigo dai-111, e assistencia intermediaria, codigo dai-112, do grupo-direcao e assistencia intermediarias, codigo dai-110, do quadro permanente do instituto brasileiro do cafe - ibc.",
+      "placeholder_terminal": "<<anexos>>\n",
+      "apos_fecho": [
+        "jose sarney",
+        "jose hugo castelo branco",
+        "<<anexos>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "76, e o que consta no processo s/n°,\ndecreta:\nart. 1° sao criadas, transformadas e reclassificadas funcoes, na forma do anexo i deste decreto, para composicao das categorias direcao intermediaria, codigo dai-111, e assistencia intermediaria, codigo dai-112, do ",
+        "fecho": "brasilia, 2 de abril de 1987; 166° da independencia e 99° da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "jose hugo castelo branco",
+          "<<anexos>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": true,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "jose sarney",
+        "jose hugo castelo branco"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexos>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1987/dec-94963-1987-09-25.md",
+      "sha256_md": "60f80618dcce665b1794d823a5845c16575740096ed6075e636e589c381b0b25",
+      "sha256_fonte_html": "b6e4cb4c9fc988e4a4e32090894712a9b6de7e46eaf4c1c4cbca1999b86d38e6",
+      "urn": "urn:lex:br:federal:decreto:1987-09-25;94963",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1987-09-25;94963",
+      "estrato": "comando_proprio_e_rotulos_finais_vazios_sem_representacao_identificada",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º fica aberto ao ministerio do interior, em favor da secretaria-geral, o credito suplementar de cz$20.000.000,00 (vinte milhoes de cruzados), para reforco de dotacao orcamentaria indicada no anexo i deste decreto.",
+      "placeholder_terminal": "<<tabela>>\n",
+      "apos_fecho": [
+        "jose sarney",
+        "mailson ferreira da nobrega",
+        "anibal teixeira de souza",
+        "<<tabela>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "o credito suplementar de cz$20.000.000,00 (vinte milhoes de cruzados), para reforco de dotacao orcamentaria indicada no anexo i deste decreto.\nart. 2º os recursos necessarios a execucao do disposto no artigo anterior decorrerao de anulacao parcial da dotacao or",
+        "fecho": "brasilia, em 25 de setembro de 1987; 166º da independencia e 99º da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "mailson ferreira da nobrega",
+          "anibal teixeira de souza",
+          "<<tabela>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": true,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "jose sarney",
+        "mailson ferreira da nobrega",
+        "anibal teixeira de souza"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<tabela>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1988/dec-97091-1988-11-22.md",
+      "sha256_md": "d78dc10934f3a4c8bcd7c8fb3523cd4e39128956b5783213c36148f030b05aab",
+      "sha256_fonte_html": "5b8b9774902d368b317975156063b1426bc2889cbbb6bc11840b84720ade2955",
+      "urn": "urn:lex:br:federal:decreto:1988-11-22;97091",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1988-11-22;97091",
+      "estrato": "comando_proprio_e_rotulos_finais_vazios_sem_representacao_identificada",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1° fica aberto ao ministerio das comunicacoes, em favor do departamento nacional de telecomunicacoes, o credito suplementar de cz$ 138.060.000,00 (cento e trinta e oito milhoes e sessenta mil cruza­dos), para reforco de dotacao orcamentaria indicada no anexo i deste decreto.",
+      "placeholder_terminal": "<<tabelas >>\n",
+      "apos_fecho": [
+        "jose sarney",
+        "mailson ferreira da nobrega",
+        "joao batista de abreu",
+        "<<tabelas >>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "8.060.000,00 (cento e trinta e oito milhoes e sessenta mil cruza­dos), para reforco de dotacao orcamentaria indicada no anexo i deste decreto.\nart. 2° os recursos necessarios a execucao do disposto no artigo anterior decorrerao de anulacao parcial da dotacao or",
+        "fecho": "brasilia, df, 22 de novembro de 1988; 167° da independencia e 100° da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "mailson ferreira da nobrega",
+          "joao batista de abreu",
+          "<<tabelas >>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": true,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "jose sarney",
+        "mailson ferreira da nobrega",
+        "joao batista de abreu"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<tabelas >>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1989/dec-98765-1989-12-28.md",
+      "sha256_md": "43b9f2e358f159df1be9abfebba185b3f8b44b9d2fb389a6f5131f7ddf21965d",
+      "sha256_fonte_html": "419fec7c97e1ca39320a3ffa2da97298d84dd8786a21cd844fb66bb8a4926477",
+      "urn": "urn:lex:br:federal:decreto:1989-12-28;98765",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1989-12-28;98765",
+      "estrato": "rotulos_finais_vazios_demais_contextos_requerem_revisao",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1° ficam abertos a encargos financeiros da uniao - recursos supervisao do ministerio da fazenda, creditos suplementares no montante de ncz$ 1.786.395.000,00 (um bilhao, setecentos e oitenta e seis milhoes, trezentos e noventa e cinco mil cruzados novos), para reforco de dotacoes orcamentarias indicadas no anexo i deste decreto.",
+      "placeholder_terminal": "<<anexos>>\n",
+      "apos_fecho": [
+        "jose sarney",
+        "mailson ferreira da nobrega",
+        "joao batista de abreu",
+        "os anexos estao publicados no do de 29‑12‑89.",
+        "<<anexos>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "ta e seis milhoes, trezentos e noventa e cinco mil cruzados novos), para reforco de dotacoes orcamentarias indicadas no anexo i deste decreto.\nart. 2º ficam abertos a encargos financeiros da uniao - recursos sob supervisao do ministerio da fazenda, creditos esp",
+        "fecho": "brasilia, 28 de dezembro de 1989; 168º da independencia e 101º da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "mailson ferreira da nobrega",
+          "joao batista de abreu",
+          "os anexos estao publicados no do de 29‑12‑89.",
+          "<<anexos>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": false,
+      "prefixo_anterior_rotulos": [
+        "jose sarney",
+        "mailson ferreira da nobrega",
+        "joao batista de abreu",
+        "os anexos estao publicados no do de 29‑12‑89."
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexos>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/2011/dec-7440-2011-02-16.md",
+      "sha256_md": "5fb43250081b0d5cdfe777f29c313647d6ebe081be806b5e1e9ee8d220a8da8f",
+      "sha256_fonte_html": "f653a3f47474b9cf1910c9931d353bf463126f1897296cffc28ec86db0595a2c",
+      "urn": "urn:lex:br:federal:decreto:2011-02-16;7440",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2011-02-16;7440",
+      "estrato": "comando_proprio_e_rotulos_finais_vazios_sem_representacao_identificada",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": false,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º os efetivos de oficiais-generais, oficiais e pracas - subtenentes, sargentos, taifeiros, cabos e soldados - do exercito em servico ativo, para 2011, obedecerao ao disposto no anexo deste decreto.",
+      "placeholder_terminal": "<<anexo>>\n",
+      "apos_fecho": [
+        "dilma rousseff",
+        "nelson jobim",
+        "<<anexo>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "ubtenentes, sargentos, taifeiros, cabos e soldados - do exercito em servico ativo, para 2011, obedecerao ao disposto no anexo deste decreto.\nart. 2º fica delegada competencia ao comandante do exercito para alterar em ate vinte por cento a distribuicao dos efe",
+        "fecho": "brasilia, 16 de fevereiro de 2011; 190º da independencia e 123º da republica.",
+        "apos_fecho": [
+          "dilma rousseff",
+          "nelson jobim",
+          "<<anexo>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": true,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "dilma rousseff",
+        "nelson jobim"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexo>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A remissão pertence ao comando próprio. A transcrição termina nas assinaturas e em rótulos/notas, sem o quadro ou relação identificados. Não foi encontrado objeto correspondente no texto anterior ao fecho nesta conferência."
+    },
+    {
+      "path": "federal/decretos/1971/dec-68645-1971-05-21.md",
+      "sha256_md": "dd489867c61b7ad90da2e3a34ec9eaa595b23c2bdc2188e639237e08c5f9501d",
+      "sha256_fonte_html": "4177b384fb87d79eee70004a08be5874810f42faa685431afd9f940a2767473c",
+      "urn": "urn:lex:br:federal:decreto:1971-05-21;68645",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1971-05-21;68645",
+      "estrato": "risco_representacao_textual_antes_do_fecho",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": true,
+        "tabela_html_presente": false,
+        "placeholder_terminal": false,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 7º para os efeitos do disposto no paragrafo unico do artigo 5º e no artigo anterior, as funcoes em comissao sao as previstas no anexo i deste decreto.",
+      "placeholder_terminal": null,
+      "apos_fecho": [
+        "emilio g. medici",
+        "joao leitao de abreu",
+        "<<anexo>>",
+        "tabela."
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "os efeitos do disposto no paragrafo unico do artigo 5º e no artigo anterior, as funcoes em comissao sao as previstas no anexo i deste decreto.\nart. 8º a direcao geral compete planejar e superintender as atividades dos orgaos que integram a an, adotando as medid",
+        "fecho": "brasilia, 21 de maio de 1971; 150º da independencia e 83º da republica.",
+        "apos_fecho": [
+          "emilio g. medici",
+          "joao leitao de abreu",
+          "<<anexo>>",
+          "tabela."
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "emilio g. medici",
+        "joao leitao de abreu"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexo>>",
+        "tabela."
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A lista anterior ao fecho descreve organização, fontes de recursos, remanejamentos ou órgãos. Ela não reproduz o objeto do anexo próprio referido (quadro de funções/dotações/valores, quadro completo ou orientações). O rótulo final e a ausência do objeto foram conferidos; não se confundiu qualquer lista com suplemento integral."
+    },
+    {
+      "path": "federal/decretos/1988/dec-96906-1988-10-03.md",
+      "sha256_md": "795c650e3852e09155ee19af315f1f86ff35ea5e61f880a972b4964c24563b52",
+      "sha256_fonte_html": "416397f66d2defbc04276f72ce4bd64f8a9abd8319b054ab02a5fb21d911b68b",
+      "urn": "urn:lex:br:federal:decreto:1988-10-03;96906",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1988-10-03;96906",
+      "estrato": "risco_representacao_textual_antes_do_fecho",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": true,
+        "tabela_html_presente": false,
+        "placeholder_terminal": false,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 5° ficam criadas as funcoes de secretario executivo e de coordenadores, na forma do anexo i deste decreto, para composicao da categoria direcao superior, codigo das-101, do grupo de direcao e assessoramento superior da tabela permanente da secretaria geral do ministerio da fazenda.",
+      "placeholder_terminal": null,
+      "apos_fecho": [
+        "jose sarney",
+        "mailson ferreira da nobrega",
+        "joao batista de abreu",
+        "<<anexos>>",
+        "tabelas"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "atizacao e desregulamentacao.”\nart. 5° ficam criadas as funcoes de secretario executivo e de coordenadores, na forma do anexo i deste decreto, para composicao da categoria direcao superior, codigo das-101, do grupo de direcao e assessoramento superior da tabela",
+        "fecho": "brasilia; 3 de outubro de 1988; 167° da independencia e 100° da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "mailson ferreira da nobrega",
+          "joao batista de abreu",
+          "<<anexos>>",
+          "tabelas"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "jose sarney",
+        "mailson ferreira da nobrega",
+        "joao batista de abreu"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexos>>",
+        "tabelas"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A lista anterior ao fecho descreve organização, fontes de recursos, remanejamentos ou órgãos. Ela não reproduz o objeto do anexo próprio referido (quadro de funções/dotações/valores, quadro completo ou orientações). O rótulo final e a ausência do objeto foram conferidos; não se confundiu qualquer lista com suplemento integral."
+    },
+    {
+      "path": "federal/decretos/1989/dec-98577-1989-12-18.md",
+      "sha256_md": "15d9651d6e6d9c53e3eb140cf73cfc3c58550b1f7176f8e00b341e8cf9c7c0d2",
+      "sha256_fonte_html": "5009740fcb3135ea54dc36c5dc8ffc3465da23322fe5d154a32a5afcc0d77c71",
+      "urn": "urn:lex:br:federal:decreto:1989-12-18;98577",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1989-12-18;98577",
+      "estrato": "risco_representacao_textual_antes_do_fecho",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": true,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º fica aberto aos ministerios do trabalho e da cultura, em favor de diversas unidades orcamentarias, o credito suplementar, no valor de ncz$ 39.122.358,00 (trinta e nove milhoes, cento e vinte e dois mil, trezentos e cinquenta e oito cruzados novos), para atender as programacoes do quadro anexo i deste decreto.",
+      "placeholder_terminal": "<<tabelas>>\n",
+      "apos_fecho": [
+        "jose sarney",
+        "mailson ferreira da nobrega",
+        "joao batista de abreu",
+        "<<tabelas>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "milhoes, cento e vinte e dois mil, trezentos e cinquenta e oito cruzados novos), para atender as programacoes do quadro anexo i deste decreto.\nparagrafo unico. os recursos necessarios ao atendimento do disposto neste artigo sao decorrentes de:\ni - cancelamento ",
+        "fecho": "brasilia, 18 de dezembro de 1989; 168° da independencia e 101º da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "mailson ferreira da nobrega",
+          "joao batista de abreu",
+          "<<tabelas>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "jose sarney",
+        "mailson ferreira da nobrega",
+        "joao batista de abreu"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<tabelas>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A lista anterior ao fecho descreve organização, fontes de recursos, remanejamentos ou órgãos. Ela não reproduz o objeto do anexo próprio referido (quadro de funções/dotações/valores, quadro completo ou orientações). O rótulo final e a ausência do objeto foram conferidos; não se confundiu qualquer lista com suplemento integral."
+    },
+    {
+      "path": "federal/decretos/1990/dec-99517-1990-09-10.md",
+      "sha256_md": "f65cc82719a01b0ae8730969300bbb1234b8380340f1d8426d0e91cf772b24c6",
+      "sha256_fonte_html": "73b1b764dcf4e89978f3c7c7e1411e1baf050c806b15b239b7bd25ab7ca29b86",
+      "urn": "urn:lex:br:federal:decreto:1990-09-10;99517",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1990-09-10;99517",
+      "estrato": "risco_representacao_textual_antes_do_fecho",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": true,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º fica aberto ao ministerio da justica, em favor do fundo do arquivo nacional, credito suplementar no valor de cr$ 300.000,00 (trezentos mil cruzeiros), para atender a programacao indicada no anexo i deste decreto.",
+      "placeholder_terminal": "<<tabela>>\n",
+      "apos_fecho": [
+        "fernando collor",
+        "zelia m. cardoso de mello",
+        "<<anexos>>",
+        "os anexos estao publicados no do de 11.9.1990, pag. 17210.",
+        "<<tabela>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "ional, credito suplementar no valor de cr$ 300.000,00 (trezentos mil cruzeiros), para atender a programacao indicada no anexo i deste decreto.\nart. 2º os recursos necessarios a execucao do disposto no artigo anterior sao provenientes de remanejamento de recurso",
+        "fecho": "brasilia, 10 de setembro de 1990; 169º da independencia e 102º da republica.",
+        "apos_fecho": [
+          "fernando collor",
+          "zelia m. cardoso de mello",
+          "<<anexos>>",
+          "os anexos estao publicados no do de 11.9.1990, pag. 17210.",
+          "<<tabela>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "fernando collor",
+        "zelia m. cardoso de mello"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexos>>",
+        "os anexos estao publicados no do de 11.9.1990, pag. 17210.",
+        "<<tabela>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A lista anterior ao fecho descreve organização, fontes de recursos, remanejamentos ou órgãos. Ela não reproduz o objeto do anexo próprio referido (quadro de funções/dotações/valores, quadro completo ou orientações). O rótulo final e a ausência do objeto foram conferidos; não se confundiu qualquer lista com suplemento integral."
+    },
+    {
+      "path": "federal/decretos/1994/dec-1239-1994-09-14.md",
+      "sha256_md": "80e6c638991146d185cf34722915ac1471b82a59c7c9e06cd218b0a9d422ed16",
+      "sha256_fonte_html": "5978debd7d34d32ccd5ea111bfa453cb6953ec8648273c2875dc8f3d3ffed473",
+      "urn": "urn:lex:br:federal:decreto:1994-09-14;1239",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1994-09-14;1239",
+      "estrato": "risco_representacao_textual_antes_do_fecho",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": false,
+        "comando_direto_no_bloco": false,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": true,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "",
+      "placeholder_terminal": "<<tabelas>>\n",
+      "apos_fecho": [
+        "itamar franco",
+        "ciro ferreira gomes",
+        "marcelo pimentel",
+        "<<anexos>>",
+        "<<tabelas>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "a cada um dos grupos de que trata a lei n° 8.700, de 1993, bem assim os valores maximos dos mesmos, sao reproduzidos no anexo ii deste decreto.\n§ 4° para os trabalhadores amparados, em 28 de fevereiro de 1994, por contratos, acordos ou convencoes coletivas de tr",
+        "fecho": "brasilia, 14 de setembro de 1994; 173º da independencia e 106º da republica.",
+        "apos_fecho": [
+          "itamar franco",
+          "ciro ferreira gomes",
+          "marcelo pimentel",
+          "<<anexos>>",
+          "<<tabelas>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "itamar franco",
+        "ciro ferreira gomes",
+        "marcelo pimentel"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexos>>",
+        "<<tabelas>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A lista anterior ao fecho descreve organização, fontes de recursos, remanejamentos ou órgãos. Ela não reproduz o objeto do anexo próprio referido (quadro de funções/dotações/valores, quadro completo ou orientações). O rótulo final e a ausência do objeto foram conferidos; não se confundiu qualquer lista com suplemento integral."
+    },
+    {
+      "path": "federal/decretos/2004/dec-5300-2004-12-07.md",
+      "sha256_md": "a019a9628bc24330c52ae2ffc66ff4856755c18a2865a73a3dad35325ddeb5aa",
+      "sha256_fonte_html": "a9c4ab79453318ae240dbc479ff5dc97be9a245e223538544041680cd8684569",
+      "urn": "urn:lex:br:federal:decreto:2004-12-07;5300",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2004-12-07;5300",
+      "estrato": "risco_representacao_textual_antes_do_fecho",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": false,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": true,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 9º o zeec sera elaborado de forma participativa, estabelecendo diretrizes quanto aos usos permitidos, proibidos ou estimulados, abrangendo as interacoes entre as faixas terrestre e maritima da zona costeira, considerando as orientacoes contidas no anexo i deste decreto.",
+      "placeholder_terminal": "<<anexos>>\n",
+      "apos_fecho": [
+        "luiz inacio lula da silva",
+        "jose alencar gomes da silva",
+        "nelson machado",
+        "marina silva",
+        "walfrido silvino dos mares guia",
+        "<<anexos>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "abrangendo as interacoes entre as faixas terrestre e maritima da zona costeira, considerando as orientacoes contidas no anexo i deste decreto.\nparagrafo unico. os zeec ja existentes serao gradualmente compatibilizados com as orientacoes contidas neste decreto.\n",
+        "fecho": "brasilia, 7 de dezembro de 2004; 183º da independencia e 116º da republica.",
+        "apos_fecho": [
+          "luiz inacio lula da silva",
+          "jose alencar gomes da silva",
+          "nelson machado",
+          "marina silva",
+          "walfrido silvino dos mares guia",
+          "<<anexos>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "luiz inacio lula da silva",
+        "jose alencar gomes da silva",
+        "nelson machado",
+        "marina silva",
+        "walfrido silvino dos mares guia"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexos>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A lista anterior ao fecho descreve organização, fontes de recursos, remanejamentos ou órgãos. Ela não reproduz o objeto do anexo próprio referido (quadro de funções/dotações/valores, quadro completo ou orientações). O rótulo final e a ausência do objeto foram conferidos; não se confundiu qualquer lista com suplemento integral."
+    },
+    {
+      "path": "federal/decretos/2008/dec-6615-2008-10-23.md",
+      "sha256_md": "a8a69665e7fa2acc98e629f52f35d13c727cdc8e478a3cd8e342ee0d2a7d40c3",
+      "sha256_fonte_html": "61f4c9028dcf0938ff28ec20b493f43703595528ee46da4f3e796842a90e073b",
+      "urn": "urn:lex:br:federal:decreto:2008-10-23;6615",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2008-10-23;6615",
+      "estrato": "risco_representacao_textual_antes_do_fecho",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": true,
+        "tabela_html_presente": false,
+        "placeholder_terminal": true,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 2o ficam remanejados, na forma do anexo i deste decreto, os seguintes cargos em comissao do grupo-direcao e assessoramento superiores - das:",
+      "placeholder_terminal": "<<anexos>>\n",
+      "apos_fecho": [
+        "luiz inacio lula da silva",
+        "paulo bernardo silva",
+        "dilma rousseff",
+        "<<anexos>>"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "e de planejamento e orcamento inerentes a area administrativa do censipam.” (nr)\nart. 2o ficam remanejados, na forma do anexo i deste decreto, os seguintes cargos em comissao do grupo-direcao e assessoramento superiores - das:\ni - da casa civil da presidencia d",
+        "fecho": "brasilia, 23 de outubro de 2008; 187o da independencia e 120o da republica.",
+        "apos_fecho": [
+          "luiz inacio lula da silva",
+          "paulo bernardo silva",
+          "dilma rousseff",
+          "<<anexos>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": true,
+      "prefixo_assinaturas_estrutural": true,
+      "prefixo_anterior_rotulos": [
+        "luiz inacio lula da silva",
+        "paulo bernardo silva",
+        "dilma rousseff"
+      ],
+      "sufixo_desde_primeiro_rotulo": [
+        "<<anexos>>"
+      ],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A lista anterior ao fecho descreve organização, fontes de recursos, remanejamentos ou órgãos. Ela não reproduz o objeto do anexo próprio referido (quadro de funções/dotações/valores, quadro completo ou orientações). O rótulo final e a ausência do objeto foram conferidos; não se confundiu qualquer lista com suplemento integral."
+    },
+    {
+      "path": "federal/decretos/2025/dec-12647-2025-10-01.md",
+      "sha256_md": "0fc1a4fda384955700ab4832be8492e25961edabd7076bbe65f85a23f9e805cc",
+      "sha256_fonte_html": "3f453998bcc117f88031d1a03bdf4057813ee84dc5e352e4fe377b85d2875cc8",
+      "urn": "urn:lex:br:federal:decreto:2025-10-01;12647",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2025-10-01;12647",
+      "estrato": "risco_representacao_textual_antes_do_fecho",
+      "verificacoes": {
+        "remissao_em_bloco_artigo_proprio_localizado": true,
+        "comando_direto_no_bloco": true,
+        "risco_citacao_ou_alteracao": false,
+        "titulo_anexo_antes_do_fecho": false,
+        "lista_numerada_antes_do_fecho": true,
+        "tabela_html_presente": false,
+        "placeholder_terminal": false,
+        "fecho_localizado": true
+      },
+      "trecho_artigo": "art. 1º fica autorizada a nomeacao de mil quatrocentos e trinta e quatro candidatos aprovados e nao classificados dentro do quantitativo de vagas originalmente previsto nos concursos publicos para provimento dos cargos especificados nos anexos i a anexo xx deste decreto, dos orgaos abaixo indicados:",
+      "placeholder_terminal": null,
+      "apos_fecho": [
+        "luiz inacio lula da silva",
+        "esther dweck"
+      ],
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "titativo de vagas originalmente previsto nos concursos publicos para provimento dos cargos especificados nos anexos i a anexo xx deste decreto, dos orgaos abaixo indicados:\ni – agencia nacional de aguas e saneamento basico;\nii – agencia nacional de aviacao civil",
+        "fecho": "brasilia, 1º de outubro de 2025; 204º da independencia e 137º da republica.",
+        "apos_fecho": [
+          "luiz inacio lula da silva",
+          "esther dweck"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_para_revisao_sem_mascara_generica",
+      "limite": "Conferência contextual deste caminho, sem extrapolação estatística aos demais deltas ou afirmação de inexistência em outras fontes.",
+      "indicador_automatico_forte": false,
+      "rotulos_finais_vazios": false,
+      "prefixo_assinaturas_estrutural": false,
+      "prefixo_anterior_rotulos": [],
+      "sufixo_desde_primeiro_rotulo": [],
+      "conferencia_contextual_na_amostra": true,
+      "resultado_conferencia_contextual": "ausencia_do_objeto_na_transcricao_conferida_nesta_amostra",
+      "conclusao": "A lista anterior ao fecho descreve organização, fontes de recursos, remanejamentos ou órgãos. Ela não reproduz o objeto do anexo próprio referido (quadro de funções/dotações/valores, quadro completo ou orientações). O rótulo final e a ausência do objeto foram conferidos; não se confundiu qualquer lista com suplemento integral."
+    }
+  ]
+}

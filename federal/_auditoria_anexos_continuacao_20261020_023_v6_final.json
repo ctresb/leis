@@ -1,0 +1,15 @@
+{
+  "criado_em": "2026-10-27T19:59:58.321235+00:00",
+  "auditados": 1468,
+  "manifestos": [
+    {
+      "path": "federal/_lote_dec_continuacao_20261020_023.json",
+      "sha256": "65e455ea3f72e3ada38f090de6f3337b8e55a900740af1ab3bbf4f7c16fb2dca"
+    }
+  ],
+  "elementos_visuais": [],
+  "anexos_pendentes": [],
+  "erros": [],
+  "sha256_sequencia_paths_md_html": "4c031721ca9bd650d6b9f192f6f2106de64e0554589d98d3881079544a3a45ef",
+  "limite": "Comprova revisão visual de todo HTML e registra casos conservadores de suplemento próprio ausente; não prova cobertura de toda remissão possível, vigência ou integralidade externa."
+}

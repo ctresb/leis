@@ -1,0 +1,73 @@
+{
+  "lote": "mpv_lacunas_20261020_001",
+  "candidatos_mpv_com_fonte": 11,
+  "publicaveis": [],
+  "retidos": [
+    {
+      "path": "federal/medidas-provisorias/1996/mpv-1478-15-1996-08-29.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1996-08-29;1478-15",
+      "detalhe": ""
+    },
+    {
+      "path": "federal/medidas-provisorias/1996/mpv-1464-13-1996-09-26.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1996-09-26;1464-13",
+      "detalhe": ""
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1542-25-1997-08-07.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-08-07;1542-25",
+      "detalhe": ""
+    },
+    {
+      "path": "federal/medidas-provisorias/1998/mpv-1549-40-1998-02-26.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1998-02-26;1549-40",
+      "detalhe": ""
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1900-39-1999-06-29.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-06-29;1900-39",
+      "detalhe": ""
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1846-10-1999-07-29.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-07-29;1846-10",
+      "detalhe": ""
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1907-10-1999-09-24.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-09-24;1907-10",
+      "detalhe": ""
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-2027-38-2000-05-04.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-05-04;2027-38",
+      "detalhe": ""
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-2124-17-2000-12-27.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-12-27;2124-17",
+      "detalhe": ""
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-2134-25-2000-12-28.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-12-28;2134-25",
+      "detalhe": ""
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-2153-2-2001-06-05.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-06-05;2153-2",
+      "detalhe": ""
+    }
+  ],
+  "resumo": {
+    "fontes_html_obtidas": 11,
+    "publicaveis": 0,
+    "retidos": 11
+  },
+  "origem": "Índice oficial e API normas.leg.br; capturas imutáveis, fechamento offline e identidade própria confrontada.",
+  "receipts": {
+    "path": "federal/_receipts_mpv_lacunas_20261020_001.jsonl.gz",
+    "sha256": "74420f89d2d2a4256b5b578f1c2a01dd2b605f9aca4905db839d008cfd29cac0"
+  },
+  "limite": "Texto original/republicado integral da captura verificada; não infere vigência pela ausência de revogação. Nenhuma meta reduzida."
+}

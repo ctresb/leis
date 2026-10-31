@@ -1,0 +1,1460 @@
+{
+  "resumo": {
+    "9061": {
+      "corpos": 9061,
+      "deltas": 55
+    },
+    "3608": {
+      "corpos": 3608,
+      "deltas": 10
+    }
+  },
+  "sha256_guard_proposto": "4009259c7c1f38322c7ce7500bef1432700dbef6e15c3d0c09646fd95d2f8bf0",
+  "deltas": [
+    {
+      "path": "federal/decretos/1948/dec-24799-1948-04-13.md",
+      "pacote": "9061",
+      "sha256_md": "cc15c8ee558d1fbe79df1081711e7fc3bcb2817a3849c97738196ca5f07084bd",
+      "sha256_html": "a30e794550e73b4f4eef8f329cc29e9c37a0ff8dba3adf41e00bfeb03b26a64f",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1948 pag. 54 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [],
+        "contexto": "e servico e direitos adquiridos.\n\nart. 13. ao regime de pessoal do instituto aplicar-se-a, supletivamente, a legislacao referente ao servico publico federal.\n\nart. 14. dentro de 90 dias, a comissao instituida na forma do artigo 2º do decreto-lei nº 9.010, de 21 de janeiro de 1946, procedera a revisao da situacao pessoal dos servidores de cargos em comissao incluidos no anterior quadro suplementar e propora as medidas cabiveis para a sua regularizacao definitiva.\n\nart. 15. o presente decreto entrara em vigor na data de sua publicacao, revogadas as disposicoes em contrario.\n\nrio de janeiro, em 13 de abril de 1948, 127º da independencia e 60º da republica.\n\neurico g. dutra.\n\nmorvan figueiredo.\n\n<<anexo>>clbr vol. 04 ano 1948 pag. 54 tabela.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-24140-1947-11-29.md",
+      "pacote": "9061",
+      "sha256_md": "c920196ad37f24430852bc899fdaa8753b87a294787e8c409e3ffbaec0187635",
+      "sha256_html": "74d5d29272b4c457db4aa97681294d5a3efbbbb20ee6da2f4c020a6d17272f86",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1947 pags. 386 e 387 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "m a seguinte distribuicao:\n\n<<anexo>>clbr vol. 08 ano 1947 pags. 386 e 387 tabelas.\n\nart. 3º fica aprovada, na forma da relacao anexa, a distribuicao dos cargos constantes do artigo anterior pelas reparticoes art. 1º deste decreto.\n\nart. 4º nas carreiras em que houver, simultaneamente, lotacao permanente e lotac",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "inistro.\n\nii. servico de documentacao.\n\niii. departamento de administracao.\n\niv. departamento nacional de obras de saneamento.\n\nv. departamento nacional de estradas de ferro.\n\nvi. departamento nacional de estradas de rodagem.\n\nvii. departamento nacional de portos, rios e canais.\n\nviii. departamento nacional de iluminacao e gas.\n\nix. departamento nacional de obras contra as secas.\n\nx. estrada de ferro braganca.\n\nxi. estrada de ferro dona teresa cristina.\n\nart. 2º fica aprovada a lotacao numerica das partes permanente e suplementar ao quadro i do ministerio da viacao e obras publicas, com 1.005 cargos, senao 806 na lotacao permanente e 199 na lotacao suplementar e com a seguinte distribuicao:\n\n<<anexo>>clbr vol. 08 ano 1947 pags. 386 e 387 tabelas.\n\nart. 3º fica aprovada, na forma da relacao anexa, a distribuicao dos cargos constantes do artigo anterior pelas reparticoes art. 1º deste decreto.\n\nart. 4º nas carreiras em que houver, simultaneamente, lotacao permanente e lotacao suplementar, os claros, que se verificarem na lotacao suplementar nao poderao ser preenchidos.\n\nart. 5º ate que seja organizado o quadro proprio para o departamento nacional de estrada de rodagem , ex-vi do decreto-lei nº 8.463, de 1945, que reorganizou esse departamento, nao poderao ser removidos os funcionarios constantes de sua lotacao.\n\nparagrafo unico. os claros que se verificarem na lotacao do departamento nacional de estradas de rodagem nao poderao ser pre"
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-24142-1947-11-29.md",
+      "pacote": "9061",
+      "sha256_md": "c12113ee080c5d570cd89aeca0dcfdc26e5c1306b508b4407ce650ad11d1c222",
+      "sha256_html": "b674e4d8a0f2930d9b060e3abe51d8fc0e7b65dca411e45f5834fd416e452342",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1947 pags. 397 a 400 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexo",
+            "contexto": "tes a agencia nacional e ao departamento federal de seguranca publica, passam a vigorar com as alteracoes constantes da relacao anexo .\n\nparagrafo unico. as funcoes de censor transferidas para o departamento federal de seguranca publica continuam preenchidas pelos seus atuais ocupantes.\n\nart. 2º este decreto vig",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "companharam o decreto nº 23.405, de 28 de julho de 1947, referentes a agencia nacional e ao departamento federal de seguranca publica, passam a vigorar com as alteracoes constantes da relacao anexo .\n\nparagrafo unico. as funcoes de censor transferidas para o departamento federal de seguranca publica continuam preenchidas pelos seus atuais ocupantes.\n\nart. 2º este decreto vigora a partir de 2 de agosto de 1947.\n\nart. 3º revogam-se as disposicoes em contrario.\n\nrio de janeiro, 29 de novembro de 1947, 126º da independencia e 59º da republica.\n\neurico g. dutra.\n\nadroaldo mesquita da costa.\n\nrelacao nominal a que se refere o paragrafo unico do art. 1º do decreto nº 23.405, de 28 de julho de 1947\n\n<<anexo>>clbr vol. 08 ano 1947 pags. 397 a 400 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-24136-1947-11-28.md",
+      "pacote": "9061",
+      "sha256_md": "eeec67bb46944ffb34bd621b698e2eea90d2841a825dc058651c851fc2ddeba3",
+      "sha256_html": "c10656c4fc9a70131ef4aea19957bda7188971c094048a95886171c0b0d10932",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1947 pag. 383 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": " usando da atribuicao que lho confere o art. 87, item i, da constituicao,\n\ndecreta:\n\nart. 1º ficam criadas, na forma da relacao anexa, as tabelas numericas, ordinaria e suplementar, de extranumerario-mensalista, do departamento de esportes da marinha, mediante a transferencia de funcoes de identicas tabelas do c",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": " republica, usando da atribuicao que lho confere o art. 87, item i, da constituicao,\n\ndecreta:\n\nart. 1º ficam criadas, na forma da relacao anexa, as tabelas numericas, ordinaria e suplementar, de extranumerario-mensalista, do departamento de esportes da marinha, mediante a transferencia de funcoes de identicas tabelas do centro de instrucao \"almirante wandenkolk\".\n\nparagrafo unico – as funcoes transferidas continuam preenchidas pelos seus atuais ocupantes.\n\nart. 2º este decreto entrara em vigor na data de sua publicacao.\n\nart. 3º revogam-se as disposicoes em contrario.\n\nrio de janeiro, em 28 de novembro de 1947, 126º da independencia e 59º da republica.\n\neurico g. dutra.\n\nsylvio de noronha.\n\n<<anexo>>clbr vol. 08 ano 1947 pag. 383 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-24131-1947-11-27.md",
+      "pacote": "9061",
+      "sha256_md": "93a9f84689c91a87b68bc1d4a4a250f6e494b49a111a3539adbfb808f4b2969b",
+      "sha256_html": "5e5e456befd8a0d1a5757206dafefccd0744d54e452d9d347706b45529a791fa",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr ano 1947 vol. 08 pags. 327 a 329 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexo",
+            "contexto": "m a seguinte distribuicao:\n\n<<anexo>>clbr ano 1947 vol. 08 pags. 327 a 329 tabelas.\n\nart. 3º fica aprovada, na forma da relacao anexo, a distribuicao dos cargos constantes do artigo anterior pelas reparticoes a que se refere o art. 1º deste decreto.\n\nart. 4º nas carreiras em que houver simultaneamente, lotacao p",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "\n\nxxix – instituto osvaldo cruz ;\n\nxxx – museu historico nacional;\n\nxxxi – museu imperial;\n\nxxxii – museu nacional de belas artes;\n\nxxxiii – observatorio nacional;\n\nxxxiv – servico de estatistica da educacao e saude;\n\nxxxv – servico nacional de teatro;\n\nxxxvi – servico de radiodifusao educativa;\n\nxxxvii – universidade da bahia;\n\nxxxviii – universidade da bahia;\n\nxxxix – universidade do recife;\n\nxl – faculdade de direito de sao paulo;\n\nxli – preventorio paula candido.\n\nart. 2º fica aprovada a lotacao numerica dos quadros permanente e suplementar do ministerio da educacao e saude, com 4.991 cargos, sendo 3.419 na lotacao permanente e 1.572 na lotacao suplementar e com a seguinte distribuicao:\n\n<<anexo>>clbr ano 1947 vol. 08 pags. 327 a 329 tabelas.\n\nart. 3º fica aprovada, na forma da relacao anexo, a distribuicao dos cargos constantes do artigo anterior pelas reparticoes a que se refere o art. 1º deste decreto.\n\nart. 4º nas carreiras em que houver simultaneamente, lotacao permanente e lotacao suplementar, os claros que se verifiquem na lotacao suplementar nao poderao ser preenchidos.\n\nart. 5º este decreto entrara em vigor na data de sua publicacao.\n\nart. 6º revogam-se as disposicoes em contrario.\n\nrio de janeiro, em 27 de novembro de 1947, 126º da independencia e 59º da republica.\n\nclementino mariani.\n\neurico g. dutra.\n\nlotacao numerica das reparticoes atendidas pelos quadros permanentes e suplementares do ministerio da educacao e sau"
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-24107-1947-11-25.md",
+      "pacote": "9061",
+      "sha256_md": "2729ab0bebc5e515c7b0513f3228b5c1b383d47df051e05d887f9fea4617d0f5",
+      "sha256_html": "ae61bf6ef6c6006f2e136b729793325160e6489bdccfa32334a5a0379f530910",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1947 pag. 317 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "sando da atribuicao que lhe confere o artigo 87, item i, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, na norma da relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista do departamento nacional de obras contra as secas do ministerio da viacao e obras publicas.\n\nart. 2º este decreto entrara",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "a a tabela numerica ordinaria de extranumerario-mensalista do departamento nacional de obras contra as secas do ministerio da viacao e obras publicas.\n\no presidente da republica, usando da atribuicao que lhe confere o artigo 87, item i, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, na norma da relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista do departamento nacional de obras contra as secas do ministerio da viacao e obras publicas.\n\nart. 2º este decreto entrara em vigor na data de sua publicacao.\n\nart. 3º revogam-se as disposicoes em contrario.\n\nrio de janeiro, em 25 de novembro de 1947; 126º da independencia e 59º da republica.\n\neurico g. dutra.\n\nclovis pestana.\n\n<<anexo>>clbr vol. 08 ano 1947 pag. 317 tabela.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-24050-1947-11-14.md",
+      "pacote": "9061",
+      "sha256_md": "8b55d56f7f7f3074e1e41ebd1450016856d14ffbd28f6436fc70b417b8ba3400",
+      "sha256_html": "5f8385c8b5c4c9121aa4738d18b0aa02d8e23314982390406f1dd238c88c3ce0",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1944 pag. 292 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "substituida pela que acompanha o presente decreto",
+            "contexto": " usando da atribuicao que lhe confere o artigo 87, item i, da constituicao,\n\ndecreta:\n\nart. 1º fica substituida pela que acompanha o presente decreto a tabela numerica de extranumerario-mensalista do servico de comunicacoes do departamento de administracao do ministerio da viacao e obras publicas, anexa ao decreto numero 23.449",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": " viacao e obras publicas que acompanhou o decreto nº 23.449, de 31 de julho de 1947.\n\no presidente da republica, usando da atribuicao que lhe confere o artigo 87, item i, da constituicao,\n\ndecreta:\n\nart. 1º fica substituida pela que acompanha o presente decreto a tabela numerica de extranumerario-mensalista do servico de comunicacoes do departamento de administracao do ministerio da viacao e obras publicas, anexa ao decreto numero 23.449, de 31 de julho de 1947.\n\nart. 2º este decreto vigorara a partir do dia 4 de agosto de 1947.\n\nart. 3º revogam-se as disposicoes em contrario.\n\nrio de janeiro, 14 de novembro de 1947, 126º da independencia e 59º da republica.\n\neurico g. dutra\n\nclovis pestana\n\n<<anexo>>clbr vol. 08 ano 1944 pag. 292 tabela.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-24047-1947-11-13.md",
+      "pacote": "9061",
+      "sha256_md": "37bb7b5c22eb3af82ac71d96c75864130fb60ca129abf7bb6c6fe3a58f27b265",
+      "sha256_html": "958b0773adb28889d213d7c91bc05fd6c2b979b8f3a5a6214024c885b0d4cf2b",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1944 pags. 282 a 286 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "onomico do sul, da divisao de aguas e do servico nacional de pesquisas agronomicas.\n\nart. 2º ficam criadas, na forma da relacao anexa as tabelas numericas suplementares de extranumerarios-mensalistas da diretoria geral do departamento nacional da producao mineral, da estacao experimental de pelotas , do institut",
+            "vinculo_externo_explicito": false
+          },
+          {
+            "remissao": "substituidas, pelas que acompanham este decreto",
+            "contexto": "usando da atribuicao que lhe confere o artigo 87, item i, da constituicao,\n\ndecreta:\n\nart. 1º ficam substituidas, pelas que acompanham este decreto, a relacao nominal anexa ao decreto numero 22.613, de 24 de fevereiro de 1947,e as tabelas numericas suplementares de extranumerarios-mensalistas da divisao de fomento da producao",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "das do ministerio da agricultura.\n\nart. 3º a funcao de cinegrafista, constante da tabela numerica suplementar de extranumerario-mensalista da superintendencia do ensino agricola e veterinario passa a denominar-se cinematografista.\n\nart. 4º a funcao de tecnico em experimentacao agricola, referencia xl, ocupado por walter baptista mors, constante da tabela numerica suplementar da extranumerario-mensalista do instituto agronomico do norte passa a denominar-se quimico.\n\nart. 5º este decreto vigora a partir de 3 de marco de 1947.\n\nart. 6º revogam-se as disposicoes em contrario.\n\nrio de janeiro, 13 de novembro de 1947, 126º da independencia e 59º da republica.\n\neurico g. dutra\n\ndaniel de carvalho\n\n<<anexo>>clbr vol. 08 ano 1944 pags. 282 a 286 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-24015-1947-11-10.md",
+      "pacote": "9061",
+      "sha256_md": "f97a0cf810a6de7c816d52dc5dfe5e67bf4bf8cc89c77debe5855736430daf6b",
+      "sha256_html": "cd835941e9bd98a203d7d94b8fd0db0bd6160dd003bb2e61e79459f51795958f",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1947 pags. 200 e 202 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": " a, seguinte distribuicao:\n\n<<anexo>>clbr vol. 08 ano 1947 pags. 200 e 202 tabelas.\n\nart. 3º fica aprovada, na forma da relacao anexa, a distribuicao cargos constantes do artigo anterior, pelas reparticoes a que se refere artigo 1º deste decreto.\n\nart. 4º nas carreiras em que houver, simultaneamente, lotacao per",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "ix – servico florestal (diretoria e dependencias na sede) ;\n\nl – servico florestal (hortos florestais, parques nacionais e floresta nacional araripe-apodi) ;\n\nli – servico de meteorologia (diretoria e dependencias na sede ;\n\nlii – servico de meteorologia (distritos) ;\n\nliii – servico de protecao aos indios;\n\nliv – superintendencia do ensino agricola e veterinario (superintendencia e dependencias na sede) ;\n\nlv – superintendencia do ensino agricola e veterinario (escolas) ;\n\nart. 2º fica aprovada a lotacao numerica dos quadros permanente e suplementar do ministerio da agricultura, com 3.461 cargos, sendo 2.774 na lotacao permanente e 687 na lotacao suplementar e com a, seguinte distribuicao:\n\n<<anexo>>clbr vol. 08 ano 1947 pags. 200 e 202 tabelas.\n\nart. 3º fica aprovada, na forma da relacao anexa, a distribuicao cargos constantes do artigo anterior, pelas reparticoes a que se refere artigo 1º deste decreto.\n\nart. 4º nas carreiras em que houver, simultaneamente, lotacao permanente e lotacao suplementar, os claros que se verificarem na lotacao suplementar nao poderao ser preenchidos.\n\nart. 5º fica estabelecida a taxa de 15% para a lotacao, na capital federal, dos cargos das carreiras gerais de agronomo e veterinario do ministerio da agricultura.\n\n§ 1º os claros de lotacao dessas carreiras que se verificarem, na capital federal, a partir da expedicao deste decreto, serao transferidos para as reparticoes e orgaos sediados nos estados, at"
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-24003-1947-11-04.md",
+      "pacote": "9061",
+      "sha256_md": "99123a5469313543dde5b01422aa3ee46729e113410e09e42913fb1da796bd4a",
+      "sha256_html": "a2663fdf8ccab000c4105990dbd795141a6facdcf99d9bac8d51dad741ac3c27",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1944 pag. 181 a 183 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "om a seguinte distribuicao:\n\n<<anexo>>clbr vol. 08 ano 1944 pag. 181 a 183 tabelas.\n\nart. 3º fica aprovada, na forma da relacao anexa, a distribuicao dos cargos constantes do artigo anterior pelas reparticoes a que se refere o artigo 1º deste decreto.\n\nart. 4º nas carreiras em que houver, simultaneamente, lotaca",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "ria geral da republica\n\nv – departamento de administracao\n\nvi – departamento federal de seguranca publica\n\nvii – departamento do interior e da justica\n\nviii – gabinete do ministro\n\nix – imprensa nacional\n\nx – penitenciaria central do distrito federal\n\nxi – policia militar do distrito federal\n\nxii – presidio do distrito federal\n\nxiii – servico de assistencia a menores\n\nxiv – servico de documentacao\n\nxv – servico de estatistica demografica, moral e politica.\n\nart. 2º fica aprovada a lotacao numerica dos quadros permanente e suplementar do ministerio da justica e negocios interiores com 6.038 cargos, sendo 4.823 na lotacao permanente, 1.215 na lotacao suplementar e com a seguinte distribuicao:\n\n<<anexo>>clbr vol. 08 ano 1944 pag. 181 a 183 tabelas.\n\nart. 3º fica aprovada, na forma da relacao anexa, a distribuicao dos cargos constantes do artigo anterior pelas reparticoes a que se refere o artigo 1º deste decreto.\n\nart. 4º nas carreiras em que houver, simultaneamente, lotacao permanente e lotacao suplementar, os claros que se verificarem na lotacao suplementar nao poderao ser preenchidos.\n\nart. 5º este decreto entrara, em vigor na data de sua publicacao.\n\nart. 6º revogam-se as disposicoes em contrario.\n\nrio de janeiro, em 4 de novembro de 1947, 126º da independencia e 59º da republica.\n\neurico g. dutra\n\nbenedicto costa netto.\n\nlotacao numerica das reparticoes atendidas pelos quadros permanente e suplementar do ministerio da justica e n"
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-23932-1947-10-24.md",
+      "pacote": "9061",
+      "sha256_md": "798dafa43f29e83ac431ea4888d5b1328b646f737a7488abcb060cf03dfd65a8",
+      "sha256_html": "3f6cd600057a50889812c70c413dbc255a609846bd69d078fb56fc844c6fb74b",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1947 pags. 150 e 151 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacoes anexas",
+            "contexto": "usando da atribuicao que confere o artigo 87, item i, da constituicao,\n\ndecreta:\n\nart. 1º ficam alteradas, na forma das relacoes anexas, as tabelas numericas ordinarias do quartel general e da base aerea de belem, da 1ª zona aerea.\n\nparagrafo unico. as funcoes criadas, por forca do disposto neste decreto, sao exer",
+            "vinculo_externo_explicito": false
+          },
+          {
+            "remissao": "relacao anexa",
+            "contexto": "o unico. as funcoes criadas, por forca do disposto neste decreto, sao exercidas pelos servidores cujos nomes constam da relacao anexa.\n\nart. 2º a despesa com a execucao do disposto nesta decreta correra a da conta da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 05 – mensalistas – an",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "rtel general e da base aerea de belem, da 1ª zona aerea.\n\nparagrafo unico. as funcoes criadas, por forca do disposto neste decreto, sao exercidas pelos servidores cujos nomes constam da relacao anexa.\n\nart. 2º a despesa com a execucao do disposto nesta decreta correra a da conta da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 05 – mensalistas – anexo 13 – ministerio da aeronautica – do orcamento geral da republica para 1947.\n\nart. 3º este decreto entra em vigor a partir de 1 de janeiro de 1947.\n\nart. 4º revogam-se as disposicoes em contrario.\n\nrio de janeiro, 24 de outubro de 1947, 126º da independencia e 59º da republica.\n\neurico g. dutra.\n\narmando trompowsky.\n\n<<anexo>>clbr vol. 08 ano 1947 pags. 150 e 151 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-23890-1947-10-22.md",
+      "pacote": "9061",
+      "sha256_md": "21539744cffcdc87f26e7adcd8454d6e6fd1f4b6b85216d936b4b0bc5f51e4d6",
+      "sha256_html": "0cea05daa447902e8e4d48c78e48c34fb3897c710db4ea2ee10bd5fefe26058b",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1947 pag. 90 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "substituida pela que acompanha este decreto",
+            "contexto": " usando da atribuicao que lhe confere o artigo 87, item i, da constituicao,\n\ndecreta:\n\nart. 1º fica substituida pela que acompanha este decreto, a tabela suplementar da diretoria de engenharia, anexa ao decreto nº 22.875, de 7 de abril de 1947.\n\nart. 2º este decreto vigorara a partir de 1º de abril de 1947.\n\nart. 3º revog",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "\n decreto nº 23.890 de 22/10/1947\n\ndecreto n. 23.890 – de 22 de outubro de 1947\n\nsubstitui a tabela suplementar anexa ao decreto nº 22.875, de 7 de abril de 1947.\n\no presidente da republica, usando da atribuicao que lhe confere o artigo 87, item i, da constituicao,\n\ndecreta:\n\nart. 1º fica substituida pela que acompanha este decreto, a tabela suplementar da diretoria de engenharia, anexa ao decreto nº 22.875, de 7 de abril de 1947.\n\nart. 2º este decreto vigorara a partir de 1º de abril de 1947.\n\nart. 3º revogam-se as disposicoes em contrario.\n\nrio de janeiro, 22 de outubro de 1947, 126º da independencia e 59º da republica.\n\neurico g. dutra.\n\ncanrobert p. da costa.\n\n<<anexo>>clbr vol. 08 ano 1947 pag. 90 tabela.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-23913-1947-10-22.md",
+      "pacote": "9061",
+      "sha256_md": "009aecfa20d2fbf395b9808d8ac973a982904049522ac4415fd8370e460b5650",
+      "sha256_html": "bcb3f6e568cf8b47c58ace2d66fdeee3590ea86b0eb652cda59ece5111998957",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1947 pag. 99 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "tabela anexa",
+            "contexto": "ere o artigo 87, item i, da constituicao,\n\ndecreta:\n\nart. 1º fica substituida, pela que acompanha o presente decreto, a tabela anexa ao decreto nº 22.499, de 22 de janeiro de 1947, que alterou a tabela numerica ordinaria de extranumerario-mensalista, da procuradoria da republica do distrito federal do ministeri",
+            "vinculo_externo_explicito": true
+          },
+          {
+            "remissao": "substituida, pela que acompanha o presente decreto",
+            "contexto": " usando da atribuicao que lhe confere o artigo 87, item i, da constituicao,\n\ndecreta:\n\nart. 1º fica substituida, pela que acompanha o presente decreto, a tabela anexa ao decreto nº 22.499, de 22 de janeiro de 1947, que alterou a tabela numerica ordinaria de extranumerario-mensalista, da procuradoria da republica do distrito fede",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "anhou o decreto nº 22.499, de 22 de janeiro de 1947.\n\no presidente da republica, usando da atribuicao que lhe confere o artigo 87, item i, da constituicao,\n\ndecreta:\n\nart. 1º fica substituida, pela que acompanha o presente decreto, a tabela anexa ao decreto nº 22.499, de 22 de janeiro de 1947, que alterou a tabela numerica ordinaria de extranumerario-mensalista, da procuradoria da republica do distrito federal do ministerio da justica e negocios interiores.\n\nart. 2º este decreto vigora a partir de 25 de janeiro de 1947.\n\nart. 3º revogam-se as disposicoes em contrario.\n\nrio de janeiro, em 22 de outubro de 1947, 126º da independencia e 59º da republica.\n\neurico g. dutra.\n\nbenedito costa neto.\n\n<<anexo>>clbr vol. 08 ano 1947 pag. 99 tabela.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-23548-1947-08-18.md",
+      "pacote": "9061",
+      "sha256_md": "6df38aa1ce953e249cf13ea4436f13c863875ab3b524aaebefb8705fdecd2af1",
+      "sha256_html": "6ffcb2b656f79b6f38fe5479d74a0b2f1e686e21f8dc3cf7db1792910e0729e0",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 06 ano 1947 pags. 192 a 193 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "m a seguinte distribuicao:\n\n<<anexo>>clbr vol. 06 ano 1947 pags. 192 a 193 tabelas.\n\nart. 3º fica aprovada, na forma da relacao anexa, a distribuicao dos cargos, constantes do artigo anterior, pelas reparticoes a que se refere o art. 1º deste decreto.\n\nart. 4º os claros da lotacao suplementar da carreira de dent",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "endencia.\n\nxvi – diretoria de engenharia.\n\nxvii – diretoria de rotas aereas.\n\nxviii – escola de aeronautica.\n\nxix – escola de especialistas de aeronautica.\n\nxx – 1ª zona aerea, – quartel general da 1ª zona aerea.\n\nxxi – 2ª zona aerea – orgaos na sede.\n\nxxii – 3ª zona aerea – orgaos sediados no distrito federal.\n\nxxiii – 3ª zona aerea – base aerea de belo horizonte.\n\nxxiv – 4ª zona aerea.\n\nxxv – 5ª zona aerea – orgaos na sede.\n\nxxvi – 5ª zona aerea – base aerea de florianopolis.\n\nart. 2º fica aprovada a lotacao numerica dos quadros permanente e suplementar do ministerio da aeronautica, com 635 cargos, sendo 426 na lotacao permanente e 209 na lotacao suplementar e com a seguinte distribuicao:\n\n<<anexo>>clbr vol. 06 ano 1947 pags. 192 a 193 tabelas.\n\nart. 3º fica aprovada, na forma da relacao anexa, a distribuicao dos cargos, constantes do artigo anterior, pelas reparticoes a que se refere o art. 1º deste decreto.\n\nart. 4º os claros da lotacao suplementar da carreira de dentista poderao ser preenchidos enquanto houver funcionarios em numero suficiente.\n\nart. 5º este decreto entrara em vigor na data de sua publicacao.\n\nart. 6º revogam-se as disposicoes em contrario.\n\nrio de janeiro, 18 de agosto de 1947, 126º da independencia e 59º da republica.\n\neurico g. dutra.\n\narmando trompowsky.\n\n<<anexo>> clbr ano 1947 pag. 194 a 203 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-23502-1947-08-13.md",
+      "pacote": "9061",
+      "sha256_md": "eaf08e18b0b9b70ba82a9a4454113b5629aeb085ea4e3f4aa79ffbc7f634de57",
+      "sha256_html": "ae9d8776c36579f328cf96c6b85432c44e9974667983c249a5b9430a7ac60533",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 06 ano 1947 pags. 156 a 160 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [],
+        "contexto": "ico no gabinete do ministro sao oficiais de gabinete.\n\nart. 29. o chefe do gabinete, os oficiais de gabinete, os ajudantes de ordens e as pracas do contigente farao jus a uma gratificacao mensal arbitrada pelo ministro, variavel segundo as suas funcoes.\n\nparagrafo unico. aos servidores civis serao abonadas gratificacoes de representacao, variaveis segundo as funcoes que desempenhem.\n\nart. 30. com excecao do chefe do servico de transportes os oficiais em servico no gabinete devem possuir todos os tipos de uniformes.\n\nart. 31. os uniformes dos continuos, serventes e motoristas sao fornecidos, gratuitamente, pelo exercito.\n\nrio de janeiro, 13 de agosto de 1947. – general canrobert p. da costa.\n\n<<anexo>>clbr vol. 06 ano 1947 pags. 156 a 160 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-23449-1947-07-31.md",
+      "pacote": "9061",
+      "sha256_md": "e799cc94c3aa5ec0ac5dd057a80ecbd9f9ff7bcd0fb5178245f09063be5c6638",
+      "sha256_html": "cddd25ddaab0ff099dd929fe482f937b53700efb1081ecc9ec6f7e4b6402b3ad",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 06 ano 1947 pags. 120 e 121 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "sando da atribuicao que lhe confere o artigo 87, item i, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, na forma da relacao anexa, a tabela, numerica ordinaria de extranumeracao mensalista do servico de comunicacoes do departamento de administracao do ministerio da viacao e obras publicas.\n\nart. 2º este decr",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "ica ordinaria de extranumerario-mensalista do servico de comunicacoes do departamento de administracao do ministerio de viacao e obras publicas.\n\no presidente da republica, usando da atribuicao que lhe confere o artigo 87, item i, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, na forma da relacao anexa, a tabela, numerica ordinaria de extranumeracao mensalista do servico de comunicacoes do departamento de administracao do ministerio da viacao e obras publicas.\n\nart. 2º este decreto entrara em vigor na data de sua publicacao.\n\nart. 3º revogam-se as disposicoes em contrario.\n\nrio de janeiro, em 31 de julho de 1947; 126º da independencia e 59º da republica.\n\neurico g. dutra\n\nclovis pestana\n\n<<anexo>>clbr vol. 06 ano 1947 pags. 120 e 121 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-23450-1947-07-31.md",
+      "pacote": "9061",
+      "sha256_md": "be55954ff669aa119d0fef6db508e8fedd1662ef9006771c4dd765a639490274",
+      "sha256_html": "2385852f8f0ea59c8171387967272559d81ee6dc14fbdcaac81a4b8526101a9c",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 06 ano 1947 pag. 122 e 123 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "sando da atribuicao que lhe confere o artigo 87, item i, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, na forma da relacao anexa, a tabela numerica ordinaria extranumerario-mensalista do departamento nacional de obras de saneamento do ministerio da viacao e obras publicas.\n\nart. 2º este decreto entrara em v",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "nto de despesa, a tabela numerica ordinaria de extranumerario-mensalista do departamento nacional de obras de saneamento do ministerio da viacao e obras publicas.\n\no presidente da republica, usando da atribuicao que lhe confere o artigo 87, item i, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, na forma da relacao anexa, a tabela numerica ordinaria extranumerario-mensalista do departamento nacional de obras de saneamento do ministerio da viacao e obras publicas.\n\nart. 2º este decreto entrara em vigor na data de sua publicacao.\n\nart. 3º revogam-se as disposicoes em contrario.\n\nrio de janeiro, 31 de julho de 1947, 126º da independencia e 59º da republica.\n\neurico g. dutra.\n\nclovis pestana\n\n<<anexo>>clbr vol. 06 ano 1947 pag. 122 e 123 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-23405-1947-07-28.md",
+      "pacote": "9061",
+      "sha256_md": "7b4bc729d6795070b8725184eee8784cac086f78b1210d89d56a29a07a5490fb",
+      "sha256_html": "8835aed024288707a7f50deeb735c7d7a4aebd158712d7e8ea91f1c85f24e30b",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 06 ano 1947 pags. 84 a 91 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": " da agencia nacional, para as tabelas congeneres do departamento federal de seguranca publica, as funcoes constantes da relacao anexa.\n\nparagrafo unico – as funcoes a que se refere este artigo continuarao preenchidas pelos seus atuais ocupantes, na forma da relacao nominal que acompanha este decreto.\n\nart. 2º – ",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "mericas, ordinaria e suplementar, de extranumerario-mensalista, da agencia nacional, para as tabelas congeneres do departamento federal de seguranca publica, as funcoes constantes da relacao anexa.\n\nparagrafo unico – as funcoes a que se refere este artigo continuarao preenchidas pelos seus atuais ocupantes, na forma da relacao nominal que acompanha este decreto.\n\nart. 2º – este decreto entrara em vigor na data, da sua publicacao.\n\nart. 3º – revogam-se as disposicoes em contrario.\n\nrio de janeiro, em 28 de julho de 1947, 126º da independencia e 59º da republica.\n\neurico g. dutra.\n\nbenedicto costa netto.\n\nministerio da justica e negocios interiores\n\nagencia nacional\n\ntabela numerica ordinaria\n\n<<anexo>>clbr vol. 06 ano 1947 pags. 84 a 91 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1946/dec-22386-1946-12-31.md",
+      "pacote": "9061",
+      "sha256_md": "05ac0d27f7080cbd1aecec1726f893521eb38d7ef8d8522ce4e0994e0cf833cf",
+      "sha256_html": "1ad9340d1dc453c54cb5c9620d9194cd30d52c147d52dc21dd0356e2624a1b5e",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1946 pags. 388 a 417 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "substituidas pelas que acompanham o presente decreto",
+            "contexto": "a atribuicao que lhe confere o artigo 87, item i, da constituicao de 1946,\n\ndecreta:\n\nart. 1º ficam substituidas pelas que acompanham o presente decreto, no que se refere as series funcionais mencionadas as tabelas numericas de extranumerario mensalista de reparticoes do ministerio da viacao e obras publicas, anexas ao decreto num",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": " constantes da relacao nominal anexa.\n\nart. 3º a despesa com a t.n.s. da fabrica nacional de motores correra, no exercicio de 1947, a conta da dotacao que lhe foi consignada na verba i – pessoal – consignacao v – outras despesas com pessoal, subconsignacao 27 – outras despesas, inciso 04 – outras despesas, do anexo 22 ministerio da viacao e obras publicas – do orcamento geral da republica para 1947.\n\nart. 4º este decreto vigorara a partir de 6 de setembro de 1946, exceto quanto a parte referente ao aproveitamento de pessoal, a qual entrara em vigor a 1 de janeiro de 1947.\n\nrio de janeiro, em 31 de dezembro de 1946, 125º da independencia e 58º da republica.\n\neurico g. dutra.\n\nclovis pestana.\n\n<<anexo>>clbr vol. 08 ano 1946 pags. 388 a 417 tabela.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1946/dec-22225-1946-12-04.md",
+      "pacote": "9061",
+      "sha256_md": "7217c78d6b0e1e70306810304c5288e903f1ae4fe4d0fff556344c1258f96b78",
+      "sha256_html": "fec45b37cb06010b3b4f34891f9d815743e2fff23e2792f0fce51d28e755deb9",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 09 ano 1946 pags. 365 e 366 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "ndo da atribuicao que lhe confere o artigo 87, item i, da constituicao,\n\ndecreta:\n\nart. 1º ficam alteradas, na forma da relacao anexa, as tabelas numericas ordinaria e suplementar de extranumerario-mensalista do departamento administrativo do servico publico.\n\nparagrafo unico. as funcoes criadas cm tabela suplem",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "trativo do servico publico.\n\nparagrafo unico. as funcoes criadas cm tabela suplementar por este decreto serao exercidas pelos servidores, cujos nomes constam da relacao nominal anexa.\n\nart. 2º a despesa com a execucao da disposto no presente decreto correra a conta da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 05 – mensalista, anexo 4 – departamento administrativo do servico publico, do orcamento geral da republica para 1947.\n\nart. 3º este decreto entrara em vigor a 1º de janeiro de 1947.\n\nart. 4º revogam-se as disposicoes em contrario.\n\nrio de janeiro, em 4 de dezembro de 1946, 125º da independencia e 58º da republica.\n\neurico g. dutra\n\nbenedicto costa netto\n\n<<anexo>>clbr vol. 09 ano 1946 pags. 365 e 366 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1946/dec-20528-1946-01-24.md",
+      "pacote": "9061",
+      "sha256_md": "009264ada0a03535ea70ee4fc7a79147466626e8de6196c7a91464a6ba02e058",
+      "sha256_html": "65e7c2050e0782ace3902555bb3949682aafdf97858e23aabcdf527bfaa7d764",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 02 ano 1946 pag. 445 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "tribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º. fica criada, de conformidade com a relacao anexa, a tabela numerica suplementar de extranumerario-mensalista, da divisao de caca e pesca do departamento nacional da producao animal do ministerio da agricultura.\n\nart. 2º. as func",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "aca e pesca do departamento nacional da producao animal do ministerio da agricultura.\n\nart. 2º. as funcoes criadas serao preenchidas pelo pessoal da policlinica de pescadores da extinta comissao de caca e pesca, na forma prevista pelo decreto-lei nº....., de....., de janeiro de 1946.\n\nart. 3º. a divisao do pessoal fara publicar a relacao nominal dos servidores a que se refere o presente decreto, dentro de 30 dias, a partir da data de sua publicacao.\n\nart. 4º. este decreto entrara em vigor a partir de 4 de janeiro de 1946.\n\nart. 5º. revogam-se as disposicoes em contrario.\n\nrio de janeiro, 24 de janeiro de 1946, 125º da independencia e 58º da republica.\n\njose linhares.\n\ntheodureto de camargo.\n\n<<anexo>>clbr vol. 02 ano 1946 pag. 445 tabela.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1946/dec-20391-1946-01-14.md",
+      "pacote": "9061",
+      "sha256_md": "66c080f86ddcca76003f2e20b1a90fbf776395a96ae32ad7b4f3b5cafddd9ba4",
+      "sha256_html": "9790d7339afd3bebbeb98d59b9e119f7c260c37505c68242f0fb19161ffedf27",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 02 ano 1946 pags. 98 a 122 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "substituidas, pelas que acompanham o presente decreto",
+            "contexto": "usando da atribuicao que lhe confere o art. 74, letra, a, da constituicao,\n\ndecreta:\n\nart. 1º ficam substituidas, pelas que acompanham o presente decreto as tabelas numericas, ordinaria e suplementar, de extranumerario-mensalista do instituto de ecologia e experimentacao agricolas, do servico nacional de pesquisas agronomicas, do c",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "blicacao deste decreto, a relacao nominal dos servidores atualmente existentes, distribuidos pelas novas tabelas.\n\nart. 3º a despesa com a execucao do disposto neste decreto, na importancia anual de cr$ 460.200,00 (quatrocentos e sessenta mil e duzentos cruzeiros), correra a conta da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 05 – mensalistas, anexo nº 14 – ministerio da agricultura, do orcamento geral da republica para 1946.\n\nart. 4º este decreto entrara, em vigor na data de sua publicacao.\n\nart. 5º revogam-se as disposicoes em contrario.\n\nrio de janeiro, 14 de janeiro de 1946, 125º da independencia e 58º da republica.\n\njose linhares.\n\ntheodureto de camargo.\n\n<<anexo>>clbr vol. 02 ano 1946 pags. 98 a 122 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-19568-1945-09-04.md",
+      "pacote": "9061",
+      "sha256_md": "eae82602bf79f4a2ebb4245797da769086226d82adf00961dfa0ae3aaed41c4d",
+      "sha256_html": "2a95157b8717cce354e4baeab5d549159fe87e03a702dd6a7b0ec29888ffec19",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 06 ano 1945 pag. 492 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "ndo da atribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º ficam alteradas, conforme a relacao anexa, as tabelas numericas, ordinaria e suplementar, de extranumerario-mensalista da faculdade de medicina da bahia do ministerio da educacao e saude.\n\nart. 2º a despesa com a execucao",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "eradas, conforme a relacao anexa, as tabelas numericas, ordinaria e suplementar, de extranumerario-mensalista da faculdade de medicina da bahia do ministerio da educacao e saude.\n\nart. 2º a despesa com a execucao do disposto neste decreto, na importancia anual de cr$ 13.200,00 (treze mil e duzentos cruzeiros), correra a conta da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 05 – mensalistas, anexo nº 15 – ministerio da educacao e saude, do orcamento geral da republica para 1945.\n\nart. 3º este decreto entrara em vigor na data de sua publicacao.\n\nrio de janeiro, em 4 de setembro de 1945, 124º da independencia e 57º da republica.\n\ngetulio vargas.\n\ngustavo capanema.\n\n<<anexo>>clbr vol. 06 ano 1945 pag. 492 tabela.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-19510-1945-08-25.md",
+      "pacote": "9061",
+      "sha256_md": "dc45c0c29d5e0629240bf601d8ad0f54efc5d2f46683295b7011a446fbb35dd7",
+      "sha256_html": "6bbffdae89084f89bbb54d7d797b4f5ed0e181f0d14efd2fd92ccf3baae4554c",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 06 ano 1945 pag. 437 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "sando da atribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, conforme a relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista do quartel general da 2ª zona aerea, do ministerio da aeronautica.\n\nart. 2º a despesa com a execucao do disposto neste de",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": ", conforme a relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista do quartel general da 2ª zona aerea, do ministerio da aeronautica.\n\nart. 2º a despesa com a execucao do disposto neste decreto, na importancia de cr$ 155.400,00 (cento e cinquenta e cinco mil e quatrocentos cruzeiros) anuais, correra a conta da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 05 – mensalistas, anexo nº 13 – ministerio da aeronautica, do orcamento geral da republica para 1945.\n\nart. 3º este decreto entrara, em vigor na data de sua publicacao.\n\nrio de janeiro, 25 de agosto de 1945, 124º da independencia e 57º da republica.\n\ngetulio vargas\n\njoaquim pedro salgado filho\n\n<<anexo>>clbr vol. 06 ano 1945 pag. 437 tabela.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-19286-1945-07-27.md",
+      "pacote": "9061",
+      "sha256_md": "bcb471a676bcff0c569d486b365d4b3d4d633773a5be1e094573f9fa3066f05c",
+      "sha256_html": "a9a7280692a1eaf3a0ece08ce8a6650d3c2975d2aa2eeb6435c1f4cc852f35db",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 06 ano 1945 pags. 239 a 241 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": " usando da atribuicao que lhe confere o art. 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, conforme a relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista da diretoria de navegacao, do ministerio da marinha.\n\nart. 2º a despesa com a execucao do disposto neste decreto, na impo",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "cao anexa, a tabela numerica ordinaria de extranumerario-mensalista da diretoria de navegacao, do ministerio da marinha.\n\nart. 2º a despesa com a execucao do disposto neste decreto, na importancia de cr$ 132.600,00 (cento e trinta e dois mil e seiscentos cruzeiros) anuais, correra a conta da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 05 – mensalistas anexo n.º 19 – ministerio da marinha, do orcamento geral da republica para 1945.\n\nart. 3º este decreto entrara em vigor na data de sua publicacao.\n\nart. 4º revogam-se as disposicoes em contrario.\n\nrio de janeiro, 27 de julho de 1945, 124º da independencia e 57º da republica.\n\ngetulio vargas.\n\nhenrique a. guilhem.\n\n<<anexo>>clbr vol. 06 ano 1945 pags. 239 a 241 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-18918-1945-06-18.md",
+      "pacote": "9061",
+      "sha256_md": "53f7e0c3d16ef41c498e024cfc923ae7d1a4fc94f996a6f5c08bb19625d3e89b",
+      "sha256_html": "d9f51ac0fd314b60c318b9ac3b58810b02ba9450dcedc5bba331d297197d5272",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1945 pags. 785 a 800 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacoes anexas",
+            "contexto": "ando da atribuicao que lhe confere o art. 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º ficam alteradas, conforme as relacoes anexas, as tabelas numericas, ordinaria e suplementar, de mensalistas e a tabela numerica de diaristas da estrada de ferro noroeste do brasil.\n\nart. 2º a despesa a verificar-se com a exe",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "tas da estrada de ferro noroeste do brasil\n\no presidente da republica, usando da atribuicao que lhe confere o art. 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º ficam alteradas, conforme as relacoes anexas, as tabelas numericas, ordinaria e suplementar, de mensalistas e a tabela numerica de diaristas da estrada de ferro noroeste do brasil.\n\nart. 2º a despesa a verificar-se com a execucao do disposto neste decreto correra a conta dos recursos da estrada.\n\nart. 3º este decreto entrara em vigor na data de sua publicacao.\n\nart. 4º revogam-se as disposicoes em contrario.\n\nrio de janeiro, em 18 de junho de 1945, 124º da independencia e 57º da republica.\n\ngetulio vargas.\n\njoao de mendonca lima.\n\n<<anexo>>clbr vol. 04 ano 1945 pags. 785 a 800 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-18735-1945-05-28.md",
+      "pacote": "9061",
+      "sha256_md": "d9fa0ae68f0535158694c6328e89ea87e0d2986dde11f1399c495f81dcfb4cd6",
+      "sha256_html": "5c882f355430cd9837cf913c53b50d83812c7df90672d0510d8f30d491e6a4d5",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1945 pags. 585 a 587 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": " 1945, fica alterada, na parte relativa a referencia vii, da serie funcional de auxiliar de escritorio, de acordo com a relacao anexa a o presente decreto.\n\nart. 2.º este decreto vigorara a partir de 28 de fevereiro de 1945.\n\nrio de janeiro, 28 de maio de 1945, 124º da independencia e 57º da republica.\n\ngetulio ",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": " fevereiro de 1945.\n\nrio de janeiro, 28 de maio de 1945, 124º da independencia e 57º da republica.\n\ngetulio vargas.\n\nalexandre marcondes filho.\n\nrelacao nominal anexa ao decreto nº 18.735, de 28 de maio de 1945\n\n19 – auxiliar de escritorio vii\n\n1\\. antonio de oliveira paiva.\n\n2\\. carlos maisao.\n\n3\\. clemente alves junior.\n\n4\\. coriolano alves dos reis.\n\n5\\. daiva de paula brasil.\n\n6\\. elvira fontes.\n\n7\\. enjolras de oliveira.\n\n8\\. graziela reis matos.\n\n9\\. inez sole.\n\n10.jose maria raposo.\n\n11.jovina lopes correia.\n\n12.maria helena mayrinck.\n\n13.maria vieira de castro.\n\n14.mario pinto monte.\n\n15\\. osvaldo cocce.\n\n16.otacilio leme atanasio.\n\n17.rubens de camargo.\n\n18.stea de maria.\n\n19.vago.\n\n<<anexo>>clbr vol. 04 ano 1945 pags. 585 a 587 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-18671-1945-05-22.md",
+      "pacote": "9061",
+      "sha256_md": "328352ca479ff6c7336e56acc6d946a1f95725c437be06b089ce89fb9158f7c4",
+      "sha256_html": "d5905f9c3c267951c0c9cb5fc1dd4aa404aa98adae529720cb2bc3e6c26205cb",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1945 pags. 501 a 502 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": " usando da atribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica criada, conforme a relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista do comando naval do leste, do ministerio da marinha.\n\nart. 2º fica alterada, conforme a relacao anexa a tabela numerica o",
+            "vinculo_externo_explicito": false
+          },
+          {
+            "remissao": "relacao anexa",
+            "contexto": "ia de extranumerario-mensalista do comando naval do leste, do ministerio da marinha.\n\nart. 2º fica alterada, conforme a relacao anexa a tabela numerica ordinaria de extranumerario-mensalista do hospital central da marinha, da diretoria de saude, do mesmo ministerio.\n\nart. 3º a despesa com a execucao do disposto ",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "lacao anexa a tabela numerica ordinaria de extranumerario-mensalista do hospital central da marinha, da diretoria de saude, do mesmo ministerio.\n\nart. 3º a despesa com a execucao do disposto neste decreto, na importancia de cr$ 147.600,00 (cento e quarenta e sete mil e seiscentos cruzeiros) anuais, correra, no presente exercicio, a conta da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 05 – mensalistas, anexo nº 19 – ministerio da marinha, do orcamento geral da republica para 1945.\n\nart. 4º este decreto entrara em vigor na data de sua publicacao.\n\nrio de janeiro, 22 de maio de 1945, 124º da independencia e 57º da republica.\n\ngetulio vargas.\n\nhenrique a. guilhem.\n\n<<anexo>>clbr vol. 04 ano 1945 pags. 501 a 502 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-18551-1945-05-07.md",
+      "pacote": "9061",
+      "sha256_md": "ff0aae0746dbe53763ecae95a10e5337e8d06b915dfa74d05ed720ce4d0d457a",
+      "sha256_html": "049f4ae7529b93731317fb803c757ecbe5ebf44f013ae1af224a9eee48964ded",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1945 pags. 373 e 374 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "usando da atribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica criada, na forma da relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista das oficinas da urca, da diretoria do material belico, do ministerio da guerra.\n\nart. 2º fica alterada, de conformidade c",
+            "vinculo_externo_explicito": false
+          },
+          {
+            "remissao": "relacao anexa",
+            "contexto": "icinas da urca, da diretoria do material belico, do ministerio da guerra.\n\nart. 2º fica alterada, de conformidade com a relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista da escola de artilharia de costa, da diretoria de ensino do exercito, do ministerio da guerra.\n\nart. 3º as funcoes transf",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica criada, na forma da relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista das oficinas da urca, da diretoria do material belico, do ministerio da guerra.\n\nart. 2º fica alterada, de conformidade com a relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista da escola de artilharia de costa, da diretoria de ensino do exercito, do ministerio da guerra.\n\nart. 3º as funcoes transferidas continuarao preenchidas pelos seus atuais ocupantes.\n\nart. 4º este decreto entrara em vigor na data de sua publicacao.\n\nrio de janeiro, 7 de maio de 1945, 124º da independencia e 57º da republica.\n\ngetulio vargas.\n\neurico g. dutra.\n\n<<anexo>>clbr vol. 04 ano 1945 pags. 373 e 374 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-18527-1945-05-02.md",
+      "pacote": "9061",
+      "sha256_md": "9069abbd7936bd4df421d964608ca59fd3cef50275d583cc38014c87b7c741ed",
+      "sha256_html": "e0d888bcbdc35d71c9fe91a16f52e5587792b41884ae7064ed0e1b75e105fcbe",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1945 pag. 347 tabela",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "sando da atribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica aiterada, conforme a relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista da policlinica militar, da diretoria de saude do exercito, do ministerio da guerra.\n\nart. 2º a despesa com a execucao do ",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "ao anexa, a tabela numerica ordinaria de extranumerario-mensalista da policlinica militar, da diretoria de saude do exercito, do ministerio da guerra.\n\nart. 2º a despesa com a execucao do disposto neste decreto, na importancia de cr$ 9.600,00 (nove mil e seiscentos cruzeiros) anuais, correra, no presente exercicio, a conta de destaque da verba 1 – pessoal, consignacao, ii – pessoal extranumerario, subconsignacao 08, novas admissoes, etc., anexo nº 17 – ministerio da guerra, do orcamento geral da republica para 1945.\n\nart 3º este decreto entrara em vigor na data de sua publicacao.\n\nrio de janeiro, 2 de maio de 1945, 124º da independencia e 57º da republica.\n\ngetulio vargas.\n\neurico g. dutra.\n\n<<anexo>>clbr vol. 04 ano 1945 pag. 347 tabela\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-18155-1945-03-26.md",
+      "pacote": "9061",
+      "sha256_md": "8be181a84303809125b8dc340881b4db3e274942be2c95bb54a69e3467699bc2",
+      "sha256_html": "9f702e320b8140beacab8390855dc056b006db024467d1f5e934c12e84ddf077",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 02 ano 1945 pags. 692 e 693 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "ribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, de conformidade com a relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista da escola de aeronautica, do ministerio da aeronautica.\n\nart. 2º a despesa com a execucao do disposto neste decreto, na i",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "rmidade com a relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista da escola de aeronautica, do ministerio da aeronautica.\n\nart. 2º a despesa com a execucao do disposto neste decreto, na importancia de cr$ 576.000,00 (quinhentos e setenta e seis mil cruzeiros) anuais, correra, no presente exercicio, a conta da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsigacao 05 – mensalistas, anexo nº 13 – ministerio da aeronautica, do orcamento geral da republica para 1945.\n\nart. 3º este decreto entrara em vigor na data de sua publicacao.\n\nrio de janeiro, 26 de marco de 1945, 124º da independencia e 57º da republica.\n\ngetulio vargas.\n\njoaquim pedro salgado filho.\n\n<<anexo>>clbr vol. 02 ano 1945 pags. 692 e 693 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-18159-1945-03-26.md",
+      "pacote": "9061",
+      "sha256_md": "82bf6c3c1e39fd40b1a69cf2437721d289132ecb68022bce1c473db686ec45e4",
+      "sha256_html": "cb290f608faf97394b7505493bfb40e6850f19d54f0188dfc9bd0e4c58c3db56",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 02 ano 1945 pags. 701 a 708 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "ribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º ficam criadas, de conformidade com a relacao anexa, as tabelas numericas, ordinaria e suplementar de extranumerario-mensalista da secao de fomento agricola em minas gerais, da divisao de fomento da producao vegetal, do departament",
+            "vinculo_externo_explicito": false
+          },
+          {
+            "remissao": "relacao anexa",
+            "contexto": "ricultura.\n\nart. 2º as funcoes transferidas continuarao preenchidas pelos seus atuais ocupantes, cujos nomes constam da relacao anexa.\n\nart. 3º ficam substituidas pelas que acompanham o presente decreto, as tabelas numericas, ordinaria e suplementar, de extranumerario-mensalista da divisao de fomento da producao",
+            "vinculo_externo_explicito": false
+          },
+          {
+            "remissao": "substituidas pelas que acompanham o presente decreto",
+            "contexto": "uarao preenchidas pelos seus atuais ocupantes, cujos nomes constam da relacao anexa.\n\nart. 3º ficam substituidas pelas que acompanham o presente decreto, as tabelas numericas, ordinaria e suplementar, de extranumerario-mensalista da divisao de fomento da producao vegetal, do departamento nacional da producao vegetal, do ministerio",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "anumerario-mensalista da divisao de fomento da producao vegetal, do departamento nacional da producao vegetal, do ministerio da agricultura.\n\nart. 4º a despesa com a execucao do disposto neste decreto, na importancia de cr$ 162. o00,00 (cento e sessenta e dois mil e seiscentos cruzeiros) anuais, correra, no presente exercicio, a conta da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 05 – mensalistas, do anexo nº 14 – ministerio da agricultura, do orcamento geral da republica para 1945.\n\nart. 5º este decreto entrara em vigor na data de sua publicacao.\n\nrio de janeiro, 26 de marco de 1945, 124º da independencia e 57º da republica.\n\ngetulio vargas.\n\napolonio salles\n\n<<anexo>>clbr vol. 02 ano 1945 pags. 701 a 708 tabela.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-18047-1945-03-12.md",
+      "pacote": "9061",
+      "sha256_md": "9200f5602a4a46fd9aca5488ae6b97337e14a74abb63344746bb847011a1601c",
+      "sha256_html": "b90f2d9e1c52158bd55baf2da6c8df6ba1a28594d53a3e16177f10e4772a639e",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 02 ano 1945 pag. 02 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "sando da atribuicao que ihe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º ficam criadas, conforme a relacao anexa, dez funcoes de auxiliar de selecao, na tabela numerica ordinaria de extranumerario-mensalista do departamento administrativo do servico publico.\n\nart. 2º a despesa com a execucao",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "lecao, na tabela numerica ordinaria de extranumerario-mensalista do departamento administrativo do servico publico.\n\nart. 2º a despesa com a execucao do disposto neste decreto correra, no presente exercicio, a conta do destaque da importancia de cr$ 85. 200,00 (oitenta e cinco mil e duzentos cruzeiros) da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 08 – novas admissoes, etc., anexo n.º 3 – departamento administrativo do servico publico, do orcamento geral da republica para 1945.\n\nart. 3º este decreto entrara em vigor na data de sua publicacao.\n\nrio de janeiro, 12 de marco de 1945, 124º da independencia e 57º da republica.\n\ngetulio vargas.\n\nagamemnon magalhaes.\n\n<<anexo>>clbr vol. 02 ano 1945 pag. 02 tabela.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-17842-1945-02-22.md",
+      "pacote": "9061",
+      "sha256_md": "206099292355e99e504b98508c967f205604712cbab85531002dc5bd02a67590",
+      "sha256_html": "65b5438a98908dcb89b5b267a8b9817b96249d70280340b8d9f82051d7fa9932",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 02 ano 1945 pags. 301 a 316 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "uais empregados, por forca do § 4º do art. 4º do decreto-lei nº 7.333, de 22 de fevereiro de 1945, sao as constantes da relacao anexa.\n\nart. 10. este decreto entrara em vigor na data de sua publicacao, exceto quanto ao novo salario do presidente e diretores, o qual vigorara a partir da data em que foi concedido ",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": " funcionais e isoladas dessa ultima tabela, na razao de um por um.\n\nart. 9º as gratificacoes adicionais por tempo de servico, cujo pagamento e assegurado aos atuais empregados, por forca do § 4º do art. 4º do decreto-lei nº 7.333, de 22 de fevereiro de 1945, sao as constantes da relacao anexa.\n\nart. 10. este decreto entrara em vigor na data de sua publicacao, exceto quanto ao novo salario do presidente e diretores, o qual vigorara a partir da data em que foi concedido o aumento geral de salario para os empregados da caixa.\n\nart. 11. revogam-se as disposicoes em contrario.\n\nrio de janeiro, 22 de fevereiro de 1945; 124º da independencia e 57º da republica.\n\ngetulio vargas.\n\na. de souza costa.\n\n<<anexo>>clbr vol. 02 ano 1945 pags. 301 a 316 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-17848-1945-02-22.md",
+      "pacote": "9061",
+      "sha256_md": "3a5f94d2488de8ccc701c067372dea70566d410a612ea7f93747fc5d53dc417c",
+      "sha256_html": "b22e9809d53c0943f41db1e173b8afd3f7a8c379a72976a69dc3dde71016b43d",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 02 ano 1945 pags. 323 a 334 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "uais empregados, por forca do § 4º do art. 4º do decreto-lei nº 7.336, de 22 de fevereiro de 1945, sao as constantes da relacao anexa.\n\nart. 11. este decreto entrara em vigor na data de sua publicacao exceto quanto ao aumento e ao regime de salario-familia, que vigorarao partir de 1 de janeiro de 1944.\n\nart. 12.",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": " preenchidas a medida que forem sendo suprimidas as funcoes das series funcionais e isoladas dessa ultima tabela, na razao de um por um.\n\nart. 10. as gratificacoes adicionais por tempo de servico, cujo pagamento e assegurado aos atuais empregados, por forca do § 4º do art. 4º do decreto-lei nº 7.336, de 22 de fevereiro de 1945, sao as constantes da relacao anexa.\n\nart. 11. este decreto entrara em vigor na data de sua publicacao exceto quanto ao aumento e ao regime de salario-familia, que vigorarao partir de 1 de janeiro de 1944.\n\nart. 12. revogam-se as disposicoes em contrario.\n\nrio de janeiro, 22 de fevereiro de 1945, 124º da independencia da republica.\n\ngetulio vargas.\n\na. de souza costa.\n\n<<anexo>>clbr vol. 02 ano 1945 pags. 323 a 334 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-16611-1944-09-18.md",
+      "pacote": "9061",
+      "sha256_md": "a241487d5c79ac87c1898dfcb222c9e04346d42fdfeee2f89b4e3aeea44dee52",
+      "sha256_html": "9ae4e46989987b134de52918ca8743d47cb163b6394f3dd994afda84546a0dce",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 06 ano 1944 pags. 577 e 578 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "do da atribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º ficam alteradas, na forma da relacao anexa, as tabelas numericas, ordinaria e suplementar, de extranumerario-mensalista do servico federal de aguas e esgotos, do departamento nacional de saude, do ministerio da educacao e ",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "to de despesa, as tabelas numericas, ordinaria e suplementar, de extranumerario-mensalista do servico federal de aguas e esgotos, do ministerio da educacao e saude\n\no presidente da republica, usando da atribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º ficam alteradas, na forma da relacao anexa, as tabelas numericas, ordinaria e suplementar, de extranumerario-mensalista do servico federal de aguas e esgotos, do departamento nacional de saude, do ministerio da educacao e saude.\n\nart. 2º este decreto entrara em vigor na data da sua publicacao.\n\nrio de janeiro 18 de setembro de 1944, 123º da independencia e 56º da republica.\n\ngetulio vargas.\n\ngustavo capanema.\n\n<<anexo>>clbr vol. 06 ano 1944 pags. 577 e 578 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15960-1944-06-30.md",
+      "pacote": "9061",
+      "sha256_md": "5e25597abd1a84b026fab03b7e730af1f31d2cfec77e10c90800cfd1f60bd17d",
+      "sha256_html": "86f1ce086f3e1483df046e3d3e5636718aa8dd62e016b6553fde7ac3fc4d9c51",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1944 pags. 136 e 137 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "ando da atribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, na forma da relacao anexa, a tabela numerica ordinario de extranumerario-mensalista da secretaria de estado, do ministerio das relacoes exteriores.\n\nart. 2º fica transferida, para a tabela numerica supleme",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "tabela numerica suplementar de extranumerario-mensalista da mesma secretaria, uma funcao de criptografo auxiliar, referencia xv.\n\nart. 3º a despesa com a execucao do disposto no art. 1º deste decreto, na importancia de cr$ 45. 000,00 (quarenta e cinco mil cruzeiros) anuais, correra a conta da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 05 – mensalistas, anexo n.º 20 – ministerio das relacoes exteriores, do orcamento geral da republica para 1944.\n\nart. 4º este decreto entrara em vigor na data de sua publicacao, revogadas as disposicoes em contrario.\n\nrio de janeiro, 30 de junho de 1944, 123º da independencia e 56º da republica.\n\ngetulio vargas.\n\nosvaldo aranha.\n\n<<anexo>>clbr vol. 04 ano 1944 pags. 136 e 137 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15921-1944-06-28.md",
+      "pacote": "9061",
+      "sha256_md": "db8be2289b4e7814d5a6559dee0d75cb7f2737222b92d3b17537c3a73a7bf878",
+      "sha256_html": "53e7e9695de7b886f8e9a63c1279d74f2d28f69333d2be010f0ff7b225e19c98",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1944 pags. 112 a 114 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "ribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, de conformidade com a relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista da diretoria de aeronautica civil, do ministerio da aeronautica.\n\nart. 2º a despesa com a execucao do disposto neste decr",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": " conformidade com a relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista da diretoria de aeronautica civil, do ministerio da aeronautica.\n\nart. 2º a despesa com a execucao do disposto neste decreto, na importancia de cr$ 369.600,00 (trezentos e sessenta e nove mil seiscentos cruzeiros) anuais, correra a conta da verba 1 – pessoal, consignacao ll – pessoal extranumerario, subconsignacao 05 – mensalistas, anexo, nº 13 – ministerio da aeronautica, do orcamento geral da uniao para 1944.\n\nart. 3º este decreto entrara em vigor na data de sua publicacao.\n\nrio de janeiro, 28 de junho de 1944, 123º da independencia e 56º da republica.\n\ngetulio vargas.\n\njoaquim pedro salgado filho.\n\n<<anexo>>clbr vol. 04 ano 1944 pags. 112 a 114 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15924-1944-06-28.md",
+      "pacote": "9061",
+      "sha256_md": "5d61c81842932db6c49e071f34815d9dbcb21fcd62b1eb0dec64262ee0144eef",
+      "sha256_html": "701ee0eab495bfc8e97194061e8b83ee035cd7a8837159617b821972bb1d76c8",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1944 pags. 119 e 120 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "ribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, de conformidade com a relacao anexa, a tabela numerica ordinaria da extranumerario-mensalista do servico de radiodifusao educativa, do ministerio da educacao e saude.\n\nart. 2º a despesa com a execucao do disposto ne",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "ada, de conformidade com a relacao anexa, a tabela numerica ordinaria da extranumerario-mensalista do servico de radiodifusao educativa, do ministerio da educacao e saude.\n\nart. 2º a despesa com a execucao do disposto neste decreto, na importancia de cr$ 88.800,00 (oitenta e oito mil e oitocentos cruzeiros) anuais, correra a conta da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 05 – mensalistas, anexo nº 15 – ministerio da educacao e saude, do orcamento geral da republica para 1944.\n\nart. 3º este decreto entrara em vigor na data de sua publicacao.\n\nrio de janeiro, 28 de junho de 1944, 123º da independencia e 56º da republica.\n\ngetulio vargas.\n\ngustavo capanema.\n\n<<anexo>>clbr vol. 04 ano 1944 pags. 119 e 120 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15911-1944-06-26.md",
+      "pacote": "9061",
+      "sha256_md": "d063abf65dcb6f9dc22b45fea11dae27ccc7216db6f9dcf24e5f5aaea98dec60",
+      "sha256_html": "ddf04522089fd4470a817f46756721ae9d337619989629e71b9a6018bbd48956",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1944 pag. 105 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "atribuicao que ihe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica criada, de conformidade com a relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista da pagadoria central da forca expedicionaria brasileira, da subdiretoria de fundos do exercito, da diretoria de intendenc",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "entral da forca expedicionaria brasileira, da subdiretoria de fundos do exercito, da diretoria de intendencia do exercito, do ministerio da guerra.\n\nart. 2º a despesa com a execucao do disposto neste decreto correra, no presente exercicio, a conta do destaque da parcele de cr$ 190.800,00 (cento e noventa mil e oitocentos cruzeiros) da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 38 – novas admissoes, etc., anexo nº 17 – ministerio da guerra, do orcamento geral da republica para 1944.\n\nart. 3º este decreto entrara em vigor na data de sua publicacao.\n\nrio de janeiro, 26 de junho de 1944, 123º da independencia e 56º da republica.\n\ngetulio vargas.\n\neurico g. dutra.\n\n<<anexo>>clbr vol. 04 ano 1944 pag. 105 tabela.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15903-1944-06-23.md",
+      "pacote": "9061",
+      "sha256_md": "45ed65efe8ea15c3025b6b0f01dd7f8b2df6d162a9e05d084da4522e131e9b97",
+      "sha256_html": "68a8cda1d8ee54191ef5e8fcabcc0188266791490629fddb17e4666d655b76a0",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1944 pag. 100 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "atribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica criada, de conformidade com a relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista do servico de administracao da sede do departamento de administracao do ministerio da educacao e saude.\n\nart. 2º a despes",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "a de extranumerario-mensalista do servico de administracao da sede do departamento de administracao do ministerio da educacao e saude.\n\nart. 2º a despesa com a execucao do disposto neste decreto correra, no presente exercicio, a conta do destaque da parcela de cr$ 106.800.00 (cento e seis mil e oitocentos cruzeiros ), da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 08 – novas admissoes etc., do anexo nº 15 – ministerio da educacao e saude – do orcamento geral da republica para 1944.\n\nart. 3º este decreto entrara em vigor na data de sua publicacao.\n\nrio de janeiro, 23 de junho de 1944, 123º da independencia e 56º da republica.\n\ngetulio vargas.\n\ngustavo capanema.\n\n<<anexo>>clbr vol. 04 ano 1944 pag. 100 tabela.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15809-1944-06-09.md",
+      "pacote": "9061",
+      "sha256_md": "ce5a9e01d591425310153c7527547af55fd5fbd358c501bc56798059a2aa49d8",
+      "sha256_html": "f000399c9531041f7ddda86b8a0cd402c4ffba2569fa539a35fabd22943685fe",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1944 pags. 14 e 15 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "ribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, de conformidade com a relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista da fabrica de itajuba, da diretoria do material belico do exercito, do ministerio da guerra.\n\nart. 2º a despesa com a exe",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "a, de conformidade com a relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista da fabrica de itajuba, da diretoria do material belico do exercito, do ministerio da guerra.\n\nart. 2º a despesa com a execucao do disposto neste decreto, na importancia de cr$ 225.000,00 (duzentos e vinte e cinco mil cruzeiros) anuais, correra a conta da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 05 – mensalistas, anexo nº 17 – ministerio da guerra, do orcamento geral da uniao para 1944.\n\nart. 3º este decreto entrara em vigor na data de sua publicacao.\n\nrio de janeiro, 9 de junho de 1944, 123º da independencia e 56º da republica.\n\ngetulio vargas.\n\neurico g. dutra.\n\n<<anexo>>clbr vol. 04 ano 1944 pags. 14 e 15 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15813-1944-06-09.md",
+      "pacote": "9061",
+      "sha256_md": "7aa33535003388da5702665c2f2a16b1ca3aa48e44e9d705410d76ebc3569326",
+      "sha256_html": "2380e87ae3b4e9ef04c452d83cec3c44656b748d0601f08e17f8ac50477dec50",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1944 pags. 18 e 19 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "sando da atribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, conforme a relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista da fabrica de juiz de fora, da diretoria de material belico do exercito, do ministerio da guerra.\n\nart. 2º a despesa com ",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "me a relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista da fabrica de juiz de fora, da diretoria de material belico do exercito, do ministerio da guerra.\n\nart. 2º a despesa com a execucao do disposto neste decreto, na importancia de cr$ 180.000,00 (cento e oitenta mil cruzeiros) anuais, correra, no presente exercicio, a conta da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 05 – mensalistas, anexo nº 17 – ministerio da guerra, do orcamento geral da uniao para 1944.\n\nart. 3º este decreto entrara em vigor na data de sua publicacao.\n\nrio de janeiro, 9 de junho de 1944, 123º da independencia e 56º da republica.\n\ngetulio vargas.\n\neurico g. dutra.\n\n<<anexo>>clbr vol. 04 ano 1944 pags. 18 e 19 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15616-1944-05-19.md",
+      "pacote": "9061",
+      "sha256_md": "f1c67751c0f43490ae435c2723f660e5353bc7e23c66695c9452a16226dca607",
+      "sha256_html": "9fde5c43efc3406fde7df6cb92ffab631633d91201ea301efeebbc7b8589b130",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1944 pag. 342 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "sando da atribuicao que lhe confere o artigo 74 letra a, da constituicao,\n\ndecreta:\n\nart. 1º ficam criadas, na forma da relacao anexa, na tabela numerica ordinaria da extranumerario-mensalista do servico de meteorologia, do ministerio da agricultura, para o instituto regional de meteorologia de recife; as series",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "instituto regional de meteorologia de recife; as series funcionais de calculista, auxiliar de escritorio, praticante de escritorio e meteorologista.\n\nart. 2º a despesa com a execucao do disposto neste decreto correra, no presente exercicio, a conta de destaque da importancia de cr$ 174.000,00 (cento e setenta e quatro mil cruzeiros) da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 08 – novas admissoes etc., anexo nº 14 – ministerio da agricultura, do orcamento geral da uniao para 1944.\n\nart. 3º este decreto entrara em vigor na data de sua publicacao.\n\nrio de janeiro, 19 de maio de 1944, 123º da independencia e 56º da republica.\n\ngetulio vargas.\n\napolonio salles.\n\n<<anexo>>clbr vol. 04 ano 1944 pag. 342 tabela.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15610-1944-05-18.md",
+      "pacote": "9061",
+      "sha256_md": "1e226af74a2ee013861819835f8a093909b3552b196310adbdf77f2a6730ecaf",
+      "sha256_html": "3316001c2982969901c896c438499d685f7a0e167127128f9021ce969aa3836f",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1944 pag. 337 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "atribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica criada, de conformidade com a relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista do departamento de artilharia, do arsenal de marinha da ilha das cobras, do ministerio da marinha.\n\nart. 2º a despesa com",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "ca ordinaria de extranumerario-mensalista do departamento de artilharia, do arsenal de marinha da ilha das cobras, do ministerio da marinha.\n\nart. 2º a despesa com a execucao do disposto neste decreto correra, no presente exercicio, a conta do destaque da importancia de cr$ 280.800,00 (duzentos e oitenta mil e oitocentos cruzeiros), da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 08 – novas admissoes, etc., anexo nº 19 – ministerio da marinha, do orcamento geral da uniao para 1944.\n\nart. 3º este decreto entrara em vigor na data de sua publicacao.\n\nrio de janeiro, 18 de maio de 1944, 123º da independencia e 56º da republica.\n\ngetulio vargas\n\nhenrique a. guilhem.\n\n<<anexo>>clbr vol. 04 ano 1944 pag. 337 tabela.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15573-1944-05-15.md",
+      "pacote": "9061",
+      "sha256_md": "6900c5f0e83263f51e715f3ce04985fde09d78fbbee30183817eb06789058b6b",
+      "sha256_html": "39cf9befdfd03688ec7af109049ee55f4a254c73431f50bc714cb3ddcc24fe79",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1944 pags. 308 e 309 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "ribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, de conformidade com a relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista da rede de viacao cearense, do departamento nacional de estradas de ferro, do ministerio da viacao e obras publicas.\n\nart",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": " numerica ordinaria de extranumerario-mensalista da rede de viacao cearense, do departamento nacional de estradas de ferro, do ministerio da viacao e obras publicas.\n\nart. 2º a despesa com a execucao do disposto neste decreto, na importancia de cr$ 279.000,00 (duzentos e setenta e nove mil cruzeiros) anuais, correra a conta da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 05 – mensalistas, anexo nº 22 – ministerio da viacao e obras publicas, do orcamento geral da uniao para 1944.\n\nart. 3º este decreto entrara em vigor na data de sua publicacao.\n\nrio de janeiro, 15 de maio de 1944, 123º da independencia e 56º da republica.\n\ngetulio vargas.\n\njoao de mendonca lima.\n\n<<anexo>>clbr vol. 04 ano 1944 pags. 308 e 309 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15483-1944-05-08.md",
+      "pacote": "9061",
+      "sha256_md": "c8cdb3d1f78f3841c74fff471f0f759aa6ae2fb4abd4518351c6c32a333145b6",
+      "sha256_html": "f044138cecf2c25dd1c127a3ecf54b477eac6c41dff3f6747e178ffeea777ce5",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1944 pag. 235 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "ribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, de conformidade com a relacao anexa, a tabela numerica ordinaria de extranamerario-mensalista do colegio pedro ii – externato, do ministerio da educacao e saude.\n\nart. 2º a despesa com a execucao do disposto neste d",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "ca alterada, de conformidade com a relacao anexa, a tabela numerica ordinaria de extranamerario-mensalista do colegio pedro ii – externato, do ministerio da educacao e saude.\n\nart. 2º a despesa com a execucao do disposto neste decreto, na importancia de cr$ 37. 800,00 (trinta e sete mil e oitocentos cruzeiros) anuais, correra a conta da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 05 – mensalistas, do anexo nº 15 – ministerio da educacao e saude, do orcamento geral da uniao para 1944.\n\nart. 3º este decreto entrara em vigor na data de sua publicacao.\n\nrio de janeiro, 8 de maio de 1944, 123º da independencia e 56º da republica.\n\ngetulio vargas.\n\ngustavo capanema.\n\n<<anexo>>clbr vol. 04 ano 1944 pag. 235 tabela.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15487-1944-05-08.md",
+      "pacote": "9061",
+      "sha256_md": "5eb390256b5393179f176593b5f0e4b9b1b4f4edbb1e2522735b586eb2d0f9ab",
+      "sha256_html": "6f6f7391e0da2c2316e764dd33f8cecf721a3888c4560c96b389abf206306e76",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1944 pag. 244 e 245 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "ribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, de conformidade com a relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista do arsenal de guerra general camara, da diretoria do material belico do exercito, do ministerio da guerra.\n\nart. 2º a des",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "ade com a relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista do arsenal de guerra general camara, da diretoria do material belico do exercito, do ministerio da guerra.\n\nart. 2º a despesa com a execucao do disposto neste decreto, na importancia de cr$ 105.600,00 (cento e cinco mil e seiscentos cruzeiros) anuais, correra a conta da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 05 – mensalistas, anexo nº 17 – ministerio da guerra, do orcamento geral da uniao para 1944.\n\nart. 3º este decreto entrara em vigor na data de sua publicacao.\n\nrio de janeiro, 8 de maio de 1944, 123º da independencia e 56º da republica.\n\ngetulio vargas.\n\neurico g. dutra.\n\n<<anexo>>clbr vol. 04 ano 1944 pag. 244 e 245 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15462-1944-05-03.md",
+      "pacote": "9061",
+      "sha256_md": "20cc6db5b96aa2d87b582c6d224622108961e359106770d5d51277f7bf2d403f",
+      "sha256_html": "4164b1e3503bfebf2319774a3bc7be3cee20867fb80c4eb958180f6c7bfdbb31",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1944 pags. 200 a 203 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [],
+        "contexto": " aprovadas as anexas tabelas numericas de mensalistas e diaristas da administracao do porto de laguna.\n\nparagrafo unico. as referencias de salario do pessoal mensalista terao os valores constantes da escala-padrao de salarios que acompanha o decreto nº 13.090, de 4 de agosto de 1943.\n\nart. 2º fica instituido para os empregados da administracao do porto de laguna, em atividade ou aposentados, o regime de salario-familia que vigorar para os servidores civis da uniao.\n\nart. 3º o presente decreto vigorara a partir de 1º de janeiro de 1944, revogadas as disposicoes em contrario.\n\nrio de janeiro, 3 de maio de 1944, 123º da independencia e 56º da republica.\n\ngetulio vargas.\n\njoao de mendonca lima.\n\n<<anexo>>clbr vol. 04 ano 1944 pags. 200 a 203 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15465-1944-05-03.md",
+      "pacote": "9061",
+      "sha256_md": "1591bd89024ce6b0ddf8423bd55487f5cfb9c5e8995aa37dcef02fa5dd1f9ed6",
+      "sha256_html": "60c4f051d37bf41af5ce06a7d4a96b6de686ebeb5866375603f16f1c28b0cd14",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1944 pags. 206 a 212 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "a numerica ordinaria de extranumerario-mensalista da divisao do imposto de renda e delegacias, as funcoes constantes da relacao anexa.\n\nart. 2º a despesa com a execucao do disposto neste decreto correra, no atual exercicio, a conta do credito de cr$ l.963.800,00 (um milhao novecentos e sessenta e tres mil e oito",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "icam criadas, na tabela numerica ordinaria de extranumerario-mensalista da divisao do imposto de renda e delegacias, as funcoes constantes da relacao anexa.\n\nart. 2º a despesa com a execucao do disposto neste decreto correra, no atual exercicio, a conta do credito de cr$ l.963.800,00 (um milhao novecentos e sessenta e tres mil e oitocentos cruzeiros) suplementar a verba 1 – pessoal, consignaeao ii – pessoal extranumerario, subconsignacao 05 – mensalistas, aberto pelo decreto-lei nº 6.467, de 3 de maio de 1944.\n\nart. 3º este decreto entrara em vigor na data de sua publicacao.\n\nrio de janeiro, em 3 de maio de 1944, 123º da independencia e 56º da republica.\n\ngetulio vargas.\n\na. de souza costa.\n\n<<anexo>>clbr vol. 04 ano 1944 pags. 206 a 212 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15467-1944-05-03.md",
+      "pacote": "9061",
+      "sha256_md": "d5c124c853e8e050cb31c6dfbc6cf32103188bf06f0f98957a06a5648bbd18b9",
+      "sha256_html": "a06582639c0d0083df37c4063924d4dff1dbb3ee5671205f3678a8f09ea897f6",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1944 pags. 214 a 216 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "ribuicao que ihe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, de conformidade com a relacao anexa, a tabela numerica ordinaria de extranumerario-mensalista do departamento federal de compras, do ministerio da fazenda.\n\nart. 2º fica transferida, da tabela a que se refere o arti",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "ificio da fazenda, da diretoria geral da fazenda nacional, do ministerio da fazenda, uma funcao de telefonista, referencia viii, que continuara exercida pelo atual ocupante.\n\nart. 3º a despesa com a execucao do disposto no artigo 1º deste decreto, na importancia de cr$ 129. 000,00 (cento e vinte e nove mil cruzeiros) anuais, correra a conta da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 05 – mensalista, anexo nº 16 – ministerio da fazenda, do orcamento geral da uniao para 1944.\n\nart. 4º este decreto entra em vigor a partir de 1 de janeiro de 1944.\n\nrio de janeiro, 3 de maio de 1944, 123º da independencia e 56º da republica.\n\ngetulio vargas.\n\na. de souza costa.\n\n<<anexo>>clbr vol. 04 ano 1944 pags. 214 a 216 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15469-1944-05-03.md",
+      "pacote": "9061",
+      "sha256_md": "ba1c2adaa4203ea4177c155941dc1ecb475733bba1f23a414ef00c3dfede1e7d",
+      "sha256_html": "638492131b3b1c05683c5fff1c2d2483c158225df3725b7f4ca7e1f3352f6c93",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1944 pags. 220 a 222 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "cao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º ficam transferidas, de conformidade com a relacao anexa, da tabela numerica ordinaria de extranumerario-mensalista da divisao do orcamento para a da divisao do material, ambas do departamento de administracao do ministerio da agricultu",
+            "vinculo_externo_explicito": false
+          },
+          {
+            "remissao": "relacao anexa",
+            "contexto": "auxiliar de escritorio, sendo uma referencia x e uma referencia vii.\n\nart. 2º ficam transferidas, de conformidade com a relacao anexa, da tabela numerica suplementar de extranumerario-mensalista da divisao do orcamento para a da divisao do material, ambas do departamento de administracao, do ministerio da agricu",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "rio, sendo uma referencia x e uma referencia vii.\n\nart. 2º ficam transferidas, de conformidade com a relacao anexa, da tabela numerica suplementar de extranumerario-mensalista da divisao do orcamento para a da divisao do material, ambas do departamento de administracao, do ministerio da agricultura, duas funcoes de escriturario, sendo uma referencia xiv e uma referencia xiii.\n\nart. 3º as funcoes a que se referem os artigos anteriores continuarao exercidas pelos atuais ocupantes, constantes da relacao nominal anexa.\n\nart. 4º este decreto entrara em vigor na data de sua publicacao.\n\nrio de janeiro, 3 de maio de 1944, 123º da independencia e 56º da republica.\n\ngetulio vargas.\n\napoionio salies.\n\n<<anexo>>clbr vol. 04 ano 1944 pags. 220 a 222 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15494-1944-05-09.md",
+      "pacote": "9061",
+      "sha256_md": "3574ea8a849e65281fd78ef36f5a7322e0cff96cd5cb175f706bb1a2a4b4db29",
+      "sha256_html": "f52640b359a5ce4c767f5b767c2caaf0501806904119c5f3ae693f2b712ca5fb",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1944 pag. 252 a 260 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [],
+        "contexto": ".............................................................. 3.100,00\n\n51.............................................................. ................................................................................. 3.200,00\n\n52............................................................. .................................................................................. 3.300,00\n\n53...................... .................................... .................................................................................... 3.400,00\n\n54............................................................. .................................................................................. 3.500,00\n\n<<anexo>>clbr vol. 04 ano 1944 pag. 252 a 260 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15139-1944-03-27.md",
+      "pacote": "9061",
+      "sha256_md": "1334a48c0c967237df2fa98d765946fc1687a344d0cc1a716938a070f917e42c",
+      "sha256_html": "0ebcd85f2d364030cda10a3f233cb08f2ead4a6509e5b811cd954a037a6e4346",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 02 ano 1944 pags. 580 a 582 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "ervico nacional de malaria, do departamento nacional de saude, do ministerio da educacao e saude, de conformidade com a relacao anexa, as seguintes funcoes:\n\n17 - amanuense auxiliar - referencia xiii.\n\n1 - amanuense auxiliar - referencia xiv.\n\n6 - amanuense auxiliar - referencia xv.\n\n21 - auxiliar de escritorio ",
+            "vinculo_externo_explicito": false
+          },
+          {
+            "remissao": "relacao anexa",
+            "contexto": "ervico nacional de malaria, do departamento nacional de saude, do ministerio da educacao e saude, de conformidade com a relacao anexa, as seguintes funcoes :\n\n1 - desenhista - referencia xii.\n\n1 - desenhista - referencia xiii.\n\n2 - desenhista - referencia xv.\n\n2 - tecnico de laboratorio - referencia xviii.\n\n4 - ",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "- topografo - referencia xviii.\n\n1 - topografo - referencia xxi.\n\n2 - topografo - referencia xxiv.\n\nart. 3º as funcoes a que se referem os artigos anteriores sao exercidas pelos servidores constantes da relacao nominal anexa, a partir de 1 de janeiro de 1944.\n\nart. 4º a despesa com a execucao deste decreto correra a conta da verba i - pessoal, consignacao ii - pessoal extranumerario, subconsignacao 05 - mensalistas, do vigente orcamento do ministerio da educacao e saude.\n\nart. 5º este decreto entrara em vigor na data de sua publicacao, revogadas as disposicoes em contrario.\n\nrio de janeiro, em 27 de marco de 1944, 123º da independencia e 56º da republica.\n\ngetulio vargas.\n\ngustavo capanema.\n\n<<anexo>>clbr vol. 02 ano 1944 pags. 580 a 582 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-14608-1944-01-24.md",
+      "pacote": "9061",
+      "sha256_md": "46f1c8a937d50e022bd9a08110cb986625f42e0be1dd4f205641f67a8d22fb02",
+      "sha256_html": "950d41e83bf3b0fa7a03e937dd67f4d152a9f482443ff4eb6123260f0c66b378",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 02 ano 1944 pag. 129 a 135 tabelas.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacoes anexas",
+            "contexto": "ituicao,\n\ndecreta:\n\nart. 1º ficam transferidas, no ministerio do trabalho, industria e comercio, de conformidade com as relacoes anexas, da tabela numerica de extranumerario mensalista do departamento nacional da propriedade industrial, para a do conselho de recursos da propriedade lndustrial, uma funcao de auxili",
+            "vinculo_externo_explicito": false
+          },
+          {
+            "remissao": "relacoes anexos",
+            "contexto": "o de tecnico de laboratorio, referencia xvi, que continuara preenchida pelo respectivo ocupante, de conformidade com as relacoes anexos.\n\nparagrafo unico. a despesa com a execucao do disposto neste artigo, na importancia de cr$ 14.400,00 (quatorze mil e quatrocentos cruzeiros) anuais, correra a conta da verba 1 – ",
+            "vinculo_externo_explicito": false
+          },
+          {
+            "remissao": "relacao anexa",
+            "contexto": "tranumerario mensalista do departamento de justica do trabalho, do conselho nacional do trabalho, de conformidade com a relacao anexa, duas funcoes de praticante de escritorio, referencia vi; na tabela numerica de extranumerario mensalista do instituto nacional de tecnologia, duas funcoes de tecnico de laborator",
+            "vinculo_externo_explicito": false
+          },
+          {
+            "remissao": "relacoes anexas",
+            "contexto": "ia viii.\n\nart. 4º ficam criadas, nas respectivas tabelas numericas de extranumerario mensalista, de conformidade com as relacoes anexas, as seguintes funcoes:\n\ndepartamento nacional de industria e comercio\n\n1 – fotografo auxiliar, referencia x\n\n8 – auxiliar de escritorio, referencia vii\n\n4 – auxiliar de escritorio",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "liar de escritorio, referencia x\n\n1 – fotografo auxiliar, referencia x\n\nart. 5º despesa no presente exercicio, com a execucao do disposto nos arts. 3º e 4º deste decreto, na importancia de cr$ 421.200,00 (quatrocentos e vinte e um mil e duzentos cruzeiros) anuais, correra a conta da verba 1 – pessoal, consignacao ii – pessoal extranumerario, subconsignacao 05 – mensalista, do orcamento do ministerio do trabalho, industria e comercio para 1944.\n\nart. 6º este decreto entrara em vigor na data de sua publicacao, revogadas as disposicoes em contrario.\n\nrio de janeiro, 24 de janeiro de 1944, 123º da independencia e 56º da republica.\n\ngetulio vargas.\n\na. de sousa costa.\n\nalexandre marcondes filho.\n\n<<anexo>>clbr vol. 02 ano 1944 pag. 129 a 135 tabelas.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1943/dec-13841-1943-11-01.md",
+      "pacote": "3608",
+      "sha256_md": "7c1341e784f5d98c02ec0d2705cf95952266e75188dde23dd6d1214ccbe09486",
+      "sha256_html": "5c90ad9f087cafc1502474e65fe91db8ea3b4b9239ac06bd2d29e744d1b19f38",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1943 pag. 197 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "ribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, de conformidade com a relacao anexa, a tabela numerica de mensalista da escola militar, da inspetoria geral do ensino, do ministerio da guerra.\n\nart. 2º a despesa, no corrente exercicio, com a execucao deste decreto",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "presidente da republica, usando da atribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, de conformidade com a relacao anexa, a tabela numerica de mensalista da escola militar, da inspetoria geral do ensino, do ministerio da guerra.\n\nart. 2º a despesa, no corrente exercicio, com a execucao deste decreto, na importancia de cr$ 3.000,00 (tres mil cruzeiros) anuais, correra a conta das respectivas rendas, na forma do decreto‑lei n. 3.490, de 12 de agosto de 1941.\n\nart. 3º o presente decreto entrara em vigor na data da sua publicacao.\n\nrio de janeiro, 1 de novembro de 1943, 122º da independencia e 55º da republica.\n\ngetulio vargas.\n\neurico g. dutra.\n\n<<anexo>>clbr vol. 08 ano 1943 pag. 197 tabela.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1943/dec-13845-1943-11-01.md",
+      "pacote": "3608",
+      "sha256_md": "84a28dfcdd3f4ae81932caa534dfb2212c7dcef1b0a82b903a0fc3568d33fb5d",
+      "sha256_html": "9b9b15efaac22c11ae4c4f89b72efc488e444ee9a5199be98d505562d27f6924",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1943 pag. 213 figura.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "ando da atribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, na forma da relacao anexa, a tabela numerica do pessoal mensalista do estabelecimento de subsistencia militar do rio, da subdiretoria de subsistencia do exercito, da diretoria de intendencia do exercito, d",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, na forma da relacao anexa, a tabela numerica do pessoal mensalista do estabelecimento de subsistencia militar do rio, da subdiretoria de subsistencia do exercito, da diretoria de intendencia do exercito, do ministerio da guerra, correndo a despesa, na importancia de cr$ 19.200,00 (dezenove mil e duzentos cruzeiros) anuais, a conta de suas proprias rendas, de acordo com o art. 1º do decreto‑lei n. 3.490, de 12 de agosto de 1941.\n\nart. 2º este decreto entrara em vigor na data de sua publicacao.\n\nrio de janeiro, 1 de novembro de 1943, 122º da independencia e 55º da republica.\n\ngetulio vargas.\n\neurico g. dutra.\n\n<<anexo>>clbr vol. 08 ano 1943 pag. 213 figura.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1943/dec-13744-1943-10-26.md",
+      "pacote": "3608",
+      "sha256_md": "80609afbb133452de54398a97039d81679efa037875e5d77a6879c74229845a6",
+      "sha256_html": "bf986e2a2431b31982b5b6d5175f3453616adeda81b706d53828ba5b17e9b6e6",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1943 pag. 136 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "a atribuicao que lhe confere o art. 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica criada, de conformidade com a relacao anexa, a tabela numerica de extranumerario‑mensalista da delegacia fiscal do tesouro nacional no rio grande do norte, do ministerio da fazenda.\n\nart. 2º a despesa, no presente exercicio",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "\n\nart. 2º a despesa, no presente exercicio, com a execucao deste decreto, na importancia de cr$ 18.600,00 (dezoito mil e seiscentos cruzeiros) anuais, correra a conta de destaque da verba i – pessoal,  consignacao ii – pessoal extranumerario, subconsignacao 08 – novas admissoes, etc., do vigente orcamento daquele ministerio.\n\nart. 3º o presente decreto entrara em vigor na data da sua publicacao.\n\nrio de janeiro, 26 de outubro de 1943, 122º da independencia e 55º da republica.\n\ngetulio vargas.\n<ol type=\"a\" style=\"margin:0pt; padding-left:0pt\"><li class=\"assinatura2\" style=\"margin-top:6pt; margin-left:331.2pt; text-indent:0pt; text-align:justify; padding-left:3.55pt\">de sousa costa.</li></ol>\n<<anexo>>clbr vol. 08 ano 1943 pag. 136 tabela.\n\n \n\n\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1943/dec-13743-1943-10-26.md",
+      "pacote": "3608",
+      "sha256_md": "165cd61d3e2189ed72eda740796207ad36488cfe00d6d098827055d75717fc31",
+      "sha256_html": "b1cf382ee54f2adfb10b8162345fa7eb719ceecfbea7cebddd5ac9f3d8b00eac",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1943 pags. 131, 132, 133, 134 e 135 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacoes anexas",
+            "contexto": "ibuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º ficam criadas, de conformidade com as relacoes anexas, as tabelas numericas de extranumerario mensalista das juntas de conciliacao e julgamento de petropolis e campos – 1ª regiao; de santos, sorocaba, campinas e jundiai – 2ª regiao; ",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "e confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º ficam criadas, de conformidade com as relacoes anexas, as tabelas numericas de extranumerario mensalista das juntas de conciliacao e julgamento de petropolis e campos – 1ª regiao; de santos, sorocaba, campinas e jundiai – 2ª regiao; juiz de fora – 3ª regiao; e de rio grande – 4ª regiao, dos conselhos regionais do trabalho, da justica do trabalho, do ministerio do trabalho, industria e comercio.\n\nart. 2º este decreto entrara em vigor no dia 1 de janeiro de 1944, revogadas as disposicoes em contrario.\n\nrio de janeiro, 26 de outubro de 1943, 122º da independencia e 55º da republica.\n\ngetulio vargas.\n\nalexandre marcondes filho.\n\n<<anexo>>clbr vol. 08 ano 1943 pags. 131, 132, 133, 134 e 135 tabela.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1943/dec-13748-1943-10-26.md",
+      "pacote": "3608",
+      "sha256_md": "4e93d7c7b65c8c43749f5e926a50d96e2c4059fc1980f332e30166ec40088da7",
+      "sha256_html": "a8347d5d9c74d4996aa9af6b1976c6e59f5e5c915d347351b7a49531aa6f1554",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1943 pags. 139 e 140 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "ribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, de conformidade com a relacao anexa, a tabela numerica de extranumerario‑mensalista da divisao de inspecao de produtos de origem animal, do departamento nacional da producao animal, do ministerio da agricultura.\n\nar",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "tera, sem aumento de despesa, a tabela numerica de extranumerario-mensalista da divisao de inspecao de produtos de origem animal\n\no presidente da republica, usando da atribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, de conformidade com a relacao anexa, a tabela numerica de extranumerario‑mensalista da divisao de inspecao de produtos de origem animal, do departamento nacional da producao animal, do ministerio da agricultura.\n\nart. 2º este decreto entrara em vigor na data de sua publicacao, revogadas as disposicoes em contrario.\n\nrio de janeiro, 26 de outubro de 1943, 122º da independencia e 55º da republica.\n\ngetulio vargas.\n\napolonio sales.\n\n<<anexo>>clbr vol. 08 ano 1943 pags. 139 e 140 tabela.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1943/dec-13707-1943-10-25.md",
+      "pacote": "3608",
+      "sha256_md": "d37d14200d8c4cb67b7f90c480547c9f1bede54fa901863a36ffd0c92944bf80",
+      "sha256_html": "27a07646f32dbcd252cb73d8f7a05e2a86624590cbea00b2a93cbbf74373bb82",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1943 pag. 117 tabela",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "relacao anexa",
+            "contexto": "ribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, de conformidade com a relacao anexa, a tabela numerica de extranumerario‑mensalista do estado maior da aeronautica, do ministerio da aeronautica.\n\nart. 2º este decreto entrara em vigor na data de sua publicacao.\n\nri",
+            "vinculo_externo_explicito": false
+          }
+        ],
+        "contexto": "\n decreto nº 13.707 de 25/10/1943\n\ndecreto n. 13.707 – de 25 de outubro de 1943\n\naltera a tabela numerica de extranumerario‑mensalista do estado maior da aeronautica\n\no presidente da republica, usando da atribuicao que lhe confere o artigo 74, letra a, da constituicao,\n\ndecreta:\n\nart. 1º fica alterada, de conformidade com a relacao anexa, a tabela numerica de extranumerario‑mensalista do estado maior da aeronautica, do ministerio da aeronautica.\n\nart. 2º este decreto entrara em vigor na data de sua publicacao.\n\nrio de janeiro, 25 de outubro de 1943, 122º da independencia e 55º da republica.\n\ngetulio vargas.\n\njoaquim pedro salgado filho.\n\n<<anexo>>clbr vol. 08 ano 1943 pag. 117 tabela\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1943/dec-12563-1943-06-10.md",
+      "pacote": "3608",
+      "sha256_md": "e7a517c5a3bbe4c68d418395030e1b0425dc939f3cfc2adb339a9705eb9ab479",
+      "sha256_html": "0830599525fe4de20eb7630e36a400a1b9317352e2d63371415b5d0ea41ad0dc",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 04 ano 1943 pags. 454 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [],
+        "contexto": "eto nº 12.563 de 10/06/1943\n\ndecreto n. 12.563 – de 10 de junho de 1943\n\nretifica a tabela de representacao aprovada pelo decreto n. 11.452, de 2 de fevereiro de 1943\n\no presidente da republica, usando da atribuicao que lhe confere o artigo 74 da constituicao e tendo em vista o disposto no § 2º do artigo 26 do decreto-lei n. 791, de 14 de outubro de 1938,\n\ndecreta:\n\nart. 1º a partir de primeiro de junho do corrente ano, a tabela aprovada pelo decreto n. 11.452, de 2 de fevereiro de 1943, fica substituida pela que a este acompanha.\n\nart. 2º revogam-se as disposicoes em contrario.\n\nrio de janeiro, 10 de junho de 1943, 122º da independencia e 55º da republica.\n\ngetulio vargas.\n\nosvaldo aranha.\n\n<<anexo>>clbr vol. 04 ano 1943 pags. 454 tabela.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1943/dec-11452-1943-02-02.md",
+      "pacote": "3608",
+      "sha256_md": "73917461f6f3c9add30f38cb08bf509a27968ee2cac4b22c75d44d2143c136d4",
+      "sha256_html": "6ab7aa492ff9139e6caa602e92886a56a02782f2811677dfafad572d3d4b54e3",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 02 ano 1943 pag. 242 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [],
+        "contexto": "dente da republica, usando da atribuicao que lhe confere o artigo 74 da constituicao e tendo em vista o disposto no § 2º do art. 26 do decreto-lei n. 791, de 14 de outubro de 1938,\n\ndecreta:\n\nart. 1º fica aprovada, para o ano de 1943, a anexa tabela de gratificacao, a titulo de representacao, do pessoal em exercicio no exterior, em funcoes diplomaticas ou consulares, organizada pelo ministerio das relacoes exteriores.\n\nart. 2º a tabela de que trata o artigo precedente entrara em vigor a partir de primeiro de janeiro de 1943.\n\nart. 3º revogam-se as disposicoes em contrario.\n\nrio de janeiro, em 2 de fevereiro de 1943, 122º da independencia e 55º da republica.\n\ngetulio vargas.\n\noswaldo aranha.\n\n<<anexo>>clbr vol. 02 ano 1943 pag. 242 tabela.\n"
+      }
+    },
+    {
+      "path": "federal/decretos/1943/dec-11451-1943-02-01.md",
+      "pacote": "3608",
+      "sha256_md": "81a6242ef22bfc622b02d162a0c687394b7ac8ca5d9b5997a13f0219a8939284",
+      "sha256_html": "4b59e536df370135714ee08cf6fc9c1445d4bfc6a22d793838109b88031de4f3",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clbr vol. 02 ano 1943 pag. 241 tabela.",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [],
+        "contexto": "te da tropa do quartel-general, diretamente subordinado ao chefe do estado-maior, tem atribuicoes analogas as dos comandantes de sub-unidades, constantes dos regulamentos em vigor.\n\n capitulo xvii — dos servicos auxiliares dos quarteis-generais\n\nart. 86 o pessoal dos servicos do quartel-general sera fixado nos regulamentos respectivos.\n\nart. 87 o numero de pracas variara com as necessidades dos servicos, e sera fixado nos respectivos quadros de efetivos.\n\nart. 88 revoga este regulamento as disposicoes dos decretos numeros 15.065, de 24 de outubro de 1921 e 3.506, de 28 de dezembro de 1939, bem como todas as disposicoes em contrario.\n\nrio de janeiro, 1 de fevereiro de 1943. – eurico g. dutra\n\n<<anexo>>clbr vol. 02 ano 1943 pag. 241 tabela.\n\nobservacoes – (1) tem s mais a seccao topografica regional.\n\n(2) o adjunto da 3º seccao com o curso de e. art. costa.\n\n(3) as bdas.i e bdas. mistas teem apenas um sdjunto e as bdas. de c. apenas um assistente.\n\n(4) disporao ainda os q. g. r. do pessoal constante de coluna \"observacoes'', o qual nao pertence ao quadro fixado pelo decreto-lei n. 5.190, de 14-1-1943.\n\nnota – o servico de correio sera dirigido, de preferencia, por um tenente da reserva ou convocado.\n\n– o presente quadro corresponde as necessidades stuais, podendo ser modificado anualmente, desde que o desenvolvimento dos orgaos o impuser.\n\n<<anexo>>clbr vol. 02 ano 1943 pag. 242 tabela.\n\nnotas – o efetivo previsto e o constant"
+      }
+    },
+    {
+      "path": "federal/decretos/1942/dec-11101-1942-12-11.md",
+      "pacote": "3608",
+      "sha256_md": "cd376db8b848032289473669bd3947bd532da40ee11ec1cdb3f1c5051ff0b215",
+      "sha256_html": "f901738bfe64ab1b9c0d1480ea30f00f470f3a35aada0aa3893f7e98e8589940",
+      "guard56": null,
+      "guard_proposto": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>> clbr vol. 08 ano 1942 pag. 488. mapa 1. (divisao d.a.s.p.)",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [],
+        "contexto": ", ou tratar, direta ou indiretamente, ou por qualquer meio ou modo, de assunto de interesse proprio ou de terceiro, pendente de estudo, parecer ou decisao do d. a. s. p.\n\nart. 95. as divisoes, o s. ob. e o s. d. promoverao reunioes internas com o objetivo de proporcionar aos seus servidores o conhecimento e exame dos assuntos de maior relevancia que tiverem transitado pelas diversas seccoes bem como o debate de questoes de ordem doutrinaria, cujo esclarecimento interessar a respectiva divisao ou servico.\n\nparagrafo unico. servidores de outro setor da administracao publica poderao participar das reunioes, mediante autorizacao do respectivo diretor.\n\nrio de janeiro, em 11 de dezembro de 1942.\n\n<<anexo>> clbr vol. 08 ano 1942 pag. 488. mapa 1. (divisao d.a.s.p.)\n"
+      }
+    }
+  ],
+  "inventario65_sem_alerta": [],
+  "alertas_fora_inventario65": [],
+  "limites": "Replay somente leitura de 12.669 corpos congelados. Nenhuma máscara aplicada. Alertas exigem revisão individual; inclui deliberadamente o controle 18.735, cuja relação pode já estar reproduzida."
+}

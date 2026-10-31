@@ -1,0 +1,46 @@
+{
+  "documentos": [
+    {
+      "path": "federal/resolucoes-senado/1966/rsf-2-1966-02-09.md",
+      "sha256_arquivo": "8f80803f1f7132089a94ec2bf469f80737aae899a8316468839c3f53bac09b4b",
+      "sha256_texto": "18095b3c0e70ad478678c12aa54232b3d6f5c63e85ef9d501b9209f0bc60acd5",
+      "urn": "urn:lex:br:senado.federal:resolucao:1966-02-09;2",
+      "fonte": "https://www.senado.leg.br/publicacoes/anais/pdf/Anais_Republica/1966/1966%20Livro%201.pdf#page=122",
+      "sha256_pdf_fonte": "d5e1da56ed52a54aee77177126cbee9c26c3644422269f5ab9f2e13166dedbf1"
+    }
+  ],
+  "scripts_publicar": [
+    {
+      "path": "scripts/baixar_rsf_anais.py",
+      "sha256_arquivo": "704211e5b4195f80278258172d40356fcfa6ed0736f25891ecfa30d44a0aa81c"
+    }
+  ],
+  "ledgers_publicar": [
+    {
+      "path": "federal/_recuperacoes_rsf_anais.jsonl",
+      "sha256_arquivo": "3b231fa1a3db2e648fd805060af66d711dc45ae4128caefc6de0d16195766ed4"
+    }
+  ],
+  "prova_cache": {
+    "path": "federal/_fonte/auditorias/rsf2-1966-anais-validacao-20261016.json",
+    "sha256_arquivo": "5c07ade1e05178bca1b74d072d7a2e8a6081fc57944b5a0a9701aea5cb4d100c"
+  },
+  "divergencia_preservada": {
+    "fonte": "https://www.senado.leg.br/publicacoes/anais/pdf/Resolucoes/1960a1967.pdf#page=333",
+    "sha256_pdf": "dbbb869b211e2fe9874c10c3bcf5f14df42da95f0c2bf8dce55e4fd32a9f0195",
+    "datas_fecho": [
+      "1965-02-09"
+    ],
+    "cache_pdf": "/Volumes/ExternalSSD/GitHub/constituicao/federal/_fonte/senado-coletaneas/1960a1967.pdf.gz",
+    "nenhuma_alteracao": true
+  },
+  "validacao": {
+    "auditar_validar_erros": 0,
+    "fonte_reextraida_identica": true,
+    "inspecao_visual_pdf": true,
+    "perda_numerica": 0,
+    "ast": true
+  },
+  "comando_reproduzir": "rtk proxy python3 -I scripts/baixar_rsf_anais.py \"urn:lex:br:senado.federal:resolucao:1966-02-09;2\" \"https://www.senado.leg.br/publicacoes/anais/pdf/Anais_Republica/1966/1966%20Livro%201.pdf\" 122 --auditar",
+  "separado_do_lote10423": true
+}

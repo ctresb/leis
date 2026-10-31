@@ -1,0 +1,39 @@
+{
+  "escopo": "Proposta privada; não aplicada ao guard vivo, canônicos ou máscaras. Ponteiro isolado abre revisão documental, não ausência automaticamente demonstrada. Nenhuma exceção por número de decreto.",
+  "sha256_guard56": "ec4428ce7d97f00f709d526f74cd2ba2c3ab01e78b3529fb8c3783483cf3a5fe",
+  "sha256_testes56": "6c1e4b101661130c2f8fdc5935da210b165d9f4861fbf5da973ca4a6573a8289",
+  "arquivos": [
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_001/testes.log",
+      "sha256": "0022ee81eaae586301bd919619db568337b011018f4f635ccdae17bcdd457edb"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_001/testes-v1.log",
+      "sha256": "48bc7b4ea5c4e40d7458b293b3ad208e95734f4e60a266fe232c87052232f391"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_001/testes-v2.log",
+      "sha256": "564dfe23855f0ee0427dbc495773ceed9697768bfe5d2b413f223ee985bd08ab"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_001/guard-bibliografia.patch",
+      "sha256": "3b69fdc31939449edd95bcb99451fc2c6a8d57c650f13fe6d151b67e148a011a"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_001/test_integridade_anexos_decreto.py",
+      "sha256": "b7dcf6c84f4b8b86878e746ea8d028cbc7d53220ba0c07b68f5d5906a1cbd83d"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_001/recibo.json",
+      "sha256": "ccca04113035a864512c8fa953e7e1c2d8788ec2cd58153e4ec3885720de130f"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_001/integridade_anexos_decreto.py",
+      "sha256": "23d1f1bd17bc4145575c62689ee587746602ba42264d55bea1c0c44e893699a4"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_001/guard56-preimagem.py.txt",
+      "sha256": "ec4428ce7d97f00f709d526f74cd2ba2c3ab01e78b3529fb8c3783483cf3a5fe"
+    }
+  ]
+}

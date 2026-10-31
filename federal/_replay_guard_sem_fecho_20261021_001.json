@@ -1,0 +1,37 @@
+{
+  "criado_em": "2026-10-21T04:20:47.122120",
+  "escopo": "Impacto dirigido do patch de placeholder sem fecho sobre os canônicos encontrados por busca textual de placeholders literais em federal/decretos. Não refaz integralidade geral nem certifica outras remissões.",
+  "selecao": {
+    "regex": "&lt;&lt;(anexo|tabela|quadro)|<<(anexo|tabela|quadro), ignorando caixa",
+    "paths": 9263,
+    "sha256_lista_paths": "fdc50e5117c24b9fa2021ae12de13f8aed5ffa24f7edc3edd73aa5b91dc181cb"
+  },
+  "codigo_anterior_sha256": "c862389d3ad6544c06ccabed4cda8b13f7ff9fa010692e88d789e86e5207edc7",
+  "codigo_novo_sha256": "747eb503621bdf9dce17424de973971fa21f650d437e5f4a017e8302a537b5fa",
+  "resumo": {
+    "candidatos": 9263,
+    "deltas_confirmados_com_html": 1
+  },
+  "delta": [
+    {
+      "path": "federal/decretos/1953/dec-34126-1953-10-08.md",
+      "sha256_md": "44dc5bd1255b1ed90055e6af4b0d0779b275af14c50cd91454530b3af2e4a326",
+      "antes_retido": false,
+      "depois_retido": true,
+      "sha256_fonte_html": "9ecdd465652a5caafd70b5219b37aad121caa1e3ee9396c4d11e4ea71263eeba",
+      "delta_confirmado_com_html": true,
+      "evidencia": {
+        "motivo": "Aprovação própria com placeholder terminal e nenhuma reprodução do suplemento; a indicação bibliográfica não é o conteúdo do anexo, mesmo sem fecho reconhecível.",
+        "remissao": "art. 1º fica aprovada, na forma da relacao anexa, a tabela numerica especial de extranumerario-mensalista (artigo ( ilegivel ) da lei nº 1,765, de 1952), do 20º batalhao de cacadores, do ministerio da guerra.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1953 pag. 250 tabela.\n",
+        "fecho": null,
+        "estado": "ausencia_na_transcricao"
+      }
+    }
+  ],
+  "conclusao": "O único delta é DEC 34.126/1953, já retido no lote 010; nenhum novo caminho anterior identificado neste recorte.",
+  "receipts": {
+    "path": "federal/_receipts_replay_guard_sem_fecho_20261021_001.jsonl.gz",
+    "sha256": "fcc6cc6c87cf7532090819b31ad899c7c108d38fe9e989b5bec12a2396e008aa"
+  }
+}

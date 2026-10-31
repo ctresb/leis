@@ -1,0 +1,67 @@
+{
+  "escopo": "Retenções individuais de fontes parciais no lote 022; não altera canônicos, snapshots ou registro e não afirma inexistência da norma em outra edição.",
+  "registros": [
+    {
+      "path": "federal/decretos/1942/dec-10472-1942-09-22.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1942-09-22;10472",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1942-09-22;10472",
+      "url_texto": "https://normas.leg.br/api/binario/5ad93d95-9cc0-4070-9a77-06b31d409e3b/texto",
+      "sha256": "751505d4ccdf1cba2a6e97fd07ad28ff55bd2dc47858b46d8a7c0ce99c405a84",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "a74dc07f20f71812140a29652de59ed1cc9b6fd4ff63f88835e07bf549482031",
+      "sha256_metadados": "84fdfd43c9d76c0917d25441723000fe0ab48598e48c6009f5cbe1177810ffe7",
+      "captura_metadados": "federal/_fonte/metadados-normas/b09c86febf15296386da3226bf18832763afca0ced2c83f3a4a7f5288d161083/84fdfd43c9d76c0917d25441723000fe0ab48598e48c6009f5cbe1177810ffe7.json.gz",
+      "epigrafe": {
+        "numero": "10472",
+        "data": "1942-09-22",
+        "epigrafe": "DECRETO N. 10.472 – DE 22 DE SETEMBRO DE 1942"
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "lote": 22,
+      "status": "retido_fragmento_ou_composicao_inconclusiva",
+      "motivo": "Fonte traz somente o fragmento do Art. 14 do regulamento da Escola de Enfermeiros Alfredo Pinto, entre pontilhados, sem comando presidencial ou corpo integral do regulamento. Epígrafe/índice/API concordantes não transformam o fragmento em íntegra."
+    },
+    {
+      "path": "federal/decretos/1942/dec-8673-1942-02-03.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1942-02-03;8673",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1942-02-03;8673",
+      "url_texto": "https://normas.leg.br/api/binario/429aa211-aee7-4e8c-a7e6-8b8bbf549a10/texto",
+      "sha256": "504cdf24abcdf680d5c63ff9bfa4afb1159d5ffbfed0879d795c418436ad6cfc",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "1a1421ff1cf859f20656375f097a0de423d982b219e62ca58c0df0498e5b3918",
+      "sha256_metadados": "065caaef5e54468e6a0bd83d697671dd05d7b00c11dd5fe6fa2a6eaf6189e7ec",
+      "captura_metadados": "federal/_fonte/metadados-normas/4391b63db4da3187aadcad6179474be1983d0f43079482429ca47c39b0fccd02/065caaef5e54468e6a0bd83d697671dd05d7b00c11dd5fe6fa2a6eaf6189e7ec.json.gz",
+      "epigrafe": {
+        "numero": "8673",
+        "data": "1942-02-03",
+        "epigrafe": "DECRETO N. 8.673 – DE 3 DE FEVEREIRO DE 1942"
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "lote": 22,
+      "status": "retido_fragmento_ou_composicao_inconclusiva",
+      "motivo": "O Art. 15 enumera cursos de mineração e metalurgia, mas o texto salta do Art. 25 (química industrial) para o Art. 28 (desenho técnico), inserindo apenas parágrafos de admissão/diploma de metalurgia sem seu caput ou disciplinas. Não há corpo correspondente do curso de mineração; também Art. 33 aparece após 36. Retenção por lacuna/composição contextual, apoiada nos objetos prometidos, além da numeração, sem reordenar ou inventar conteúdo."
+    }
+  ]
+}

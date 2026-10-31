@@ -1,0 +1,13 @@
+{
+  "escopo": "Proposta privada após guard35; não altera os dois scripts vivos nem seus snapshots. ROOT decide integração posterior.",
+  "sha_guard35": "ea697557b8f04a2ae8e89bffce962fe1ab2ea38c775d2fbaa1143dc1bb512e5e",
+  "sha_testes35": "2be3c37fc90b90f116702fd5cbb957fa9531f271febb98fe93d650c8d64f7726",
+  "sha_guard_candidato": "d5f0c6f54abc9e175c7350e0a5438adb29207a7424bc4a377d0f581e8178aa6e",
+  "sha_testes_candidatos": "1d972871c0061b93d5fc8b7603b2ed065bb81eff4d7e3f92cc8299811f7939e6",
+  "resultado": {
+    "testes": 46,
+    "falhas": 0,
+    "erros": 0
+  },
+  "limite": "Novos gates retêm para revisão documental; não aplicam máscara em publicados nem afirmam ausência em todas as edições. Referência gráfica própria exige objeto, características e desenhos anexos; definição de rótulo, comandos legítimos sobre ilegibilidade, remissão externa e alteração citada têm controles."
+}

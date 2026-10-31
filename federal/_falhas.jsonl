@@ -8251,3 +8251,60 @@
 {"id": "590567", "norma": "DEC-8001-2013-05-10", "urn": "urn:lex:br:federal:decreto:2013-05-10;8001", "url": "https://normas.leg.br/api/public/binario/ecd25ec9-dee0-4b3e-9ce1-bb663e237778/texto", "motivo": "corpo vazio ou contém NUL; fonte preservada", "status": "sem_texto"}
 {"id": "586876", "norma": "DEC-7797-2012-08-30", "urn": "urn:lex:br:federal:decreto:2012-08-30;7797", "url": "https://normas.leg.br/api/public/binario/83cc4b64-5d2c-4b49-85a4-e36c2cd99b4f/texto", "motivo": "corpo vazio ou contém NUL; fonte preservada", "status": "sem_texto"}
 {"id": "577819", "norma": "DEC-7303-2010-09-15", "urn": "urn:lex:br:federal:decreto:2010-09-15;7303", "status": "sem_texto"}
+{"id": "411922", "norma": "DEC-7275-2010-08-25", "urn": "urn:lex:br:federal:decreto:2010-08-25;7275", "url": "https://normas.leg.br/api/public/binario/0adc13e8-e474-4d67-a963-423cb821683c/texto", "motivo": "corpo vazio ou contém NUL; fonte preservada", "status": "sem_texto"}
+{"id": "568663", "norma": "DEC-6393-2008-03-12", "urn": "urn:lex:br:federal:decreto:2008-03-12;6393", "url": "https://normas.leg.br/api/public/binario/521b4ed1-c1ba-4221-8286-56a1396ee6d6/texto", "motivo": "corpo vazio ou contém NUL; fonte preservada", "status": "sem_texto"}
+{"id": "400395", "norma": "DEC-3345-2000-01-26", "urn": "urn:lex:br:federal:decreto:2000-01-26;3345", "url": "https://normas.leg.br/api/public/binario/a310eda6-63ea-44a9-8b71-160d11a671ea/texto", "motivo": "corpo vazio ou contém NUL; fonte preservada", "status": "sem_texto"}
+{"id": "43950632", "norma": "DEC-13120-2026-09-17", "urn": "urn:lex:br:federal:decreto:2026-09-17;13120", "status": "sem_texto"}
+{"id": "41715603", "norma": "DEC-12739-2025-11-20", "urn": "urn:lex:br:federal:decreto:2025-11-20;12739", "status": "sem_texto"}
+{"id": "43052612", "norma": "DEC-12935-2026-04-15", "urn": "urn:lex:br:federal:decreto:2026-04-15;12935", "status": "sem_texto"}
+{"id": "42647071", "norma": "DEC-12816-2026-01-16", "urn": "urn:lex:br:federal:decreto:2026-01-16;12816", "status": "sem_texto"}
+{"id": "41715743", "norma": "DEC-12734-2025-11-20", "urn": "urn:lex:br:federal:decreto:2025-11-20;12734", "status": "sem_texto"}
+{"id": "41627976", "norma": "DEC-12700-2025-10-30", "urn": "urn:lex:br:federal:decreto:2025-10-30;12700", "status": "sem_texto"}
+{"id": "41707156", "norma": "DEC-12720-2025-11-17", "urn": "urn:lex:br:federal:decreto:2025-11-17;12720", "status": "sem_texto"}
+{"id": "41082578", "norma": "DEC-12533-2025-06-25", "urn": "urn:lex:br:federal:decreto:2025-06-25;12533", "status": "sem_texto"}
+{"id": "41026851", "norma": "DEC-12502-2025-06-11", "urn": "urn:lex:br:federal:decreto:2025-06-11;12502", "status": "sem_texto"}
+{"id": "40952915", "norma": "DEC-12494-2025-06-05", "urn": "urn:lex:br:federal:decreto:2025-06-05;12494", "status": "sem_texto"}
+{"id": "40953517", "norma": "DEC-12489-2025-06-04", "urn": "urn:lex:br:federal:decreto:2025-06-04;12489", "status": "sem_texto"}
+{"id": "40431143", "norma": "DEC-12400-2025-03-13", "urn": "urn:lex:br:federal:decreto:2025-03-13;12400", "status": "sem_texto"}
+{"id": "40419678", "norma": "DEC-12397-2025-03-07", "urn": "urn:lex:br:federal:decreto:2025-03-07;12397", "status": "sem_texto"}
+{"id": "38672188", "norma": "DEC-12084-2024-06-28", "urn": "urn:lex:br:federal:decreto:2024-06-28;12084", "status": "sem_texto"}
+{"id": "38638315", "norma": "DEC-12067-2024-06-19", "urn": "urn:lex:br:federal:decreto:2024-06-19;12067", "status": "sem_texto"}
+{"id": "38058395", "norma": "DEC-11869-2023-12-28", "urn": "urn:lex:br:federal:decreto:2023-12-28;11869", "status": "sem_texto"}
+{"id": "37876740", "norma": "DEC-11797-2023-11-27", "urn": "urn:lex:br:federal:decreto:2023-11-27;11797", "status": "sem_texto"}
+{"id": "37344886", "norma": "DEC-11589-2023-06-29", "urn": "urn:lex:br:federal:decreto:2023-06-29;11589", "status": "sem_texto"}
+{"id": "36855173", "norma": "DEC-11421-2023-02-28", "urn": "urn:lex:br:federal:decreto:2023-02-28;11421", "status": "sem_texto"}
+{"id": "36695952", "norma": "DEC-11366-2023-01-01", "urn": "urn:lex:br:federal:decreto:2023-01-01;11366", "status": "sem_texto"}
+{"id": "36033206", "norma": "DEC-11111-2022-06-29", "urn": "urn:lex:br:federal:decreto:2022-06-29;11111", "status": "sem_texto"}
+{"id": "35637219", "norma": "DEC-11024-2022-03-31", "urn": "urn:lex:br:federal:decreto:2022-03-31;11024", "status": "sem_texto"}
+{"id": "35521801", "norma": "DEC-10980-2022-02-25", "urn": "urn:lex:br:federal:decreto:2022-02-25;10980", "status": "sem_texto"}
+{"id": "34952580", "norma": "DEC-10814-2021-09-27", "urn": "urn:lex:br:federal:decreto:2021-09-27;10814", "status": "sem_texto"}
+{"id": "33714779", "norma": "DEC-10690-2021-04-29", "urn": "urn:lex:br:federal:decreto:2021-04-29;10690", "status": "sem_texto"}
+{"id": "32552559", "norma": "DEC-10462-2020-08-14", "urn": "urn:lex:br:federal:decreto:2020-08-14;10462", "status": "sem_texto"}
+{"id": "32251616", "norma": "DEC-10396-2020-06-10", "urn": "urn:lex:br:federal:decreto:2020-06-10;10396", "status": "sem_texto"}
+{"id": "32025442", "norma": "DEC-10301-2020-03-30", "urn": "urn:lex:br:federal:decreto:2020-03-30;10301", "status": "sem_texto"}
+{"id": "31990518", "norma": "DEC-10279-2020-03-18", "urn": "urn:lex:br:federal:decreto:2020-03-18;10279", "status": "sem_texto"}
+{"id": "31957430", "norma": "DEC-10257-2020-02-27", "urn": "urn:lex:br:federal:decreto:2020-02-27;10257", "status": "sem_texto"}
+{"id": "31641102", "norma": "DEC-10086-2019-11-05", "urn": "urn:lex:br:federal:decreto:2019-11-05;10086", "status": "sem_texto"}
+{"id": "603190", "norma": "DEC-8941-2016-12-26", "urn": "urn:lex:br:federal:decreto:2016-12-26;8941", "url": "https://normas.leg.br/api/public/binario/31dc0d3d-49a5-4b05-9750-c06301fa09fb/texto", "motivo": "corpo vazio ou contém NUL; fonte preservada", "status": "sem_texto"}
+{"id": "414964", "norma": "DEC-8935-2016-12-19", "urn": "urn:lex:br:federal:decreto:2016-12-19;8935", "url": "https://normas.leg.br/api/public/binario/093f8397-1117-425e-bede-c511f2466dd6/texto", "motivo": "corpo vazio ou contém NUL; fonte preservada", "status": "sem_texto"}
+{"id": "414844", "norma": "DEC-8904-2016-11-17", "urn": "urn:lex:br:federal:decreto:2016-11-17;8904", "url": "https://normas.leg.br/api/public/binario/9f140819-5652-4854-9351-ab4727aa87f8/texto", "motivo": "corpo vazio ou contém NUL; fonte preservada", "status": "sem_texto"}
+{"id": "31641138", "norma": "DEC-10087-2019-11-05", "urn": "urn:lex:br:federal:decreto:2019-11-05;10087", "status": "sem_texto"}
+{"id": "592005", "norma": "DEC-8235-2014-05-05", "urn": "urn:lex:br:federal:decreto:2014-05-05;8235", "url": "https://normas.leg.br/api/public/binario/7703a86a-aede-402d-863d-aa43cdb0e108/texto", "motivo": "corpo vazio ou contém NUL; fonte preservada", "status": "sem_texto"}
+{"id": "584163", "norma": "DEC-8159-2013-12-18", "urn": "urn:lex:br:federal:decreto:2013-12-18;8159", "url": "https://normas.leg.br/api/public/binario/c6d8c0eb-97f3-43c8-9189-c86c4eed8921/texto", "motivo": "corpo vazio ou contém NUL; fonte preservada", "status": "sem_texto"}
+{"id": "413398", "norma": "DEC-8064-2013-08-02", "urn": "urn:lex:br:federal:decreto:2013-08-02;8064", "url": "https://normas.leg.br/api/public/binario/4d045aa0-913c-4c77-8b86-ceca3c802c83/texto", "motivo": "corpo vazio ou contém NUL; fonte preservada", "status": "sem_texto"}
+{"id": "590663", "norma": "DEC-8025-2013-06-06", "urn": "urn:lex:br:federal:decreto:2013-06-06;8025", "url": "https://normas.leg.br/api/public/binario/8d351b95-a260-40ec-8aa1-37ccbdcafd25/texto", "motivo": "corpo vazio ou contém NUL; fonte preservada", "status": "sem_texto"}
+{"id": "590667", "norma": "DEC-8026-2013-06-06", "urn": "urn:lex:br:federal:decreto:2013-06-06;8026", "url": "https://normas.leg.br/api/public/binario/aaea5ab8-99a8-4499-b7e0-ad821a3bdddd/texto", "motivo": "corpo vazio ou contém NUL; fonte preservada", "status": "sem_texto"}
+{"id": "590567", "norma": "DEC-8001-2013-05-10", "urn": "urn:lex:br:federal:decreto:2013-05-10;8001", "url": "https://normas.leg.br/api/public/binario/ecd25ec9-dee0-4b3e-9ce1-bb663e237778/texto", "motivo": "corpo vazio ou contém NUL; fonte preservada", "status": "sem_texto"}
+{"id": "586876", "norma": "DEC-7797-2012-08-30", "urn": "urn:lex:br:federal:decreto:2012-08-30;7797", "url": "https://normas.leg.br/api/public/binario/83cc4b64-5d2c-4b49-85a4-e36c2cd99b4f/texto", "motivo": "corpo vazio ou contém NUL; fonte preservada", "status": "sem_texto"}
+{"id": "577819", "norma": "DEC-7303-2010-09-15", "urn": "urn:lex:br:federal:decreto:2010-09-15;7303", "status": "sem_texto"}
+{"id": "411922", "norma": "DEC-7275-2010-08-25", "urn": "urn:lex:br:federal:decreto:2010-08-25;7275", "url": "https://normas.leg.br/api/public/binario/0adc13e8-e474-4d67-a963-423cb821683c/texto", "motivo": "corpo vazio ou contém NUL; fonte preservada", "status": "sem_texto"}
+{"id": "568663", "norma": "DEC-6393-2008-03-12", "urn": "urn:lex:br:federal:decreto:2008-03-12;6393", "url": "https://normas.leg.br/api/public/binario/521b4ed1-c1ba-4221-8286-56a1396ee6d6/texto", "motivo": "corpo vazio ou contém NUL; fonte preservada", "status": "sem_texto"}
+{"id": "400395", "norma": "DEC-3345-2000-01-26", "urn": "urn:lex:br:federal:decreto:2000-01-26;3345", "url": "https://normas.leg.br/api/public/binario/a310eda6-63ea-44a9-8b71-160d11a671ea/texto", "motivo": "corpo vazio ou contém NUL; fonte preservada", "status": "sem_texto"}
+{"id": "503533", "norma": "DEC-80893-1977-11-30", "erro": "falhou após 4 tentativas: https://normas.leg.br/api/public/binario/6fe7b961-6cfb-436a-823c-6b472a6e96f5/texto: IncompleteRead(16384 bytes read, 1187 more expected)", "status": "erro"}
+{"id": "499852", "norma": "DEC-77212-1976-02-20", "urn": "urn:lex:br:federal:decreto:1976-02-20;77212", "url": "https://normas.leg.br/api/public/binario/ac2d0365-9425-4c99-b037-5f39aaa5fa23/texto", "motivo": "corpo vazio ou contém NUL; fonte preservada", "status": "sem_texto"}
+{"id": "495182", "norma": "DEC-72542-1973-07-30", "urn": "urn:lex:br:federal:decreto:1973-07-30;72542", "url": "https://normas.leg.br/api/public/binario/57b4efec-cee0-43e4-ac8b-058a4fe46594/texto", "motivo": "corpo vazio ou contém NUL; fonte preservada", "status": "sem_texto"}
+{"id": "492264", "norma": "DEC-69624-1971-11-30", "urn": "urn:lex:br:federal:decreto:1971-11-30;69624", "url": "https://normas.leg.br/api/public/binario/99ad505f-2b08-40d8-b22d-778b12def6e6/texto", "http": 200, "status": "sem_texto"}
+{"id": "476348", "norma": "DEC-53702-1964-03-14", "erro": "falhou após 4 tentativas: https://normas.leg.br/api/public/binario/ff8dfe22-8021-453d-a094-5fc026bc5b2f/texto: <urlopen error [Errno 60] Operation timed out>", "status": "erro"}
+{"id": "476330", "norma": "DEC-53684-1964-03-13", "erro": "falhou após 4 tentativas: https://normas.leg.br/api/public/binario/9e731768-74f3-49d9-b961-283dfbfb7a34/texto: <urlopen error [Errno 60] Operation timed out>", "status": "erro"}
+{"id": "476332", "norma": "DEC-53686-1964-03-13", "erro": "falhou após 4 tentativas: https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1964-03-13;53686&tipo_documento=maior-detalhe: <urlopen error [Errno 60] Operation timed out>", "status": "erro"}
+{"id": "476331", "norma": "DEC-53685-1964-03-13", "erro": "falhou após 4 tentativas: https://normas.leg.br/api/public/binario/843fadc0-f008-401e-b942-947b658e7d36/texto: <urlopen error [Errno 60] Operation timed out>", "status": "erro"}

@@ -1,0 +1,13 @@
+import json,sys,types,hashlib
+from pathlib import Path
+sys.path.insert(0,'scripts');from preparar_lote_decretos_cache import fields
+from types import SimpleNamespace
+D=Path('federal/_proposta_guard_lacunas_20261021_015');old=types.ModuleType('old');new=types.ModuleType('new');exec(compile(Path('federal/_proposta_guard_lacunas_20261021_014/integridade_anexos_decreto.py.txt').read_text(),'guard49','exec'),old.__dict__);exec(compile((D/'integridade_anexos_decreto.py.txt').read_text(),'guard56','exec'),new.__dict__);out=[];real=[];p=SimpleNamespace(visual=[],structure=[])
+for n in ['60055','87009','91343','38162','772']:
+ ps=list(Path('federal/decretos').glob('*/dec-'+n+'-*.md'));assert len(ps)==1;raw=ps[0].read_bytes();b=fields(raw.decode())[2];assert new.anexo_proprio_ausente(b,p) is None;real.append({'path':str(ps[0]),'sha256_md':hashlib.sha256(raw).hexdigest(),'resultado':'Não retido: regulamento futuro, preservado.'})
+count=0
+for no,vers in [(15,'v4'),(16,'v4'),(17,'v4'),(18,'v4'),(19,'v2')]:
+ for r in json.load(open(f'federal/_lote_dec_continuacao_20261020_{no:03}_{vers}.json'))['publicaveis']:
+  raw=Path(r.get('candidato_promocao',r['path'])).read_bytes();assert hashlib.sha256(raw).hexdigest()==r['sha256'];b=fields(raw.decode())[2];a=old.anexo_proprio_ausente(b,p);c=new.anexo_proprio_ausente(b,p);count+=1
+  if a!=c:out.append({'path':r['path'],'sha256_md':r['sha256'],'anterior49':a,'novo56':c})
+(D/'replay.json').write_text(json.dumps({'escopo':'Replay apenas do delta 49 para 56, sem alteração de seleção, registro ou canônicos; lotes 015–018 finais e 019 preliminar. Não é nova auditoria universal de integralidade.','auditados':count,'deltas':out,'controles_reais_cinco':real},ensure_ascii=False,indent=2)+'\n');print('auditados',count,'deltas',len(out))

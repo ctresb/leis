@@ -1,0 +1,103 @@
+{
+  "escopo": "Prova oficial complementar à hipótese de alias, sem criar MD de 2132 nem modificar o índice ou metas.",
+  "registros_indice_senado": [
+    {
+      "id": "522648",
+      "tipo": "DEL",
+      "descricao": "Decreto-Lei",
+      "numero": "3",
+      "norma": "DEL-3-1937-11-13",
+      "normaNome": "Decreto-Lei nº 3 de 13/11/1937",
+      "ementa": "Restabelece o imposto de consumo sôbre gasolina.",
+      "dataassinatura": "13/11/1937",
+      "anoassinatura": "1937",
+      "apelido": "DEL-3-1937-11-13"
+    },
+    {
+      "id": "526874",
+      "tipo": "DEL",
+      "descricao": "Decreto-Lei",
+      "numero": "2132",
+      "norma": "DEL-2132-1937-11-13",
+      "normaNome": "Decreto-Lei nº 2.132 de 13/11/1937",
+      "ementa": "Restabelece o imposto de consumo sobre gasolina.",
+      "dataassinatura": "13/11/1937",
+      "anoassinatura": "1937",
+      "apelido": "DEL-2132-1937-11-13"
+    }
+  ],
+  "fonte_primaria_anual": {
+    "url": "https://bd.camara.leg.br/bd/bitstreams/4e67023d-c2db-4371-8eb7-eff7b9bfb7f1/download",
+    "status": 200,
+    "headers": {
+      "server": "envoy",
+      "date": "Wed, 21 Oct 2026 02:52:10 GMT",
+      "content-type": "Adobe/PDF;charset=UTF-8",
+      "content-length": "26117659",
+      "vary": "Origin,Access-Control-Request-Method,Access-Control-Request-Headers",
+      "content-language": "en",
+      "last-modified": "Tue, 19 Feb 2019 12:03:59 GMT",
+      "etag": "\"fc32968c3b357c555b190aaf80ce1f34\"",
+      "accept-ranges": "bytes",
+      "expires": "Wed, 21 Oct 2026 03:52:09 GMT",
+      "cache-control": "private,no-cache",
+      "access-control-expose-headers": "Accept-Ranges",
+      "content-disposition": "attachment;filename=\"colleccao_leis_1937_parte1.pdf\"",
+      "x-content-type-options": "nosniff",
+      "x-xss-protection": "0",
+      "strict-transport-security": "max-age=31536000 ; includeSubDomains",
+      "x-frame-options": "DENY",
+      "x-envoy-upstream-service-time": "541",
+      "connection": "close"
+    },
+    "sha256": "4ad8ff6d65f4aac329da3b8fc14007146a00983d89a4b45937208663d03acef3",
+    "bytes": 26117659,
+    "cache_path": "federal/_fonte/auditorias/colecao_leis_1937_20261020_001/colleccao_leis_1937_parte1.pdf"
+  },
+  "catalogo": "https://bd.camara.leg.br/bd/items/f1520e50-f4ee-44be-93b7-9e528425798f/full",
+  "paginas": [
+    {
+      "pdf": 38,
+      "impressa": "XXXIX",
+      "evidencia": "Índice de decretos-leis registra nº 3, de 13 de novembro de 1937, Restabelece o imposto de consumo sobre gasolina, página 309."
+    },
+    {
+      "pdf": 366,
+      "impressa": "309",
+      "evidencia": "Inspeção visual do fac-símile confirma epígrafe DECRETO-LEI N. 3 — DE 13 DE NOVEMBRO DE 1937, três artigos completos, fecho de 13 de novembro e assinaturas Getulio Vargas e Arthur de Souza Costa. Art. 1º cita § 34, não § 32 como no HTML Planalto."
+    }
+  ],
+  "provas": [
+    {
+      "path": "federal/_provas_del2132_clbr1937_20261020_001/clbr1937-p309-del3.png",
+      "sha256": "9bc49d2cb8d4c6be2e066a95b9559aec5ca9e29f797ca228a2dce4fa53d16544"
+    },
+    {
+      "path": "federal/_provas_del2132_clbr1937_20261020_001/clbr1937-pdf-366.pdf",
+      "sha256": "5419785701611d361326f941f38218c643b23f075a87e049297e2016ba042e91"
+    },
+    {
+      "path": "federal/_provas_del2132_clbr1937_20261020_001/clbr1937-pdf-38.pdf",
+      "sha256": "291edaf0b2de1abaf00b5cc44451774d3530c18521b41d1601cb6062af1d2700"
+    }
+  ],
+  "md_existente": {
+    "path": "federal/decretos-lei/1937/del-3-1937-11-13.md",
+    "sha256": "2c8c432e608c218fde682b0088d98e246ab75af3e461c78a5413a139e61d8bcd",
+    "observacao": "Já contém corpo completo de três artigos sob nº 3. Não foi alterado."
+  },
+  "confronto_catalogos": {
+    "camara_2132": {
+      "id": "343999",
+      "url": "https://www2.camara.leg.br/legin/fed/declei/1930-1939/decreto-lei-2132-13-novembro-1937-343999-norma-pe.html",
+      "publicacao_catalogada": "DOU 19/11/1937, página 22982; sem corpo identificado."
+    },
+    "camara_3": {
+      "id": "354231",
+      "url": "https://www2.camara.leg.br/legin/fed/declei/1930-1939/decreto-lei-3-13-novembro-1937-354231-publicacaooriginal-1-pe.html",
+      "publicacao_catalogada": "CLBR 1937, volume 3, página 309; DOU 22/11/1937, página 23080, republicação."
+    }
+  },
+  "resultado": "A publicação anual comprova o ato nº 3 e reforça a hipótese de erro de catálogo no 2132, com ementa e data iguais. A equivalência do registro 2132 ainda depende do confronto com o DOU 19/11/1937 p. 22982. Não concluir inexistência de ato nem preencher 2132 com o corpo do nº 3 sem essa prova.",
+  "pendencia_del1082": "A evidência preexistente de 16/10 da CLBR 1939 registra somente epígrafe/ementa e nota de não publicação por falta de pagamento. Não recolhi novamente o PDF nem tratei isso como prova de inexistência da norma."
+}

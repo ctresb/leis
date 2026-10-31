@@ -1,0 +1,39 @@
+from pathlib import Path
+import sys,json,gzip,hashlib,tarfile,threading,runpy,datetime,collections,urllib.parse
+ROOT=Path('/Volumes/ExternalSSD/GitHub/constituicao');sys.path.insert(0,str(ROOT/'scripts'));import baixar_federal as f
+proof=json.load(open('/tmp/federal20261021-retomada019-checkpoint-validado.json'));sha=lambda b:hashlib.sha256(b).hexdigest();snap=ROOT/'federal/_fonte/auditorias/lote_dec_continuacao_20261020_019';archive=Path('/tmp/federal20261021-interrupcao019-preimagem.tar.gz');assert not archive.exists()
+with tarfile.open(archive,'w:gz') as tar:
+ for p,h in proof['sha256_arquivos_cache_pos_recuperacao'].items():
+  q=ROOT/p;assert sha(q.read_bytes())==h;tar.add(q,arcname=p,recursive=False)
+ for n in ['candidatos.json','coleta.json']:tar.add(snap/n,arcname=str((snap/n).relative_to(ROOT)),recursive=False)
+meta={};html={};context=threading.local();counts=collections.Counter();lock=threading.Lock()
+for r in proof['snapshot_preimagem']:
+ u=f.montar(r['indice'])['urn'];ms=[]
+ for p in (snap/'work/_fonte/metadados-normas'/sha(u.encode())).glob('*.json.gz'):
+  b=gzip.decompress(p.read_bytes());assert sha(b)==p.name.split('.')[0];m=json.loads(b);assert m['legislationIdentifier']==u;ms.append((b,m))
+ # No novo HTML será vinculado por URN em vez de URL global, evitando aliases acidentais.
+ hp=snap/'work/_fonte'/Path(r['path']).relative_to('federal');hp=hp.with_suffix('.html.gz')
+ if hp.exists():
+  assert len(ms)==1,(r['path'],'metadados múltiplos/ausentes exigem revisão');enc=f.escolher_texto(ms[0][1]);assert enc;html[u]=(enc['contentUrl'].replace('/api/binario/','/api/public/binario/'),gzip.decompress(hp.read_bytes()))
+ if len(ms)==1:meta[u]=ms[0][0]
+original_get=f.http_get;original_process=f.processar
+
+def get(url,*a,**k):
+ u=getattr(context,'urn',None);cached=None;kind=None
+ if u in meta and url==f.API_NORMA.format(urllib.parse.quote(u,safe=':;@!~$-.')):cached=meta[u];kind='metadados_cache'
+ elif u in html and url==html[u][0]:cached=html[u][1];kind='html_cache'
+ if cached is not None:
+  with lock:counts[kind]+=1
+  return 200,cached
+ with lock:counts['HTTP_real']+=1
+ return original_get(url,*a,**k)
+
+def process(d,*a,**k):
+ context.urn=f.montar(d)['urn']
+ return original_process(d,*a,**k)
+f.http_get=get;f.processar=process
+print('RETOMADA VALIDADA: snapshot 2.000; checkpoint 1.060; 1.033 MD e 1.124 HTML reutilizáveis; arquivo de interrupção',archive,'sha256',sha(archive.read_bytes()),flush=True)
+sys.argv=['preparar_lote_decretos_rede.py','--entrada','/tmp/federal20261020-continuacao-019.json','--lote','lote_dec_continuacao_20261020_019','--rps','4','--workers','8']
+try:runpy.run_path(str(ROOT/'scripts/preparar_lote_decretos_rede.py'),run_name='__main__')
+finally:
+ out={'momento':datetime.datetime.now().isoformat(),'preimagem_interrupcao':{'path':str(archive),'sha256':sha(archive.read_bytes())},'snapshot_validado':'/tmp/federal20261021-retomada019-checkpoint-validado.json','codigo_retomada_sha256':sha(Path(__file__).read_bytes()),'cache_por_URN_com_URL_confrontada':True,'contagens':dict(counts)};Path('/tmp/federal20261021-retomada019-recibo.json').write_text(json.dumps(out,ensure_ascii=False,indent=2)+'\n');print('RECIBO RETOMADA',out,flush=True)

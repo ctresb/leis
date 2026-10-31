@@ -1,0 +1,72 @@
+{
+  "estado": "fontes_oficiais_localizadas_3_sem_aplicar",
+  "arquivos": [
+    {
+      "path": "federal/_fonte/auditorias/dpl-ilegiveis-pesquisa-20261016/4743-pdf188.png",
+      "sha256": "cfc6e044372839474e5d2b9fb8dad661378e68b8075e24bd2cc8fc5b86f60fc7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-ilegiveis-pesquisa-20261016/4743-pdf190.png",
+      "sha256": "93cccd735962fee33bbafe0de3a54dfe99ce77be24334d32bf4281345d120636"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-ilegiveis-pesquisa-20261016/4743-pdf197.png",
+      "sha256": "7f78c7845924a6300c574a5265368f703f945764cecca0991e55dcb33feb935b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-ilegiveis-pesquisa-20261016/5488-pdf155.png",
+      "sha256": "847aa41bba4c5185e8d52e1a57463109cff7ed4e4fa779b798ef597fc20818e3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-ilegiveis-pesquisa-20261016/5488-pdf156.png",
+      "sha256": "788b698050d0ce8fdfdb126359e0576ee2f950524a88cab28bbb03af27c5b85b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-ilegiveis-pesquisa-20261016/5515-pdf175.png",
+      "sha256": "5c4025ce2a832c1c778417b136d01870e4a9bb01e6b451308acdcd5c33bb20d3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-ilegiveis-pesquisa-20261016/5515-pdf178.png",
+      "sha256": "b44323e53e07548650bc7b7ada76f9146ae9396f3ba8fcf58b26202278ce8500"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-ilegiveis-pesquisa-20261016/5515-pdf180.png",
+      "sha256": "444979425fa5b8ab90b74405145d9d8686286502a5141a32648f24b7212ebf2f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-ilegiveis-pesquisa-20261016/catalogo-1920-1949-page1.html",
+      "sha256": "f26f10523388994bea97ac97e2ba55214185ae7f5aa70be5927e9528ebd9e589"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-ilegiveis-pesquisa-20261016/colecao1923-parte1.pdf",
+      "sha256": "c250c483daa86f9748399bcec99aa70d8cda9715fcd143e4f5c1c6f8978a9c55"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-ilegiveis-pesquisa-20261016/colecao1928-parte1.pdf",
+      "sha256": "d3c045b4c02883598ec275d44f65dd8dbb27ce51189ddfbea9c763e9340615e4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-ilegiveis-pesquisa-20261016/fonte1923.json",
+      "sha256": "279709eb74c35bb4b721fe8ff782e90cebdbe9d2d22390ba8f171fcbad2e4471"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-ilegiveis-pesquisa-20261016/fonte1928.json",
+      "sha256": "f67b39409a482b74b76b21c4db07fad336177800eedd0e4df2b76a832a33232a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-ilegiveis-pesquisa-20261016/item1923.html",
+      "sha256": "996161c53202e5d6c73ee5711d0b28a82d34a653fd289688664c13aaa4110fe1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-ilegiveis-pesquisa-20261016/item1928.html",
+      "sha256": "b862cbb3bb05e7a29f620a28721381c6763fa3a637903179be808d2c8ad4bb79"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-ilegiveis-pesquisa-20261016/provas3-lacunas-visuais.json",
+      "sha256": "096c6d3ed95fb02ff2ab287d5c1f5b9003ddd2b682bf2f5638357d79226c67b4"
+    }
+  ],
+  "coletores_preservados": true,
+  "canonicos_alterados": 0,
+  "Git_mutacoes": 0
+}

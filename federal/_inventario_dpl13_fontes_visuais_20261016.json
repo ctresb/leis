@@ -1,0 +1,25 @@
+{
+  "estado": "inventario_congelado_sem_aplicacao",
+  "escopo": {
+    "atos": 13,
+    "paginas": 27,
+    "fontes_pdf_unicas": 7,
+    "todos_hashes_conferidos": true,
+    "corpos_canonicos_inalterados": true,
+    "candidatos_gravados": 0,
+    "publicaveis": 0,
+    "limite": "Inspeção visual de identidade, limites e estrutura; não substitui cotejo literal integral. Coletânea oficial, não fac-símile DOU."
+  },
+  "inventario": {
+    "path": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/inventario13-fontes-visuais.json",
+    "sha256": "022fa4c8a4ce1c6acaff13849b39209b93d19862c3cc22589617be22849bf7bd"
+  },
+  "validacao": {
+    "path": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/validacao-inventario13.json",
+    "sha256": "ced6ba9fff279bf610c5323ab2a6c51e9fc43e74a06434fda1e4a6c51375f47b"
+  },
+  "helper": {
+    "path": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/inventariar13-5a7b712ef1b5a6bd7f6c916f7724c7d8817706d4f0b6ac93d81481176d30a2fc.py",
+    "sha256": "5a7b712ef1b5a6bd7f6c916f7724c7d8817706d4f0b6ac93d81481176d30a2fc"
+  }
+}

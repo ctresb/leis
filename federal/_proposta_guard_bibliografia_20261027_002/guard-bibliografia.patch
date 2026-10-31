@@ -1,0 +1,66 @@
+--- a/scripts/integridade_anexos_decreto.py
++++ b/scripts/integridade_anexos_decreto.py
+@@ -92,7 +92,51 @@
+     return None
+ 
+ 
+-def anexo_proprio_ausente(corpo, parsed):
++def _ponteiro_bibliografico_para_revisao(clean):
++    """Um ponteiro isolado não certifica ausência nem conteúdo de suplemento.
++
++    Exige revisão da edição inclusive se houver lista, Art.1 ou tabela inline.
++    Citação dentro de artigo e referência sem placeholder não acionam a regra.
++    """
++    # Bind each adjacent label to its own referent. An old external annex
++    # cannot discharge another relation commanded by the present text.
++    normalized = re.sub(r'</?(?:p|div|h[1-6]|br)\b[^>]*>', '\n', clean)
++    normalized = re.sub(r'</?(?:span|b|i|em|strong)\b[^>]*>', '', normalized)
++    references = []
++    for ref in re.finditer(r'\b(?:relacao|relacoes|regimento|regulamento|tabelas?|quadros?|desenhos?)\s+(?:em\s+)?anex[ao]s?\b', normalized):
++        tail = normalized[ref.end():ref.end() + 180]
++        external = re.match(r'^\s+(?:ao|aos|do|dos|a|as|da|das)\s+(?:decretos?(?:-lei)?|leis?|portarias?|resolucoes?)\s+n', tail)
++        references.append({'remissao': ref[0],
++                           'contexto': normalized[max(0, ref.start() - 120):ref.end() + 180],
++                           'vinculo_externo_explicito': bool(external)})
++    # The replacement is itself a present object even when the following noun
++    # describes the old external table which it replaces (Decree 23.913/1947).
++    for replacement in re.finditer(r'\bsubstituid[oa]s?\s*,?\s+pel[ao]s?\s+que\s+acompanha[m]?\s+(?:(?:o|a|os|as)\s+)?(?:presente|este|esta)\s+decreto\b', normalized):
++        references.append({'remissao': replacement[0],
++                           'contexto': normalized[max(0, replacement.start() - 100):replacement.end() + 180],
++                           'vinculo_externo_explicito': False})
++    if references and all(ref['vinculo_externo_explicito'] for ref in references):
++        return None
++    text = re.sub(r'</?(?:p|div|h[1-6]|br)\b[^>]*>', '\n', clean)
++    text = re.sub(r'</?(?:span|b|i|em|strong)\b[^>]*>', '', text)
++    pointer = re.search(
++        r'(?m)^\s*((?:<<|«)\s*(?:anexo|tabela|quadro)s?\s*(?:>>|»)' 
++        r'\s*(?:clbr|colecao das leis)\b[^\n]*)', text)
++    if not pointer:
++        return None
++    literal = pointer[1]
++    # A bibliographic address, not a mere use of the label in a quoted sentence.
++    if not re.search(r'\b(?:vol(?:ume)?|ano|pag(?:ina)?s?)\.?\s*\d', literal):
++        return None
++    return {'motivo': 'Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.',
++            'lacuna': literal, 'estado': 'revisao_documental_necessaria',
++            'classe': 'ponteiro_bibliografico_nao_certifica_integralidade',
++            'ausencia_propria_demonstrada': False,
++            'vinculos_das_remissoes': references,
++            'contexto': text[max(0, pointer.start() - 700):pointer.end() + 700]}
++
++
++def _anexo_proprio_ausente_guard56(corpo, parsed):
+     if parsed.visual:
+         return None  # Separate visual gate retains these; this helper proves no absence.
+     clean = _limpar(corpo)
+@@ -208,3 +252,10 @@
+     return {'motivo': 'Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.',
+             'remissao': approval[1] if approval else principal[max(0, remissao.start() - 120):remissao.end() + 120],
+             'fecho': blocks[fechamento], 'apos_fecho': apos, 'estado': 'ausencia_na_transcricao'}
++
++
++def anexo_proprio_ausente(corpo, parsed):
++    result = _anexo_proprio_ausente_guard56(corpo, parsed)
++    if result or parsed.visual:
++        return result
++    return _ponteiro_bibliografico_para_revisao(_limpar(corpo))

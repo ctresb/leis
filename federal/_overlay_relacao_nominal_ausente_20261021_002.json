@@ -1,0 +1,69 @@
+{
+  "criado_em": "2026-10-21T04:28:25.302004",
+  "escopo": "Delta dirigido do guard de relação nominal própria sobre canônicos com placeholders literais, inclusive aceitos preliminares do lote 012; sem modificar normas ou entregas anteriores.",
+  "resumo": {
+    "candidatos": 9272,
+    "deltas_confirmados_com_html": 3
+  },
+  "registros": [
+    {
+      "path": "federal/decretos/1950/dec-29004-1950-12-19.md",
+      "sha256_md": "b4b797d4ba2d6b407c454e61f64389b111d0d522d1b9dad642f4ba1ce9c64443",
+      "antes_retido": false,
+      "depois_retido": true,
+      "sha256_fonte_html": "4e7185c5d710aa45fddbe248d2f766f7ff36f56c06571c81a94ef580e0b8d853",
+      "delta_confirmado_com_html": true,
+      "evidencia": {
+        "motivo": "Relação própria que determina a alteração da tabela pelo presente decreto substituída por placeholder terminal; referência bibliográfica não reproduz os nomes ou dados exigidos pelo comando.",
+        "remissao": "art. 1º fica alterada, na forma da relacao anexa, a tabela de extranumerario-mensalista da universidade de recife.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1950 pags. 389 a 392 tabelas.\n",
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_suplemento_proprio_ausente_na_transcricao",
+      "limite": "A ausência comprovada é na transcrição consultada. Referência a uma coletânea não prova inexistência do anexo em todas as fontes."
+    },
+    {
+      "path": "federal/decretos/1951/dec-29081-1951-01-04.md",
+      "sha256_md": "3f45940cad875aa3c5656d9a610531af6d0a0a019db24cc9f91d27320264cfa7",
+      "antes_retido": false,
+      "depois_retido": true,
+      "sha256_fonte_html": "c863ebb9ae2b96f5e0e1b7f4eefb2c3586ceecf73277ac14eec556957d293cd4",
+      "delta_confirmado_com_html": true,
+      "evidencia": {
+        "motivo": "Relação própria que determina a alteração da tabela pelo presente decreto substituída por placeholder terminal; referência bibliográfica não reproduz os nomes ou dados exigidos pelo comando.",
+        "remissao": "art. 1º – fica alterada, na forma da relacao anexa, a tabela unica de extranumerarios-mensalistas do ministerio da aeronautica.",
+        "lacuna": "<<anexo>>clbr vol. 02 ano 1951 pags. 4 a 16 tabelas.\n",
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_suplemento_proprio_ausente_na_transcricao",
+      "limite": "A ausência comprovada é na transcrição consultada. Referência a uma coletânea não prova inexistência do anexo em todas as fontes."
+    },
+    {
+      "path": "federal/decretos/1959/dec-46983-1959-10-08.md",
+      "sha256_md": "f9c9a552d483128d5b0110160c5836cecb97df43895395e17b73b18458fbad71",
+      "antes_retido": false,
+      "depois_retido": true,
+      "sha256_fonte_html": "f682c0b8eb2120be332883c4911ec02467722747fbc5ebbaad5684e0c3d8c8d6",
+      "delta_confirmado_com_html": true,
+      "evidencia": {
+        "motivo": "Relação própria que determina a alteração da tabela pelo presente decreto substituída por placeholder terminal; referência bibliográfica não reproduz os nomes ou dados exigidos pelo comando.",
+        "remissao": "art. 1º fica alterada, na forma da tabela anexa, a tabela unica de extranumerario-mensalista - parte permanente - do departamento administrativo do servico publico.",
+        "lacuna": "<<tabela>>\n",
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_suplemento_proprio_ausente_na_transcricao",
+      "limite": "A ausência comprovada é na transcrição consultada. Referência a uma coletânea não prova inexistência do anexo em todas as fontes."
+    }
+  ],
+  "codigo_anterior_sha256": "747eb503621bdf9dce17424de973971fa21f650d437e5f4a017e8302a537b5fa",
+  "codigo_novo_sha256": "557da834e7fdc4427560a6752f6076040fb808874e10fe09efc1212ddbd1926b",
+  "replay": {
+    "path": "federal/_receipts_replay_guard_relacao_nominal_20261021_002.jsonl.gz",
+    "sha256": "b19917d63e6a43ef9b9341991cb629509f0862d24413326110ae784f112c51fa"
+  },
+  "historico": {
+    "path": "federal/_receipts_relacao_nominal_ausente_20261021_002.jsonl.gz",
+    "sha256": "0ad8fb9afe4ae1826efa510ea0b500be4aaf62091940155cce3fdbd29a2db9f5"
+  },
+  "limite": "Revisão dirigida de impacto; não substitui os demais gates nem certifica toda forma de remissão."
+}

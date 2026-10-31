@@ -1,0 +1,52 @@
+{
+  "escopo": "Recibo final autoritativo da proposta privada; substitui apenas o inventário de arquivos do recibo intermediário, preservado sem alterações. Guard vivo, corpos e máscaras não foram alterados.",
+  "sha256_guard56_preimagem": "ec4428ce7d97f00f709d526f74cd2ba2c3ab01e78b3529fb8c3783483cf3a5fe",
+  "sha256_guard_candidato": "23d1f1bd17bc4145575c62689ee587746602ba42264d55bea1c0c44e893699a4",
+  "sha256_testes_candidatos": "b7dcf6c84f4b8b86878e746ea8d028cbc7d53220ba0c07b68f5d5906a1cbd83d",
+  "testes": {
+    "executados": 68,
+    "aprovados": 68,
+    "log": "testes-v3.log"
+  },
+  "replay": {
+    "corpos": 12669,
+    "deltas": 65,
+    "alertas_fora_inventario": 0,
+    "inventario_sem_alerta": 0
+  },
+  "arquivos": [
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_001/integridade_anexos_decreto.py",
+      "sha256": "23d1f1bd17bc4145575c62689ee587746602ba42264d55bea1c0c44e893699a4"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_001/test_integridade_anexos_decreto.py",
+      "sha256": "b7dcf6c84f4b8b86878e746ea8d028cbc7d53220ba0c07b68f5d5906a1cbd83d"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_001/guard56-preimagem.py.txt",
+      "sha256": "ec4428ce7d97f00f709d526f74cd2ba2c3ab01e78b3529fb8c3783483cf3a5fe"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_001/guard-bibliografia.patch",
+      "sha256": "3b69fdc31939449edd95bcb99451fc2c6a8d57c650f13fe6d151b67e148a011a"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_001/testes-v3.log",
+      "sha256": "4e684dde1ee9c8a0e453ff3a1ef439a89f012724f182e28b902fc36e00e01717"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_001/replay.py",
+      "sha256": "f15526eeff543984c03b84a52f9a8e317ea72b0d6440835726a59a3bc5732bd7"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_001/replay12669.json",
+      "sha256": "09395f18f8f5a124a1e4f0df0e0d6ded4f653df846c4060f6c3d64f6a0c15f08"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_001/replay.log",
+      "sha256": "c28d82e60da437b5adb3f3023a258d9ce306e2ccbb55026c66857cb1eff8094b"
+    }
+  ],
+  "limites": "Recibos e logs intermediários permanecem como histórico local; não são requisitos da entrega final. O novo alerta solicita revisão, inclusive no controle com lista inline, sem certificar ausência e sem exceções por número."
+}

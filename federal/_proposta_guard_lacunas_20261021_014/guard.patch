@@ -1,0 +1,100 @@
+--- a/scripts/integridade_anexos_decreto.py
++++ b/scripts/integridade_anexos_decreto.py
+@@ -41,11 +41,52 @@
+     return placeholder if citation else None
+ 
+ 
++def _lacuna_literal_ou_desenho_proprio(clean, blocks):
++    """Retém lacuna editorial ou desenho próprio para conferência documental.
++
++    Não toma descrições ou um formulário textual como prova dos desenhos.
++    Não afirma inexistência na lei ou em outra publicação.
++    """
++    gap = re.search(r'\(\s*ilegivel(?:\s+parte\s+rasgada\s+no\s+livro[.]?)?\s*\)', clean)
++    if gap:
++        before = clean[max(0, gap.start() - 100):gap.start()]
++        definition = re.search(r'\b(?:expressao|palavra|termo|rubrica|rotulo)\b[^.\n]{0,70}$', before)
++        if not definition:
++            return {'motivo': 'Marcador editorial explícito substitui trecho da transcrição; a concordância do Markdown com uma fonte mutilada não comprova integralidade.',
++                    'lacuna': gap[0], 'contexto': clean[max(0, gap.start() - 180):gap.end() + 180],
++                    'estado': 'revisao_documental_necessaria'}
++    for article in blocks:
++        if not re.match(r'^art(?:igo)?\.?\s*(?:\d|unico)', article):
++            continue
++        drawing = re.search(r'\bdesenhos?\s+anexos?\b', article)
++        if not drawing:
++            continue
++        external = re.search(r'desenhos?\s+anexos?\s+(?:ao|aos|do|dos|a|as)\s+(?:decretos?(?:-lei)?|leis?|portarias?|resolucoes?)\s+n', article)
++        quotation = re.search(r'passa[m]? a (?:ter|vigorar)|seguinte redacao|nova redacao|fica[m]? assim redigid', article)
++        graphic_object = re.search(r'\b(?:medalhas?|insignias?|uniformes?|gola|bordados?|fitas?)\b', article)
++        commanded_form = re.search(r'caracteristic|dimens|de acordo com|na forma|obedec|consignad|elucidad', article)
++        referred_regulation = re.search(r'desenhos?\s+anexos?\s+(?:ao|a|aos|as)\s+(?:regulamento|regulamentacao)\b', article)
++        future_regulation = re.search(r'\ba ser (?:baixad|aprovad)|\bsera(?:o)? (?:baixad|aprovad)', article)
++        if referred_regulation:
++            future_regulation = future_regulation or re.search(r'\b(?:regulamento|regulamentacao)\b[^.\n]{0,220}\b(?:sera|devera)\s+(?:baixad|aprovad)', clean)
++            own_approval = re.search(r'\b(?:fica[m]?|sao|e)\s+aprovad[oa]s?\b', clean)
++            if future_regulation or not own_approval:
++                continue  # A regulation to be issued is not an omitted annex now.
++        if graphic_object and commanded_form and not external and not quotation:
++            return {'motivo': 'Objeto gráfico próprio referido expressamente como desenhos anexos, sem representação visual no HTML; descrição, outra tabela ou formulário textual não provam esses desenhos. Exige conferência documental individual.',
++                    'remissao': article, 'lacuna': drawing[0],
++                    'estado': 'revisao_documental_necessaria'}
++    return None
++
++
+ def anexo_proprio_ausente(corpo, parsed):
+     if parsed.visual:
+         return None  # Separate visual gate retains these; this helper proves no absence.
+     clean = _limpar(corpo)
+     blocks = [re.sub(r'\s+', ' ', b).strip() for b in clean.split('\n\n') if b.strip()]
++    explicit_gap = _lacuna_literal_ou_desenho_proprio(clean, blocks)
++    if explicit_gap:
++        return explicit_gap
+     # A bibliographic replacement of drawings is a separate question from a
+     # reproduced regulation or its text tables. It must survive the Art.1 shortcut.
+     picture_gap = re.search(r'(?:<<|«)\s*(?:anexo|tabela|quadro)s?\s*(?:>>|»)\s*(?:clbr|colecao das leis)[^\n]*(?:carimbos?|figuras?|simbolo|desenhos?)[^\n]*', clean)
+--- a/scripts/test_integridade_anexos_decreto.py
++++ b/scripts/test_integridade_anexos_decreto.py
+@@ -124,4 +124,42 @@
+  def test_anexo_numerado_do_decreto_externo_nao_retem(self):
+   text=MAIN.replace('Fica aprovado o Regimento que com êste baixa','Ficam extintas as funções constantes do Anexo I do Decreto nº 1.234 de 1960')
+   self.assertIsNone(gate(text,P))
++class LacunasGraficasEEditoriais(unittest.TestCase):
++ def test_parte_rasgada_no_dispositivo_retem(self):
++  self.assertEqual(gate('Art. 2º As subcomissões prestarão seu concurso (**Ilegível** parte rasgada no livro.).',P)['estado'],'revisao_documental_necessaria')
++ def test_lacunas_nomes_objeto_e_alinea_retem(self):
++  for text in ['Art. 1º Vagos em virtude da aposentadoria de Francisco, (ilegível) Marcos Pinheiro.', 'Art. 3º XVI – Recuperação e consertos de peças e móveis (ilegivel).', 'Art. 4º Candidatos sem observância do nº(ilegível).', 'Art. 6º Diploma a que se refere a alínea (ilegivel) do art. 23.']:
++   self.assertIsNotNone(gate(text,P),text)
++ def test_ilegivel_legitimo_no_servico_postal_nao_retem(self):
++  self.assertIsNone(gate('Art. 1º Não será aceita remessa que traga ilegível o nome do destinatário.',P))
++ def test_ilegivel_legitimo_no_cancelamento_nao_retem(self):
++  self.assertIsNone(gate('Art. 1º A nota é riscada em cruz sem a tornar ilegível; quando a praça fôr desligada, a nota será tornada ilegível.',P))
++ def test_definicao_explicita_de_rotulo_nao_retem(self):
++  self.assertIsNone(gate('Art. 1º Usar a expressão (ilegível) para classificar documentos sem leitura possível.',P))
++ def test_desenhos_medalha_propria_com_placeholder_retem(self):
++  text='Art. 1º A Medalha tem as seguintes características, elucidadas nos desenhos anexos.\n\nRio de Janeiro, 22 de outubro de 1947.\n\nAssinatura\n\n&lt;&lt;ANEXO>> CLBR Vol. 08 Ano 1947 Pág. 91 Desenhos.'
++  self.assertIn('desenhos anexos',gate(text,P)['remissao'])
++ def test_formulario_de_proposta_nao_prova_desenhos_insignias(self):
++  text=MAIN+'\n\nREGULAMENTO\n\nArt. 1º A Ordem possui cinco graus.\n\nArt. 3º As insígnias terão as dimensões e características consignadas nas explicações e desenhos anexos.\n\nArt. 29. As propostas seguirão o anexo.\n\nANEXO\n\nNome do candidato ....\n\nGrau ....'
++  self.assertIn('art. 3',gate(text,P)['remissao'])
++ def test_descricao_uniforme_sem_desenhos_retem(self):
++  self.assertIsNotNone(gate('Art. 13. Para a distinção de categorias, serão colocados na gola do uniforme bordados dourados de acordo com os desenhos anexos.',P))
++ def test_desenhos_de_norma_externa_nao_retem(self):
++  self.assertIsNone(gate('Art. 1º A medalha obedecerá às características dos desenhos anexos ao Decreto nº 123 de 1930.',P))
++ def test_alteracao_citada_sem_novo_desenho_nao_retem(self):
++  self.assertIsNone(gate('Art. 1º O art. 3º do Decreto nº 123 passa a vigorar com a seguinte redação: As insígnias obedecem às características dos desenhos anexos.',P))
++ def test_visual_presente_nao_e_declarado_ausente(self):
++  self.assertIsNone(gate('Art. 3º As insígnias terão as dimensões consignadas nos desenhos anexos.',SimpleNamespace(visual=['svg'],structure=[])))
++
++class RegulamentosFuturos(unittest.TestCase):
++ def test_desenhos_da_regulamentacao_a_ser_baixada_nao_retem(self):
++  for text in ['Art. 2º A Ordem constará de quatro graus, cujas insígnias obedecerão a desenhos anexos à regulamentação a ser baixada pelo Ministro.', 'Art. 2º As insígnias da Ordem obedecerão a desenhos anexos ao regulamento a ser baixado.']:
++   self.assertIsNone(gate(text,P))
++ def test_futuro_expresso_em_outro_artigo_da_mesma_ordem_nao_retem(self):
++  text='Art. 2º As insígnias obedecerão aos desenhos anexos ao regulamento da ordem.\n\nArt. 7º O Regulamento da Ordem Nacional será aprovado pelo Presidente, mediante proposta do Conselho.'
++  self.assertIsNone(gate(text,P))
++ def test_regulamento_futuro_de_outro_objeto_nao_apaga_desenho_proprio(self):
++  text='Art. 1º A Medalha terá as características indicadas nos desenhos anexos.\n\nArt. 3º O regulamento das cerimônias será aprovado posteriormente.'
++  self.assertIsNotNone(gate(text,P))
++
+ if __name__=='__main__':unittest.main()

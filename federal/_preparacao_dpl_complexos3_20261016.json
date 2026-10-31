@@ -1,0 +1,47 @@
+{
+  "estado": "3_candidatos_condicionais_com_sublinhado_literal",
+  "arquivos": [
+    {
+      "path": "federal/_fonte/auditorias/dpl-complexos3-sublinhado-20261016/DPL4555-marcadores-retencao.json",
+      "sha256": "48ab8fccfc6de595e6fff12f361339cd7cd778152bb4fddf176f4ef043268ec3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-complexos3-sublinhado-20261016/backups/0b91a1944ecd70c04dc9216490be1d0c3c7da92c9f37f2535c8161bef2a0cdeb.md.gz",
+      "sha256": "f47f71a2d3bc288190325318575ccbe498450e7369bae11186e21cca2acd38a4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-complexos3-sublinhado-20261016/backups/0ebb10d240d42b8e5b268f544bd79324116db96b50594fccc43538a084c70304.md.gz",
+      "sha256": "b359079c4f986b9f272236efbf31bd5aa7f1920660592d6235f5ff9c1f470c7b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-complexos3-sublinhado-20261016/backups/b079efdf3a8ca5e536c8ac5c0a8662e05fd00bec450e0ed4cdfc2bf9df1b2f32.md.gz",
+      "sha256": "d013df186f5b41f8b8b699e076df85a9880ff53ace4b4b34fcd6740583739a06"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-complexos3-sublinhado-20261016/candidatos/federal/decretos-legislativos/1918/dpl-3497-1918-01-24.md",
+      "sha256": "fb8c642767fec05c784b4d7c10d30b7d052c8be7a4c5838e0f7964ff4675b0b5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-complexos3-sublinhado-20261016/candidatos/federal/decretos-legislativos/1926/dpl-5018-1926-08-25.md",
+      "sha256": "66aed259f6c2ed96a214e541f9cb1e511b4dfdeb7cdc893580ff355a495f52c7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-complexos3-sublinhado-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5597-1928-12-11.md",
+      "sha256": "34c9a48b194fde48b0352fa9ad4fee102df8237facd3e6a51b631c95fd9441a1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-complexos3-sublinhado-20261016/ledger3.jsonl",
+      "sha256": "c4de53479701cd359ed4e991e9c514c55578cee061d821ce15f2c9ad64c870a6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-complexos3-sublinhado-20261016/preparar-complexos3-d32cff7743648a82cb3f9c470d916ee9d1027f67eb5f1c8ed14763ebc9a2fce8.py",
+      "sha256": "d32cff7743648a82cb3f9c470d916ee9d1027f67eb5f1c8ed14763ebc9a2fce8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-complexos3-sublinhado-20261016/validacao.json",
+      "sha256": "58710109ef970065d7b2effd6825044171b5488ae50b57f9d82bbfe08333cfd6"
+    }
+  ],
+  "DPL4555_retido": true,
+  "limite_render": "CmarkGFMunsafe e HTML5 locais preservam <u>; sanitizador/superfície GitHub não validada. Sem interpretar sublinhado como inserção."
+}

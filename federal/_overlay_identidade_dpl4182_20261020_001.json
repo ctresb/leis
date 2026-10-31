@@ -1,0 +1,20 @@
+{
+  "retidos": [
+    {
+      "path": "federal/decretos-legislativos/1919/dpl-4182-1919-11-13.md",
+      "urn": "urn:lex:br:federal:decreto.legislativo:1919-11-13;4182",
+      "sha256_md": "c866b497c742f7cfa4f0193c4027159e02b605b70c595fb744389bcdcbfcd96e",
+      "status": "Identidade inválida: data e URN de 1919 associadas a norma de 1920. Preservar o arquivo como histórico e excluir da contagem de atos aptos até regularização coordenada.",
+      "urn_correta": "urn:lex:br:federal:decreto.legislativo:1920-11-13;4182",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/DPL4182-1920.htm",
+      "sha256_fonte_html": "dcf2d2cc1fa30b0be4688f5be11fdcff4f3fde05363e59dc2a222bf78d02acc5",
+      "evidencia_epigrafe": "DECRETO Nº 4.182, DE 13 DE NOVEMBRO DE 1920.",
+      "evidencia_fecho": "Rio de Janeiro, 13 de novembro de 1920, 99º da Independencia e 32º da Republica."
+    }
+  ],
+  "necessidade": "Aplicar a máscara de identidade de 1919 junto ao candidato canônico de 1920, sem apagar a versão histórica.",
+  "historico": {
+    "path": "federal/_historico_dpl_preexistentes_20261020_001.jsonl.gz",
+    "sha256": "129b214874266bdcf42b9837a6595b72e2820885774d6d4fa3bdabd9151c9008"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "escopo": "QA offline de dois caminhos novos em disco, com preimagens preservadas. Nenhum MD canônico foi alterado.",
+  "resumo": {
+    "candidatos": 2,
+    "publicaveis_condicionais": 2,
+    "substituicoes_de_preexistentes": 2,
+    "invalidações_de_identidade_publicada": 1,
+    "falhas_de_fonte": 0
+  },
+  "publicaveis": [
+    {
+      "path": "federal/decretos-legislativos/1920/dpl-4182-1920-11-13.md",
+      "candidate": "federal/_candidatos_dpl_preexistentes_20261020_001/dpl-4182-1920-11-13.md",
+      "sha256_candidato": "6f8490a5751e4965afa147c91edac6513103e7f09758c0f8fccb7fe4b4acbfc0",
+      "sha256_preimagem": "fc8cf20706f928eab97542eca462d45059918126fc71f96d63c0bbdf42b86d17",
+      "urn": "urn:lex:br:federal:decreto.legislativo:1920-11-13;4182",
+      "id_senado": "603440",
+      "origem": "MD e caches encontrados no disco antes desta revisão; autoria da coleta não presumida. Nenhum HTTP realizado.",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/DPL4182-1920.htm",
+      "sha256_fonte_html": "dcf2d2cc1fa30b0be4688f5be11fdcff4f3fde05363e59dc2a222bf78d02acc5",
+      "tabelas": 1,
+      "texto_visivel_igual_ao_md_preexistente": false,
+      "grupo_integracao": "4182 com máscara obrigatória do alias de 1919",
+      "checks": [
+        "Número, data e tipo legislativo conferidos com índice, fonte e fórmula de promulgação.",
+        "Fecho próprio corresponde à data canônica.",
+        "Todo texto visível e estrutura de tabelas preservados.",
+        "Sem figuras normativas ou anexos próprios ausentes na fonte.",
+        "Vigência não inferida da ausência de revogação expressa; valor anterior preservado.",
+        "URN canônica sem duplicata em outro caminho; alias de data incorreta do 4182 tratado separadamente."
+      ]
+    },
+    {
+      "path": "federal/decretos-legislativos/1922/dpl-4555-1922-08-10.md",
+      "candidate": "federal/_candidatos_dpl_preexistentes_20261020_001/dpl-4555-1922-08-10.md",
+      "sha256_candidato": "ac9b197036ef1825e5cd80bd2721c616a231d9fc5fc10c3f18e249b56aa07fd2",
+      "sha256_preimagem": "6aa565deeeef19defdec52f0ed8f7be324a763a4781462233a5afc7c9848fdee",
+      "urn": "urn:lex:br:federal:decreto.legislativo:1922-08-10;4555",
+      "id_senado": "603946",
+      "origem": "MD e caches encontrados no disco antes desta revisão; autoria da coleta não presumida. Nenhum HTTP realizado.",
+      "fonte": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-4555-10-agosto-1922-568201-publicacaooriginal-91594-pl.html",
+      "sha256_fonte_html": "8a909ad86eea0b577b05bcc2983e79c8ffc64b1eb7cc564729c24d5af540ca1f",
+      "tabelas": 22,
+      "texto_visivel_igual_ao_md_preexistente": true,
+      "grupo_integracao": "4555 independente",
+      "checks": [
+        "Número, data e tipo legislativo conferidos com índice, fonte e fórmula de promulgação.",
+        "Fecho próprio corresponde à data canônica.",
+        "Todo texto visível e estrutura de tabelas preservados.",
+        "Sem figuras normativas ou anexos próprios ausentes na fonte.",
+        "Vigência não inferida da ausência de revogação expressa; valor anterior preservado.",
+        "URN canônica sem duplicata em outro caminho; alias de data incorreta do 4182 tratado separadamente."
+      ]
+    }
+  ],
+  "invalidações": [
+    {
+      "path": "federal/decretos-legislativos/1919/dpl-4182-1919-11-13.md",
+      "urn": "urn:lex:br:federal:decreto.legislativo:1919-11-13;4182",
+      "sha256_md": "c866b497c742f7cfa4f0193c4027159e02b605b70c595fb744389bcdcbfcd96e",
+      "status": "Identidade inválida: data e URN de 1919 associadas a norma de 1920. Preservar o arquivo como histórico e excluir da contagem de atos aptos até regularização coordenada.",
+      "urn_correta": "urn:lex:br:federal:decreto.legislativo:1920-11-13;4182",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/DPL4182-1920.htm",
+      "sha256_fonte_html": "dcf2d2cc1fa30b0be4688f5be11fdcff4f3fde05363e59dc2a222bf78d02acc5",
+      "evidencia_epigrafe": "DECRETO Nº 4.182, DE 13 DE NOVEMBRO DE 1920.",
+      "evidencia_fecho": "Rio de Janeiro, 13 de novembro de 1920, 99º da Independencia e 32º da Republica."
+    }
+  ],
+  "precondicoes": [
+    "Confrontar SHA anterior dos dois destinos antes de aplicar qualquer candidato.",
+    "Para 4182, registrar a máscara da identidade inválida de 1919 no mesmo ciclo da aplicação de 1920.",
+    "O conjunto 4182 representa uma única norma, com versões histórica e compilada preservadas; não contar 1919 e 1920 como dois atos.",
+    "4555 pode ser aplicado independentemente, restaurando a estrutura das 22 tabelas."
+  ],
+  "historico": {
+    "path": "federal/_historico_dpl_preexistentes_20261020_001.jsonl.gz",
+    "sha256": "129b214874266bdcf42b9837a6595b72e2820885774d6d4fa3bdabd9151c9008"
+  }
+}

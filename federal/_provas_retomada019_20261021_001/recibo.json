@@ -1,0 +1,15 @@
+{
+  "momento": "2026-10-21T06:49:43.117033",
+  "preimagem_interrupcao": {
+    "path": "/tmp/federal20261021-interrupcao019-preimagem.tar.gz",
+    "sha256": "61f1847845f1f837c213b4531f21ffa7daa9e037ac0ebba87dafc3963ab7e80e"
+  },
+  "snapshot_validado": "/tmp/federal20261021-retomada019-checkpoint-validado.json",
+  "codigo_retomada_sha256": "13d0d907f3a19131fe279e981fe0986a1a5e7aaa06e41360ece22d7966952734",
+  "cache_por_URN_com_URL_confrontada": true,
+  "contagens": {
+    "HTTP_real": 1725,
+    "metadados_cache": 18,
+    "html_cache": 7
+  }
+}

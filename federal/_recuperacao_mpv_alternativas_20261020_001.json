@@ -1,0 +1,87 @@
+{
+  "escopo": "Reavalia os12retidos restantes de203capturas anteriores; não são12novasnormas. Nenhum MD canônico alterado. Planalto preserva anotações/retificações e tabelas; excluído apenas brasão/cabeçalho decorativo comprovado. Substituições exigem SHA anterior.",
+  "publicaveis": [],
+  "retidos": [
+    {
+      "path": "federal/medidas-provisorias/2003/mpv-124-2003-07-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-07-11;124",
+      "sha256_md_publicado": "5acb49d7bd4f841574a0dad0c1c6733b322416fec2d7c13858398f7f1fb28e30",
+      "motivo_retencao": "AssertionError('brasilia, 11 de junho de 2003; 182º da independencia e 115º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2003/mpv-143-2003-12-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-11;143",
+      "sha256_md_publicado": "c6a80b495a1dcf0f5ce22a3602658776d2a0f21cc11b498a3b73d7609f08b85b",
+      "motivo_retencao": "error('bad escape \\\\u at position 25')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2003/mpv-144-2003-12-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-11;144",
+      "sha256_md_publicado": "6a3c8064c7e88962bf3d2640a356e647492f3bda6929098a84774f1b632be667",
+      "motivo_retencao": "error('bad escape \\\\u at position 25')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2003/mpv-145-2003-12-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-12-11;145",
+      "sha256_md_publicado": "623344da6100672ad2d50053a053450dd925601e94b6d1ea08b8ad895a15ef5e",
+      "motivo_retencao": "error('bad escape \\\\u at position 25')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2005/mpv-269-2005-12-15.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2005-12-15;269",
+      "sha256_md_publicado": "27f9c0a6317db8f71d7a6e369c40a378c1c538ede5a62239bf326111830dc9a8",
+      "motivo_retencao": "error('bad escape \\\\u at position 25')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2007/mpv-412-2007-12-31.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2007-12-31;412",
+      "sha256_md_publicado": "c5e52506ec953d0f57e076e62bfcb97fe7c69fe483b04cc35251a2a634056bc2",
+      "motivo_retencao": "error('bad escape \\\\u at position 25')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2008/mpv-451-2008-12-15.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2008-12-15;451",
+      "sha256_md_publicado": "240937886f54034b43e6e475ec6cb546cc8f14acf6d6f4059e0f66a6612f0aa2",
+      "motivo_retencao": "error('bad escape \\\\u at position 25')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2009/mpv-467-2009-07-30.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2009-07-30;467",
+      "sha256_md_publicado": "50029be9f541fa3802a1a88bc2eaa213d6f8a7d4f7c6ff07c9346ffbe665ff93",
+      "motivo_retencao": "error('bad escape \\\\u at position 25')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2011/mpv-545-2011-09-29.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-09-29;545",
+      "sha256_md_publicado": "8598e775645eb5cb9bd3eec378d68ed0fcb04553aae41ff712d166b5168326d5",
+      "motivo_retencao": "error('bad escape \\\\u at position 25')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2011/mpv-555-2011-12-23.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-12-23;555",
+      "sha256_md_publicado": "d4e7917b155186bbe9e354b457db656d2498b64063cf2f0495894938f29212fe",
+      "motivo_retencao": "error('bad escape \\\\u at position 25')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2012/mpv-563-2012-04-03.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2012-04-03;563",
+      "sha256_md_publicado": "dc250f5e49fdb5589a4c5ba3b20defe13f4f8df51b4504acee07929a5dd277cf",
+      "motivo_retencao": "error('bad escape \\\\u at position 25')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2020/mpv-977-2020-06-04.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2020-06-04;977",
+      "sha256_md_publicado": "c836579dffbb66bd6b5c3af791c3efe36ffa362c52d3a06f43f5e929fc163df4",
+      "motivo_retencao": "ValueError('elemento visual não extraído na tabela: img')"
+    }
+  ],
+  "resumo": {
+    "candidatos": 12,
+    "substituicoes_publicaveis": 0,
+    "retidos": 12
+  },
+  "historico_e_fontes": {
+    "path": "federal/_historico_recuperacao_mpv_alternativas_20261020_001.jsonl.gz",
+    "sha256": "74420f89d2d2a4256b5b578f1c2a01dd2b605f9aca4905db839d008cfd29cac0"
+  }
+}

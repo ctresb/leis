@@ -1,0 +1,31 @@
+from pathlib import Path
+import sys,json,gzip,hashlib,collections,datetime
+sys.path.insert(0,'scripts');import baixar_federal as f
+from preparar_lote_decretos_cache import fields,visible
+from identidade_decreto import extrair_epigrafe_decreto,numero_normalizado
+sha=lambda b:hashlib.sha256(b).hexdigest();frozen={};lists=['/tmp/lote_dec_continuacao_20261020_'+str(n).zfill(3)+'-publicar-hashes-v3.json' for n in [15,16,17]]+['/tmp/federal20261021-guard-lacunas-014-hashes.json','/tmp/federal20261021-diagnostico-publicados46-013-hashes.json','/tmp/federal20261021-identidade53480-009-hashes.json','/tmp/federal20261021-identidade53480-010-hashes.json']
+for lp in lists:
+ d=json.load(open(lp));rs=d['arquivos'] if isinstance(d,dict) and 'arquivos' in d else [{'path':p,'sha256':h} for p,h in d.items()] if isinstance(d,dict) else d
+ for r in rs:
+  if r['path'] in frozen:assert frozen[r['path']]==r['sha256']
+  frozen[r['path']]=r['sha256']
+for p,h in frozen.items():assert sha(Path(p).read_bytes())==h,('pacote congelado divergiu',p)
+for no in [15,16,17,18]:
+ d=json.load(open(f'federal/_lote_dec_continuacao_20261020_{no:03}.json'))
+ for r in d['publicaveis']:
+  assert sha(Path(r['path']).read_bytes())==r['sha256'],r['path'];s=Path(r['path'].replace('federal/decretos/','federal/_fonte/decretos/').replace('.md','.html.gz'));assert sha(gzip.decompress(s.read_bytes()))==r['sha256_fonte_html'];assert sha(gzip.decompress(Path(r['captura_metadados']).read_bytes()))==r['sha256_metadados']
+ print('lote validado',no,len(d['publicaveis']),flush=True)
+D=Path('federal/_fonte/auditorias/lote_dec_continuacao_20261020_019');inp=Path('/tmp/federal20261020-continuacao-019.json');assert json.loads(inp.read_text())==json.loads((D/'candidatos.json').read_text());rows=json.loads(inp.read_text());paths={r['path'] for r in rows};prior=json.loads((D/'coleta.json').read_text());assert len({r['path'] for r in prior['registros']})==len(prior['registros']);assert all(r['path'] in paths for r in prior['registros']);result=[];blobmap={};seen=set();cached_meta={};html_no_md=[]
+for r in rows:
+ p=D/'work'/Path(r['path']).relative_to('federal');s=D/'work/_fonte'/Path(r['path']).relative_to('federal');s=s.with_suffix('.html.gz');u=f.montar(r['indice'])['urn'];mr=[]
+ for mp in (D/'work/_fonte/metadados-normas'/sha(u.encode())).glob('*.json.gz'):
+  b=gzip.decompress(mp.read_bytes());assert mp.stem.split('.')[0]==sha(b);m=json.loads(b);assert m['legislationIdentifier']==u;mr.append((mp,b,m));blobmap[str(mp)]=sha(mp.read_bytes())
+ if mr:cached_meta[u]=len(mr)
+ if s.exists():
+  html=gzip.decompress(s.read_bytes());blobmap[str(s)]=sha(s.read_bytes());assert html and not b'\0' in html
+ if p.exists():
+  raw=p.read_bytes();m,c,b=fields(raw.decode());assert m['urn']==u and str(m['numero'])==numero_normalizado(f.numero_oficial(r['indice'])) and m['data']==f.montar(r['indice'])['data'];assert s.exists();ep=extrair_epigrafe_decreto(b);assert ep and ep['numero']==numero_normalizado(f.numero_oficial(r['indice'])) and ep['data']==m['data'];assert any(sha(x[1])==m['sha256_metadados_fonte'] for x in mr);sv,sp=visible(html.decode());mv,mp=visible(b.lstrip().partition('\n')[2],True);assert sv==mv and sp.structure==mp.structure and not sp.visual;seen.add(r['path']);blobmap[str(p)]=sha(raw);result.append({'path':r['path'],'sha256_md':sha(raw),'sha256_html':sha(html),'urn':u})
+ elif s.exists():html_no_md.append({'path':r['path'],'sha256_html':sha(html),'metadados':len(mr)})
+assert all(r['path'] in seen for r in prior['registros'] if r['status'] in ['ok','pulado'])
+out={'momento':datetime.datetime.now().isoformat(),'interrupcao':{'pid':63780,'sessao':23107,'saida':143,'sinal':'SIGTERM','motivo':'ROOT detectou OSError 6 Device not configured no volume e ordenou parar gravações.','ultimo_buffer_stdout':{'concluidos':1080,'ok_preliminar':988,'bloqueio_http':False},'limite':'O buffer não comprova persistência do checkpoint; o estado efetivo pós-recuperação está abaixo.'},'validacao':{'arquivos_congelados_sha_reconferidos':len(frozen),'snapshot_candidatos':{'path':str(D/'candidatos.json'),'sha256':sha((D/'candidatos.json').read_bytes()),'total':len(rows),'entrada_semanticamente_identica':True},'checkpoint_real':{'path':str(D/'coleta.json'),'sha256':sha((D/'coleta.json').read_bytes()),'registros':len(prior['registros']),'status':dict(collections.Counter(r['status'] for r in prior['registros']))},'MD_work_validados':len(result),'HTML_sem_MD':len(html_no_md),'URN_com_metadados_cache':len(cached_meta)},'mds':result,'html_sem_md':html_no_md,'sha256_arquivos_cache_pos_recuperacao':blobmap,'coleta_preimagem':prior,'snapshot_preimagem':rows,'sem_http_e_sem_mutacao_do_volume':True}
+Path('/tmp/federal20261021-retomada019-checkpoint-validado.json').write_text(json.dumps(out,ensure_ascii=False,indent=2)+'\n');print(out['validacao'],flush=True)

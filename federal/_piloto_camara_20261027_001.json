@@ -1,0 +1,163 @@
+{
+  "escopo": "Dois atos novos, recuperados de edição Original digital da Câmara após metadados Normas sem encoding. Pacote separado de 9061/3608/022–024. Nenhum destino canônico criado.",
+  "resumo": {
+    "candidatos": 2,
+    "aprovados_replay": 2,
+    "promovidos": 0
+  },
+  "publicaveis_privados": [
+    {
+      "path": "federal/decretos/1940/dec-6218-1940-09-04.md",
+      "urn": "urn:lex:br:federal:decreto:1940-09-04;6218",
+      "indice_senado": {
+        "id": "410064",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "6218",
+        "norma": "DEC-6218-1940-09-04",
+        "normaNome": "Decreto nº 6.218 de 04/09/1940",
+        "ementa": "AUTORIZA O CIDADÃO BRASILEIRO TRAJANO SABOIA VIRIATO DE MEDEIROS A PESQUISAR MANGANÊS E ASSOCIADOS NO MUNICÍPIO DE ITABIRITO DO ESTADO DE MINAS GERAIS.",
+        "dataassinatura": "04/09/1940",
+        "anoassinatura": "1940",
+        "apelido": "DEC-6218-1940-09-04"
+      },
+      "candidato": "federal/_fonte/auditorias/retomada_federal_20261027_004/candidatos_piloto_camara/dec-6218-1940-09-04.md",
+      "sha256_candidato": "5cdea1b52ee2092f75b0f5929e70993ba1837140c8728f0c8777cddbf0089ea4",
+      "html_original": {
+        "url": "https://www2.camara.leg.br/legin/fed/decret/1940-1949/decreto-6218-4-setembro-1940-326402-publicacaooriginal-1-pe.html",
+        "captura_utc": "2026-10-27T20:34:24.055798+00:00",
+        "origem": "captura oficial nova limitada",
+        "status_http": 200,
+        "arquivo": "federal/_fonte/auditorias/retomada_federal_20261027_004/piloto_camara/6218-original.html.gz",
+        "sha256_raw": "62e6830fe80d7213c827b1acfc8ca098452785d6b0755dd9e05940ae4dac25d2",
+        "sha256_html_decodificado": "62e6830fe80d7213c827b1acfc8ca098452785d6b0755dd9e05940ae4dac25d2",
+        "bytes": 43903
+      },
+      "sha256_fonte_html_decodificada": "62e6830fe80d7213c827b1acfc8ca098452785d6b0755dd9e05940ae4dac25d2",
+      "area_normativa_html": "<h1>Decreto nº 6.218, de 4 de Setembro de 1940</h1>\n\r\n\t\t\t\t\r\n\t\t\t\t\t\t<p class=\"ementa\">\r\n\t\t\t\t\t\t\tAutoriza o cidadão brasileiro Trajano Sabóia Viriato de Medeiros a pesquisar manganês e associados no município de Itabirito, do Estado de Minas Gerais.\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\r\n\t\t\t\t\t\t<div class=\"texto\">\r\n\t\t\t\t\t\t\t\r\n<P>O Presidente da República, usando as atribuições que lhe confere o art. 74, \r\nletra a, da Constituição, tendo em vista o Decreto-lei número 1.985, de 29 de \r\njaneiro de 1940 (Código de Minas),</P>\r\n<P>                                 Decreta: \r\n<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 1º&nbsp;Fica autorizado o cidadão brasileiro Trajano Saboia Viriato de Medeiros a pesquisar manganês e associados numa área de cento e cincoenta (150) hectares localizada em terras da \"Fazenda Moeda\", de sua propriedade, sitas no município de Itabirito do Estado de Minas Gerais, com as seguintes confrontações: ao norte, por cercas e vales, com terrenos de herdeiros de Antônio Rosa e pelo ribeirão Mata Porcos; a oeste, pelo córrego da Água Limpa, com terrenos de propriedade de Pedro Estevão Caetano e com terrenos do requerente; ao sul, por uma reta de mil novecentos e noventa (1.990) metros, e rumo N.57ºW, com terrenos do requerente; à leste, pelo córrego do Pacífico e com terrenos de propriedade do Dr. Pacífico Homem, e definida em plana arquivada no Departamento Nacional de Produção Mineral, autorização esta que é outorgada mediante as seguintes condições: \r\n<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     I - O título da autorização de pesquisa, que será uma via autêntica deste decreto, será pessoal e somente transmissível nos casos previstos no n. I do art. 16 do Código de Minas. \r\n<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     II - Esta autorização vigorará por dois (2) anos, podendo ser renovada, a juízo do Governo, se ocorrer circunstância de força maior devidamente comprovada; \r\n<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     III - O campo da pesquisa não poderá exceder a área fixada neste decreto; \r\n<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     IV - O Governo fiscalizará pelo Departamento Nacional de Produção Mineral todos os trabalhos de pesquisa, sendo-lhe facultado neles intervir, afim de melhor orientar-lhes a marcha; \r\n<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     V - Na conclusão dos trabalhos o autorizado apresentará um relatório firmado por engenheiro de minas legalmente habilitado, contendo as informações e dados especificados no n. IX e alíneas, do artigo 16 do Código de Minas; \r\n<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     VI - O concessionário só poderá utilizar-se do produto da pesquisa para fins de estudos sobre o minério e custeio dos trabalhos; \r\n<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     VII - Ficam ressalvados os interesses de terceiros, ressarcindo o autorizado danos e prejuízos que ocasionar a que de direito, e não respondendo o Governo pelas limitações que possam sobreviver ao título, da oposição dos ditos direitos. \r\n<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 2º&nbsp; Esta autorização será considerada abandonada, para o efeito do parágrafo único do art. 24 do Código de Minas, nas seguintes condições: \r\n<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     I - Si o autorizado não iniciar os trabalhos de pesquisa dentro dos seis (6) primeiros meses, contados da data do registro a que alude o art. 4° deste decreto; \r\n<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     II - Si interromper os trabalhos de pesquisa, por igual espaço de tempo, salvo motivo de força maior, a juízo do Governo. \r\n<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 3º&nbsp; Si o autorizado infringir o n. I ou o n. VI do art. 1° deste decreto, ou não se submeter às exigências da fiscalização, será anulada esta autorização, na forma dos arts 25 e 26 do Código de Minas. \r\n<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 4º&nbsp; O título a que alude o n. I do art. 1° deste decreto pagará de selo a quantia de um conto e quinhentos mil réis (1:500$0) e só será válido depois de transcrito no livro competente da Divisão de Fomento da Produção Mineral do Ministério da Agricultura, na forma do art. 16 do Código de Minas. \r\n<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 5º&nbsp; Revogam-se as \r\ndisposições em contrário. Rio de Janeiro, 4 de setembro de 1940, 119° da \r\nIndependência e 52° da República. </P>\r\n<P>GETÚLIO VARGAS <BR>      \r\n               \r\n  \r\nFernando Costa\r\n<BR></P>\r\n\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t    \r\n\t\t\t\t",
+      "epigrafe_pagina_digital": {
+        "html": "<h1>Decreto nº 6.218, de 4 de Setembro de 1940</h1>",
+        "texto": "Decreto nº 6.218, de 4 de Setembro de 1940",
+        "epigrafe": {
+          "numero": "6218",
+          "data": "1940-09-04",
+          "epigrafe": "Decreto nº 6.218, de 4 de Setembro de 1940"
+        }
+      },
+      "captura_metadados": "federal/_fonte/auditorias/lote_dec_continuacao_20261020_024/work/_fonte/metadados-normas/c31ad11c5f3cf25f86f031c980aece8eeaa15d938e23de4c423f323ff2676c8b/3d59f16e0a73aa2045d434d3a01c91b9d5f139d0b510ca6b5b2e7a794011feb2.json.gz",
+      "sha256_metadados": "3d59f16e0a73aa2045d434d3a01c91b9d5f139d0b510ca6b5b2e7a794011feb2",
+      "metadados_raw": "{\"legislationPassedBy\":{\"@type\":\"GovernmentOrganization\",\"@id\":\"https://www.planalto.gov.br/\"},\"keywords\":[\"AUTORIZAÇÃO\",\"PESQUISA DE MINERIO\",\"MANGANES\",\"MUNICIPIO\",\"ITABIRITO\",\"ESTADO DE MINAS GERAIS (MG)\"],\"@type\":\"Legislation\",\"legislationIdentifier\":\"urn:lex:br:federal:decreto:1940-09-04;6218\",\"inLanguage\":\"pt\",\"alternateName\":[\"DEC-6218-1940-09-04\"],\"abstract\":\"AUTORIZA O CIDADÃO BRASILEIRO TRAJANO SABOIA VIRIATO DE MEDEIROS A PESQUISAR MANGANÊS E ASSOCIADOS NO MUNICÍPIO DE ITABIRITO DO ESTADO DE MINAS GERAIS.\",\"sdDatePublished\":\"2023-09-23\",\"sdLicense\":\"https://creativecommons.org/licenses/by/4.0/\",\"@context\":[\"http://schema.org/\"],\"legislationJurisdiction\":{\"address\":{\"addressCountry\":\"BR\",\"@type\":\"PostalAddress\"},\"@type\":\"Country\",\"name\":\"Brasil\",\"@id\":\"https://servicodados.ibge.gov.br/api/v1/localidades/paises/76\",\"url\":\"https://pt.wikipedia.org/wiki/Brasil\"},\"sdPublisher\":{\"@type\":\"GovernmentOrganization\",\"@id\":\"https://www.congressonacional.leg.br/\"},\"datePublished\":\"1940-09-04\",\"license\":\"https://creativecommons.org/licenses/by/4.0/\",\"legislationDate\":\"1940-09-04\",\"legislationLegalForce\":\"NotInForce\",\"name\":\"Decreto nº 6.218 de 04/09/1940\",\"legislationType\":\"Decreto Numerado\",\"publisher\":{\"@type\":\"GovernmentOrganization\",\"@id\":\"https://www.in.gov.br/\"},\"@id\":\"https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1940-09-04;6218\",\"@reverse\":{\"legislationRepeals\":[{\"@type\":\"Legislation\",\"@id\":\"https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1991-02-15;seq-sf-1\"}]},\"headline\":\"Decreto nº 6.218, de 04 de setembro de 1940\",\"sameAs\":[\"http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:1940-09-04;6218\",\"http://legis.senado.leg.br/legislacao/DetalhaSigen.action?id=410064\"]}",
+      "estado": "candidato privado aprovado no replay CommonMark, sem promoção",
+      "origem": "Recuperação oficial alternativa de entrada sem encoding na API Normas; corpo inteiro de uma única edição Original da Câmara, sem mistura com Normas.",
+      "tabelas": 0,
+      "fecho_proprio": {
+        "literal": "Rio de Janeiro, 4 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa",
+        "data_identificada": "1940-09-04",
+        "assinatura_presidencial_confirmada": true
+      },
+      "sha256": "5cdea1b52ee2092f75b0f5929e70993ba1837140c8728f0c8777cddbf0089ea4"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6220-1940-09-04.md",
+      "urn": "urn:lex:br:federal:decreto:1940-09-04;6220",
+      "indice_senado": {
+        "id": "410072",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "6220",
+        "norma": "DEC-6220-1940-09-04",
+        "normaNome": "Decreto nº 6.220 de 04/09/1940",
+        "ementa": "CONCEDE À \"MAGNESITA SOCIEDADE ANÔNIMA\", AUTORIZAÇÃO PARA FUNCIONAR COMO EMPRESA DE MINERAÇÃO.",
+        "dataassinatura": "04/09/1940",
+        "anoassinatura": "1940",
+        "apelido": "DEC-6220-1940-09-04"
+      },
+      "candidato": "federal/_fonte/auditorias/retomada_federal_20261027_004/candidatos_piloto_camara/dec-6220-1940-09-04.md",
+      "sha256_candidato": "007d162c7f1acf674fd8241d6d57a3f940a38b446994896311e5627fe6575816",
+      "html_original": {
+        "url": "https://www2.camara.leg.br/legin/fed/decret/1940-1949/decreto-6220-4-setembro-1940-326411-publicacaooriginal-1-pe.html",
+        "captura_utc": "2026-10-27T20:34:25.858740+00:00",
+        "origem": "captura oficial nova limitada",
+        "status_http": 200,
+        "arquivo": "federal/_fonte/auditorias/retomada_federal_20261027_004/piloto_camara/6220-original.html.gz",
+        "sha256_raw": "2896793f70996ec60ffac672602566a5bee990c24e9132636048a0adf3cf6856",
+        "sha256_html_decodificado": "2896793f70996ec60ffac672602566a5bee990c24e9132636048a0adf3cf6856",
+        "bytes": 40627
+      },
+      "sha256_fonte_html_decodificada": "2896793f70996ec60ffac672602566a5bee990c24e9132636048a0adf3cf6856",
+      "area_normativa_html": "<h1>Decreto nº 6.220, de 4 de Setembro de 1940</h1>\n\r\n\t\t\t\t\r\n\t\t\t\t\t\t<p class=\"ementa\">\r\n\t\t\t\t\t\t\tConcede à \"Magnesita Sociedade Anônima\" autorização para funcionar como empresa de mineração.\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\r\n\t\t\t\t\t\t<div class=\"texto\">\r\n\t\t\t\t\t\t\t\r\n<P>O Presidente da República, usando as atribuições que lhe confere o art. 74, \r\nletra a, da Constituição e nos termos dao Decreto-lei n. 1.985, de 29 de janeiro \r\nde 1940 (Código da Águas),</P>\r\n<P>                                 \r\nDecreta:\r\n<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 1º&nbsp; É concedida à \"Magnesita Sociedade Anônima\", com sede no Distrito Federal, autorização para funcionar como empresa de mineração, de acordo com o que dispõe o art. 6° §1° do Decreto-lei n. 1.985, de 29 de janeiro de 1940 (Código de Minas), ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentação em vigor ou que vierem a vigorar sobre o objeto da referida autorização.\r\n<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. \r\n2º&nbsp; Revogam-se as disposições em contrário.</P>\r\n<P>Rio de Janeiro, 4 de setembro de 1940, 119° da Independência e 52° da \r\nRepública. </P>\r\n<P>GETÚLIO VARGAS<BR>      \r\n              \r\n \r\nFernando Costa\r\n<BR></P>\r\n\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t    \r\n\t\t\t\t",
+      "epigrafe_pagina_digital": {
+        "html": "<h1>Decreto nº 6.220, de 4 de Setembro de 1940</h1>",
+        "texto": "Decreto nº 6.220, de 4 de Setembro de 1940",
+        "epigrafe": {
+          "numero": "6220",
+          "data": "1940-09-04",
+          "epigrafe": "Decreto nº 6.220, de 4 de Setembro de 1940"
+        }
+      },
+      "captura_metadados": "federal/_fonte/auditorias/lote_dec_continuacao_20261020_024/work/_fonte/metadados-normas/dbd40768f52b21bddf56aea9d82a97a2eb11f088e99a81c1c6f1b092341edb93/e4f882514137c797c0bf101e1a509a19a8501e49d41f0bffd89dc39da6a35974.json.gz",
+      "sha256_metadados": "e4f882514137c797c0bf101e1a509a19a8501e49d41f0bffd89dc39da6a35974",
+      "metadados_raw": "{\"legislationPassedBy\":{\"@type\":\"GovernmentOrganization\",\"@id\":\"https://www.planalto.gov.br/\"},\"keywords\":[\"CONCESSÃO\",\"AUTORIZAÇÃO\",\"FUNCIONAMENTO\",\"SOCIEDADE ANONIMA\",\"EMPRESA DE MINERAÇÃO\"],\"@type\":\"Legislation\",\"legislationIdentifier\":\"urn:lex:br:federal:decreto:1940-09-04;6220\",\"inLanguage\":\"pt\",\"alternateName\":[\"DEC-6220-1940-09-04\"],\"abstract\":\"CONCEDE À \\\"MAGNESITA SOCIEDADE ANÔNIMA\\\", AUTORIZAÇÃO PARA FUNCIONAR COMO EMPRESA DE MINERAÇÃO.\",\"sdDatePublished\":\"2023-09-23\",\"sdLicense\":\"https://creativecommons.org/licenses/by/4.0/\",\"@context\":[\"http://schema.org/\"],\"legislationJurisdiction\":{\"address\":{\"addressCountry\":\"BR\",\"@type\":\"PostalAddress\"},\"@type\":\"Country\",\"name\":\"Brasil\",\"@id\":\"https://servicodados.ibge.gov.br/api/v1/localidades/paises/76\",\"url\":\"https://pt.wikipedia.org/wiki/Brasil\"},\"sdPublisher\":{\"@type\":\"GovernmentOrganization\",\"@id\":\"https://www.congressonacional.leg.br/\"},\"datePublished\":\"1940-09-04\",\"license\":\"https://creativecommons.org/licenses/by/4.0/\",\"legislationDate\":\"1940-09-04\",\"legislationLegalForce\":\"NotInForce\",\"name\":\"Decreto nº 6.220 de 04/09/1940\",\"legislationType\":\"Decreto Numerado\",\"publisher\":{\"@type\":\"GovernmentOrganization\",\"@id\":\"https://www.in.gov.br/\"},\"@id\":\"https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1940-09-04;6220\",\"@reverse\":{\"legislationRepeals\":[{\"@type\":\"Legislation\",\"@id\":\"https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1991-02-15;seq-sf-1\"}]},\"headline\":\"Decreto nº 6.220, de 04 de setembro de 1940\",\"sameAs\":[\"http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:1940-09-04;6220\",\"http://legis.senado.leg.br/legislacao/DetalhaSigen.action?id=410072\"]}",
+      "estado": "candidato privado aprovado no replay CommonMark, sem promoção",
+      "origem": "Recuperação oficial alternativa de entrada sem encoding na API Normas; corpo inteiro de uma única edição Original da Câmara, sem mistura com Normas.",
+      "tabelas": 0,
+      "fecho_proprio": {
+        "literal": "Rio de Janeiro, 4 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa",
+        "data_identificada": "1940-09-04",
+        "assinatura_presidencial_confirmada": true
+      },
+      "sha256": "007d162c7f1acf674fd8241d6d57a3f940a38b446994896311e5627fe6575816"
+    }
+  ],
+  "dedup": {
+    "HEAD": "58b037604d457ebd07ce46ba590e6a3913a71870",
+    "paths": [
+      "federal/decretos/1940/dec-6218-1940-09-04.md",
+      "federal/decretos/1940/dec-6220-1940-09-04.md"
+    ],
+    "resultado": "Dois destinos ausentes de HEAD e de disco; candidatos permanecem privados."
+  },
+  "replay": {
+    "escopo": "Replay integral independente marcado 17.0.5 GFM dos dois candidatos Câmara, preservando todos os caracteres/pontuação, números/contextos, tabelas e ausência de visual na área normativa. Sem promover.",
+    "resumo": {
+      "auditados": 2,
+      "aprovados": 2,
+      "divergencias": 0
+    },
+    "registros": [
+      {
+        "path": "federal/decretos/1940/dec-6218-1940-09-04.md",
+        "candidato": "federal/_fonte/auditorias/retomada_federal_20261027_004/candidatos_piloto_camara/dec-6218-1940-09-04.md",
+        "sha256_candidato": "5cdea1b52ee2092f75b0f5929e70993ba1837140c8728f0c8777cddbf0089ea4",
+        "aprovado": true,
+        "sha256_visivel_fonte": "3f43448418f45cd3dfb0d135b248dce0b7a00381023877e4edb7664e0101e18a",
+        "sha256_visivel_render": "3f43448418f45cd3dfb0d135b248dce0b7a00381023877e4edb7664e0101e18a",
+        "sha256_render_html": "0cbe8f6dfa2a4ebbffe28bed409c943934d01a7bf0c56fb8a7afcfe0cf289c61",
+        "texto_visivel_fonte": "Decreto nº 6.218, de 4 de Setembro de 1940 Autoriza o cidadão brasileiro Trajano Sabóia Viriato de Medeiros a pesquisar manganês e associados no município de Itabirito, do Estado de Minas Gerais. O Presidente da República, usando as atribuições que lhe confere o art. 74, letra a, da Constituição, tendo em vista o Decreto-lei número 1.985, de 29 de janeiro de 1940 (Código de Minas), Decreta: Art. 1º Fica autorizado o cidadão brasileiro Trajano Saboia Viriato de Medeiros a pesquisar manganês e associados numa área de cento e cincoenta (150) hectares localizada em terras da \"Fazenda Moeda\", de sua propriedade, sitas no município de Itabirito do Estado de Minas Gerais, com as seguintes confrontações: ao norte, por cercas e vales, com terrenos de herdeiros de Antônio Rosa e pelo ribeirão Mata Porcos; a oeste, pelo córrego da Água Limpa, com terrenos de propriedade de Pedro Estevão Caetano e com terrenos do requerente; ao sul, por uma reta de mil novecentos e noventa (1.990) metros, e rumo N.57ºW, com terrenos do requerente; à leste, pelo córrego do Pacífico e com terrenos de propriedade do Dr. Pacífico Homem, e definida em plana arquivada no Departamento Nacional de Produção Mineral, autorização esta que é outorgada mediante as seguintes condições: I - O título da autorização de pesquisa, que será uma via autêntica deste decreto, será pessoal e somente transmissível nos casos previstos no n. I do art. 16 do Código de Minas. II - Esta autorização vigorará por dois (2) anos, podendo ser renovada, a juízo do Governo, se ocorrer circunstância de força maior devidamente comprovada; III - O campo da pesquisa não poderá exceder a área fixada neste decreto; IV - O Governo fiscalizará pelo Departamento Nacional de Produção Mineral todos os trabalhos de pesquisa, sendo-lhe facultado neles intervir, afim de melhor orientar-lhes a marcha; V - Na conclusão dos trabalhos o autorizado apresentará um relatório firmado por engenheiro de minas legalmente habilitado, contendo as informações e dados especificados no n. IX e alíneas, do artigo 16 do Código de Minas; VI - O concessionário só poderá utilizar-se do produto da pesquisa para fins de estudos sobre o minério e custeio dos trabalhos; VII - Ficam ressalvados os interesses de terceiros, ressarcindo o autorizado danos e prejuízos que ocasionar a que de direito, e não respondendo o Governo pelas limitações que possam sobreviver ao título, da oposição dos ditos direitos. Art. 2º Esta autorização será considerada abandonada, para o efeito do parágrafo único do art. 24 do Código de Minas, nas seguintes condições: I - Si o autorizado não iniciar os trabalhos de pesquisa dentro dos seis (6) primeiros meses, contados da data do registro a que alude o art. 4° deste decreto; II - Si interromper os trabalhos de pesquisa, por igual espaço de tempo, salvo motivo de força maior, a juízo do Governo. Art. 3º Si o autorizado infringir o n. I ou o n. VI do art. 1° deste decreto, ou não se submeter às exigências da fiscalização, será anulada esta autorização, na forma dos arts 25 e 26 do Código de Minas. Art. 4º O título a que alude o n. I do art. 1° deste decreto pagará de selo a quantia de um conto e quinhentos mil réis (1:500$0) e só será válido depois de transcrito no livro competente da Divisão de Fomento da Produção Mineral do Ministério da Agricultura, na forma do art. 16 do Código de Minas. Art. 5º Revogam-se as disposições em contrário. Rio de Janeiro, 4 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa",
+        "texto_visivel_render": "Decreto nº 6.218, de 4 de Setembro de 1940 Autoriza o cidadão brasileiro Trajano Sabóia Viriato de Medeiros a pesquisar manganês e associados no município de Itabirito, do Estado de Minas Gerais. O Presidente da República, usando as atribuições que lhe confere o art. 74, letra a, da Constituição, tendo em vista o Decreto-lei número 1.985, de 29 de janeiro de 1940 (Código de Minas), Decreta: Art. 1º Fica autorizado o cidadão brasileiro Trajano Saboia Viriato de Medeiros a pesquisar manganês e associados numa área de cento e cincoenta (150) hectares localizada em terras da \"Fazenda Moeda\", de sua propriedade, sitas no município de Itabirito do Estado de Minas Gerais, com as seguintes confrontações: ao norte, por cercas e vales, com terrenos de herdeiros de Antônio Rosa e pelo ribeirão Mata Porcos; a oeste, pelo córrego da Água Limpa, com terrenos de propriedade de Pedro Estevão Caetano e com terrenos do requerente; ao sul, por uma reta de mil novecentos e noventa (1.990) metros, e rumo N.57ºW, com terrenos do requerente; à leste, pelo córrego do Pacífico e com terrenos de propriedade do Dr. Pacífico Homem, e definida em plana arquivada no Departamento Nacional de Produção Mineral, autorização esta que é outorgada mediante as seguintes condições: I - O título da autorização de pesquisa, que será uma via autêntica deste decreto, será pessoal e somente transmissível nos casos previstos no n. I do art. 16 do Código de Minas. II - Esta autorização vigorará por dois (2) anos, podendo ser renovada, a juízo do Governo, se ocorrer circunstância de força maior devidamente comprovada; III - O campo da pesquisa não poderá exceder a área fixada neste decreto; IV - O Governo fiscalizará pelo Departamento Nacional de Produção Mineral todos os trabalhos de pesquisa, sendo-lhe facultado neles intervir, afim de melhor orientar-lhes a marcha; V - Na conclusão dos trabalhos o autorizado apresentará um relatório firmado por engenheiro de minas legalmente habilitado, contendo as informações e dados especificados no n. IX e alíneas, do artigo 16 do Código de Minas; VI - O concessionário só poderá utilizar-se do produto da pesquisa para fins de estudos sobre o minério e custeio dos trabalhos; VII - Ficam ressalvados os interesses de terceiros, ressarcindo o autorizado danos e prejuízos que ocasionar a que de direito, e não respondendo o Governo pelas limitações que possam sobreviver ao título, da oposição dos ditos direitos. Art. 2º Esta autorização será considerada abandonada, para o efeito do parágrafo único do art. 24 do Código de Minas, nas seguintes condições: I - Si o autorizado não iniciar os trabalhos de pesquisa dentro dos seis (6) primeiros meses, contados da data do registro a que alude o art. 4° deste decreto; II - Si interromper os trabalhos de pesquisa, por igual espaço de tempo, salvo motivo de força maior, a juízo do Governo. Art. 3º Si o autorizado infringir o n. I ou o n. VI do art. 1° deste decreto, ou não se submeter às exigências da fiscalização, será anulada esta autorização, na forma dos arts 25 e 26 do Código de Minas. Art. 4º O título a que alude o n. I do art. 1° deste decreto pagará de selo a quantia de um conto e quinhentos mil réis (1:500$0) e só será válido depois de transcrito no livro competente da Divisão de Fomento da Produção Mineral do Ministério da Agricultura, na forma do art. 16 do Código de Minas. Art. 5º Revogam-se as disposições em contrário. Rio de Janeiro, 4 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa",
+        "tabelas_iguais": true,
+        "visuais_fonte": [],
+        "visuais_render": []
+      },
+      {
+        "path": "federal/decretos/1940/dec-6220-1940-09-04.md",
+        "candidato": "federal/_fonte/auditorias/retomada_federal_20261027_004/candidatos_piloto_camara/dec-6220-1940-09-04.md",
+        "sha256_candidato": "007d162c7f1acf674fd8241d6d57a3f940a38b446994896311e5627fe6575816",
+        "aprovado": true,
+        "sha256_visivel_fonte": "f1822b6376ddd42610d555e8d72f6e052d738f9d96626cc6587473f28bf82299",
+        "sha256_visivel_render": "f1822b6376ddd42610d555e8d72f6e052d738f9d96626cc6587473f28bf82299",
+        "sha256_render_html": "3156438343270d02566fa69ccc4c6c55b56061421ceba6a6661aa00310456ed6",
+        "texto_visivel_fonte": "Decreto nº 6.220, de 4 de Setembro de 1940 Concede à \"Magnesita Sociedade Anônima\" autorização para funcionar como empresa de mineração. O Presidente da República, usando as atribuições que lhe confere o art. 74, letra a, da Constituição e nos termos dao Decreto-lei n. 1.985, de 29 de janeiro de 1940 (Código da Águas), Decreta: Art. 1º É concedida à \"Magnesita Sociedade Anônima\", com sede no Distrito Federal, autorização para funcionar como empresa de mineração, de acordo com o que dispõe o art. 6° §1° do Decreto-lei n. 1.985, de 29 de janeiro de 1940 (Código de Minas), ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentação em vigor ou que vierem a vigorar sobre o objeto da referida autorização. Art. 2º Revogam-se as disposições em contrário. Rio de Janeiro, 4 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa",
+        "texto_visivel_render": "Decreto nº 6.220, de 4 de Setembro de 1940 Concede à \"Magnesita Sociedade Anônima\" autorização para funcionar como empresa de mineração. O Presidente da República, usando as atribuições que lhe confere o art. 74, letra a, da Constituição e nos termos dao Decreto-lei n. 1.985, de 29 de janeiro de 1940 (Código da Águas), Decreta: Art. 1º É concedida à \"Magnesita Sociedade Anônima\", com sede no Distrito Federal, autorização para funcionar como empresa de mineração, de acordo com o que dispõe o art. 6° §1° do Decreto-lei n. 1.985, de 29 de janeiro de 1940 (Código de Minas), ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentação em vigor ou que vierem a vigorar sobre o objeto da referida autorização. Art. 2º Revogam-se as disposições em contrário. Rio de Janeiro, 4 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa",
+        "tabelas_iguais": true,
+        "visuais_fonte": [],
+        "visuais_render": []
+      }
+    ]
+  },
+  "receipts": {
+    "path": "federal/_receipts_piloto_camara_20261027_001.jsonl.gz",
+    "sha256": "410bde902bc1fb7f39d5de3b90e64ca48e2294354e356213c39435ef9012424e"
+  },
+  "limites": "Epígrafe normativa própria, data, fecho e fonte digital oficial comprovados. Não é fac-símile nem certificação de vigência ou identidade visual CSS; erros literais oficiais preservados."
+}

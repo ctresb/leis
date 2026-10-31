@@ -1,0 +1,20 @@
+{
+  "criado_em": "2026-10-21T04:24:15.149596",
+  "escopo": "Delta dirigido do guard de relação nominal própria sobre canônicos com placeholders literais, inclusive aceitos preliminares do lote 012; sem modificar normas ou entregas anteriores.",
+  "resumo": {
+    "candidatos": 9272,
+    "deltas_confirmados_com_html": 0
+  },
+  "registros": [],
+  "codigo_anterior_sha256": "747eb503621bdf9dce17424de973971fa21f650d437e5f4a017e8302a537b5fa",
+  "codigo_novo_sha256": "1028d1bb511d245938dc5a834aef8ce4c7e741674aa87904cbae4f6185dde35c",
+  "replay": {
+    "path": "federal/_receipts_replay_guard_relacao_nominal_20261021_001.jsonl.gz",
+    "sha256": "21fecb84b30c74482ae3247dfa03906710d0693275ff101028405fa995bfd207"
+  },
+  "historico": {
+    "path": "federal/_receipts_relacao_nominal_ausente_20261021_001.jsonl.gz",
+    "sha256": "74420f89d2d2a4256b5b578f1c2a01dd2b605f9aca4905db839d008cfd29cac0"
+  },
+  "limite": "Revisão dirigida de impacto; não substitui os demais gates nem certifica toda forma de remissão."
+}

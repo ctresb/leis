@@ -1,0 +1,52 @@
+{
+  "escopo": "Sucessor privado do pacote 001, preservado integralmente. Sem aplicação ao guard vivo, canônicos ou máscaras.",
+  "sha256_guard56_preimagem": "ec4428ce7d97f00f709d526f74cd2ba2c3ab01e78b3529fb8c3783483cf3a5fe",
+  "sha256_guard_candidato": "4009259c7c1f38322c7ce7500bef1432700dbef6e15c3d0c09646fd95d2f8bf0",
+  "sha256_guard_predecessor001": "23d1f1bd17bc4145575c62689ee587746602ba42264d55bea1c0c44e893699a4",
+  "testes": {
+    "executados": 71,
+    "aprovados": 71
+  },
+  "replay": {
+    "corpos": 12669,
+    "deltas": 65,
+    "alertas_fora_inventario": 0,
+    "inventario_sem_alerta": 0
+  },
+  "alteracao": "Vincula cada expressão anexa ao complemento externo imediatamente adjacente e reconhece a substituta que acompanha o presente decreto como objeto atual distinto da tabela antiga substituída. Nova relação de alterações ou funções não é dispensada por mera referência alheia em outro artigo.",
+  "arquivos": [
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_002/integridade_anexos_decreto.py",
+      "sha256": "4009259c7c1f38322c7ce7500bef1432700dbef6e15c3d0c09646fd95d2f8bf0"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_002/test_integridade_anexos_decreto.py",
+      "sha256": "d4f89e7d1f5ce3b936d1dec677eb5d8668c2ba472f00a8c6f88bc1252e4746d5"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_002/guard56-preimagem.py.txt",
+      "sha256": "ec4428ce7d97f00f709d526f74cd2ba2c3ab01e78b3529fb8c3783483cf3a5fe"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_002/guard-bibliografia.patch",
+      "sha256": "16662afaa48960cd63c913970ae82a849be04010c071482ec6978c90a2552047"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_002/testes-v3.log",
+      "sha256": "d8feb9dd4dfcb722f42e649ad8db1c8741fef13ddaf2f90373675329cdd8d369"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_002/replay.py",
+      "sha256": "cd092dcbfd05005392ab64b64c12fa5fe9fa98b99cc156b7d26cbe8b8d21b102"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_002/replay12669_v2.json",
+      "sha256": "5391ab18ecf6dddd38381b95a76607bcf05a4efb5eeaebd16d884c5fcadfbba0"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_002/replay-v2.log",
+      "sha256": "c28d82e60da437b5adb3f3023a258d9ce306e2ccbb55026c66857cb1eff8094b"
+    }
+  ],
+  "limites": "Alertas bibliográficos exigem revisão; não afirmam automaticamente ausência. Inclui o controle 18.735 sem exceção por número. Testes e replay importaram apenas o candidato privado, sem baixar_federal ou outro cliente vivo."
+}

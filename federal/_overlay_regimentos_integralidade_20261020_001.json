@@ -1,0 +1,93 @@
+{
+  "escopo": "Revisão somente leitura; não altera MD, PDF, metadados ou metas. A transcrição textual do PDF corresponde à extração pdftotext, mas isso não conserva conteúdo visual nem estrutura de formulário.",
+  "retidos": [
+    {
+      "path": "federal/regimentos/regimento-congresso.md",
+      "sha256_md": "3b1c57be13f69af9df53a8eb7e507f23061f5b78e10a014e0bb75e3c447ec3cf",
+      "fonte": "https://www25.senado.leg.br/documents/59501/97171143/RCCN.pdf/933b504d-a653-4df5-9329-d4f38c42f64f",
+      "fonte_pdf_cache": "federal/_fonte/regimentos/regimento-congresso.pdf",
+      "sha256_fonte_pdf": "723077332d3f1f068093eee842ad4142c20ad5efcb5a57e9b9e50341f37cf856",
+      "estado": "integralidade_pendente_recuperacao",
+      "evidencias": [
+        {
+          "paginas_pdf": [
+            195,
+            196
+          ],
+          "objeto": "Desenhos das insígnias/medalhas da Ordem do Congresso Nacional",
+          "ausencia_comprovada": "Quatro imagens normativas presentes no PDF e ausentes no Markdown, que contém somente texto extraído.",
+          "imagens_pdf": [
+            {
+              "pagina": 195,
+              "imagens": [
+                {
+                  "x0": 138.877,
+                  "top": 130.64549999999997,
+                  "x1": 351.51750000000004,
+                  "bottom": 343.28599999999994,
+                  "width": 212.64050000000003,
+                  "height": 212.64049999999997
+                },
+                {
+                  "x0": 121.86500000000001,
+                  "top": 352.48902,
+                  "x1": 368.52797999999996,
+                  "bottom": 599.1519999999999,
+                  "width": 246.66297999999995,
+                  "height": 246.66297999999998
+                }
+              ]
+            },
+            {
+              "pagina": 196,
+              "imagens": [
+                {
+                  "x0": 138.877,
+                  "top": 113.44549999999992,
+                  "x1": 351.51750000000004,
+                  "bottom": 326.08599999999996,
+                  "width": 212.64050000000003,
+                  "height": 212.64050000000003
+                },
+                {
+                  "x0": 138.877,
+                  "top": 352.48849999999993,
+                  "x1": 351.51750000000004,
+                  "bottom": 565.1289999999999,
+                  "width": 212.64050000000003,
+                  "height": 212.64050000000003
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "pagina_pdf": 125,
+          "objeto": "ANEXO III — Indicação de beneficiários de emendas às Comissões Permanentes por Lideranças Partidárias",
+          "ausencia_comprovada": "Formulário normativo com campos e tabela de 14 colunas; MD extraído como texto simples não preserva a associação espacial dos campos/células."
+        }
+      ],
+      "provas_renderizadas": [
+        {
+          "path": "federal/_provas_regimentos_20261020_001/congresso-p195-insignias.png",
+          "sha256": "30ff3ea46187c6b5bc9971ddbff0d7f7969b7dbf446ab4d7aff2c4a9b1b5c870"
+        },
+        {
+          "path": "federal/_provas_regimentos_20261020_001/congresso-p196-insignias.png",
+          "sha256": "04e84e6f140ecdda3e8c0ea3bd59695146b0705179ae24f7206479725f645492"
+        },
+        {
+          "path": "federal/_provas_regimentos_20261020_001/congresso-p125-formulario.png",
+          "sha256": "42d9a26207535ee5f280a194e4d4577d07d6f57ab06c17fec50a04bd4faa13a1"
+        }
+      ]
+    }
+  ],
+  "senado": {
+    "path": "federal/regimentos/regimento-senado.md",
+    "sha256_md": "ad4cc8c427b3c9f4a8a535abfebae1d1530576af6d69d325ad121ee49ab44afa",
+    "sha256_fonte_pdf": "3fab72cdda6e5294e2b29a0a6e92da9c495d1ed8564cc29af59168c39ae8d2f0",
+    "achados": "Imagem QR da página 3 e brasões das capas são bibliográficos/decorativos; não tratados como imagem normativa ausente. Quadros comparativos editoriais de alterações exigem revisão de estrutura antes de certificar a íntegra do volume completo; nenhuma retenção confirmada do articulado próprio só por esses elementos.",
+    "edicao_fonte": "atualizado até julho de 2025; não infere vigência atual"
+  }
+}

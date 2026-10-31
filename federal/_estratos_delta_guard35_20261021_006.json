@@ -1,0 +1,33 @@
+{
+  "escopo": "Estratificação por caminho/SHA para inspeção do delta do guard35; sem máscara genérica e sem editar MDs.",
+  "resumo": {
+    "total_alertas": 6700,
+    "estratos": {
+      "sem_rotulo_final_comprovado_revisao_individual": 587,
+      "risco_citacao_ou_alteracao_de_outro_decreto": 385,
+      "risco_representacao_textual_antes_do_fecho": 139,
+      "comando_proprio_e_rotulos_finais_vazios_sem_representacao_identificada": 5262,
+      "rotulos_finais_vazios_demais_contextos_requerem_revisao": 327
+    },
+    "amostra_contextual": 51,
+    "demais_nao_revisados_contextualmente": 6649
+  },
+  "metodo_forte": "Remissão em bloco de artigo próprio com comando direto, sem sinais de citação/alteração no bloco, sem título de anexo ou lista numérica antes do fecho, sem tabela HTML, e término composto por prefixo de assinaturas e apenas rótulos/notas de publicação. É indicador automático forte de seleção; não revisão humana universal.",
+  "estratos": {
+    "path": "federal/_receipts_estratos_delta_guard35_20261021_006.jsonl.gz",
+    "sha256": "8644f0b8a63d5ed85861a34df6afd19a0e119643c0f0f51a04857c01b86fa879"
+  },
+  "amostra": {
+    "path": "federal/_amostra_contextual_delta_guard35_20261021_006.json",
+    "sha256": "c97ac0b8f7be20e2fbb7cc5c6678b219d9afb863922ee63b3034df35cd6c83fe",
+    "fontes_md_html": {
+      "path": "federal/_receipts_amostra_delta_guard35_20261021_006.jsonl.gz",
+      "sha256": "e8387160b303ed305e9cf3b2bfdca4a1edaeaf19cf5bbbc8bbd0424c4d2c2170"
+    }
+  },
+  "fontes_completas_dos_alertas": {
+    "path": "federal/_receipts_relacao_nominal_ausente_20261021_003.jsonl.gz",
+    "sha256": "03c42d7aececcdd3d17b44e9a5ec9667550f0efab626f9a60b8f8d8cc015e7ce"
+  },
+  "limite": "Confrontar cada caminho com HEAD e máscaras anteriores antes de qualquer alteração de progresso apto. Preservar textos e fontes históricas. Dúvidas e alertas genéricos permanecem retidos para revisão, sem declaração de ausência universal ou inexistência."
+}
